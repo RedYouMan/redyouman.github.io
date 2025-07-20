@@ -21,7 +21,7 @@
 title: Rosario Turco
 email: rosturco.na@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Descrizione del sito
+  Un blog a cura di Rosario Turco
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
