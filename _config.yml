@@ -23,7 +23,7 @@ email: rosturco.na@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Description TODO
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://redyouman.github.io"
+url: ""
 # twitter_username: jekyllrb
 github_username:  RedYouMan
 
@@ -33,6 +33,7 @@ plugins:
   - jekyll-feed
 
 timezone: Europe/Rome
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
