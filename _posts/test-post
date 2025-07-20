@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Test Post"
+date:   2025-07-20 14:33:25 +0200
+categories: jekyll update
+permalink: /test-post
+---
+
+# Titolo
+
+Questo é un post di test
+
+```python
+print('hello world')
+```
