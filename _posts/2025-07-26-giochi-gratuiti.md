@@ -45,5 +45,7 @@ Buon divertimento
 ## LINK DI DOWNLOAD
 
 [scarica licenza](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/MITlicence.pdf)
+
 [scarica briscola](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/briscola.exe)
+
 [scarica scopa](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/scopa.exe)
