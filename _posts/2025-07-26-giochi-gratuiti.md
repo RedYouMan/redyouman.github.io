@@ -35,7 +35,7 @@ Qualora venisse meno il requisito di versione italiana, i giochi saranno comunqu
 
 ## INSTALLAZIONE
 
-Prima di poter utilizare i giochi occorre installare il framework .NET di Microsoft (ultima versione) , prelevato da una fonte internet sicura;, poi una volta scaricato basta solo cliccarci sopra.
+Prima di poter utilizare i giochi occorre installare il framework .NET di Microsoft (ultima versione o quella richiesta nel lancio dell'exe) , prelevato da una fonte internet sicura;, poi una volta scaricato basta solo cliccarci sopra.
 Il secondo passo ècreare sul Desktop una cartella giochi dentro cui potrete mettere gli eseguibili scaricati.
 Il terzo passo è scaricare il singolo eseguibile nella vostra cartella downloads e copiarlo nella cartella giochi.
 Al lancio di un eseguibile interverrà il vostro fedele Windows Defender della sicurezza. Occorre accettare di proseguire.
