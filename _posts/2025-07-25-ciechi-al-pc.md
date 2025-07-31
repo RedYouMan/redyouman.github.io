@@ -40,4 +40,4 @@ Iniziate ad allenarvi. Col computer vi si aprirà un mondo infinito di possibili
 
 [calcoli a mente](https://redyouman.github.io/blog/2025/07/24/calcoli.html)
 
-[ giochi gratuiti per non vedenti](https://redyouman.github.io/blog/2025/07/23/mondo.html)
+[ giochi gratuiti per non vedenti](https://redyouman.github.io/blog/2025/07/26/giochi-gratuiti.html)
