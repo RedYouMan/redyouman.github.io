@@ -29,3 +29,15 @@ In verità i programmatori professionali digitano senza guardare la tastiera, af
 E sono velocissimi a scrivere testi o software. Ovviamente qualche errore di battitura alla fine esiste sempre.
 
 Iniziate ad allenarvi. Col computer vi si aprirà un mondo infinito di possibilità.
+
+# Articoli correlati
+
+[Il mondo dei ciechi](
+
+# Articoli correlati
+
+[Il mondo dei ciechi](https://redyouman.github.io/blog/2025/07/23/mondo.html)
+
+[calcoli a mente](https://redyouman.github.io/blog/2025/07/24/calcoli.html)
+
+[ giochi gratuiti per non vedenti](https://redyouman.github.io/blog/2025/07/23/mondo.html)
