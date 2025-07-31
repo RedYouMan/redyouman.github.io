@@ -32,10 +32,6 @@ Iniziate ad allenarvi. Col computer vi si aprirà un mondo infinito di possibili
 
 # Articoli correlati
 
-[Il mondo dei ciechi](
-
-# Articoli correlati
-
 [Il mondo dei ciechi](https://redyouman.github.io/blog/2025/07/23/mondo.html)
 
 [calcoli a mente](https://redyouman.github.io/blog/2025/07/24/calcoli.html)
