@@ -3,7 +3,7 @@ title: "Giochi gratuiti per non vedenti e per vedenti"
 categories: Blog
 ---
 
-# PRESENTAZIONE GIOCHI
+# **PRESENTAZIONE GIOCHI**
 
 La serie di giochi qui presentata ha come scopo di offrire gratuitamente ai non vedenti dei passatempi gradevoli, che stimolano il cervello e consentono di trascorrere del tempo in modo rilassante.
 
