@@ -49,27 +49,3 @@ Buon divertimento
 [scarica briscola](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/briscola.exe)
 
 [scarica scopa](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/scopa.exe)
-
-<div id="counter"></div>
-
-<script>
-  // Funzione per incrementare il contatore e aggiornare la visualizzazione
-  function updateCounter() {
-    let count = localStorage.getItem('page_visits'); // Recupera il valore attuale dal localStorage
-    count = count ? parseInt(count) + 1 : 1; // Se esiste, incrementa, altrimenti inizia da 1
-    localStorage.setItem('page_visits', count); // Salva il nuovo valore nel localStorage
-    document.getElementById('counter').innerText = 'Visite: ' + count; // Mostra il conteggio nella pagina
-  }
-
-  // Funzione per inizializzare il contatore all'avvio
-  function initializeCounter() {
-    if (typeof(Storage) !== "undefined") { // Controlla il supporto del localStorage
-        updateCounter(); // Aggiorna il contatore
-    } else {
-        document.getElementById('counter').innerText = 'Il tuo browser non supporta localStorage.'; // Gestione del caso in cui localStorage non è supportato
-    }
-  }
-
-  // Chiama la funzione di inizializzazione all'avvio della pagina
-  initializeCounter();
-</script>
