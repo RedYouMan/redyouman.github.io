@@ -3,6 +3,32 @@ title: "Giochi gratuiti per non vedenti e per vedenti"
 categories: Blog
 ---
 
+document.addEventListener('DOMContentLoaded', function() {
+// Crea un nuovo elemento meta per le keywords
+const metaKeywords = document.createElement('meta');
+metaKeywords.name = 'keywords';
+metaKeywords.content = 'giochi,gratuiti,nonvedenti,blog , Rosario Turco';
+
+// Aggiungi il meta tag all'elemento head
+document.head.appendChild(metaKeywords);
+
+// Crea un nuovo elemento meta per la descrizione
+const metaDescription = document.createElement('meta');
+metaDescription.name = 'description';
+metaDescription.content = 'Giochi gratuiti per non vedenti e per vedenti. Il blog dei ciechi. Un glog di Rosario Turco.'; // Sostituisci con la tua descrizione
+
+// Aggiungi il meta tag all'elemento head
+document.head.appendChild(metaDescription);
+
+// Crea un nuovo elemento meta per il titolo
+const metaTitle = document.createElement('title');
+metaTitle.textContent = 'Giochi gratuiti per nonvedenti';
+
+// Aggiungi il tag title all'elemento head
+document.head.appendChild(metaTitle);
+
+});
+
 # **PRESENTAZIONE GIOCHI**
 
 La serie di giochi qui presentata ha come scopo di offrire gratuitamente ai non vedenti dei passatempi gradevoli, che stimolano il cervello e consentono di trascorrere del tempo in modo rilassante.
