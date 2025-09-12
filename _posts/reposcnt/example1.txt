@@ -1,0 +1,11 @@
+# Esempio 1
+#Descrizione:
+#Esamino quali numeri dispari sono anche numeri primi 
+#poi attivo il salvataaggio su file
+#per lanciare il comando perfectlist()
+
+1:10:for[add(2,x);countP();]
+save()
+perfectlist(1,30)
+save()
+#end

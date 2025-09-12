@@ -1,0 +1,15 @@
+# Esempio 4
+#Descrizione:
+#Esamino il tempo della fattorizzazione
+#lanciarlo con il comando backg(example4.txt)
+
+save()
+time()
+factors(repone(60))
+time()
+factors(repone(50))
+time()
+factors(repone(70))
+time()
+save()
+#end

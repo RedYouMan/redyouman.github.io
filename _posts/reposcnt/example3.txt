@@ -1,0 +1,6 @@
+# Esempio 3
+#Descrizione:
+#Esamino la palindromia dei quadrati dei rep-one 
+
+1:11:for[add(2,x);repone(lastV());pow(lastV(),2);]
+#end

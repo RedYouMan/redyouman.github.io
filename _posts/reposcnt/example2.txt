@@ -1,0 +1,13 @@
+# Esempio 2
+#Descrizione:
+#Esamino quali fattori trovo nella radice quadrata
+#poi attivo il salvataaggio su file
+#per lanciare il comando plprimes()
+
+2:7:for[sqrtint(repone(x));factors(repone(x));]
+save()
+time()
+plprimes(repone(20),repone(22))
+time()
+save()
+#end
