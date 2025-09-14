@@ -31,7 +31,6 @@ int main(int argc, char *argv[])
     std::vector <std::string> tutte_le_righe;
     int ritardo = 0, nrec = 10, countRec = 0, indice_corrente = 0, tasto = 0,totRighe=0;  
     std::string riga,rigaDaPassare;
-    bool arresta = false;
     std::ifstream file(argv[1],std::ios::in); // Apri il file in lettura
     // Controlla se il file è stato aperto correttamente
     if (file.is_open())
@@ -74,18 +73,9 @@ int main(int argc, char *argv[])
         if (countRec == nrec)
         {
             countRec = 0;
-            callTextToSpeech("Premi Barra spaziatrice per continuare, freccia su per riascoltare , CntrlJ per arresta o riprendi,. ESC per uscire");
+            callTextToSpeech("Premi Barra spaziatrice per continuare, freccia su per riascoltare , ESC per uscire");
             
-            do {
                 tasto = attendiTasti();
-                if(tasto==CntrlJ){
-                    if (!arresta) {
-                        arresta = true;
-                    }else{
-                        arresta = false;
-                    }
-                }
-            } while (arresta);
             if (tasto == ESC)
             {
                 return 0;
