@@ -71,6 +71,10 @@ else {
     }
     if (allInt(v)) {
         indice_corrente = atoi(v);
+        if(indice_corrente >= totRighe){
+            indice_corrente = 0;
+            callTextToSpeech("Valore indicato per la ripresa della lettura non valido");
+        }
     }
     while (indice_corrente<totRighe ) {
         rigaDaPassare.clear();
