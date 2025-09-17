@@ -1,6 +1,7 @@
 #ifndef PROTO
 #define PROTO
 
-int voce(std::string str);
+int callTextToSpeech(std::string str);
 void leggiConfig(int *rit, int *rec);
+bool allInt(char val[]);
 #endif

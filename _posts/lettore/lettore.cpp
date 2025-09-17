@@ -14,12 +14,14 @@ using namespace std;
   Autore: Rosario Turco
   (C) 2025
 Ifiles di questo progetto  possono essere riusati in propri progetti ma devono contenere il nome dell'autore originale
-  Uso: lettore nomefile.estensione
+  Uso: lettore nomefile.txt numero
+  dove numero non è necessario. Esso rappresenta il valore da cui riprendere
+  la lettura eviene suggerito al premere di ESC
 
   */
 
 
-int main(int argc, char *argv[])
+int main(int argc, char* argv[])
 {
     if (argc < 2)
     {
@@ -27,16 +29,16 @@ int main(int argc, char *argv[])
         return 1;
     }
     std::vector <std::string> tutte_le_righe;
-    int ritardo = 0, nrec = 10, countRec = 0, indice_corrente = 0, tasto = 0,totRighe=0;  
-    std::string riga,rigaDaPassare;
-    std::ifstream file(argv[1],std::ios::in); // Apri il file in lettura
+    int ritardo = 0, nrec = 10, countRec = 0, indice_corrente = 0, tasto = 0, totRighe = 0;
+    std::string riga, rigaDaPassare;
+    std::ifstream file(argv[1], std::ios::in); // Apri il file in lettura
     // Controlla se il file è stato aperto correttamente
     if (file.is_open())
     {
         leggiConfig(&ritardo, &nrec);
         char msg[100];
         memset(msg, '\0', sizeof(msg));
-        strcpy_s(msg , "Lettura configurazione lettore.ini");
+        strcpy_s(msg, "Lettura configurazione lettore.ini");
         callTextToSpeech(msg);
         memset(msg, '\0', sizeof(msg));
         sprintf_s(msg, "Ritardo configurato: %d", ritardo);
@@ -51,13 +53,25 @@ int main(int argc, char *argv[])
         {
             tutte_le_righe.push_back(riga);
         }
-        totRighe = (int) tutte_le_righe.size();
+        totRighe = (int)tutte_le_righe.size();
         file.close();
-    }else{
+    }
+    else {
         std::cerr << "Impossibile aprire il file " << argv[1] << std::endl;
         return(1);
     }
+    char msg[100];
+    char v[100];
+    if (argv[2] != nullptr){
+    strcpy_s(v,argv[2]);
+}
+else {
 
+    strcpy_s(v,"0");
+    }
+    if (allInt(v)) {
+        indice_corrente = atoi(v);
+    }
     while (indice_corrente<totRighe ) {
         rigaDaPassare.clear();
         rigaDaPassare = tutte_le_righe[indice_corrente];
@@ -76,6 +90,10 @@ int main(int argc, char *argv[])
                 tasto = attendiTasti();
             if (tasto == ESC)
             {
+                
+                memset(msg,'\0',sizeof(msg));
+                sprintf_s(msg, "Valore da cui potrai riprendere la lettura %d", indice_corrente + 1);
+                callTextToSpeech(msg);
                 return 0;
             }
             else if (tasto == UP) {
@@ -106,4 +124,14 @@ void leggiConfig(int *ritardo, int *numrecords)
         std::cerr << "Uso valori di default - file lettore.ini non trovato" << std::endl;
     }
     return;
+}
+
+bool allInt(char val[]) {
+    int lim = (int) strlen(val);
+  for(int i=0;i<lim-1;i++){
+   if(isdigit(val[i])==0){
+       return false;
+   }
+  }
+  return true;
 }

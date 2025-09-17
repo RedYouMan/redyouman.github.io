@@ -38,6 +38,9 @@ Si digita su console (prompt linea di comando): lettore nomefile.txt
 
 Un esempio: lettore poker.txt per la lettura delle regole del software pokerNV.exe
 
-# ** Future implementazioni **
+Se si uscissecon ESC ci viene ricordato il valore da cui riprendere la lettura del file, eventualmente.
+In tal caso il comando sarà lettore poker.txt 31 ad esempio
 
+# ** Future implementazioni **
+	
 Il lettore si presta ad ulteriori stensioni, sia in termini grafici che di funzionalità
