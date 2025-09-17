@@ -30,13 +30,14 @@ int main(int argc, char* argv[])
     }
     std::vector <std::string> tutte_le_righe;
     int ritardo = 0, nrec = 10, countRec = 0, indice_corrente = 0, tasto = 0, totRighe = 0;
+    char msg[100];
+
     std::string riga, rigaDaPassare;
     std::ifstream file(argv[1], std::ios::in); // Apri il file in lettura
     // Controlla se il file è stato aperto correttamente
     if (file.is_open())
     {
         leggiConfig(&ritardo, &nrec);
-        char msg[100];
         memset(msg, '\0', sizeof(msg));
         strcpy_s(msg, "Lettura configurazione lettore.ini");
         callTextToSpeech(msg);
@@ -57,10 +58,13 @@ int main(int argc, char* argv[])
         file.close();
     }
     else {
-        std::cerr << "Impossibile aprire il file " << argv[1] << std::endl;
+        
+        memset(msg, '\0', sizeof(msg));
+        sprintf_s(msg, "Non trovato il file: %s", argv[1]);
+        callTextToSpeech(msg);
+
         return(1);
     }
-    char msg[100];
     char v[100];
     if (argv[2] != nullptr){
     strcpy_s(v,argv[2]);
