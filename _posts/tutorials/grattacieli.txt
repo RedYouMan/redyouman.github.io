@@ -1,0 +1,28 @@
+GRATTACIELI
+Il gioco ha una griglia di 5x5 caselle. 
+L'obiettivo è inserire in ogni casella della griglia un numero (da 1 a 5) corrispondente all'altezza di un edificio, 
+in modo che in ciascuna riga e colonna non ci siano edifici della stessa altezza  o per dirla sinteticamente in ogni riga e colonna ci devono essere solo da 1 a 5 non ripetuti.
+Su settimana enigmistica i numeri ai lati della griglia indicano quanti grattacieli sono visibili da quel punto di vista. Nel programma è la sintesi vocale con controlR che fornisce questa informazione, per cui in questo gioco è importante avere la sintesi vocale attiva se si vogliono le informazioni.
+
+I grattacieli più alti nascondono quelli più bassi, quindi un osservatore può vedere solo il primo grattacielo (se è il più alto della riga/colonna) oppure il grattacielo e quelli che lo superano in altezza. 
+Lo scopo è completare l'intera griglia trovando le altezze corrette per tutti gli edifici. . 
+Per giocare secondo le regole, per chi non l'ha mai fatto, la dritta semplice è di fare prima i quattro bordi nei quattro angoli e farsi aiutare avendo le informazioni di direzione e quantità di grattacieli che si possono vedere. 
+Ad esempio se mi metto al bordo di sopra nell'angolo sinistro  e faccio controlR mi potrebbe dire Nord e qui devo immaginare di mettermi sul bordo con le spalle verso nord e che guardo la casella dove mi sono portato. Ora mi dirà un numero, ma farà lo stesso con sud, est e ovest seguiti ognuno da un numero. Anche per essi devo mettere le spalle verso sud oppure verso est o verso ovest quando voglio sfruttare le loro informazioni. 
+Mi dirà un numero di palazzi che da nord posso vedere. Ad esempio semi dice uno, allora significa che si tratta del grattacielo più alto che copre gli altri in quella direzione quindi inserisco 5. 
+Se dice Nord 2 possono esserci varie soluzioni almeno: quella banale 4 dove sto e 5 la casella dietro (vedo in tal modo 2 grattacieli) oppure 4 nella casella dove sto che mi copre i palazzi 1, 2, 3 ma non so ancora quest'ultimi in che ordine stanno e per ultimo il grattacielo di altezza 5 che vedo essendo più alto anche del 4.
+Per avere una soluzione unica per 1, 2 e 3 mi servono le informazioni anche degli altri punti di vista. Per esempio per stabilire 1,2,3 in che ordine stanno mi metto nella seconda casella sotto e mi ascolto ovest ed est. Conviene concentrarmi su uno alla volta e riesco a capire nella seconda casella chi va tra 1,2e3. 
+Ricordarsi di mettere sempre le spalle verso sud o verso est o verso ovest.Sicuramente 
+Il programma dice se il valore immesso è corretto. 
+
+Dopo le prime 10 prove si comincia a capire come funziona il gioco. 
+
+Il programma fa le seguenti fasi
+genera la soluzione
+- esclude una serie di numeri e lascia la griglia parzialmente compilata
+- controlla ciò che viene immesso
+- fornisce info col controlR dopo essersi posizionato su una casella 
+- fornisce per default riscontri in tempo reale se è corretto o meno il numero ma se non si vogliono suggerimenti, per gli esperti, si disattiva con controlT
+Occorre molta pazienza in questo gioco, più del sudoku e dei giochi classici di azione.Tutti i giochi di enigmistica sono cosi'.
+
+Si raccomanda di sentire almeno una volta le istruzioni, l'help per sapere tutti gli strumenti a disposizione e menu del mouse.
+

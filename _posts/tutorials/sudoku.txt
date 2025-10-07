@@ -1,0 +1,35 @@
+
+GIOCO DEL SUDOKU
+
+Il sudoku è un gioco di enigmistica.
+Si presenta con una griglia di 81 caselle parzialmente riempita di numeri. L'obiettivo è di completare le caselle vuote con numeri scelti tra 1 e 9 che però devono rispettare delle regole come vedremo.
+
+Intanto per la comprensione diamo delle definizioni utili per il seguito.
+Nel seguito intenderemo perFascia un'area orizzontale o verticale costituita da 3 blocchi, ognuno di 3x3caselle  contigui.
+
+Ad esempio in alto abbiamo una fascia orizzontale di tre blocchi contigui (ogni blocco è di 3x3=9 caselle). Al centro la seconda fascia e in basso la terza fascia.
+
+Le fasce sono anche verticali: una a sinistra, una a centro e una a destra.
+
+Messo a posto questo concetto, ora concentriamoci sulle regole.
+Per inserire numeri nelle caselle vuote devono essere rispettate due regole contemporaneamente 
+- il numero deve essere unico come valore su tutta la riga o colonna dellafascia orizzontale o verticale. In questo modo su una riga o colonna di una fascia orizzontale o verticale ci sono solo i numeri da 1 a 9 non ripetuti. Ad esempio ci deve essere un solo  2.
+- In un blocco 3x3 ci devono essere solo i numeri da 1 a 9 non ripetuti
+La soluzione del gioco è quella che si ottiene dopo aver rispettato le regole e riempito tutta la griglia. La soluzione è unica.
+ 
+Per quanto riguarda come funziona dentro, l'engine dopo aver generato internamente la soluzione, da questa individua randomicamente per ogni fascia solo alcuni numeri,
+per ottenere lo schema del sudoku parziale da giocare.
+L'engine lavora in tre fasi;
+1 costruisce la soluzioneunica
+2 analizza la soluzione (analisiSchema) e effettua
+ sullo schema uno scan per fasce per ottenere solo numeri con determinate caratteristiche: coppie di numeri uguali per fascia, numeri distinti singoli e numeri unici in tutto lo schema. La scelta delle caratteristiche dei numeri è condizionata dal livello scelto: livello basso facile, 2 medio e 3 difficile. 
+La terza fase permette di giocare controllando le mosse fatte dal giocatore, dando dei suggerimenti (tips) se richiesti con contrl T.
+La quarta fase per chi va al mare è la possibilità di stampare anche su carta la griglia parziale da completare e la soluzione, in modo da giocarci sotto l'ombrellone.
+Il programma avverte degli errori.
+Si raccomanda a caratteri cubitali di ascoltare almeno una volta l'introduzione, di sentire l'help per sapere tutti gli strumenti a disposizione e eventuali menu del mouse.
+Buon divertimento.
+
+ Come si gioca?
+Una dritta semplice per chi inizia a giocarci è di individuare in una fascia due numeri uguali su due righe distinte e trovare dove mettere lo stesso numero nella terza riga della fascia.
+Poi spostarsi a controllare sistematicamente la fascia di incrocio. Ad esempio se abbiamo inserito un numero per la terza riga della fascia orizzontale in alto, ora sistematicamente controlliamo la fascia verticale che incrocia quella orizzontale dove abbiamo messo il numero.
+Si procede cosi per ogni numero inserito 

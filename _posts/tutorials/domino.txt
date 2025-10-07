@@ -1,0 +1,32 @@
+Regole che segue il programma domino
+
+Nel domino ci sono 28 tessere, ognuna costituita da due parti contenenti numeri da 0 a6. Se la tessera ha due numeri uguali si parla di doppio.
+Ad inizio gioco vengono mescolate le tessere. Nel programma è come se fossero un mazzo, ma nella realtà si mescolano sul tavolo alla rinfusa a faccia in giù per non vederle.
+Si distribuiscono 7 tessere a giocatore. Nel programma si gioca solo in due. Il resto delle tessere costituisce il pozzo da cui pescare.
+
+Gioca per prima chi ha il doppio zero. Se nessuno ha il doppio zero, gioca chi ha il doppio di valore maggiore. Il programma da il turno a chi ha il doppio giusto.
+
+Si gioca mettendo a turno una tessera a terra scoperta. L'obiettivo di ogni giocatore al proprio turno è di agganciare una propria tessera a quelle precedenti presenti a terra, in modo da formare un treno di tessere o un serpente.
+Il serpente ha una testa e una coda.
+Dal control h puoi trovare i tasti che consentono al non vedente di sapere i valori di testa e di coda. 
+L'obiettivo al proprio turno è di trovare tra le proprie tessere una che si aggancia al numero di testa o di coda del serpente.
+Se coda e testa hanno un valore uguale, se si gioca la tessera essa deve essere messa in coda. La testa è a sinistra, la coda è a destra.
+Se si gioca un doppio, anche ad inizio di partita, si ha il diritto di giocare un'altra tessera che diventa un obbligo se si hanno in mano ancora tessere, a meno che non si sono finite le tessere proprio giocando il doppio. 
+Se si è obbligati a giocare una seconda tessera e non si dispone, si pesca dal pozzo (o mazzo)di tessere. Se si trova una tessera adatta si gioca oppure si fa "passo". Nel caso ad un doppio si aggancia un altro doppio si ha ancora diritto di giocare.
+Quando nel proprio turno nonsi hanno tessere per risponder si pesca. La pesca può avvenire una sola volta nel proprio turno. Poi si gioca una tessera o si fa passo. 
+Vince chi nel creare il serpente finisce le tessere.
+Se nessun giocatore riesce a finire le tessere e si è bloccati,cioè nessuno riesce ad attaccare tessere e il pozzo è terminato,si sommano i numeri di tutte le tessere di un giocatore (penalità), poi si confrontano le penalità dei due giocatori. Vince chi ha meno penalità.
+
+Il passo viene fatto con control-p per i non vedenti che significa sia , a seconda del contesto, pesca o passo. 
+Il vedente, invece, usa i tasti del mouse per questo. Consultare il menu o provare con i tasti del mouse.
+Nel fare il passo il giocatore A se non ha tessere, allora pesca e se non ha tessere ancora  per giocare, fa passo. allora Se il giocatore B ha tessere gioca, altrimenti pesca etc.
+
+Può capitare che le tessere del pozzo siano finite e nessun giocatore ha tessere da giocare (situazione di blocco ) allora Il giocatore A fa passo, il giocatore B se non ha tessere da giocare fa anche lui passo e allora A, ora di turno,  decide che si va alla conta delle penalità. Ovvero decide chi ha fatto per prima passo sulla situazione di  blocco. 
+se B ,invece, gioca, nel caso precedente (non è una situazione di blocco: che avviene quando si è a pozzo vuoto e nessuno ha tessere da giocare),  il turno torna ad A che deve fare passo (non avendo tessere da giocare) e questa mimica continua finchè B ha tessere da giocare. 
+Se B esaurisce le tessere da giocare e il pozzo è vuoto si è in situazione di blocco descritta prima.
+Il programma gestisce correttamente queste situazioni.
+Il gioco fondamentalmente è semplice.
+
+
+
+
