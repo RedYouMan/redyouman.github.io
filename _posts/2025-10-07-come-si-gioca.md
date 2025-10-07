@@ -23,6 +23,7 @@ Itutorial, quindi, sono orientati ai neofiti e non agli esperti, dando dei sempl
 
 [tutorial sudoku](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/tutorials/sudoku.txt)
 
+[tutorial briscola](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/tutorials/briscola.txt)
 
 # **Download dei Giochi**
   [pagina di downloads giochi](https://redyouman.github.io/2025/07/27/downloads.html)
