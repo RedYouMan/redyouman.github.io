@@ -1,4 +1,5 @@
-GIOCO DEL POKER
+Come si gioca a poker col nostro programma
+
 Il gioco ha due livelli: facile e difficile, dove il computer nel secondo caso gioca in modo accurato. 
 Nel seguito descriviamo la variante base nota come 5-Cards Draw versione italiana. Nel  poker, l'obiettivo consiste nel fare la migliore combinazione di cinque carte e vincere le puntate degli avversari.
 Intenderemo Per giocata l'intervallo di azioni che vanno dalla distribuzione di carte alla vincita del piatto.

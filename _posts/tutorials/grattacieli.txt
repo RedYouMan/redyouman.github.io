@@ -1,4 +1,5 @@
-GRATTACIELI
+Come si gioca a Grattacieli
+
 Il gioco ha una griglia di 5x5 caselle. 
 L'obiettivo è inserire in ogni casella della griglia un numero (da 1 a 5) corrispondente all'altezza di un edificio, 
 in modo che in ciascuna riga e colonna non ci siano edifici della stessa altezza  o per dirla sinteticamente in ogni riga e colonna ci devono essere solo da 1 a 5 non ripetuti.

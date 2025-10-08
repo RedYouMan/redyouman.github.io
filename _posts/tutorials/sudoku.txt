@@ -1,5 +1,4 @@
-
-GIOCO DEL SUDOKU
+Come si gioca a sudoku col nostro programma
 
 Il sudoku è un gioco di enigmistica.
 Si presenta con una griglia di 81 caselle parzialmente riempita di numeri. L'obiettivo è di completare le caselle vuote con numeri scelti tra 1 e 9 che però devono rispettare delle regole come vedremo.
