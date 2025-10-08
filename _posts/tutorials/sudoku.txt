@@ -4,8 +4,8 @@ GIOCO DEL SUDOKU
 Il sudoku è un gioco di enigmistica.
 Si presenta con una griglia di 81 caselle parzialmente riempita di numeri. L'obiettivo è di completare le caselle vuote con numeri scelti tra 1 e 9 che però devono rispettare delle regole come vedremo.
 
-Intanto per la comprensione diamo delle definizioni utili per il seguito.
-Nel seguito intenderemo perFascia un'area orizzontale o verticale costituita da 3 blocchi, ognuno di 3x3caselle  contigui.
+Intanto per la comprensione diamo delle definizioni utili. 
+Nel seguito intenderemo perFascia un'area orizzontale o verticale costituita da 3 blocchi, contigui, ognuno di 3x3=9 caselle  
 
 Ad esempio in alto abbiamo una fascia orizzontale di tre blocchi contigui (ogni blocco è di 3x3=9 caselle). Al centro la seconda fascia e in basso la terza fascia.
 
@@ -17,6 +17,7 @@ Per inserire numeri nelle caselle vuote devono essere rispettate due regole cont
 - In un blocco 3x3 ci devono essere solo i numeri da 1 a 9 non ripetuti
 La soluzione del gioco è quella che si ottiene dopo aver rispettato le regole e riempito tutta la griglia. La soluzione è unica.
  
+Ora diamo uno sguardo anche al nostro programma.
 Per quanto riguarda come funziona dentro, l'engine dopo aver generato internamente la soluzione, da questa individua randomicamente per ogni fascia solo alcuni numeri,
 per ottenere lo schema del sudoku parziale da giocare.
 L'engine lavora in tre fasi;
