@@ -24,12 +24,13 @@ La presa condiziona chi gioca poi per primo:
 - dopo una presa, gioca per prima chi ha preso le carte precedenti.
 
 I consigli che si forniscono per chi inizia da poco sono:
-- ricordarsi le briscole uscite. Ad esempio in caso di esaurimento di briscolesi può rischiare un carico di 11 punti (l'asso) o di 10 punti (il tre)che non sono briscole e l'avversario deve avere un ugual seme ma divalore maggiore, che nel caso dell'asso non esiste
-- il secondo consiglio è se si hanno dei carichi ad inizio gioco, non di tipo briscola, si può rischiare di giocarne uno (il più piccolo), sperando che l'avversario non abbia subito briscole
+- ricordarsi le briscole uscite. Ad esempio in caso di esaurimento di briscole si può rischiare un carico di 11 punti (l'asso) o di 10 punti (il tre), che non sono briscole e l'avversario deve avere un ugual seme ma divalore maggiore, che nel caso dell'asso non esiste.
+- Altro consiglio ricordarsi i carichi usciti (l'asso e i tre di uno stesso seme).
+- il successivo consiglio è se si hanno dei carichi ad inizio gioco, non di tipo briscola, si può rischiare di giocarne uno (il più piccolo), sperando che l'avversario non abbia briscole
 - conservare, se non si è obbligati diversamente, l'asso di briscola e il tre di briscola, in modo da giocarli da metà partita o verso la fine, quando l'avversario ha carichi o le ultime briscole in modo di avere l'iniziativa. 
 - L'iniziativa verso la fine, quando si esauriscono le briscole, è importante dato che si possono mettere carichi su cui l'avversario non può far niente in assenza di briscole.
 
 Solo giocando una decina di partite si entra bene nell'ottica del gioco.
 
-Il nostro gioco rispetta tali regole e possibilità, mostrandosi divertente e avvincente.
+Il nostro programma rispetta tali regole e possibilità, mostrandosi divertente e avvincente.
 Buona briscola! 
