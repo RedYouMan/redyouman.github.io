@@ -49,10 +49,10 @@ a) i due giocatori hanno lo stesso punto Poker ma di valori differenti. Ad esemp
 b) I due giocatori hanno lo stesso punto poker ma anche di uguali valori (es:entrambi doppia coppia di 2 e j)e qui entrain gioco lo spareggio ulteriore
 Per determinare chi vince negli spareggi vale quanto segue.
 Dato che il puntoPoker dei due giocatori potrebbe
-    essere uguale per fare il tie-breaker (spareggio)
-    si considera il kicker per la doppia coppia
-    oppure la somma dei punti in mano di ogni giocatore. 
-Il kicker nella doppia coppia è la carta più alta non facente parte del punto poker in mano. Se il punto poker è uguale per entrambi i giocatori e non si tratta di doppia coppia si usa la somma di tutti i punnti in mano per i due giocatori, il che permette di stabilire chi ha vinto.
-    Mentre nel caso che entrambi i giocatori non hanno    un punto  poker, ma solo punto alto allora qui vince il valore maggiore.Infine se non si verifica nessuna delle condizioni precedenti i giocatori dividono il piatto.
+    essere uguale per fare il tie-breaker (spareggio) si considera il kicker solo per la doppia coppia e in tal caso il tie breaker è ottenuto con la formula : coppia alta * 100 + coppia bassa * 10 + kicker
+    oppure nei casi diversi da doppia coppia il tie breaker è data dalla somma dei punti in mano di ogni giocatore. 
+Il kicker nella doppia coppia è la carta non facente parte del punto poker in mano. Se il punto Alto è uguale per entrambi i giocatori, non si fa il tie break ma si divide il piatto. Se si tratta di doppia coppia si usa la somma di tutti i punnti in mano per i due giocatori, il che permette di stabilire chi ha vinto.
+    Mentre nel caso che entrambi i giocatori hanno carta alta allora qui vince il valore maggiore , ma in caso di parità non si fa il tie breaker ma si divide il piatto (split pot)..
+Infine se per il punto poker diverso da carta Alta non si verifica nessuna delle condizioni precedenti i giocatori dividono il piatto (split pot).
 Si può giocare fino a che uno dei giocatori non ha più crediti.
 Buon divertimento
