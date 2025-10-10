@@ -25,6 +25,8 @@ Itutorial, quindi, sono orientati ai neofiti e non agli esperti, dando dei sempl
 
 [tutorial briscola](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/tutorials/briscola.txt)
 
+[tutorial scopa](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/tutorials/scopa.txt)
+
 # **Download dei Giochi**
   [pagina di downloads giochi](https://redyouman.github.io/2025/07/27/downloads.html)
 
