@@ -3,8 +3,9 @@ La scopa è un gioco classico di carte, che utilizza un mazzo di carte regionali
 Si distribuiscono quatttro carte a terra e tre carte a giocatore. Alternativamente i giocatori giocano una carta per prendere da terra una carta di ugual valore a quella giocata o somma di più carte in modo da eguagliare il valore della carta giocata. Ogni giocatore ,Le carte prese li pone a formare un piccolo mazzetto accanto a sè. 
 
 Le regole su cui si basa la presa sono semplici:
-- se a terra ci sono una quantità di carte tali che  il loro valore o somma è uguale alla propria carta, allora prendendole si fa scopa, che si segnala mettendo scoperta la carta giocata accanto al proprio mazzetto e mettendo su esso le carte prese. La scopa rappresenta un punto a favore del giocatore.
+- se a terra ci sono una quantità di carte tali che  il loro valore o somma è uguale alla propria carta,  e non rimane nulla a terra, allora prendendole si fa scopa, che si segnala mettendo scoperta la carta giocata accanto al proprio mazzetto e mettendo su esso le carte prese. La scopa rappresenta un punto a favore del giocatore.
 - se la scopa avviene prendendo l'ultima carta del mazzo di gioco non può essere considerata scopa
+- se non finiscono le carte a terra (caso di scopa), si prendono le carte da terra che sono sommaequivalenti alla propria carta
 
 Dopo il termine delle tre carte, il mazziere da altre tre carte per giocare, e tale operazione prosegue fino al termine di tutte le carte del mazzo di gioco.
 
