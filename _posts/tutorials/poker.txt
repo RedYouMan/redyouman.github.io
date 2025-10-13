@@ -1,5 +1,5 @@
-Come si gioca a poker col nostro programma
 
+GIOCO DEL POKER
 Il gioco ha due livelli: facile e difficile, dove il computer nel secondo caso gioca in modo accurato. 
 Nel seguito descriviamo la variante base nota come 5-Cards Draw versione italiana. Nel  poker, l'obiettivo consiste nel fare la migliore combinazione di cinque carte e vincere le puntate degli avversari.
 Intenderemo Per giocata l'intervallo di azioni che vanno dalla distribuzione di carte alla vincita del piatto.
@@ -9,8 +9,8 @@ Esso viene mescolato in due situazioni:
 - 2) dopo la vincita di un piatto e cambia anche il mazziere o dealer.
 si danno 5 carte a giocatore.
 Il mazziere viene interpretato inizialmente dal pc.
-In questo gioco entrambi i giocatori hanno un portafoglio iniziale di 50 crediti.
-Ad inizio di una giocata ogni giocatore fornisce 2 crediti .
+In questo gioco entrambi i giocatori hanno un portafoglio iniziale di 52 crediti. Essi sono crediti virtuali, che introduciamo come puro divertimento al posto di denaro reale. 
+Ad inizio di una giocata ogni giocatore fornisce 2 crediti nel piatto come ingresso alla giocata (chip).
 Le puntate saranno:
 - bet (puntata iniziale) di 4 crediti
 - raise (rilancio) di 8 crediti
