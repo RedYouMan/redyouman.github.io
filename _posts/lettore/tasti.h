@@ -1,7 +1,9 @@
 #ifndef TASTI
 #define TASTI
-#define NUMTASTI 32
 
+// gestione tasti consentiti della tastiera
+#define NUMTASTI 33
+const int RETURN = 13;
 const int CntrlS = 19;
 const int CntrlK = 11;
 const int CntrlZ = 26;
