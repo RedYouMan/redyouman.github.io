@@ -32,9 +32,9 @@ Una volta ricevute le 5 carte, il giocatore può:
 - rilanciare (raise)
 -lasciare  ovvero si abbandona il piatto all'avversario (fold)
 - passare il turno (check)
- Dopo un cambio carte si può fare subito check o bet.
+ 
 Il check risulta possibile solo se non c'è stata una call o un rilancio (raise) dell'avversario
-Il check è consentito una sola volta o a fine scarto delle carte o su una bet dell'avversario.
+Il check è consentito una sola volta a inizio valutazione carte, o a fine scarto delle carte o su una bet dell'avversario.
 Il raise può essere fatto solo dopo aver fatto bet, e a seconda del gioco, può essere fatto anche più di una volta in una giocata.
 Ad un check fatto su una bet si può rispondere a propria volta con una check per evitare di andare al piatto senza che l'avversario abbia speso crediti.
 Una call si può chiamare anche senza una propria BET solo se l'avversario ha fatto già BET.

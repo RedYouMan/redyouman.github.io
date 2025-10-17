@@ -1,3 +1,4 @@
+
 GIOCO DEL POKER
 Il gioco ha due livelli: facile e difficile, dove il computer nel secondo caso gioca in modo accurato. 
 Nel seguito descriviamo la variante base nota come 5-Cards Draw versione italiana. Nel  poker, l'obiettivo consiste nel fare la migliore combinazione di cinque carte e vincere le puntate degli avversari.
@@ -8,8 +9,8 @@ Esso viene mescolato in due situazioni:
 - 2) dopo la vincita di un piatto e cambia anche il mazziere o dealer.
 si danno 5 carte a giocatore.
 Il mazziere viene interpretato inizialmente dal pc.
-In questo gioco entrambi i giocatori hanno un portafoglio iniziale di 50 crediti.
-Ad inizio di una giocata ogni giocatore fornisce 2 crediti .
+In questo gioco entrambi i giocatori hanno un portafoglio iniziale di 52 crediti. Essi sono crediti virtuali, che introduciamo come puro divertimento al posto di denaro reale. 
+Ad inizio di una giocata ogni giocatore fornisce 2 crediti nel piatto come ingresso alla giocata (chip).
 Le puntate saranno:
 - bet (puntata iniziale) di 4 crediti
 - raise (rilancio) di 8 crediti
@@ -31,9 +32,9 @@ Una volta ricevute le 5 carte, il giocatore può:
 - rilanciare (raise)
 -lasciare  ovvero si abbandona il piatto all'avversario (fold)
 - passare il turno (check)
- Dopo un cambio carte si può fare subito check o bet.
+ 
 Il check risulta possibile solo se non c'è stata una call o un rilancio (raise) dell'avversario
-Il check è consentito una sola volta o a fine scarto delle carte o su una bet dell'avversario.
+Il check è consentito una sola volta a inizio valutazione carte, o a fine scarto delle carte o su una bet dell'avversario.
 Il raise può essere fatto solo dopo aver fatto bet, e a seconda del gioco, può essere fatto anche più di una volta in una giocata.
 Ad un check fatto su una bet si può rispondere a propria volta con una check per evitare di andare al piatto senza che l'avversario abbia speso crediti.
 Una call si può chiamare anche senza una propria BET solo se l'avversario ha fatto già BET.
@@ -48,10 +49,10 @@ a) i due giocatori hanno lo stesso punto Poker ma di valori differenti. Ad esemp
 b) I due giocatori hanno lo stesso punto poker ma anche di uguali valori (es:entrambi doppia coppia di 2 e j)e qui entrain gioco lo spareggio ulteriore
 Per determinare chi vince negli spareggi vale quanto segue.
 Dato che il puntoPoker dei due giocatori potrebbe
-    essere uguale per fare il tie-breaker (spareggio)
-    si considera il kicker per la doppia coppia
-    oppure la somma dei punti in mano di ogni giocatore. 
-Il kicker nella doppia coppia è la carta più alta non facente parte del punto poker in mano. Se il punto poker è uguale per entrambi i giocatori e non si tratta di doppia coppia si usa la somma di tutti i punnti in mano per i due giocatori, il che permette di stabilire chi ha vinto.
-    Mentre nel caso che entrambi i giocatori non hanno    un punto  poker, ma solo punto alto allora qui vince il valore maggiore.Infine se non si verifica nessuna delle condizioni precedenti i giocatori dividono il piatto.
+    essere uguale per fare il tie-breaker (spareggio) si considera il kicker solo per la doppia coppia e in tal caso il tie breaker è ottenuto con la formula : coppia alta * 100 + coppia bassa * 10 + kicker
+    oppure nei casi diversi da doppia coppia il tie breaker è data dalla somma dei punti in mano di ogni giocatore. 
+Il kicker nella doppia coppia è la carta non facente parte del punto poker in mano. Se il punto Alto è uguale per entrambi i giocatori, non si fa il tie break ma si divide il piatto. Se si tratta di doppia coppia si usa la somma di tutti i punnti in mano per i due giocatori, il che permette di stabilire chi ha vinto.
+    Mentre nel caso che entrambi i giocatori hanno carta alta allora qui vince il valore maggiore , ma in caso di parità non si fa il tie breaker ma si divide il piatto (split pot)..
+Infine se per il punto poker diverso da carta Alta non si verifica nessuna delle condizioni precedenti i giocatori dividono il piatto (split pot).
 Si può giocare fino a che uno dei giocatori non ha più crediti.
 Buon divertimento
