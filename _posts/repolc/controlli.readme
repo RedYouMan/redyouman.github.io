@@ -1,0 +1,75 @@
+BRISCOLA
+
+
+Il presente readme vuole essere un facilitatore alla comprensione degli interventi di grafica , dei controls e di sintesi vocale.
+pgrafica
+Gli interventi di sviluppo della grafica dovrebbero essere contenuti neifile grafica.cp,p  grafica.h ,mentre per i Cntrl occorre intervenire anche nel main di briscola.cpp.  
+
+CONTROLLI
+Per la briscola si possono prevedere:
+
+Per i vedenti clic del mouse sulle carte da giocare del giocatore. Per i non vedenti dei Cntrls: 
+CNTRL-H  help di spiegazione breve del gioco(simile alla descrizione presente in briscola.cpp) 
+CNTRL-Q per uscire
+CNTRL-N nuova partita
+CNTRL-S per carta sinistra del giocatore equivalente a posizione 0
+CNTRL-C per giocare la carta centraleequivalente a posizione 1
+CNTRL-D per giocare carta destra equivalente a posizione 2a
+Attenzione per il corretto funzionamento del programma le carte nell'array vanno selezionate con interi.
+Non ho messo i livelli.
+
+Attualmente sono previsti solo algoritmi di livello 1.
+
+SINTESI VOCALE
+Si propone di mettere voce alle poche printf non di debug che ci sono per coinvolgere nel  gioco i non vedenti. Probabilmente si può settare Cntrl-V per chiedere di sentire tutte le printf da quel momento in poi.Rifacendo Cntrl-V si disattiva la lettura delle printf.
+IMMAGINI CARTE
+
+Si propone di avere 40 immagini + il dorso di una carta e l'immagine di un mazzo.
+
+Vedi commenti di grafica.h
+
+CHIAMATE GRAFICHE NEL SW
+Nel software sono già predisposte tutte le chiamate alla grafica delle funzioni presenti in grafica.h e grafica.cpp. Tali funzioni vanno solo implementate. I suggerimenti sono presenti come commenti in esse.
+
+TAVOLO DI gioco
+Il tavolo di gioco avrà sfondo verde chiaro. A sinistra: mazzo con dorso rivolto in alto in una posizione 0 e briscola in una posizione1 . 
+In basso le tre carte della mano del giocatore posizioni 0,1,2
+In alto 3 carte coperte del pc.
+
+Al centro: vengono mostrate le carte giocate.
+Quando il pc ggioca, si leva casualmente una delle immaginidi carta coperta , mentre si mette a terra la carta che ha giocato.
+    Quando il pc pesca si mette di nuovo una carta coperta al posto vuoto (vedi poscartaCopertapcusi variabile globale in grafica.h e usata in mostramanoPC )
+
+Problema per mostraPescaPC() dell'ultima carta ovvero la briscola e della pesca precedente all'ultima carta
+Se si mantengono suddivisi i file cpp e .h è stato introdotto :
+
+1 in grafica.h sono state introdotte la dichiarazione
+int poscartaCopertapc;
+extern int contaCarte[27];
+
+2 in grafica.cpp in mostraPescaPC() ci sono due if
+
+if(contaCarte[0]6-==33){
+  // faccio sparire l'immagine del mazzo
+
+}
+if(contaCarte[0]-6==34){
+  // faccio sparire immagine briscola
+
+mostraPescaPC viene usato solo per questo dal pc.
+
+3 mostraPresa serve solo a togliere da terra le carte giocate
+}Problema di mostrare le carte coperte e giocate del pc e del giocatore 
+
+Sono presenti le chiamate dimostramanoPC(int azione)
+mostramanoGio
+
+con azione si intende 0 se carta è stata giocata, 1 se si è pescata la carta
+ e 2 se si è nella situazione iniziale di far vedere tre carte coperte.
+ 
+ Se si leggono i commenti di mostramanoPC con 0 si leva randomicamente una carta coperta e mostracartapc gioca la carta. Con 1 pescando la cartasi rimette carta coperta dove manca (posizione ricordata da una variabile globale). Farsi guidare dai commenti nelle funzioni da implementare.
+  tal proposito c'è mostramanoPC(int azione) vedi commenti in essa
+2 mostramanoGio()  è risolto perchè vengono indicate le tre gif
+
+
+Una attenta lettura del file grafica.cpp possono chiarire le cose.
