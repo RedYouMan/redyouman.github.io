@@ -1,0 +1,12 @@
+il gioco wokakero
+
+Il gioco wokakero è un gioco orientale. 
+Si tratta di una specie di solitario, dove su una griglia si trovano delle isole, , in quantità dipendente dal livello scelto. Più il livello aumenta maggiore è il numero di isole con cui giocare.
+
+O	gni isola è caratterizzata da due numeri: un primo numero è l'identificativo o nome dell'isola, mentre un altro numero segnala quanti ponti ci sono tra l'isola e le isole vicine. 
+Nel gioco wokakero i ponti sono unidirezionali cioè sono ponti che partono dalla isola e arrivano su un'altra oppure ponti che arrivano all'isola.
+
+Scopo del gioco è di collegare correttamente tutte le isole in base alle indicazioni dei numeri dei ponti trovati e cercando di capire in che direzione va il ponte.
+Utili sono anche le informazioni che si ricevono stando su una isola, nel gioco a linea di comando, ad esempio, viene suggerito il numero di ponti collegati rispetto al totale.
+Molto importante è conoscere tutti gli strumenti a disposizione , cosa che si può sapere col controlH.
+Un gioco di pazienza, tipico orientale.

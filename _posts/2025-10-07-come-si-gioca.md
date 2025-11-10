@@ -1,7 +1,7 @@
 ---
 title: "Come si gioca ai nostri giochi: brevi tutorial"
 description: "blog di Rosario Turco con giochi gratuiti per non vedenti"
-keywords: ["tutorial","giochi","gratuiti","gratis","non vedenti","ciechi","ipovedenti"]
+keywords: ["tutorials","giochi","gratuiti","gratis","non vedenti","ciechi","ipovedenti"]
 categories: Blog
 ---
 
@@ -26,6 +26,8 @@ Itutorial, quindi, sono orientati ai neofiti e non agli esperti, dando dei sempl
 [tutorial briscola](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/tutorials/briscola.txt)
 
 [tutorial scopa](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/tutorials/scopa.txt)
+
+[tutorial wokakero](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/tutorials/wokakero.txt)
 
 # **Download dei Giochi**
   [pagina di downloads giochi](https://redyouman.github.io/2025/07/27/downloads.html)
