@@ -13,7 +13,7 @@ Il software è scaricabile da https://www.nvda.it
 Edico è unsoftware gratuito  per lo studio scientifico per materie come Matematica, Chimica, Fisica e altro, e da anche la possibilità di scrivere articoli scientifici con lo standard LaTex .
 Edico è scaricabile da https://www.edicoitalia.it 
 
-Un altro applicativo da installare su computer è 4utube che permette facilmente di trovare video e musica da youtube. Io lo utilizzo per trovare i video di fisia in ordine cronologico. Veramente utile e facile da installare.
+Un altro applicativo da installare su computer è 4utube che permette facilmente di trovare video e musica da youtube. Io lo utilizzo per trovare i video di fisica in ordine cronologico. Veramente utile e facile da installare.
 4utube si può scaricare da:
 https://4ulab.it/software-accessibile-per-la-ricerca-di-musica-e-video-4utube/
 
