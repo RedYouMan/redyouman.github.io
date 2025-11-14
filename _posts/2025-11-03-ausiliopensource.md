@@ -13,9 +13,13 @@ Il software è scaricabile da https://www.nvda.it
 Edico è unsoftware gratuito  per lo studio scientifico per materie come Matematica, Chimica, Fisica e altro, e da anche la possibilità di scrivere articoli scientifici con lo standard LaTex .
 Edico è scaricabile da https://www.edicoitalia.it 
 
+Un altro applicativo da installare su computer è 4utube che permette facilmente di trovare video e musica da youtube. Io lo utilizzo per trovare i video di fisia in ordine cronologico. Veramente utile e facile da installare.
+4utube si può scaricare da:
+https://4ulab.it/software-accessibile-per-la-ricerca-di-musica-e-video-4utube/
+
 Nel seguito faremo riferimento, invece, a servizi o app disponibili su Android, ma ne esistono altrettanti validi su IoS e altro.
 
-Un servizio disponibile per l'accessibilità su telefonino per Android è TalkBack, attivabile dalle impostazioni utente. Esso è utile per chi non riesce a navigare il telefonino. 
+Un servizio disponibile per l'accessibilità per Android è TalkBack, uno screen reader versione telefonino, attivabile dalle impostazioni utente. Esso è utile per chi non riesce a navigare il telefonino. 
 
 Altro servizio molto utile è Google Assistant su telefonino da configurare. Esso consente di: leggere e scrivere un sms, leggere e scrivere unmessaggio su whatsapp, leggere una email, chiedere di chiamare un numero della rubrica, sapere se il chiammante è una persona della rubrica, cercare informazioni rapide su Internet, sapere il livello della batteria, sapere in numero di passi fatto  e altro ancora.
 
