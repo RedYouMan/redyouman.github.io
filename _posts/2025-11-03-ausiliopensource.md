@@ -18,7 +18,7 @@ Potreste fare ricerche come:
 - Totò
 - curiuss
   - app per non vedenti
-    - Con "curiuss" otterrete i video di fisica sull'utente-canale curiuss, mentre con "Totò" otterrete i video difilm, interviste e altro su  Totò, con "app per non vedenti" usciranno i video di presentazione di molte app utili per i non vedenti. 
+    - Con la voce di ricerca curiuss otterrete i video di fisica sull'utente-canale curiuss, mentre con la voce di ricerca Totò otterrete i video difilm, interviste e altro su  Totò, infine con la voce di ricerca app per non vedenti usciranno i video di presentazione di molte app utili per i non vedenti. 
     -    Una app veramente utile e facile da installare.
 4utube si può scaricare da:
 https://4ulab.it/software-accessibile-per-la-ricerca-di-musica-e-video-4utube/
