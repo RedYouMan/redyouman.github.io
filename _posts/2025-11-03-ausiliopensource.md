@@ -16,8 +16,8 @@ Edico è scaricabile da https://www.edicoitalia.it
 Un altro applicativo da installare su computer è 4utube che permette facilmente di trovare video e musica da youtube. Io lo utilizzo per trovare i video di fisica in ordine cronologico.
 Potreste fare ricerche come:
 - Totò
-- - curiuss
-  - - app per non vedenti
+- curiuss
+  - app per non vedenti
     - Con "curiuss" otterrete i video di fisica sull'utente-canale curiuss, mentre con "Totò" otterrete i video difilm, interviste e altro su  Totò, con "app per non vedenti" usciranno i video di presentazione di molte app utili per i non vedenti. 
     -    Una app veramente utile e facile da installare.
 4utube si può scaricare da:
