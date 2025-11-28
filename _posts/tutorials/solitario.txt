@@ -11,5 +11,11 @@ Le regole principali del programma solitario
 9 Se una intera pila di terra ha carte alternate, come semi,  che possono andare tutte su pile di assi, distinte, va selezionata una alla volta e in automatico escono dalle pile di terra e il programma ci dice su quali pile di assi finiscono ognuna, sempre per non confondere il non vedente 
 10 Quando arriva una carta dal mazzo è possibile rimandarla sul mazzo con control p se si vuole selezionare o una carta di terra per spostarla o mandarla sulla pila di assi o selezionare una carta dagli scarti per mandarla sulla pila di assi o su una pila di terra.
 
+Ci sono due funzionalità utili:
+a) Con cntrlOsi può prendere la carta in mano e mettere ad inizio di una pila di terra che presenta già delle carte, ma ciò è possibile se la carta di inizio è compatibile con quella in mano. Anche le carte di scarto, una volta prese in mano possono utilizzare questa funzionalità
+Propedeutica a questa funzionalità c'è il cntrlJ che ci dice la carta di inizio della piladi terra
+b cntrlL permette di spostare una intera pila di terra avente carte sotto un'altra pila di terra , purchè le carte di inizio della prima  e di fine della seconda pila destinataria siano compatibili
+
+E' consigliato di consultare inizialmente il cntrlH per conoscere tutti gli strumenti per giocare bene. 
 Buon solitario!
 
