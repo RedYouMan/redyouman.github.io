@@ -29,6 +29,8 @@ Itutorial, quindi, sono orientati ai neofiti e non agli esperti, dando dei sempl
 
 [tutorial wokakero](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/tutorials/wokakero.txt)
 
+[tutorial gioco del 31](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/tutorials/giocodel31.txt)
+
 # **Download dei Giochi**
   [pagina di downloads giochi](https://redyouman.github.io/2025/07/27/downloads.html)
 
