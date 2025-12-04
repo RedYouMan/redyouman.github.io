@@ -1,0 +1,25 @@
+GIOCO DEL 31
+
+Il gioco del 31 è un gioco tipico natalizio come il settemezzo, il poker e altri.
+In genere si gioca puntando qualche soldo nel periodo natalizio.
+Per giocare a 31, bisogna ottenere una mano di tre carte dello stesso seme che sommino a 31 punti, o avvicinarsi il più possibile a questo punteggio, superando quello degli avversari. 
+Si gioca con un mazzo di carte (napoletane, distribuendo tre carte coperte a testa e scoprendo, ad inizio gioco, una carta degli scarti, che costituirà il mazzo degli scarti (tallone o pesca aggiuntiva). A turno, i giocatori scelgono se prendere una carta dal mazzo coperto o da quello degli scarti, e poi ne scartano una per mantenere sempre tre carte in mano. 
+
+Valore delle carte napoletanenel gioco del 31:
+•le figure (Fante, Cavallo, Re) valgono 10 punti; l'Asso vale 11; 
+• le carte dal 2 al 7 valgono il loro valore nominale.
+Fa da mazziere chi alza la carta maggiore, eventualmente facendo lo spareggio in caso di valori uguali.
+il mazzo viene spaccato dal giocator e a destra del mazziere. Le carte si distribuiscono una alla volta in senso orario a partire da sinistra del mazziere.Si gioca in senso orario rispetto al mazziere.
+Nella vita reale si può giocare fino a sette giocatori, ognuno con 3 poste predisposte, ad esempio di 10 centesimi, e alla scoperta delle carte, chi ha il punteggio minore  aggiunge una delle sue poste al piatto .
+Ad ogni giro che un giocatore termina le sue poste, viene escluso dal gioco, fino a che rimangono solo due giocatori.
+Il piatto, viene vinto  dall'ultimo giocatore che ha ancora qualche posta mentre il penultimo giocatore ha terminato tutte le sue poste.
+In alcune varianti gli esclusi vengono riammessi nel gioco se puntano 10 centesimi come scommessa sul punteggio minore che si verificherà nella prima mano successiva.
+Se indovinano il punteggio minore vengono riammessi,altrimenti perdono la somma scommessa che andrà ad arricchire ulteriormente il piatto.
+Se scartando la carta si raggiunge un punteggio che si ritiene valido per battere gli altri, in base anche all'osservazione delle carte che sono state scartate, si bussa sul tavolo dichiarando che dopo, nel proprio turno, si caleranno  le carte.
+
+Qui presentiamo però una variante del gioco per poterla rendere giocabile via software per due soli giocatori.
+Nel nostro gioco valgono le seguenti regole:
+1 si deve avere almeno 20 punti per calare le carte per vedere se si batte l'avversario
+2 Dopo la vittoria si riparte con una nuova partita e gioca per prima colui che precedentemente ha fatto da mazziere.
+3 sivince se si riesce a batter l'avversario almeno 3 volte. Nel caso di presenza di posta in moneta il piatto viene aggiudicato dopo le tre mani consecutive vinte.
+Buon divertimento
