@@ -19,7 +19,7 @@ Se scartando la carta si raggiunge un punteggio che si ritiene valido per batter
 
 Qui presentiamo però una variante del gioco per poterla rendere giocabile via software per due soli giocatori.
 Nel nostro gioco valgono le seguenti regole:
-1 si deve avere almeno 20 punti per calare le carte per vedere se si batte l'avversario
-2 Dopo la vittoria si riparte con una nuova partita e gioca per prima colui che precedentemente ha fatto da mazziere.
-3 sivince se si riesce a batter l'avversario almeno 3 volte. Nel caso di presenza di posta in moneta il piatto viene aggiudicato dopo le tre mani consecutive vinte.
+1 - Per calare le carte si devono avere almeno 20 punti con tre carte dello stesso seme per vedere se si batte l'avversario
+2 - Dopo la vittoria si riparte con una nuova partita e gioca per prima colui che precedentemente ha fatto da mazziere.
+3 - sivince se si riesce a battere l'avversario almeno 3 volte. Nel caso di presenza di posta in moneta il piatto viene aggiudicato dopo le tre mani consecutive vinte.
 Buon divertimento
