@@ -1,20 +1,31 @@
 Le regole principali del programma solitario
 
 1 - si mettono 6 carte a terra (pile di terra)
+
 2 - gli assi vanno automaticamente fuori su quelle che si chiamano pile di assio semi
+
 3 -  sulle pile di terra si mettono  le carte dal valore maggiore al valore minore ma alternando i semi
+
 4 - se una carta non può essere messa sulle pile di terra deve essere messa sulla pila degli scarti
+
 5 - se una carta sulla pila di terra può essere messa sulla pila di assi una volta selezionata va in automatico su essa
+
 6 - se si prende dalla pila degli scarti una carta va prima giocata tale carta. Ad esempio se ci si accorge che una carta sulla pila di terra può andare sulla pila di assi ma si ha in mano una carta presa dagli scarti, non si può fare se non si rimette prima sugli scarti la carta presa dagli scarti.
-7-  Una carta presa dal mazzo e giocata sulle pile di terra o scartata non può essere selezionata e subire control p. perchè Non si può rimettere una carta giocata sul mazzo. Quindi se si seleziona una precedente carta giocata va giocata ancora verso terra, verso gli scarti o verso la pila degli assi o rimessa a posto.
+
+7 -  Una carta presa dal mazzo e giocata sulle pile di terra o scartata non può essere selezionata e subire control p. perchè Non si può rimettere una carta giocata sul mazzo. Quindi se si seleziona una precedente carta giocata va giocata ancora verso terra, verso gli scarti o verso la pila degli assi o rimessa a posto.
+
 8 - è possibile selezionare una carta da terra e mandarla sugli scarti. Questa mossa è consentita perchè magari dal mazzo arriva una carta di valore maggiore sotto cui si può rimettere poi la carta scartata. In tal caso è consentito si di fare control p e si rimanda la carta estratta dal mazzo di nuovo sul mazzo e si mettono sugli scarti le carte per far posto sulla pila di terra. E' possibile farlo anche per una intera fila di carte di una pila di terra ,ma selezionate una alla volta per spostarle sugli scarti, cosa necessaria per non confondere i non vedenti. Ad esempio: dal mazzo arriva 9 denari e non ci sono posti a terra dove metterlo, però si nota su una pila 8 bastoni sotto cui è attaccato 7 denari, allora si mette sugli scarti il 7 denari, seguito dall'8 bastoni. Ora si mette a terra sulla pila vuota il 9 denari e si ripescano l*8 bastoni e il 7 denari messi nell'ordine sotto il 9 denari.
+
 9 - Se una intera pila di terra ha carte alternate, come semi,  che possono andare tutte su pile di assi, distinte, va selezionata una alla volta e in automatico escono dalle pile di terra e il programma ci dice su quali pile di assi finiscono ognuna, sempre per non confondere il non vedente 
+
 10 - Quando arriva una carta dal mazzo è possibile rimandarla sul mazzo con control p se si vuole selezionare o una carta di terra per spostarla o mandarla sulla pila di assi o selezionare una carta dagli scarti per mandarla sulla pila di assi o su una pila di terra.
 
 Nella versione a linea di comando (solitarioNV ci sono due funzionalità utili, 
-a) Con cntrlOsi può prendere la carta in mano e mettere ad inizio di una pila di terra che presenta già delle carte, ma ciò è possibile se la carta di inizio è compatibile con quella in mano. Anche le carte di scarto, una volta prese in mano possono utilizzare questa funzionalità
-Propedeutica a questa funzionalità c'è il cntrlJ che ci dice la carta di inizio della piladi terra
+a) Con cntrlO si può prendere la carta in mano e mettere ad inizio di una pila di terra che presenta già delle carte, ma ciò è possibile se la carta di inizio è compatibile con quella in mano. Anche le carte di scarto, una volta prese in mano possono utilizzare questa funzionalità.
+Propedeutica a questa funzionalità c'è il cntrlJ che ci dice la carta di inizio della piladi terra.
+
 b) cntrlL permette di spostare una intera pila di terra avente carte sotto un'altra pila di terra , purchè le carte di inizio della prima  e di fine della seconda pila destinataria siano compatibili
+
 
 E' consigliato di consultare inizialmente il cntrlH per conoscere tutti gli strumenti per giocare bene. 
 Buon solitario!
