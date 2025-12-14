@@ -1,13 +1,15 @@
 La scopa è un gioco classico di carte, che utilizza un mazzo di carte regionali come quelle napoletane.
 
-Si distribuiscono quatttro carte a terra e tre carte a giocatore. Alternativamente i giocatori giocano una carta per prendere da terra una carta di ugual valore a quella giocata o somma di più carte in modo da eguagliare il valore della carta giocata. Ogni giocatore ,Le carte prese li pone a formare un piccolo mazzetto accanto a sè. 
+Si distribuiscono quatttro carte a terra e tre carte a giocatore. 
+Alternativamente i giocatori giocano una carta per prendere da terra una carta di ugual valore o somma di più carte in modo da eguagliare il valore della carta giocata. 
+Ogni giocatore pone ,Le carte prese a formare un piccolo mazzetto accanto a se. 
 
 Le regole su cui si basa la presa sono semplici:
-- se a terra ci sono una quantità di carte tali che  il loro valore o somma è uguale alla propria carta,  e non rimane nulla a terra, allora prendendole si fa scopa, che si segnala mettendo scoperta la carta giocata accanto al proprio mazzetto e mettendo su esso le carte prese. La scopa rappresenta un punto a favore del giocatore.
-- se la scopa avviene prendendo l'ultima carta del mazzo di gioco non può essere considerata scopa
-- se non finiscono le carte a terra (caso di scopa), si prendono le carte da terra che sono sommaequivalenti alla propria carta
-
-Dopo il termine delle tre carte, il mazziere da altre tre carte per giocare, e tale operazione prosegue fino al termine di tutte le carte del mazzo di gioco.
+- se a terra ci sono una quantità di carte tali che  il loro valore o somma è uguale alla propria carta,  e non rimane nulla a terra, allora prendendole si fa scopa, che si segnala mettendo scoperta la carta giocata accanto al proprio mazzetto e mettendo su esso le carte prese. 
+La scopa rappresenta un punto a favore del giocatore.
+- se la scopa avviene prendendo l'ultima carta del mazzo di gioco non può essere considerata scopa.
+- Se non si prende nulla si lascia la carta a terra
+- Dopo aver terminato le tre carte in mano, il mazziere da altre tre carte per giocare, e tale operazione prosegue fino al termine di tutte le carte del mazzo di gioco.
 
 Le carte del mazzo hanno dei punti, infatti a fine partita tali punti si contano dal mazzetto di ogni giocatore e come regola:
 - il sette di denaro, detto "sette bello" vale un punto per chi lo ha preso da terra.
@@ -19,7 +21,7 @@ Le carte del mazzo hanno dei punti, infatti a fine partita tali punti si contano
 Il calcolo della primiera è fatto come una sorta di spareggio tra la primiera che può mettere insieme un giocatore rispetto all'altro.
 La primiera legittima che non può essere battuta è costituita da quattro sette.
 Se non ci sono tutti e quattro i sette, nella primiera si possono inserire, purchè ci siano quattro carte di semi diversi, i sei, gli assi, , i cinque , il quattro, tre, due e le figure dieci, nove, e otto.
-Tale scala è da considerarsi dal valore maggiore (sette,sei, asso etc)al minore.
+Tale scala è da considerarsi dal valore maggiore (sette, sei, asso etc)al minore.
 Confrontando le quattro carte di primiera proposte da ogni giocatore, si assegna il punto della primiera.
 
 La partita si vince raggiungendo o superando gli 11 punti. Questo vuol dire che serviranno due o tre mescolate di mazzo almeno per dichiarare il vincitore.
