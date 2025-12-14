@@ -1,9 +1,9 @@
 Regole che segue il programma nim
 
-Il gioco dispone di vari cilindri o pile contenenti palline
-Ci sono tre livelli che determinano il numero di pile con le palline dentro.
-Il gioco prevede di giocare contro il computer e a turno il giocatore deve togliere da una sola pila un numero di palline qualsiasi.
-Vince chi si trova a togliere tutte le palline dalla pila che è l'unica ad avere palline rimanenti.
+Il gioco dispone di vari cilindri o pile contenenti palline.
+Ci sono tre livelli che determinano il numero di pile e di palline in gioco.
+Il software prevede di far giocare contro il computer e a turno il giocatore deve togliere da una sola pila un numero di palline qualsiasi desiderato.
+Vince chi si trova a togliere per ultimo tutte le palline dalla pila che è l'unica ad avere palline rimanenti.
 Tutto il gioco è, quindi, concentrato attorno ad una strategia che permetta al singolo giocatore a trovarsinelle condizioni favorevoli ad essere l'ultimo a giocare.
 Il programma se si richiede una nuova partita con control n, alterna i giocatori che iniziano per prima, cioè se la prima volta ha giocato il pc, la seconda gioca il giocatore e cosi via.
 
@@ -11,9 +11,9 @@ Si raccomanda di guardarsi help e menu del mouse per comprender gli strumenti a 
 - control n (nuova partita)
 - control q per uscire dal gioco
 
-Per il vedente serve soprattutto mouse e menu.
+Per il vedente serve nel gioco grafico soprattutto mouse e menu.
 
-Control k disabilita l'introduzione, dopo averla ascoltata
+Nel gioco grafico Control k disabilita l'introduzione, dopo averla ascoltata
 control s silenzia la voce (si raccomanda di giocare almeno unapartita con voce attivata e una disattivata)
 
 Il livello più difficile è il 3.
