@@ -1,5 +1,5 @@
 La briscola è un gioco classico di carte molto noto.
-Si gioca con carte napoletane solitamente, con un mazzo di 40 carte.
+Si gioca con carte napoletane con un mazzo di 40 carte.
 
 Le carte hanno il seguente valore:
 - asso, 11 punti
@@ -9,26 +9,26 @@ Le carte hanno il seguente valore:
 - fante, 2 punti
 - altre carte, quanto mostrato dalla carta, esempio il due vale 2 etc.
 
-Il mazziere, dopo aver mescolato il mazzo estrae da esso una carta, il cui seme rappresenta la briscola. che viene messa scoperta, parzialmente sotto il mazzo in modo visibile.Questo vuol dire che ci saranno disponibili nel mazzo dieci briscole.
-Il mazziere da, ad ogni giro, 3 carte a testa. Inizia il gioco chi non è il mazziere. Il giocatore può giocare una carta, scelta tra le tre a disposizione in mano. La carta scelta può essere una briscola o una carta normale.
+Il mazziere, dopo aver mescolato il mazzo estrae da esso una carta, il cui seme rappresenta la briscola. che viene messa scoperta, parzialmente sotto il mazzo in modo visibile. Questo vuol dire che ci saranno disponibili nel mazzo dieci briscole.
+Il mazziere, ad ogni giro, distribuisce  3 carte a testa. Inizia il gioco chi non è il mazziere. Il giocatore può giocare una carta, scelta tra le tre a disposizione in mano. La carta scelta può essere una briscola o una carta normale.
 L'obiettivo è di fare il maggior numero di punti rispetto all'avversario. 
 Nel mazzo c'è un totale di 120 punti rappresentato dalle 40 carte.
 Ad ogni carta giocata da un giocatore deve rispondere l'altro giocatore. 
 Le prese delle due carte a terra si basano sulle seguenti regole:
-- in assenza di briscola, prende chi risponde con lo stesso seme ma di valore maggiore
--in presenza di briscola, nel caso di due briscole prende chi ha messo la briscola maggiore
-- in presenza di briscola, prende chi ha messo la briscola
-- se si risponde con una carta di seme diverso rispetto al primo giocatore, prende il primo giocatore
+- in assenza di briscola, prende chi risponde con lo stesso seme ma di valore maggiore.
+- in presenza di briscola, nel caso di due briscole prende chi ha messo la briscola maggiore.
+- in presenza di briscola, e una carta normale prende chi ha messo la briscola.
+- se si risponde con una carta di seme diverso rispetto al primo giocatore, prende il primo giocatore.
 
-La presa condiziona chi gioca poi per primo:
+La presa determina chi gioca poi per primo:
 - dopo una presa, gioca per prima chi ha preso le carte precedenti.
 
 I consigli che si forniscono per chi inizia da poco sono:
-- ricordarsi le briscole uscite. Ad esempio in caso di esaurimento di briscole si può rischiare un carico di 11 punti (l'asso) o di 10 punti (il tre), che non sono briscole e l'avversario deve avere un ugual seme ma divalore maggiore, che nel caso dell'asso non esiste.
-- Altro consiglio ricordarsi i carichi usciti (l'asso e i tre di uno stesso seme).
-- il successivo consiglio è se si hanno dei carichi ad inizio gioco, non di tipo briscola, si può rischiare di giocarne uno (il più piccolo), sperando che l'avversario non abbia briscole
-- conservare, se non si è obbligati diversamente, l'asso di briscola e il tre di briscola, in modo da giocarli da metà partita o verso la fine, quando l'avversario ha carichi o le ultime briscole in modo di avere l'iniziativa. 
-- L'iniziativa verso la fine, quando si esauriscono le briscole, è importante dato che si possono mettere carichi su cui l'avversario non può far niente in assenza di briscole.
+1 - Ricordarsi le briscole uscite. Ad esempio in caso di esaurimento di briscole si può rischiare un carico di 11 punti (l'asso) o di 10 punti (il tre), che non sono briscole e l'avversario deve avere un ugual seme ma divalore maggiore, che nel caso dell'asso non esiste.
+- 2 - Ricordarsi i carichi usciti (l'asso e i tre di uno stesso seme).
+- 3 - Il successivo consiglio è se si hanno dei carichi ad inizio gioco, non di tipo briscola, si può rischiare di giocarne uno (il più grande (per evitare che abbia il carico maggiore del nostro), sperando che l'avversario non abbia briscole
+- 4 - Conservare, se non si è obbligati diversamente, l'asso di briscola e il tre di briscola, in modo da giocarli da metà partita o verso la fine, quando l'avversario ha carichi o le ultime briscole in modo di avere l'iniziativa. 
+- 5 - L'iniziativa verso la fine, quando si esauriscono le briscole, è importante dato che si possono mettere carichi su cui l'avversario non può far niente in assenza di briscole.
 
 Solo giocando una decina di partite si entra bene nell'ottica del gioco.
 
