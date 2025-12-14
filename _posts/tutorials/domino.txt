@@ -13,20 +13,19 @@ L'obiettivo al proprio turno è di trovare tra le proprie tessere una che si agg
 Se coda e testa hanno un valore uguale, se si gioca la tessera essa deve essere messa in coda. La testa è a sinistra, la coda è a destra.
 Se si gioca un doppio, anche ad inizio di partita, si ha il diritto di giocare un'altra tessera che diventa un obbligo se si hanno in mano ancora tessere, a meno che non si sono finite le tessere proprio giocando il doppio. 
 Se si è obbligati a giocare una seconda tessera e non si dispone, si pesca dal pozzo (o mazzo)di tessere. Se si trova una tessera adatta si gioca oppure si fa "passo". Nel caso ad un doppio si aggancia un altro doppio si ha ancora diritto di giocare.
-Quando nel proprio turno nonsi hanno tessere per risponder si pesca. La pesca può avvenire una sola volta nel proprio turno. Poi si gioca una tessera o si fa passo. 
+Quando nel proprio turno non si hanno tessere per rispondere, si pesca. 
+La pesca può avvenire una sola volta nel proprio turno. Poi si gioca una tessera o si fa passo. 
 Vince chi nel creare il serpente finisce le tessere.
 Se nessun giocatore riesce a finire le tessere e si è bloccati,cioè nessuno riesce ad attaccare tessere e il pozzo è terminato,si sommano i numeri di tutte le tessere di un giocatore (penalità), poi si confrontano le penalità dei due giocatori. Vince chi ha meno penalità.
 
-Il passo viene fatto con control-p per i non vedenti che significa sia , a seconda del contesto, pesca o passo. 
+Il passo (passare il turno) viene fatto con control-p per i non vedenti che significa sia , a seconda del contesto, pesca o passo. 
 Il vedente, invece, usa i tasti del mouse per questo. Consultare il menu o provare con i tasti del mouse.
 Nel fare il passo il giocatore A se non ha tessere, allora pesca e se non ha tessere ancora  per giocare, fa passo. allora Se il giocatore B ha tessere gioca, altrimenti pesca etc.
+La situazione di blocco nasce quando entrambi i giocatori non hanno tessere da giocare e il pozzo è vuoto.
 
 Può capitare che le tessere del pozzo siano finite e nessun giocatore ha tessere da giocare (situazione di blocco ) allora Il giocatore A fa passo, il giocatore B se non ha tessere da giocare fa anche lui passo e allora A, ora di turno,  decide che si va alla conta delle penalità. Ovvero decide chi ha fatto per prima passo sulla situazione di  blocco. 
-se B ,invece, gioca, nel caso precedente (non è una situazione di blocco: che avviene quando si è a pozzo vuoto e nessuno ha tessere da giocare),  il turno torna ad A che deve fare passo (non avendo tessere da giocare) e questa mimica continua finchè B ha tessere da giocare. 
+se B ,invece, gioca, non è una situazione di blocco, il turno torna ad A che deve fare passo (non avendo tessere da giocare) e questa mimica continua fino a che B ha tessere da giocare. 
 Se B esaurisce le tessere da giocare e il pozzo è vuoto si è in situazione di blocco descritta prima.
 Il programma gestisce correttamente queste situazioni.
 Il gioco fondamentalmente è semplice.
-
-
-
-
+Buon divertimento.
