@@ -1,11 +1,13 @@
 La scopa è un gioco classico di carte, che utilizza un mazzo di carte regionali come quelle napoletane.
 
+Il nome scopa è nato dal fatto che prendendo le carte da terra era come spazzare a terra, da qui il nome.
+
 Si distribuiscono quatttro carte a terra e tre carte a giocatore. 
-Alternativamente i giocatori giocano una carta per prendere da terra una carta di ugual valore o somma di più carte in modo da eguagliare il valore della carta giocata. 
-Ogni giocatore pone ,Le carte prese a formare un piccolo mazzetto accanto a se. 
+Ogni giocatore durante il gioco pone ,Le carte prese a formare un piccolo mazzetto accanto a se. 
 
 Le regole su cui si basa la presa sono semplici:
-- se a terra ci sono una quantità di carte tali che  il loro valore o somma è uguale alla propria carta,  e non rimane nulla a terra, allora prendendole si fa scopa, che si segnala mettendo scoperta la carta giocata accanto al proprio mazzetto e mettendo su esso le carte prese. 
+- Alternativamente i giocatori giocano una carta per prendere da terra o una carta di ugual valore o più carte in modo da eguagliare il valore della carta giocata. 
+- se a terra ci sono una quantità di carte tali che  il loro valore o somma è uguale alla propria carta,  e non rimane nulla a terra, allora prendendole si fa scopa, che si segnala mettendo scoperta la carta giocata accanto al proprio mazzetto delle carte prese. 
 La scopa rappresenta un punto a favore del giocatore.
 - se la scopa avviene prendendo l'ultima carta del mazzo di gioco non può essere considerata scopa.
 - Se non si prende nulla si lascia la carta a terra
@@ -31,5 +33,15 @@ Il primo mazziere della partita si stabilisce, a volte, estraendo la carta più 
 Il mazziere dopo aver mescolato le carte da la possibilità  al giocatore di "spaccare" il mazzo, operazione che consiste di dividere il mazzo in due parti e la parte di sotto per regola va posta sopra quella alzata dal giocatore.
 Questa fase nel nostro programma vienefatta automaticamente.
 
-Il nome scopa è nato dal fatto che prendendo le carte da terra era come spazzare a terra, da qui il nome.
-Buona partita a scopa! 
+In riferimento alla primiera, spesso il confronto tra primiere viene fatto sulla base di valori assegnati alle carte. la primiera può essere calcolata, difatti,  anche con il metodo classico espresso nel modo seguente:
+      - Il 7 vale 21 
+- il 6 vale 18 
+- l'asso vale 16  
+- il 5 vale 15
+    - il 4 vale 14 
+- il 3 vale 13  
+- il 2 vale 12
+- le figure valgono 10
+
+Il programma adotta tale ultimo metodo.    
+Buon divertimento.
