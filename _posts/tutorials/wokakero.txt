@@ -14,12 +14,12 @@ Un gioco di pazienza, tipico orientale.
 Alcuni consigli
 Alla partenza si è in 0,0 della griglia ovvero in alto a sinistra nel gioco alinea di comando.
 Consultiamo subito con CntrlR quante isole ci sono e gove è la isola 1. Con ContrlR otterremo difatti le due informazioni per le prime 5 isole non ancora completamente collegate.
-CntrlP ci serve per sapere dove siamo e dove spostarci con le info precedenti.
-CntrlG ci da le coordinate di una isola che non ritroviamo con CntrlR.
+CntrlP serve per sapere dove siamo e dove spostarci con le info precedenti.
+CntrlG da le coordinate di una isola che non ritroviamo con CntrlR.
 CntrlL è utile per sapere, come ultima risorsa, a chi è collegata una isola.
 Quando si trovano due isole proviamo a collegarle sia nel verso diretto che in quello inverso. Ad esempio le isole 11 e 3 proviamo prima a collegarle come 3 e 11 e poi come 11 e 3. 
 Il gioco ci farà capire se le isole hanno due ponti di collegamento o uno solo.
 Quando CntrlL dice lista completata senza dare suggerimenti sitratta di una isola con un solo ponte che gli arriva.
 Quando si arriva su una isola già utilizzata, ascoltare quanti ponti si sono usatidi essa, in modo da capire se ci sono altri ponti da usare.
-CntrlR ci avvertirà se abbiamo completato il gioco o meno, quando lò consultiamo
+CntrlR avvertirà se abbiamo completato il gioco o meno, quando lò consultiamo
 Buon divertimento
