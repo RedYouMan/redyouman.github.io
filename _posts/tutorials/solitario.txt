@@ -20,6 +20,8 @@ Le regole principali del programma solitario
 
 10 - Quando arriva una carta dal mazzo è possibile rimandarla sul mazzo con control p se si vuole selezionare o una carta di terra per spostarla o mandarla sulla pila di assi o selezionare una carta dagli scarti per mandarla sulla pila di assi o su una pila di terra.
 
+Un utile suggerimento qualora ci si allontanasse dal computer oppure ci si distrae, la barra spaziatrice ci permette di riascoltare la carta da giocare, mentre con CntrlT si riascoltano le pile di terra e con CntrlR si riascolta la pila di scarti.
+
 Nella versione a linea di comando (solitarioNV ci sono due funzionalità utili, 
 a) Con cntrlO si può prendere la carta in mano e mettere ad inizio di una pila di terra che presenta già delle carte, ma ciò è possibile se la carta di inizio è compatibile con quella in mano. Anche le carte di scarto, una volta prese in mano possono utilizzare questa funzionalità.
 Propedeutica a questa funzionalità c'è il cntrlJ che ci dice la carta di inizio della piladi terra.
