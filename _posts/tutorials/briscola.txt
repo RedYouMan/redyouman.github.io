@@ -23,6 +23,8 @@ Le prese delle due carte a terra si basano sulle seguenti regole:
 La presa determina chi pesca e gioca poi per primo:
 - dopo una presa, gioca per prima chi ha preso le carte precedenti.
 
+Se ci si allontana dal computer o ci si distrae, è possibile digitare 0 per risentire eventuale carte a terra giocate e le proprie carte in mano. 
+
 I consigli che si forniscono per chi inizia da poco sono:
 1 - Ricordarsi le briscole uscite. Ad esempio in caso di esaurimento di briscole si può rischiare un carico di 11 punti (l'asso) o di 10 punti (il tre), che non sono briscole e l'avversario deve avere un ugual seme ma divalore maggiore, che nel caso dell'asso non esiste.
 - 2 - Ricordarsi i carichi usciti (l'asso e i tre di uno stesso seme).
