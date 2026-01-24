@@ -29,6 +29,8 @@ Propedeutica a questa funzionalità c'è il cntrlJ che ci dice la carta di inizi
 
 b) cntrlL permette di spostare una intera pila di terra avente carte sotto un'altra pila di terra , purchè le carte di inizio della prima  e di fine della seconda pila destinataria siano compatibili.
 
+
+Nella versione grafica, invece, sono presenti le stesse funzionalità, ma al posto di CntrlJ si può usare cntrl+numero della pila per conoscere la carta in testa ad essa.
 E' consigliato di consultare inizialmente il cntrlH per conoscere tutti gli strumenti per giocare bene. 
 Buon solitario!
 
