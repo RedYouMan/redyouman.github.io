@@ -1,7 +1,7 @@
 GIOCO DEGLI SCACCHI
 
 In questo tutorial faremo una Introduzione al programma scacchiNv, un programma tipicamente a linea di comando, ascoltabile con NVDA, e consigliato ai non vedenti.
-Il programma scacchiNV versione 1.0 consente:
+Il programma scacchiNV versione 1.1 consente:
 1 - di navigare sulla scacchiera dando informazioni di pezzi e case vuote
 2 - scegliere il punto di vista da cui giocare
 3 - inserire le mosse del Bianco e del Nero
@@ -79,6 +79,10 @@ Attenzione che occorre usare il RETURN sia per selezionare il pezzo che per indi
 
 Registrazione partita
 La registrazione è consentita attivarla sol ad inizio partita. Non si registrano i problemi, nè le partite col computer.Non va usata se giocate col computer o sui problemi.
+
+Sospensione partita giocata col computer
+E' possibile sospendere una partita che si sta giocando col computer per, poi, riprenderla.
+Alla ripresa vi troverete attivato il computer, pronto a giocare e col punto di vista che avevate precedentemente.
 
 Scelta livello
 Quando si gioca contro il computer è possibile scegliere un livello di gioco tra 1 e 20.
