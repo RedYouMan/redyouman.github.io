@@ -14,10 +14,12 @@ Il programma scacchiNV versione 1.1 consente:
 10 - ricevere informazioni sulla disposizione totale dei pezzi (CntrlT) 
 11 - controllare che le mosse siano corrette rispetto alle regole dei pezzi
 12 - controllare lo scacco al re, lo scacco matto e lo stallo
-13 - fare Abbandono da parte del re (CntrlL)
- 14 - scegliere di giocare contro il computer (CntrlZ)
-15 - scegliere il livello di gioco contro il computer
-16 - scrivere i problemi con un tracciato RoT per Non Vedenti  che informa sulla posizione in termini di descrizione del problema, disposizione dei pezzi del bianco e del nero, il punto di vista da cui giocare, il diritto di mossa, il numero di mossa di partenza
+13 - mettere a conoscenza della possibilità dell'enpassant, verificandone l'utilizzo
+14 - fare Abbandono da parte del re (CntrlL)
+ 15 - scegliere di giocare contro il computer (CntrlZ)
+16 - scegliere il livello di gioco contro il computer
+17 - scrivere i problemi con un tracciato RoT per Non Vedenti  che informa sulla posizione in termini di descrizione del problema, disposizione dei pezzi del bianco e del nero, il punto di vista da cui giocare, il diritto di mossa, il numero di mossa di partenza
+18 - controllare i file dei problemi scritti a mano
 
 Tutte le possibilità di sopra, dipendono dalla vostra conoscenza degli strumenti a disposizione per poterlo fare, quindi è fondamentale sentire più volte l'help.
 L'Help si può richiamare con CntrlH (contrl + h) in qualunque momento del gioco, in modo che si può ricordare cosa fare per la situazione in corso
