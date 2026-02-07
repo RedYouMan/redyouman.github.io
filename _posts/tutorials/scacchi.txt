@@ -18,7 +18,7 @@ Il programma scacchiNV versione 1.1 consente:
 14 - fare Abbandono da parte del re (CntrlL)
  15 - scegliere di giocare contro il computer (CntrlZ)
 16 - scegliere il livello di gioco contro il computer
-17 - scrivere i problemi con un tracciato RoT per Non Vedenti  che informa sulla posizione in termini di descrizione del problema, disposizione dei pezzi del bianco e del nero, il punto di vista da cui giocare, il diritto di mossa, il numero di mossa di partenza
+17 - scrivere i problemi con una RoTnotation  per Non Vedenti  che informa sulla posizione in termini di descrizione del problema, disposizione dei pezzi del bianco e del nero, il punto di vista da cui giocare, il diritto di mossa, il numero di mossa di partenza
 18 - controllare i file dei problemi scritti a mano
 
 Tutte le possibilità di sopra, dipendono dalla vostra conoscenza degli strumenti a disposizione per poterlo fare, quindi è fondamentale sentire più volte l'help.
@@ -117,7 +117,7 @@ Cambio punto di vista di gioco
 Il cambio del punto di vista da cui giocare può essere fatto in qualunque momento della partita con CntrlG.
 
 Come si scrive un problema per scacchiNV
-Per scrivere con Notepad un file di problemi a mano con estensione .txt da porre sotto la directory problemi, occorrre seguire il tracciato RoT per l'occasione definito, semplice.
+Per scrivere con Notepad un file di problemi a mano con estensione .txt da porre sotto la directory problemi, occorrre seguire la RoTnotation  per l'occasione definita: 
 T: rappresenta il titolo. Ad esempio:
 T:Il nero muove e matta in 10 mosse.
 Segue il record V: che può valere B o N seguito da punto e virgola. Esso rappresenta il punto di vista da cui giocare.
@@ -136,6 +136,8 @@ Fate attenzione a tutti i tipi di record di sopra. Ad esempio se M:B e giocate u
 
 Il programma controlla molte cose se scritte in modo impreciso, naturalmente se fate l'errore di mettere in Bianco la posizione Ac5 e lo fate anche per il Nero, vi troverete solo l'alfiere nero, ovvero l'ultima istruzione data sul pezzo.  
 In altri termini gli errori di logica non li può correggere.
+Ci sono altri record gestiti in modo indiretto dal programma per le sospensioni tra cui anche la presenza di enpassant che si potrebbe utilizzare alla ripresa di gioco.
+I record indirettamente gestiti dal programma non vengono documentati dato che sono competenza solo del programma.
 
 Regole di gioco
 Per le regole coinvolte potreste consultare Wikipedia.
