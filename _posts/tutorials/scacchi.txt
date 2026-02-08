@@ -76,6 +76,7 @@ Ifile di sospensione verranno posti dal programma nella directory sospensioni e 
 La sospensione con un nome deciso da voi vi può permettere di poter giocare più partite con vari amici e ricaricando,poi, solo quella relativa all'amico che vi ha comunicato la sua mossa.
  
 Navigazione
+La navigazione è possibile tramite le frecce su, giù, destra e sinistra. Non è visibile attualmente la scacchiera ma la navigazione è udibile con NVDA.
 Si consiglia durante la navigazione di attendere sempre un secondo per ascoltare nome della casa e presenza o meno di un pezzo.
 Attenzione che occorre usare il RETURN sia per selezionare il pezzo che per indicare la casa dove metterlo.
 
@@ -109,6 +110,7 @@ Se volessimo giocare col computer in modo che questi avesse il nero:
 - avviare il programma (anche da CntrlN)
 - CntrlZ e rispondere alla domanda in modo che il computer abbia il nero
 Scegliamo, poi, il livello con cui giocare. 
+
 Problemi da caricare
 I problemi potreste copiarli dalla settimana enigmistica, da un libro facendovi aiutare, oppure inventarli. Ovviamente dovrete riportare la posizione nel formato RoT su un file txt, come spiegheremo di seguito.
 Degli esempi sono problema1.txt e problema2.txt  fornitovi nella directori problemi e caricabili o consultabili con un NOTEPAD (Attenzione a non modificarli, eventualmente li avete ancora nello zip nella versione originale).
@@ -137,7 +139,17 @@ Fate attenzione a tutti i tipi di record di sopra. Ad esempio se M:B e giocate u
 Il programma controlla molte cose se scritte in modo impreciso, naturalmente se fate l'errore di mettere in Bianco la posizione Ac5 e lo fate anche per il Nero, vi troverete solo l'alfiere nero, ovvero l'ultima istruzione data sul pezzo.  
 In altri termini gli errori di logica non li può correggere.
 Ci sono altri record gestiti in modo indiretto dal programma per le sospensioni tra cui anche la presenza di enpassant che si potrebbe utilizzare alla ripresa di gioco.
-I record indirettamente gestiti dal programma non vengono documentati dato che sono competenza solo del programma.
+
+Qui citiamo solo il record di enpassant U:che potrebbe essere utile nel problema.
+Immaginate che il problema menzioni che un pedone in c2 del Bianco è stato mosso di due passi in c4, affiancando un pedone nero in b4 e che alla prima mossa del problema,  il nero deve decidere se prendere il pedone in c4 con enpassant oppure fare altra mossa.
+Per segnalare nel problema questa evenienza, possiamo mettere alla fine della RoT notation:
+U:b4c4
+Se oltre a b4 ci fosse anche un pedone nero in a4, allora:
+U:b4a4c4
+
+Ovvero si elencano prima i pedoni che hanno la possibilità di fare la cattura, poi il pedone catturabile.
+
+Gli altri record indirettamente gestiti dal programma non vengono documentati dato che sono competenza solo del programma.
 
 Regole di gioco
 Per le regole coinvolte potreste consultare Wikipedia.
