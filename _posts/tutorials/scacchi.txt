@@ -25,27 +25,28 @@ Il programma scacchiNV consente:
 20 - leggere il tutorial
 
 Tutte le possibilità di sopra, dipendono dalla vostra conoscenza degli strumenti a disposizione per poterlo fare, quindi è fondamentale sentire più volte l'help.
-L'Help si può richiamare con CntrlH (contrl + h) in qualunque momento del gioco, in modo che si può ricordare cosa fare per la situazione in corso
+L'Help si può richiamare con CntrlH (contrl + h) in qualunque momento del gioco, in modo che si può ricordare cosa fare per la situazione in corso.
 
 Nomi dei comandi da ricordare
 I nomi dei controls sono tali da avere l'ultima lettera che stimoli una associazione di idee per ricordarli:
-H per help o aiuto
-W per write/registrare
-U per ultima mossa
-P per i problemi
-S per sospendere
-R per riprendere
-L per lasciare o abbandonare
-O per lo stupore di chiedere patta per stallo
-T per una totale visione mentale dei pezzi
-G per giocare da un altro punto di vista: bianco o nero
-Z per giocare contro il computer (zombie)
-J per usare il Jolly del computer per risolvere i problemi
-X per avere questa introduzione
-N per nuova partita
-Q per uscire (quit)
+- H per help o aiuto
+- W per write/registrare
+- U per ultima mossa
+P-  per i problemi
+- S per sospendere
+- R per riprendere
+- L per lasciare o abbandonare
+- O per lo stupore di chiedere patta per stallo
+- T per una totale visione mentale dei pezzi
+- G per giocare da un altro punto di vista: bianco o nero
+- Z per giocare contro il computer (zombie)
+- J per usare il Jolly del computer per risolvere i problemi
+- X per avere questa introduzione
+- N per nuova partita
+- Q per uscire (quit)
 
 Installazione
+Si seguono i seguenti step:
 1 - unzippare in Desktop lo zip in modo che vi crei la directory scacchi
 2 - scacchiNV.exe è l'eseguibile da lanciare
 3 - per lanciare scacchiNV.exe potete o crearvi un link ad esso sul desktop oppure lanciarlo da linea di comando della console.
@@ -59,11 +60,11 @@ Se, invece, vorreste un collegamento all'eseguibile direttamente sul desktop, ba
 D'ora in poi avrete due modi per lanciarlo o cliccare sul link se l'avete creato oppure usate il metodo della console.
  
 Nomi dei file
-Per i nomi dei file che vi verranno richiesti per la registrazione,   della partita o la sua momentanea sospensione dovrete mantenere un
+Per i nomi dei file che vi verranno richiesti per la registrazione,   della partita o la sua momentanea sospensione, dovrete mantenere un
 vostro metodo per ricordare a cosa si riferiscono.
 Noi consigliamo semplicemente  di usare per la registrazione una  abbreviazione di nome e cognome dei due giocatori seguita da data. Ad esempio se giocate il12 febbraio 2026 tra Giuseppe Rivieccio e Carlo Cavour potreste chiamare il file
 giurivcarcav12022026, senza estensione. Sarà il  programma che aggiungerà l'estensione  .txt.
-Il file verrà aperto nella directory registrazioni.e alla ripresa dovrete solo ricordarne il nome.
+Il file verrà aperto nella directory registrazioni. Alla ripresa dovrete solo ricordarne il nome.
 
 Per i nomi dei problemi che create, potreste solamente numerarli: problema1.txt  etc
 Per le partite sospese è sufficiente un nome come sospesa senza estensione a cui provvederà il programma. Tale file non dovrete preoccuparvi di cancellarlo se sospendete ancora la partita e usate lo stesso nome, difatti esso  verrà rimosso al suo caricamento successivo.
@@ -113,11 +114,6 @@ Se vogliamo ascoltare l'analisi del computer nel risolver un problema:
 - avviare il programma
 - fare CntrlJ e inserire il nome del problema
 - ascoltare l'analisi
-
-Se volessimo giocare col computer in modo che questi avesse il nero:
-- avviare il programma (anche da CntrlN)
-- CntrlZ e rispondere alla domanda in modo che il computer abbia il nero
-Scegliamo, poi, il livello con cui giocare. 
 
 Problemi da caricare
 I problemi potreste copiarli dalla settimana enigmistica, da un libro facendovi aiutare, oppure inventarli. Ovviamente dovrete riportare la posizione nel formato RoT su un file txt, come spiegheremo di seguito.
@@ -171,7 +167,7 @@ Per le regole coinvolte potreste consultare Wikipedia.
 Conclusione
 Al momento l'introduzione si ferma qui. Se avete bisogno di altre info, scrivete alla email che trovate sul blog.
 Eventuali altri versioni rilasciate vedranno anche l'aggiornamento di questa guida.
-Per segnalazioni di bug potreste inviare la posizione dei pezzi attraverso il file di sospensione della partita, segnalando anche la versioen di scacchiNV.
+Per segnalazioni di bug potreste inviare la posizione dei pezzi attraverso il file di sospensione della partita, segnalando anche la versione di scacchiNV.
 
 Ultimo suggerimento
 Potreste usare il programma per registrare la partita, studiarvi le mosse da fare, sospendere la partita per  poi mandare con altro strumento, ad esempio  email, whatsapp web o desktop, la mossa al vostro amico,e quando anche lui vi risponderà su whatsapp, riprendete la partita e studiate la nuova mossa.
