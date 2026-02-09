@@ -1,7 +1,8 @@
 GIOCO DEGLI SCACCHI
+E' stata rilasciata la nuova versione scacchiNV 2.0, per verificare la vostra versione ascoltate quando parte il programma oppure digitate CntrlH.
 
 In questo tutorial faremo una Introduzione al programma scacchiNv, un programma tipicamente a linea di comando, ascoltabile con NVDA, e consigliato ai non vedenti.
-Il programma scacchiNV versione 1.1 consente:
+Il programma scacchiNV consente:
 1 - di navigare sulla scacchiera dando informazioni di pezzi e case vuote
 2 - scegliere il punto di vista da cui giocare
 3 - inserire le mosse del Bianco e del Nero
@@ -19,7 +20,9 @@ Il programma scacchiNV versione 1.1 consente:
  15 - scegliere di giocare contro il computer (CntrlZ)
 16 - scegliere il livello di gioco contro il computer
 17 - scrivere i problemi con una RoTnotation  per Non Vedenti  che informa sulla posizione in termini di descrizione del problema, disposizione dei pezzi del bianco e del nero, il punto di vista da cui giocare, il diritto di mossa, il numero di mossa di partenza
-18 - controllare i file dei problemi scritti a mano
+18 - controllare la correttezza dei file dei problemi scritti a mano
+19 - far risolvere i problemi al computer
+20 - leggere il tutorial
 
 Tutte le possibilità di sopra, dipendono dalla vostra conoscenza degli strumenti a disposizione per poterlo fare, quindi è fondamentale sentire più volte l'help.
 L'Help si può richiamare con CntrlH (contrl + h) in qualunque momento del gioco, in modo che si può ricordare cosa fare per la situazione in corso
@@ -36,7 +39,8 @@ L per lasciare o abbandonare
 O per lo stupore di chiedere patta per stallo
 T per una totale visione mentale dei pezzi
 G per giocare da un altro punto di vista: bianco o nero
-Z per giocare contro il cumputer (zombie)
+Z per giocare contro il computer (zombie)
+J per usare il Jolly del computer per risolvere i problemi
 X per avere questa introduzione
 N per nuova partita
 Q per uscire (quit)
@@ -59,14 +63,14 @@ Per i nomi dei file che vi verranno richiesti per la registrazione,   della part
 vostro metodo per ricordare a cosa si riferiscono.
 Noi consigliamo semplicemente  di usare per la registrazione una  abbreviazione di nome e cognome dei due giocatori seguita da data. Ad esempio se giocate il12 febbraio 2026 tra Giuseppe Rivieccio e Carlo Cavour potreste chiamare il file
 giurivcarcav12022026, senza estensione. Sarà il  programma che aggiungerà l'estensione  .txt.
-Il file verrà aperto nella directory registrazioni.
+Il file verrà aperto nella directory registrazioni.e alla ripresa dovrete solo ricordarne il nome.
 
-Per i problemi potreste solamente numerarli: problema1.txt  etc
+Per i nomi dei problemi che create, potreste solamente numerarli: problema1.txt  etc
 Per le partite sospese è sufficiente un nome come sospesa senza estensione a cui provvederà il programma. Tale file non dovrete preoccuparvi di cancellarlo se sospendete ancora la partita e usate lo stesso nome, difatti esso  verrà rimosso al suo caricamento successivo.
 Fate attenzione quando vi viene richiesto il nome del file desiderato, dato che viene precisato di NON mettere l'estensione.
 
 Quando vi vengono richieste informazioni
-Quando scacchiNV vi chiede informazioni, dopo aver risposto adeguatamente alla domanda, occorre premere return.
+Se scacchiNV vi chiede informazioni, dopo aver risposto adeguatamente alla domanda, occorre premere return.
 
 Directory DEI PROBLEMI E DELLE SOSPENSIONI
 I problemi vanno posti nella directori problemi e devono avere estensione .txt quando li create col NOTEPAD a mano. 
@@ -98,13 +102,17 @@ Supponiamo che vogliamo giocare gestendo bianco e nero    liberamente,per attend
 - il programma avvia la nuova predisposizione dei pezzi
 - Facciamo ora CntrlG per avereil punto di vista nero da cui giocare
 
-Se volessimo giocare col computer e che questi avesse il bianco: 
-In sequenza dovremo fare:
+Se volessimo giocare col computer e che questi avesse il bianco, in sequenza dovremo fare:
 - avviare il programma(anche da CntrlN)
 -CntrlZ
 Ci chiederà con che colore deve giocare il computer e ci assegnerà il punto di vista relativo per giocarci contro.
 La seconda domanda che ci farà è il livello di gioco desiderato (da 1 a 20).
  Le partite col computer non si registrano. Si possonoregistrare le partite contro gli amici nello scenario precedente.
+
+Se vogliamo ascoltare l'analisi del computer nel risolver un problema:
+- avviare il programma
+- fare CntrlJ e inserire il nome del problema
+- ascoltare l'analisi
 
 Se volessimo giocare col computer in modo che questi avesse il nero:
 - avviare il programma (anche da CntrlN)
@@ -115,14 +123,20 @@ Problemi da caricare
 I problemi potreste copiarli dalla settimana enigmistica, da un libro facendovi aiutare, oppure inventarli. Ovviamente dovrete riportare la posizione nel formato RoT su un file txt, come spiegheremo di seguito.
 Degli esempi sono problema1.txt e problema2.txt  fornitovi nella directori problemi e caricabili o consultabili con un NOTEPAD (Attenzione a non modificarli, eventualmente li avete ancora nello zip nella versione originale).
 
+Analisi problemi da parte del computer
+E' utile ascoltare come il computer affronta i problemi, sia quelli inventati da noi che quelli proposti altrove.
+Nel caso di nostri problemi, il computer potrebbe evidenziare delle cose a cui non avevamo pensato. Non sempre il computer è fortemente brillante nelle combinazioni, ma nella maggior parte delle analisi è molto preciso.
+Ad esempio nel problema1 (problema Bromen) le mosse migliori sono:
+1 Dc6+ - Cxd6: 2 Af4# dando matto
+
 Cambio punto di vista di gioco
 Il cambio del punto di vista da cui giocare può essere fatto in qualunque momento della partita con CntrlG.
 
 Come si scrive un problema per scacchiNV
 Per scrivere con Notepad un file di problemi a mano con estensione .txt da porre sotto la directory problemi, occorrre seguire la RoTnotation  per l'occasione definita: 
 T: rappresenta il titolo. Ad esempio:
-T:Il nero muove e matta in 10 mosse.
-Segue il record V: che può valere B o N seguito da punto e virgola. Esso rappresenta il punto di vista da cui giocare.
+T:Il nero muove e matta in 3 mosse.
+Segue il record V: che può valere B o N seguito da punto e virgola. Esso rappresenta il punto di vista da cui giocare.E' obbligatoria la sua presenza prima dei record B: e N:
 La disposizione dei pezzi coinvolge i record B: e N:
 B: riguarda il bianco 
 N: riguarda il Nero
@@ -137,10 +151,10 @@ P: il numero di mossa di partenza che può essere 0 se inventate il problema opp
 Fate attenzione a tutti i tipi di record di sopra. Ad esempio se M:B e giocate un pezzo nero per prima vi dirà che non potete usare quel colore.
 
 Il programma controlla molte cose se scritte in modo impreciso, naturalmente se fate l'errore di mettere in Bianco la posizione Ac5 e lo fate anche per il Nero, vi troverete solo l'alfiere nero, ovvero l'ultima istruzione data sul pezzo.  
-In altri termini gli errori di logica non li può correggere.
+In altri termini gli errori di logica scacchiNV non li può correggere.
 Ci sono altri record gestiti in modo indiretto dal programma per le sospensioni tra cui anche la presenza di enpassant che si potrebbe utilizzare alla ripresa di gioco.
 
-Qui citiamo solo il record di enpassant U:che potrebbe essere utile nel problema.
+Qui citiamo solo il record di enpassant U: che potrebbe essere utile nei problemi.
 Immaginate che il problema menzioni che un pedone in c2 del Bianco è stato mosso di due passi in c4, affiancando un pedone nero in b4 e che alla prima mossa del problema,  il nero deve decidere se prendere il pedone in c4 con enpassant oppure fare altra mossa.
 Per segnalare nel problema questa evenienza, possiamo mettere alla fine della RoT notation:
 U:b4c4
@@ -157,6 +171,7 @@ Per le regole coinvolte potreste consultare Wikipedia.
 Conclusione
 Al momento l'introduzione si ferma qui. Se avete bisogno di altre info, scrivete alla email che trovate sul blog.
 Eventuali altri versioni rilasciate vedranno anche l'aggiornamento di questa guida.
+Per segnalazioni di bug potreste inviare la posizione dei pezzi attraverso il file di sospensione della partita, segnalando anche la versioen di scacchiNV.
 
 Ultimo suggerimento
 Potreste usare il programma per registrare la partita, studiarvi le mosse da fare, sospendere la partita per  poi mandare con altro strumento, ad esempio  email, whatsapp web o desktop, la mossa al vostro amico,e quando anche lui vi risponderà su whatsapp, riprendete la partita e studiate la nuova mossa.
