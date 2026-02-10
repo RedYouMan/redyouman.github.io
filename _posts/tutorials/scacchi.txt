@@ -1,5 +1,5 @@
 GIOCO DEGLI SCACCHI
-E' stata rilasciata la nuova versione scacchiNV 2.0, per verificare la vostra versione ascoltate quando parte il programma oppure digitate CntrlH.
+E' stata rilasciata la nuova versione scacchiNV 2.1, per verificare la vostra versione ascoltate quando parte il programma oppure digitate CntrlH.
 
 In questo tutorial faremo una Introduzione al programma scacchiNv, un programma tipicamente a linea di comando, ascoltabile con NVDA, e consigliato ai non vedenti.
 Il programma scacchiNV consente:
