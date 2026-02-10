@@ -117,13 +117,12 @@ Se vogliamo ascoltare l'analisi del computer nel risolver un problema:
 
 Problemi da caricare
 I problemi potreste copiarli dalla settimana enigmistica, da un libro facendovi aiutare, oppure inventarli. Ovviamente dovrete riportare la posizione nel formato RoT su un file txt, come spiegheremo di seguito.
-Degli esempi sono problema1.txt e problema2.txt  fornitovi nella directori problemi e caricabili o consultabili con un NOTEPAD (Attenzione a non modificarli, eventualmente li avete ancora nello zip nella versione originale).
+Un esempio fornitovi è problema1.txt nella directori problemi e caricabile con CntrlP. 
 
 Analisi problemi da parte del computer
 E' utile ascoltare come il computer affronta i problemi, sia quelli inventati da noi che quelli proposti altrove.
 Nel caso di nostri problemi, il computer potrebbe evidenziare delle cose a cui non avevamo pensato. Non sempre il computer è fortemente brillante nelle combinazioni, ma nella maggior parte delle analisi è molto preciso.
-Ad esempio nel problema1 (problema Bromen) le mosse migliori sono:
-1 Dc6+ - Cxd6: 2 Af4# dando matto
+
 
 Cambio punto di vista di gioco
 Il cambio del punto di vista da cui giocare può essere fatto in qualunque momento della partita con CntrlG.
