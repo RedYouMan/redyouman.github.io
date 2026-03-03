@@ -47,6 +47,18 @@ Maggiori dettagli però sono nel tutorial.
 
 Tutorial con CntrlX
 Questo tutorial è attivabile anche da programma scacchi con CntrlX.
+Installazione
+Si seguono i seguenti step:
+1 - unzippare in Desktop lo zip in modo che vi crei la directory scacchiGr.
+Tale operazione la potreste fare Alt-E return per "Esplora file", andare sullo zip e con Fn+"menu contestuale" e cercare 7zip per fare Estrai qui. 
+2 - scacchi.exe è l'eseguibile da lanciare
+3 - per lanciare scacchi.exe potreste lanciarlo sempre da "Esplora file" oppure lanciarlo da linea di comando della console.
+Per comodità ricordiamo che dopo aver aperto la console con Tasto Start + c + enter,
+dovete digitare:
+cd Desktop 
+cd scacchiGr
+ora digitate scacchi
+l'ultimo comando farà partire il programma.
 
 Navigazione
 La navigazione consente al non vedente di esplorare tutta la scacchiera tramite le frecce su, giù, destra e sinistra. Per i vedenti è possibile l'uso del mouse.
@@ -56,20 +68,6 @@ Attenzione che occorre usare il RETURN sia per selezionare il pezzo che per indi
 
 Tempi di attesa con mouse o tasti
 Essendo un gioco dedicato ai non vedenti, esiste sempre 1 secondo di ritardoper individuare se la casa è vuota o con presenza di pezzo da menzionare.
-
-Installazione
-Si seguono i seguenti step:
-1 - unzippare in Desktop lo zip in modo che vi crei la directory scacchiGr.
-2 - scacchi.exe è l'eseguibile da lanciare
-3 - per lanciare scacchi.exe potete o crearvi un link ad esso sul desktop oppure lanciarlo da linea di comando della console.
-Per comodità ricordiamo che dopo aver aperto la console con Tasto Start + c + enter,
-dovete digitare:
-cd Desktop 
-cd scacchiGr
-ora digitate scacchi
-l'ultimo comando farà partire il programma.
-Se, invece, vorreste un collegamento all'eseguibile direttamente sul desktop, basta che selezionate da "esplora file" scacchi.exe e da tasto menu contestuale trovate la voce "crea collegamento".
-D'ora in poi avrete due modi per lanciarlo o cliccare sul link se l'avete creato oppure usate il metodo della console.
 
 Inserimento Informazioni
 Se siete sulla parte  grafica di scacchi, per andare su console e inserire le informazioni richieste usate alt+tab che vi permette di spostarvi tra le finestre. Dopo sempre con alt+tab ritornate sulla grafica di scacchi.
@@ -167,6 +165,10 @@ Un esempio fornitovi è problema1.txt nella directori problemi e caricabile con 
 Analisi problemi da parte del computer
 E' utile ascoltare come il computer affronta i problemi, sia quelli inventati da noi che quelli proposti altrove.
 Nel caso di nostri problemi, il computer potrebbe evidenziare delle cose a cui non avevamo pensato. Non sempre il computer è fortemente brillante nelle combinazioni, ma nella maggior parte delle analisi è molto preciso.
+
+RoT Notation
+La RoT Notation che esamineremo di seguito è importante perchè su Internet le partite o i problemi mostrano solo immagini che un non vedente non può utilizzare. La RoT Notation descrive, più efficacemente di una FE Notation,  lo scopo della posizione, come sono dislocati tutti i pezzi, il punto di vista da cui mettersi, chi muove e il numero di mossa da cui partire. 
+Spero che la RoT notation abbia seguito tra gli redattori scacchistici e che, qualche bravo volontario, metta in rete, in Rot Notation, la maggior parte dei problemi famosi, producendo una problemsCollections per non vedenti.
 
 Come si scrive un problema per scacchiNV
 Per scrivere con Notepad un file di problemi a mano con estensione .txt da porre sotto la directory problemi, occorrre seguire la RoTnotation  per l'occasione definita: 
