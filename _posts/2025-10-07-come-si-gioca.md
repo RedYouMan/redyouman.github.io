@@ -19,7 +19,9 @@ categories: Blog
 La pagina havuole fornire brevi tutorial sui nostri giochi, per aiutare acomprendere lo scopo del gioco e come risolverlo al meglio. Si rivolge soprattutto a chi non ha mai affrontato la soluzione di un particolare gioco.
 Itutorial, quindi, sono orientati ai neofiti e non agli esperti, dando dei semplici consigli iniziali. Una volta apprese le tecniche elementari, in rete si potranno individuare video e articoli di natura più avanzata.
 
-[tutorial scacchi](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/tutorials/scacchi.txt)
+[tutorial scacchi grafico](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/tutorials/scacchiGr.txt)
+
+[tutorial scacchi alinea di comando](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/tutorials/scacchi.txt)
 
 [tutorial grattacieli](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/tutorials/grattacieli.txt)
 
