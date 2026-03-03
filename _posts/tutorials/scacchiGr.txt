@@ -50,7 +50,7 @@ Questo tutorial è attivabile anche da programma scacchi con CntrlX.
 Installazione
 Si seguono i seguenti step:
 1 - unzippare in Desktop lo zip in modo che vi crei la directory scacchiGr.
-Tale operazione la potreste fare Alt-E return per "Esplora file", andare sullo zip e con Fn+"menu contestuale" e cercare 7zip per fare Estrai qui. 
+Tale operazione la potreste fare Start+E + return per "Esplora file", andare sullo zip e con Fn+"menu contestuale" e cercare 7zip per fare Estrai qui. 
 2 - scacchi.exe è l'eseguibile da lanciare
 3 - per lanciare scacchi.exe potreste lanciarlo sempre da "Esplora file" oppure lanciarlo da linea di comando della console.
 Per comodità ricordiamo che dopo aver aperto la console con Tasto Start + c + enter,
