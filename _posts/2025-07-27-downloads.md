@@ -61,6 +61,8 @@ Fa eccezione la versione grafica di scacchi che non necessita di.NET di Microsof
 I giochi di questa sezione sono giochi a Linea di Comando,adatti solo per non vedenti, ascoltabili con NVDA oppure con Jasw. Essi possono essere direttamente usati senza installare .NET di Microsoft.
 Da notare che gli eseguibili di questa sezione hanno suffisso NV nel nome per diversificarli da quelli della sezione precedente.
 
+[scarica fenpos](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repolc/fenpos.exe)
+
 [scarica scacchi](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repolc/scacchi.7z)
 
 [scarica giocodel31](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repolc/game31NV.exe)
