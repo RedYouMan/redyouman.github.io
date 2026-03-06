@@ -3,7 +3,7 @@ GIOCO DEGLI SCACCHI
 Versione disponibile 
 Questo paragrafo del tutorial segnalerà sempre la presenza di eventuali nuove versioni migliorative.
 
-Sul sito esistw la versione 3.0 grafica di scacchi.
+Sul sito esiste la versione 3.1 grafica di scacchi.
 Per verificare la vostra versione ascoltate quando parte il programma oppure digitate CntrlH.
 
 Introduzioneal programma scacchi 3.0
