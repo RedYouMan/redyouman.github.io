@@ -25,7 +25,7 @@ Mai più bloccati davanti ad una immagine di scacchi o ad una fen!
 
 # **La fe notation (fen)**
 
-fu ideata daSteven J. Edwards estendendo il sistema Forsyth's ideato per l'uso del calcolatore. La sua forma,inizialmente, era dovuta al tentativo di risparmiare la quantità di memoria nel registrare delle informazioni.
+fu ideata daSteven J. Edwards estendendo il Forsyth'ssystem ideato per l'uso del calcolatore. La sua forma,inizialmente, era dovuta al tentativo di risparmiare la quantità di memoria nel registrare delle informazioni.
 Difatti i componenti di una stringa FEN (6 parti) sono:
 
 1. Posizione dei pezzi: Fila per fila (dall'8a alla 1a), lettere minuscole per il nero, maiuscole per il bianco, numeri per le case vuote.
@@ -35,7 +35,7 @@ Difatti i componenti di una stringa FEN (6 parti) sono:
    C'è da aggiungere che, per standard, all'atto della fotografia della posizione, essa contiene il valore della casa di cattura dovuta allo spostamento di due passi di un pedone, anche se non esiste nessun pedone avversario che possa usufruire dell'enpassant.
 5. Semi-mosse: Numero per la regola delle 50 mosse.
 6. Mosse totali: Numero di mosse della partita.
-   Per la semimossanella fen(quarto campo della stringa), come recita Wikipedia, è un contatore del numero di mezzi turni (mosse del Bianco
+   Per la semimossanella fen(quinto campo della stringa), come recita Wikipedia, è un contatore del numero di mezzi turni (mosse del Bianco
    o del Nero) effettuati dall'ultima cattura o spinta di pedone. Viene utilizzato per determinare la regola delle 50 mosse: se arriva a 100 (50 mosse complete), la partita può essere dichiarata patta.
    Esempi FEN:
    • Posizione iniziale: rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1.
