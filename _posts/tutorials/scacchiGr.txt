@@ -64,18 +64,19 @@ Navigazione
 La navigazione consente al non vedente di esplorare tutta la scacchiera tramite le frecce su, giù, destra e sinistra. Per i vedenti è possibile l'uso del mouse.
 La navigazione è udibile con NVDA.
 Si consiglia durante la navigazione di attendere sempre un secondo per ascoltare nome della casa e presenza o meno di un pezzo.
-Attenzione che occorre usare il RETURN sia per selezionare il pezzo che per indicare la casa dove metterlo.Analogamente col mouse.
+Attenzione che occorre usare il RETURN sia per selezionare il pezzo che per indicare la casa dove metterlo.
+Analogamente col mouse si usa il tasto sinistro per selezionare pezzo e casa destinazione.
 
 Tempi di attesa con mouse o tasti
 Essendo un gioco dedicato ai non vedenti, esiste sempre 1 secondo di ritardoper individuare se la casa è vuota o con presenza di pezzo da menzionare.
 
 Inserimento Informazioni
 Se siete sulla parte  grafica di scacchi, per andare su console e inserire le informazioni richieste usate alt+tab che vi permette di spostarvi tra le finestre. Dopo sempre con alt+tab ritornate sulla grafica di scacchi.
-Vi consigliamo di attendere che termini il vocale prima di spostarvi con Alt-Tab, per capire bene cosa fare.
+Vi consigliamo di attendere che termini il vocale prima di spostarvi con Alt-Tab, per capire bene cosa fare.Il programma rimane difatti in attesa. 
 Alt e Tab sono a sinistra della tastiera, con il Tab nella parte centrale della fila verticale dei tasti a sinistra ad inizio tastiera.
 L'Alt si trova a sinistra accanto alla barra spaziatrice.
 Nel passare da console a finestra scacchi, può accadere il messaggio "Scacchi non risponde" ma è solo per la perdita del focus momentaneamente. Appena ritornati sulla scacchiera tutto procede normalmente.
-Quando il programma vi chiede informazioni, dopo aver risposto adeguatamente alla domanda, occorre premere return.Poi di nuovo Alt-Tab per tornare alla scacchiera.
+Quando il programma vi chiederà informazioni, dopo aver risposto adeguatamente alla domanda, occorre premere return.Poi di nuovo Alt-Tab per tornare alla scacchiera.
 Solo nel caso della sospensione potreste scegliere tra varie cose: CntrlQ  per uscire o analizzare un problema (CntrlJ), risolvere un problema da soli (CntrlP) o anche ritornare sulla scacchiera e studiarsi cosa potrà rispondere l'amico.
 
 Nomi dei comandi da ricordare
@@ -156,7 +157,7 @@ Se volessimo ascoltare l'analisi del computer nel risolver un problema:
 - avviare il programma
 - fare CntrlJ e inserire il nome del problema
 - ascoltare l'analisi
-L'analisi avverrà su un massimo di dieci mosse.
+L'analisi avverrà su un massimo di dieci mosse e occorre attendere che il computer termini.
 
 Problemi da caricare
 I problemi potreste copiarli dalla settimana enigmistica, da un libro facendovi aiutare, oppure inventarli. Ovviamente dovrete riportare la posizione nel formato RoT su un file txt, come spiegheremo di seguito.
@@ -168,7 +169,7 @@ Nel caso di nostri problemi, il computer potrebbe evidenziare delle cose a cui n
 
 RoT Notation
 La RoT Notation che esamineremo di seguito è importante perchè su Internet le partite o i problemi mostrano solo immagini che un non vedente non può utilizzare. La RoT Notation descrive, più efficacemente di una FE Notation,  lo scopo della posizione, come sono dislocati tutti i pezzi, il punto di vista da cui mettersi, chi muove e il numero di mossa da cui partire. 
-Spero che la RoT notation abbia seguito tra gli redattori scacchistici e che, qualche bravo volontario, metta in rete, in Rot Notation, la maggior parte dei problemi famosi, producendo una problemsCollections per non vedenti.
+Spero che la RoT notation abbia seguito tra i redattori scacchistici che si rendano conto del problema.
 
 Come si scrive un problema per scacchiNV
 Per scrivere con Notepad un file di problemi a mano con estensione .txt da porre sotto la directory problemi, occorrre seguire la RoTnotation  per l'occasione definita: 
@@ -182,6 +183,7 @@ Attaccati ai due punti ci sono i pezzi separati da punti e virgola.
 Ad esempio B:Re1;Ac4;Td1;Dd8;Cg3;Pd6;
 Come potete notare le iniziali sono quelle dei pezzi in italiano e P è usata per il pedone.
 Lostesso vale per il Nero. La prima lettera riguarda il pezzo, dove: A=alfiere, T=Torre,C=cavallo,D=donna,R=Re,P=pedone.
+Il nostro programma usa solo le lettere in italiano, ma la rot notation può, in generale, usare anche le lettere inglesi dei pezzi. 
 Dopo la lettera iniziale vi è la casella che indica dove va posizionato il pezzo.
 
 M: dice chi deve muovere per prima (B per bianco e N per Nero) 
@@ -209,7 +211,7 @@ Per le regole coinvolte potreste consultare Wikipedia.
 Conclusione
 Al momento l'introduzione si ferma qui. Se avete bisogno di altre info, scrivete alla email che trovate sul blog.
 Eventuali altri versioni rilasciate vedranno anche l'aggiornamento di questa guida.
-Per segnalazioni di bug potreste inviare la posizione dei pezzi attraverso il file di sospensione della partita, segnalando anche la versione di scacchiNV.
+Per segnalazioni di bug potreste inviare la posizione dei pezzi attraverso il file di sospensione della partita, segnalando anche la versione di scacchi che state usando.
 
 Ultimo suggerimento
 Potreste usare il programma per registrare la partita, studiarvi le mosse da fare, sospendere la partita per  poi mandare con altro strumento, ad esempio  email, whatsapp web o desktop, la mossa al vostro amico,e quando anche lui vi risponderà su whatsapp, riprendete la partita e studiate la nuova mossa.
