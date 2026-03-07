@@ -35,6 +35,8 @@ Difatti i componenti di una stringa FEN (6 parti) sono:
    C'è da aggiungere che, per standard, all'atto della fotografia della posizione, essa contiene il valore della casa di cattura dovuta allo spostamento di due passi di un pedone, anche se non esiste nessun pedone avversario che possa usufruire dell'enpassant.
 5. Semi-mosse: Numero per la regola delle 50 mosse.
 6. Mosse totali: Numero di mosse della partita.
+   Per la semimossanella fen(quarto campo della stringa), come recita Wikipedia, è un contatore del numero di mezzi turni (mosse del Bianco
+   o del Nero) effettuati dall'ultima cattura o spinta di pedone. Viene utilizzato per determinare la regola delle 50 mosse: se arriva a 100 (50 mosse complete), la partita può essere dichiarata patta.
    Esempi FEN:
    • Posizione iniziale: rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1.
    • Dopo 1.e4 c5 2.Ch8f3:
@@ -55,13 +57,27 @@ Essa è costituita dai campi descritti di seguito nella tabella.
 |                M: |           6 |                                             turno di mossa : B o N |
 |                P: |           7 |                  numero di mossa ricavato dalla fen diminuito di 1 |
 
+Le lettere dei pezzi possono essere in italiano, come fa il nostro programma di scacchi , oppure in inglese (non sono trattate dal programma).
 L'utilità del campo U: nasce dall'esigenza che, alla ripresa della partita, viene segnalato al cieco la possibilità dell'enpassant.
 Sul campo U:, inoltre, occorre una precisazione, meglio fare due esempi.
-Se ci sono due pedoni neri nelle case b4 e d4 e il bianco muove c4, allora entrambi i pedoni neri potrebbero usufruire dell'enpassant, per cui:
+Se ci fossero due pedoni neri nelle case b4 e d4 e il bianco muove c4, allora entrambi i pedoni neri potrebbero usufruire dell'enpassant, per cui:
 U:b4d4c4;
 Sono elencate prima le case dei pedoni che possono fare la cattura e, poi, la casa del pedone da catturare per enpassant
 Se ci fosse un pedone bianco in h5 e il nero giocasse g5 allora
 U:h5g5;
+
+# **Mapping pezzi in italiano-inglese**
+
+Nel seguito presentiamo una tabella di mapping delle lettere dei pezzi in italiano e inglese.
+
+| lettera it. | lettera en. |
+| ----------: | ----------: |
+|     T=torre |      R=rook |
+|   C=cavallo |    N=kNight |
+|   A=Alfiere |    B=bishop |
+|     D=donna |     Q=queen |
+|        R=re |      K=king |
+|    P=pedone |      P=pawn |
 
 # **Come tradurre una fen in rotn?**
 
