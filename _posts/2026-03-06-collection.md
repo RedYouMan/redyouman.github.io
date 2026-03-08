@@ -42,7 +42,7 @@ Difatti i componenti di una stringa FEN (6 parti) sono:
    • Dopo 1.e4 c5 2.Ch8f3:
    rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2.
 
-# **La rot nottation**
+# **La chess rot nottation**
 
 Il nome rotn discende dal nome dell'autore del programma di scacchi su questo sito (Rosario Turco. In particolare per il programma scacchi vedi pagina di download sezione grafica.)
 Essa è costituita dai campi descritti di seguito nella tabella.
