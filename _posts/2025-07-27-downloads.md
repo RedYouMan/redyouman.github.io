@@ -26,7 +26,9 @@ Inoltre nella sezione strumenti di ausilio, troverete strumenti utili come ad es
 ## _Download giochi grafici_
 
 Questa sezione conterrà giochi utilizzabili da vedenti e non vedenti e richiedel'installazione di .NET di Microsoft.
-Fa eccezione la versione grafica di scacchi che non necessita di.NET di Microsoft.
+
+Fa eccezione la versione grafica di scacchi che non necessita di.NET di Microsoft, ma del pacchetto ridistribuibile di Visual Studio C++, ultima versione
+(per il suo download consultare https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#latest-supported-redistributable-version).
 
 [scarica scacchi](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/scacchiGr.7z)
 
