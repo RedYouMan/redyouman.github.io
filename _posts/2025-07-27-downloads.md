@@ -14,7 +14,7 @@ keywords:
 categories: Blog
 ---
 
-# **DOWNLOADS**
+# _DOWNLOADS_
 
 Nel seguito troverete la licenza per tutti i giochi, le versioni stabili dei giochi grafici e dei giochi a Linea di Comando.
 Inoltre nella sezione strumenti di ausilio, troverete strumenti utili come ad esempio un lettore di file di testo con To Speech e qualche semplice corso di utilizzo della tastiera e di NVDA per non vedenti.
@@ -23,14 +23,16 @@ Inoltre nella sezione strumenti di ausilio, troverete strumenti utili come ad es
 
 [scarica licenza](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/MITlicence.pdf)
 
-## _Download giochi grafici_
+## _Download giochi grafici (C++)_
+
+Questa sezione conterrà giochi grafici per ambienti C++ e per poterli giocare è necessario precedentemente installare o, metodo più semplice, Visual Studio Community 2022 con SDK scelto nel piano di lavoro dell'installer,in modo da avere tutte le dll necessarie, oppure per la propria architettura del pc occorre individuare e installare il pacchetto ridistribuibile di Visual Studio C++, ultima versione
+(consultare https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#latest-supported-redistributable-version).
+
+[scarica scacchi](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/scacchiGr.7z)
+
+## _Download giochi grafici (C#)_
 
 Questa sezione conterrà giochi utilizzabili da vedenti e non vedenti e richiedel'installazione di .NET di Microsoft.
-
-Fa eccezione la versione grafica di scacchi che non necessita di.NET di Microsoft, ma del pacchetto ridistribuibile di Visual Studio C++, ultima versione
-(per il suo download consultare https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#latest-supported-redistributable-version).
-Tuttavia una alternativa molto valida e semplice, invece, è l'installazione di Visual Studio Community 2022 col sdk (obbligatorio per avere tutte le dll necessarie per la redistribuzione).
-[scarica scacchi](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/scacchiGr.7z)
 
 [scarica briscola](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/briscola.exe)
 

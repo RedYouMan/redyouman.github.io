@@ -44,7 +44,7 @@ Difatti i componenti di una stringa FEN (6 parti) sono:
 
 # **La chess rot nottation**
 
-Il nome rotn discende dal nome dell'autore del programma di scacchi su questo sito (Rosario Turco. In particolare per il programma scacchi vedi pagina di download sezione grafica.)
+Il nome rotn discende dal nome dell'autore del programma di scacchi su questo sito (Rosario Turco. In particolare per il programma scacchi vedi pagina di download sezione grafica (C++).)
 Essa è costituita dai campi descritti di seguito nella tabella.
 
 | campo da scrivere |   posizione |                                                        significato |
@@ -57,7 +57,10 @@ Essa è costituita dai campi descritti di seguito nella tabella.
 |                M: |           6 |                                             turno di mossa : B o N |
 |                P: |           7 |                  numero di mossa ricavato dalla fen diminuito di 1 |
 
-Le lettere dei pezzi possono essere in italiano, come fa il nostro programma di scacchi , oppure in inglese (non sono trattate dal programma).
+Per quanto riguarda P: potreste mettere anche 0, in modo che, nel caso dei problemi, la numerazione coincide alla fine colnumero di mosse per risolvere il problema.
+
+Le lettere che individuano il tipo di pezzo possono essere in italiano o in inglese, ma il nostro programma scacchi utilizza solo lettere in italiano.
+
 L'utilità del campo U: nasce dall'esigenza che, alla ripresa della partita, viene segnalato al cieco la possibilità dell'enpassant.
 Sul campo U:, inoltre, occorre una precisazione, meglio fare due esempi.
 Se ci fossero due pedoni neri nelle case b4 e d4 e il bianco muove c4, allora entrambi i pedoni neri potrebbero usufruire dell'enpassant, per cui:
