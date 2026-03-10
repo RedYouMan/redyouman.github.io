@@ -26,6 +26,7 @@ Inoltre nella sezione strumenti di ausilio, troverete strumenti utili come ad es
 ## _Download giochi grafici (C++)_
 
 Questa sezione conterrà giochi grafici per ambienti C++ autosufficienti, senza dover installare nessun pacchetto preventivamente.
+I giochi sono adatti a vedenti e non vedenti.
 
 [scarica scacchi](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/scacchiGr.7z)
 
