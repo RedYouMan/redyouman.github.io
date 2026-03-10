@@ -25,10 +25,14 @@ Inoltre nella sezione strumenti di ausilio, troverete strumenti utili come ad es
 
 ## _Download giochi grafici (C++)_
 
-Questa sezione conterrà giochi grafici per ambienti C++ e per poterli giocare è necessario precedentemente installare o, metodo più semplice, Visual Studio Community 2022 con SDK scelto nel piano di lavoro dell'installer,in modo da avere tutte le dll necessarie, oppure per la propria architettura del pc occorre individuare e installare il pacchetto ridistribuibile di Visual Studio C++, ultima versione
-(consultare: https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#latest-supported-redistributable-version)
+Questa sezione conterrà giochi grafici per ambienti C++ autosufficienti, senza dover installare nessun pacchetto preventivamente.
 
 [scarica scacchi](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/scacchiGr.7z)
+
+Nota: nel caso remoto di problemi nel lancio di una di queste applicazioni, potreste scegliere tra due soluzioni:
+1 - installare, metodo più semplice, Visual Studio Community 2022 con SDK scelto nel piano di lavoro dell'installer,in modo da avere tutte le dll necessarie
+2 - installare il pacchetto ridistribuibile di Visual Studio C++, ultima versione
+(consultare: https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#latest-supported-redistributable-version)
 
 ## _Download giochi grafici (C#)_
 
