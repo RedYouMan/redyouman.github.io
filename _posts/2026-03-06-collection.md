@@ -58,7 +58,7 @@ Essa è costituita dai campi descritti di seguito nella tabella.
 |                P: |           7 |                  numero di mossa ricavato dalla fen diminuito di 1 |
 
 Per quanto riguarda P: potreste mettere anche 0, in modo che, nel caso dei problemi, la numerazione coincide alla fine colnumero di mosse per risolvere il problema.
-
+Nella soluzione dei problemi tale valore non è influente, serve di più nella registrazione della posizione nelle sospensione della partita.
 Le lettere che individuano il tipo di pezzo possono essere in italiano o in inglese, ma il nostro programma scacchi utilizza solo lettere in italiano.
 
 L'utilità del campo U: nasce dall'esigenza che, alla ripresa della partita, viene segnalato al cieco la possibilità dell'enpassant.
@@ -509,7 +509,7 @@ Non sbirciate la soluzione!
     M:B;
     P:1;
 
-enpassant 47. rnbqkbnr/pppppppp/8/8/1PPep3/5N2/PPP2PPP/RNBQKB1R w KQkq e3 0 3
+enpassant(fen dubbia: da notare che in N: ci sono sia pd7 che pd4) 47. rnbqkbnr/pppppppp/8/8/1PPep3/5N2/PPP2PPP/RNBQKB1R w KQkq e3 0 3
 Problema: Matto in 4 mosse. Bianco muove. Tema tattico nel gambit di donna accettato.
 T:Matto in quattro mosse
 V:B;
