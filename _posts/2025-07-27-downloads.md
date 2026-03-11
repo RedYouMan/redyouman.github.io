@@ -25,14 +25,14 @@ Inoltre nella sezione strumenti di ausilio, troverete strumenti utili come ad es
 
 ## _Download giochi grafici (C++)_
 
-Questa sezione conterrà giochi grafici per ambienti C++ , autosufficienti ovvero non sarà necessario preinstallare pacchetti redistribuibili.
+Questa sezione conterrà giochi offline grafici per ambienti C++ , autosufficienti ovvero non sarà necessario preinstallare pacchetti redistribuibili.
 I giochi sono adatti a vedenti e non vedenti.
 
 [scarica scacchi](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/scacchiGr.7z)
 
 ## _Download giochi grafici (C#)_
 
-Questa sezione conterrà giochi utilizzabili da vedenti e non vedenti e richiedel'installazione di .NET di Microsoft.
+Questa sezione conterrà giochi offline utilizzabili da vedenti e non vedenti e richiede l'installazione di .NET di Microsoft.
 
 [scarica briscola](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/briscola.exe)
 
@@ -62,7 +62,7 @@ Questa sezione conterrà giochi utilizzabili da vedenti e non vedenti e richiede
 
 ## _Download giochi a Linea di Comando_
 
-I giochi di questa sezione sono giochi a Linea di Comando,adatti solo per non vedenti, ascoltabili con NVDA oppure con Jasw. Essi possono essere direttamente usati senza installare .NET di Microsoft.
+I giochi di questa sezione sono giochi offline a Linea di Comando,adatti solo per non vedenti, ascoltabili con NVDA oppure con Jasw. Essi possono essere direttamente usati senza installare .NET di Microsoft.
 Da notare che gli eseguibili di questa sezione hanno suffisso NV nel nome per diversificarli da quelli della sezione precedente.
 
 [scarica fenpos](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repolc/fenpos.exe)
