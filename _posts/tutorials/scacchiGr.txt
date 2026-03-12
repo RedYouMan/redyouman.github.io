@@ -3,10 +3,11 @@ GIOCO DEGLI SCACCHI
 Versione disponibile 
 Questo paragrafo del tutorial segnalerà sempre la presenza di eventuali nuove versioni migliorative.
 
-Sul sito esiste la versione 3.2 grafica di scacchi.
+Sul sito esiste la versione 3.3 grafica di scacchi.
 Per verificare la vostra versione ascoltate quando parte il programma oppure digitate CntrlH.
+La versione 3.3 fissa un bug sulla registrazione, introduce una directory bin per avere dll, eseguibile e  file di configurazione più coperti da sviste dell'utilizzatore e introduce il file scacchi.cmd nella directory scacchiGr.
 
-Introduzioneal programma scacchi 3.0
+Introduzioneal programma scacchi 
 Esso è un programma ascoltabile con NVDA, e consigliato ai non vedenti, ma con grafica per consentire di giocare anche alle persone vedenti.
 Come si vedrà è soprattutto un programma di studio e analisi, adatto a partite dove si attende la risposta di un amico oppure per risolvere dei problemi o per giocare contro il computer.
 Questa caratteristica sottolinea la modalità non agonistica del programma e, quindi, non necessita di orologio per la misurazione del tempo per le risposte di ogni giocatore.
@@ -51,8 +52,8 @@ Installazione
 Si seguono i seguenti step:
 1 - unzippare in Desktop lo zip in modo che vi crei la directory scacchiGr.
 Tale operazione la potreste fare Start+E + return per "Esplora file", andare sullo zip e con Fn+"menu contestuale" e cercare 7zip per fare Estrai qui. 
-2 - scacchi.exe è l'eseguibile da lanciare
-3 - per lanciare scacchi.exe potreste lanciarlo sempre da "Esplora file" oppure lanciarlo da linea di comando della console.
+2 - scacchi.cmd è il file di comandi da lanciare digitando semplicemente scacchi seguito da return
+3 - per lanciare scacchi.cmd potreste farlo sempre da "Esplora file" oppure lanciarlo da linea di comando della console.
 Per comodità ricordiamo che dopo aver aperto la console con Tasto Start + c + enter,
 dovete digitare:
 cd Desktop 
