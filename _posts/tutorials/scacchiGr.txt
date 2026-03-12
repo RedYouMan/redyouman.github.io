@@ -3,7 +3,7 @@ GIOCO DEGLI SCACCHI
 Versione disponibile 
 Questo paragrafo del tutorial segnalerà sempre la presenza di eventuali nuove versioni migliorative.
 
-Sul sito esiste la versione 3.3 grafica di scacchi.
+Sul sito è stata pubblicata la versione 3.3 grafica di scacchi.
 Per verificare la vostra versione ascoltate quando parte il programma oppure digitate CntrlH.
 La versione 3.3 fissa un bug sulla registrazione, introduce una directory bin per avere dll, eseguibile e  file di configurazione più coperti da sviste dell'utilizzatore e introduce il file scacchi.cmd nella directory scacchiGr.
 
@@ -43,7 +43,7 @@ Tutte le possibilità di sopra, dipendono dalla vostra conoscenza degli strument
 
 Help
 L'Help si può richiamare con CntrlH (contrl + h) in qualunque momento del gioco, in modo che si può ricordare cosa fare per la situazione in corso.
-L'help della versione grafica è con sintesi vocale. Per interrompere la sintesi vocale di ogni comando documentato nell'help, è possibile usare control-C.
+L'help della versione grafica è con sintesi vocale. 
 Maggiori dettagli però sono nel tutorial.
 
 Tutorial con CntrlX
@@ -73,7 +73,8 @@ Essendo un gioco dedicato ai non vedenti, esiste sempre 1 secondo di ritardoper 
 
 Inserimento Informazioni
 Se siete sulla parte  grafica di scacchi, per andare su console e inserire le informazioni richieste usate alt+tab che vi permette di spostarvi tra le finestre. Dopo sempre con alt+tab ritornate sulla grafica di scacchi.
-Vi consigliamo di attendere che termini il vocale prima di spostarvi con Alt-Tab, per capire bene cosa fare.Il programma rimane difatti in attesa. 
+Vi consigliamo di attendere sempre che termini il vocale prima di spostarvi con Alt-Tab, per capire bene cosa fare.
+Il programma rimane difatti in attesa. 
 Alt e Tab sono a sinistra della tastiera, con il Tab nella parte centrale della fila verticale dei tasti a sinistra ad inizio tastiera.
 L'Alt si trova a sinistra accanto alla barra spaziatrice.
 Nel passare da console a finestra scacchi, può accadere il messaggio "Scacchi non risponde" ma è solo per la perdita del focus momentaneamente. Appena ritornati sulla scacchiera tutto procede normalmente.
@@ -162,7 +163,7 @@ L'analisi avverrà su un massimo di dieci mosse e occorre attendere che il compu
 
 Problemi da caricare
 I problemi potreste copiarli dalla settimana enigmistica, da un libro facendovi aiutare, oppure inventarli. Ovviamente dovrete riportare la posizione nel formato RoT su un file txt, come spiegheremo di seguito.
-Un esempio fornitovi è problema1.txt nella directori problemi e caricabile con CntrlP. 
+Un esempio fornitovi è problema1.txt nella directori problemi e caricabile con CntrlP o anche con CntrlJ. 
 
 Analisi problemi da parte del computer
 E' utile ascoltare come il computer affronta i problemi, sia quelli inventati da noi che quelli proposti altrove.
@@ -206,13 +207,17 @@ Ovvero si elencano prima i pedoni che hanno la possibilità di fare la cattura, 
 
 Gli altri record indirettamente gestiti dal programma non vengono documentati dato che sono competenza solo del programma.
 
+Il programma fengen
+Nella parte di download c'è il programma fengen che a partire da una posizione fen relativa ad un problema, vi estrae un file con rot notation, in modo da caricarla con l'applicativo scacchi. 
+Su questo sito troverete una "Problems Collection" con almeno 100 fen associate, tradotte in rot notation. Sul sito troverete anche una "Chess Combinations Collection" con le fen associate e con fengen potrete ottenere i file da caricare sotto scacchi.
+
 Regole di gioco
 Per le regole coinvolte potreste consultare Wikipedia.
 
 Conclusione
 Al momento l'introduzione si ferma qui. Se avete bisogno di altre info, scrivete alla email che trovate sul blog.
 Eventuali altri versioni rilasciate vedranno anche l'aggiornamento di questa guida.
-Per segnalazioni di bug potreste inviare la posizione dei pezzi attraverso il file di sospensione della partita, segnalando anche la versione di scacchi che state usando.
+Per segnalazioni di bug potreste inviare via email la posizione dei pezzi attraverso il file di sospensione della partita, segnalando anche la versione di scacchi che state usando e la descrizione del problema.
 
 Ultimo suggerimento
 Potreste usare il programma per registrare la partita, studiarvi le mosse da fare, sospendere la partita per  poi mandare con altro strumento, ad esempio  email, whatsapp web o desktop, la mossa al vostro amico,e quando anche lui vi risponderà su whatsapp, riprendete la partita e studiate la nuova mossa.
