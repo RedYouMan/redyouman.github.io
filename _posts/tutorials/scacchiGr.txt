@@ -37,7 +37,7 @@ Il programma scacchi consente di:
 23 - sonoro del toc di gioco di un pezzo
 24 - chiudere la scacchiera con CntrlQ oppure con il mouse sulla crocetta della finestra "Scacchi"
 25 - utilizzare Alt-Tab per spostarsi da scacchiera a console per inserire informazioni e ulteriore Alt-Tab per tornare a giocare
-
+26 - utilizzare in modo configurabile il motore di gioco stockfish
 Tutte le possibilità di sopra, dipendono dalla vostra conoscenza degli strumenti a disposizione per poterlo fare, quindi è fondamentale sentire sia questo tutorial che l'help.
 
 Help
@@ -209,6 +209,10 @@ Gli altri record indirettamente gestiti dal programma non vengono documentati da
 Il programma fengen
 Nella parte di download c'è il programma fengen che a partire da una posizione fen relativa ad un problema, vi estrae un file con rot notation, in modo da caricarla con l'applicativo scacchi. 
 Su questo sito troverete una "Problems Collection" con almeno 100 fen associate, tradotte in rot notation. Sul sito troverete anche una "Chess Combinations Collection" con le fen associate e con fengen potrete ottenere i file da caricare sotto scacchi.
+
+Configurabilità delle versioni di stockfish
+Qualora ci fossero versioni più recenti di stockfish è possibile scaricare la nuova versione nella directory engine emodificare, nella directory bin, il file engine.cnf per mettervi il nuovo nome dell'eseguibile stockfish gui.
+L'applicativo continuerà a lavorare correttamente se il nuovo motore stockfish si basa ancora su comandi standard uci.
 
 Regole di gioco
 Per le regole coinvolte potreste consultare Wikipedia.
