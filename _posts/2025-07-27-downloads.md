@@ -67,8 +67,6 @@ Da notare che gli eseguibili di questa sezione hanno suffisso NV nel nome per di
 
 [scarica fenpos](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repolc/fenpos.exe)
 
-[scarica scacchi](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repolc/scacchi.7z)
-
 [scarica giocodel31](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repolc/game31NV.exe)
 
 [scarica mastermind](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repolc/mastermindNV.exe)
