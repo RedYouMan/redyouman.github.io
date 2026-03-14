@@ -215,7 +215,7 @@ Su questo sito troverete una "Problems Collection" con almeno 100 fen associate,
 
 Configurabilità delle versioni di stockfish
 Qualora ci fossero versioni più recenti di stockfish è possibile scaricare la nuova versione nella directory engine emodificare, nella directory bin, il file engine.cnf per mettervi il nuovo nome dell'eseguibile stockfish gui.
-L'applicativo continuerà a lavorare correttamente se il nuovo motore stockfish si basa ancora su comandi standard uci.
+L'applicativo continuerà a lavorare correttamente se il nuovo motore stockfish si basa ancora su comandi standard uci (universal chess interface).
 
 Regole di gioco
 Per le regole coinvolte potreste consultare Wikipedia.
@@ -223,7 +223,7 @@ Per le regole coinvolte potreste consultare Wikipedia.
 Conclusione
 Al momento l'introduzione si ferma qui. Se avete bisogno di altre info, scrivete alla email che trovate sul blog.
 Eventuali altri versioni rilasciate vedranno anche l'aggiornamento di questa guida.
-Per segnalazioni di bug potreste inviare via email la posizione dei pezzi attraverso il file di sospensione della partita, segnalando anche la versione di scacchi che state usando e la descrizione del problema.
+Per segnalazioni di bug o altro potreste inviare via email (rosturco.na@gmail.com) la posizione dei pezzi attraverso il file di sospensione della partita, segnalando anche la versione di scacchi che state usando e la descrizione del problema.
 
 Ultimo suggerimento
 Potreste usare il programma per registrare la partita, studiarvi le mosse da fare, sospendere la partita per  poi mandare con altro strumento, ad esempio  email, whatsapp web o desktop, la mossa al vostro amico,e quando anche lui vi risponderà su whatsapp, riprendete la partita e studiate la nuova mossa.
