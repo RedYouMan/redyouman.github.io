@@ -40,6 +40,9 @@ Il programma scacchi consente di:
 26 - utilizzare in modo configurabile il motore di gioco stockfish
 Tutte le possibilità di sopra, dipendono dalla vostra conoscenza degli strumenti a disposizione per poterlo fare, quindi è fondamentale sentire sia questo tutorial che l'help.
 
+Dove sono attivabili i controls
+Tutti i controls sono attivi solo sulla scacchiera grafica.
+
 Help
 L'Help si può richiamare con CntrlH (contrl + h) in qualunque momento del gioco, in modo che si può ricordare cosa fare per la situazione in corso.
 L'help della versione grafica è con sintesi vocale. 
@@ -79,9 +82,6 @@ L'Alt si trova a sinistra accanto alla barra spaziatrice.
 Nel passare da console a finestra scacchi, può accadere il messaggio "Scacchi non risponde" ma è solo per la perdita del focus momentaneamente. Appena ritornati sulla scacchiera tutto procede normalmente.
 Quando il programma vi chiederà informazioni, dopo aver risposto adeguatamente alla domanda, occorre premere return.Poi di nuovo Alt-Tab per tornare alla scacchiera.
 Solo nel caso della sospensione potreste scegliere tra varie cose: CntrlQ  per uscire o analizzare un problema (CntrlJ), risolvere un problema da soli (CntrlP) o anche ritornare sulla scacchiera e studiarsi cosa potrà rispondere l'amico.
-
-Dove sono attivabili i controls
-I controls sono attivabili solo sulla scacchiera grafica.
 
 Nomi dei comandi da ricordare
 I nomi dei controls sono tali da avere l'ultima lettera che stimoli una associazione di idee per ricordarli:
