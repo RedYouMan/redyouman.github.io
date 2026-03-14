@@ -175,7 +175,7 @@ RoT Notation
 La RoT Notation che esamineremo di seguito è importante perchè su Internet le partite o i problemi mostrano solo immagini che un non vedente non può utilizzare. La RoT Notation descrive, più efficacemente di una FE Notation,  lo scopo della posizione, come sono dislocati tutti i pezzi, il punto di vista da cui mettersi, chi muove e il numero di mossa da cui partire. 
 Spero che la RoT notation abbia seguito tra i redattori scacchistici che si rendano conto del problema.
 
-Come si scrive un problema per scacchiNV
+Come si scrive un problema 
 Per scrivere con Notepad un file di problemi a mano con estensione .txt da porre sotto la directory problemi, occorrre seguire la RoTnotation  per l'occasione definita: 
 T: rappresenta il titolo. Ad esempio:
 T:Il nero muove e matta in 3 mosse.
@@ -195,7 +195,7 @@ P: il numero di mossa di partenza che può essere 0 se inventate il problema opp
 Fate attenzione a tutti i tipi di record di sopra. Ad esempio se M:B e giocate un pezzo nero per prima vi dirà che non potete usare quel colore.
 
 Il programma controlla molte cose se scritte in modo impreciso, naturalmente se fate l'errore di mettere in Bianco la posizione Ac5 e lo fate anche per il Nero, vi troverete solo l'alfiere nero, ovvero l'ultima istruzione data sul pezzo.  
-In altri termini gli errori di logica scacchiNV non li può correggere.
+In altri termini gli errori di logica il programma scacchi non li può correggere.
 Ci sono altri record gestiti in modo indiretto dal programma per le sospensioni tra cui anche la presenza di enpassant che si potrebbe utilizzare alla ripresa di gioco.
 
 Qui citiamo solo il record di enpassant U: che potrebbe essere utile nei problemi.
