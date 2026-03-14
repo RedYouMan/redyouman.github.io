@@ -80,6 +80,9 @@ Nel passare da console a finestra scacchi, può accadere il messaggio "Scacchi n
 Quando il programma vi chiederà informazioni, dopo aver risposto adeguatamente alla domanda, occorre premere return.Poi di nuovo Alt-Tab per tornare alla scacchiera.
 Solo nel caso della sospensione potreste scegliere tra varie cose: CntrlQ  per uscire o analizzare un problema (CntrlJ), risolvere un problema da soli (CntrlP) o anche ritornare sulla scacchiera e studiarsi cosa potrà rispondere l'amico.
 
+Dove sono attivabili i controls
+I controls sono attivabili solo sulla scacchiera grafica.
+
 Nomi dei comandi da ricordare
 I nomi dei controls sono tali da avere l'ultima lettera che stimoli una associazione di idee per ricordarli:
 - H per help o aiuto
