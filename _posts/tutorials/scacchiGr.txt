@@ -38,6 +38,7 @@ Il programma scacchi consente di:
 24 - chiudere la scacchiera con CntrlQ oppure con il mouse sulla crocetta della finestra "Scacchi"
 25 - utilizzare Alt-Tab per spostarsi da scacchiera a console per inserire informazioni e ulteriore Alt-Tab per tornare a giocare
 26 - utilizzare in modo configurabile il motore di gioco stockfish
+
 Tutte le possibilità di sopra, dipendono dalla vostra conoscenza degli strumenti a disposizione per poterlo fare, quindi è fondamentale sentire sia questo tutorial che l'help.
 
 Dove sono attivabili i controls
@@ -50,6 +51,7 @@ Maggiori dettagli però sono nel tutorial.
 
 Tutorial con CntrlX
 Questo tutorial è attivabile anche da programma scacchi con CntrlX.
+
 Installazione
 Si seguono i seguenti step:
 1 - unzippare in Desktop lo zip in modo che vi crei la directory scacchiGr.
@@ -76,7 +78,8 @@ Essendo un gioco dedicato ai non vedenti, esiste sempre 1 secondo di ritardoper 
 Inserimento Informazioni
 Se siete sulla parte  grafica di scacchi, per andare su console e inserire le informazioni richieste usate alt+tab che vi permette di spostarvi tra le finestre. Dopo sempre con alt+tab ritornate sulla grafica di scacchi.
 Vi consigliamo di attendere sempre che termini il vocale prima di spostarvi con Alt-Tab, per capire bene cosa fare.
-Il programma rimane difatti in attesa. 
+Il programma rimane difatti in attesa.
+Se la console continua a parlare su NVDA usate ESC per zittirla. 
 Alt e Tab sono a sinistra della tastiera, con il Tab nella parte centrale della fila verticale dei tasti a sinistra ad inizio tastiera.
 L'Alt si trova a sinistra accanto alla barra spaziatrice.
 Nel passare da console a finestra scacchi, può accadere il messaggio "Scacchi non risponde" ma è solo per la perdita del focus momentaneamente. Appena ritornati sulla scacchiera tutto procede normalmente.
