@@ -41,17 +41,6 @@ Il programma scacchi consente di:
 
 Tutte le possibilità di sopra, dipendono dalla vostra conoscenza degli strumenti a disposizione per poterlo fare, quindi è fondamentale sentire sia questo tutorial che l'help.
 
-Dove sono attivabili i controls
-Tutti i controls sono attivi solo sulla scacchiera grafica.
-
-Help
-L'Help si può richiamare con CntrlH (contrl + h) in qualunque momento del gioco, in modo che si può ricordare cosa fare per la situazione in corso.
-L'help della versione grafica è con sintesi vocale. 
-Maggiori dettagli però sono nel tutorial.
-
-Tutorial con CntrlX
-Questo tutorial è attivabile anche da programma scacchi con CntrlX.
-
 Installazione
 Si seguono i seguenti step:
 1 - unzippare in Desktop lo zip in modo che vi crei la directory scacchiGr.
@@ -65,21 +54,34 @@ cd scacchiGr
 ora digitate scacchi-launcher
 l'ultimo comando farà partire il programma.
 
+Dove sono attivabili i controls
+Tutti i controls sono attivi solo sulla scacchiera grafica.
+
+Help
+L'Help si può richiamare con CntrlH (contrl + h) in qualunque momento del gioco, in modo che si può ricordare cosa fare per la situazione in corso.
+L'help della versione grafica è con sintesi vocale. 
+Maggiori dettagli però sono nel tutorial.
+
+Tutorial con CntrlX
+Questo tutorial è attivabile anche da programma scacchi con CntrlX.
+
 Navigazione
 La navigazione consente al non vedente di esplorare tutta la scacchiera tramite le frecce su, giù, destra e sinistra. Per i vedenti è possibile l'uso del mouse.
 La navigazione è udibile con NVDA.
 Si consiglia durante la navigazione di attendere sempre un secondo per ascoltare nome della casa e presenza o meno di un pezzo.
-Attenzione che occorre usare il RETURN sia per selezionare il pezzo che per indicare la casa dove metterlo.
-Analogamente col mouse si usa il tasto sinistro per selezionare pezzo e casa destinazione.
+Attenzione che occorre usare il RETURN sia per selezionare il pezzo che per indicare la casa dove metterlo. Analogamente col mouse si usa il tasto sinistro per selezionare pezzo e casa destinazione.
 
 Tempi di attesa con mouse o tasti
 Essendo un gioco dedicato ai non vedenti, esiste sempre 1 secondo di ritardoper individuare se la casa è vuota o con presenza di pezzo da menzionare.
+
+ESC per zittire la console
+Se nel passaggio da una finestra ad un'altra con Alt-Tab, la console su NVDA si intromette a parlare, usate ESC per zittirla.
 
 Inserimento Informazioni
 Se siete sulla parte  grafica di scacchi, per andare su console e inserire le informazioni richieste usate alt+tab che vi permette di spostarvi tra le finestre. Dopo sempre con alt+tab ritornate sulla grafica di scacchi.
 Vi consigliamo di attendere sempre che termini il vocale prima di spostarvi con Alt-Tab, per capire bene cosa fare.
 Il programma rimane difatti in attesa.
-Se la console continua a parlare su NVDA usate ESC per zittirla. 
+
 Alt e Tab sono a sinistra della tastiera, con il Tab nella parte centrale della fila verticale dei tasti a sinistra ad inizio tastiera.
 L'Alt si trova a sinistra accanto alla barra spaziatrice.
 Nel passare da console a finestra scacchi, può accadere il messaggio "Scacchi non risponde" ma è solo per la perdita del focus momentaneamente. Appena ritornati sulla scacchiera tutto procede normalmente.
