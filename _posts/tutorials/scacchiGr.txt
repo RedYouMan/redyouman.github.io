@@ -3,7 +3,7 @@ GIOCO DEGLI SCACCHI
 Versione disponibile 
 Questo paragrafo del tutorial segnalerà sempre la presenza di eventuali nuove versioni migliorative.
 
-Sul sito è stata pubblicata la versione 3.6 grafica di scacchi.
+Sul sito è stata pubblicata la versione 3.7 grafica di scacchi.
 Per verificare la vostra versione ascoltate quando parte il programma oppure digitate CntrlH.
 
 Introduzioneal programma scacchi 
@@ -38,6 +38,7 @@ Il programma scacchi consente di:
 24 - chiudere la scacchiera con CntrlQ oppure con il mouse sulla crocetta della finestra "Scacchi"
 25 - utilizzare Alt-Tab per spostarsi da scacchiera a console per inserire informazioni e ulteriore Alt-Tab per tornare a giocare
 26 - utilizzare in modo configurabile il motore di gioco stockfish
+27 - ottenere la valutazione della posizione durante la sospensione col computer
 
 Tutte le possibilità di sopra, dipendono dalla vostra conoscenza degli strumenti a disposizione per poterlo fare, quindi è fondamentale sentire sia questo tutorial che l'help.
 
@@ -131,8 +132,13 @@ La sospensione con un nome deciso da voi vi può permettere di poter giocare pi�
  
 Sospensione partita giocata col computer
 E' possibile sospendere una partita che si sta giocando col computer per, poi, riprenderla.
+Durante questo tipo di sospensione si ottiene anche la valutazione della posizione da parte del computer, scritta sia su console che letta col vocale.
 Alla ripresa vi troverete attivato il computer, pronto a giocare e col punto di vista che avevate precedentemente.
 
+Valutazione posizione del computer
+Alla sospensione si ottiene una valutazione della posizione che può essere positiva o negativa lato Bianco. 
+Questovalore ottenuto dall'engine è la differenza tra la posizione sospesa e quella della best move che avrebbe potuto fare il bianco.
+Se il valore è positivo "white side" sta meglio il Bianco.
 Elenco dei file registrati oppure dei problemi disponibili
 Stando nella directory scacchiGr basta fare:
 dir .\registrazioni\*
