@@ -41,7 +41,7 @@ Il programma scacchi consente di:
 27 - ottenere la valutazione della posizione durante la sospensione col computer
 28 - poter fare un tuning dei parametri del chess engine
 29 - ottenere alla fine della sospensione del cumputer una analisi di almeno le prime 'multiPV' principali varianti che si possono intraprendere
-30 - ottenere in Ascii art la posizione di sospensione e la fen 
+
 
 Tutte le possibilità di sopra, dipendono dalla vostra conoscenza degli strumenti a disposizione per poterlo fare, quindi è fondamentale sentire sia questo tutorial che l'help.
 
@@ -235,10 +235,6 @@ L'applicativo continuerà a lavorare correttamente se il nuovo motore stockfish 
 Copia della analisi multiPV
 Alla sospensione di una partita col computer si ottiene una quantità di principali varianti pari al valore MultiPV inserito in chessparam.cnf in bin. Questa analisi si può copiare col mouse, cliselezionando tutto e copiando col tastodestro. Infine si può incollare tutto su un file di testo di Blocco Notes.
 Tale analisi si può copiare selezionando col mouse, copiando col tasto destro e incollando il tutto su un file di testo del blocco notes.
-
-Ascii art e fen
-A fine della sospensione di una partita col computer, oltre alla analisi multiPV, si ottiene la posizione
-e la fen di essa.
 
 Tuning del chess engine
 Nel pacchetto scacchigr.7z nella cartella readme esistono vari file, tra cui tuning.txt (dalla versione 3.9 in poi).
