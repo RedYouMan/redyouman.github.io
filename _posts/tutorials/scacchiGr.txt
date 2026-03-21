@@ -40,7 +40,7 @@ Il programma scacchi consente di:
 26 - utilizzare in modo configurabile il motore di gioco stockfish
 27 - ottenere la valutazione della posizione durante la sospensione col computer
 28 - poter fare un tuning dei parametri del chess engine
-29 - ottenere alla fine della sospensione del cumputer una analisi di almeno le prime 'multiPV' principali varianti che si possono intraprendere
+
 
 
 Tutte le possibilità di sopra, dipendono dalla vostra conoscenza degli strumenti a disposizione per poterlo fare, quindi è fondamentale sentire sia questo tutorial che l'help.
