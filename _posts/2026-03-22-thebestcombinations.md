@@ -1,35 +1,29 @@
 ---
-title: "Downloads:Giochi gratuiti per non vedenti e per vedenti"
+title: "scacchi:Giochi e articoli gratuiti per non vedenti e per vedenti"
 description: "blog di Rosario Turco con downloads di giochi gratuiti per non vedenti"
 keywords:
-  [
-    "downloads",
-    "giochi",
-    "gratuiti",
-    "gratis",
-    "non vedenti",
-    "ciechi",
-    "ipovedenti",
-  ]
+"articoli",    
+"giochi", "gratuiti", "gratis", "non vedenti", "ciechi", "ipovedenti"]
 categories: Blog
 ---
 
 # **The 100 Most Beautiful Combinations of All Time**
+
 Rosario Turco
 
 Nel seguito presentiamo le 100 combinazioni più belle di tutti i tempi, ripercorrendo tutti i giocatori famosi: campioni nazionali, internazionali e campioni del mondo.
 
-Essendo la lista limitata a solo 100 combinazioni da reperire solo su  Internet, in modo da renderla facilmente fruibile ai non vedenti rispetto a immagini scacchistiche , chiediamo scusa a chi non fosse in tale elenco. Vi assicuro che per tale argomento si potrebbe compilare una lunghissima lista.
+Essendo la lista limitata a solo 100 combinazioni da reperire solo su Internet, in modo da renderla facilmente fruibile ai non vedenti rispetto a immagini scacchistiche , chiediamo scusa a chi non fosse in tale elenco. Vi assicuro che per tale argomento si potrebbe compilare una lunghissima lista.
 
 La lista riporterà in italiano i seguenti campi:
 
-1. numero di sequenza della combinazione della lista trovata 
+1. numero di sequenza della combinazione della lista trovata
 2. titolo della combinazione
 3. chi ha la mossa (bianco o nero)
 4. la posizione fen
 
 La posizione fen aiuta a non riferirsi ad una immagine e potreste usare il nostro programma fenpos (vedi pagina di download - parte a linea di comando), col quale
-potreste generarvi il file del problema per risolverlo col nostro applicativo scacchi (Vedi pagina download- parte grafica C++). 
+potreste generarvi il file del problema per risolverlo col nostro applicativo scacchi (Vedi pagina download- parte grafica C++).
 
 Se digitate fenpos seguito da return otterrrete lo usage per capire come dare i campi in input a fenpos.
 
