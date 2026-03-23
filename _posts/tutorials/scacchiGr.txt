@@ -242,7 +242,8 @@ Dall'help, durante il lancio di clock-start, si apprende:
 - Contrl-Q per uscire
 
 Dopo l'help occorre inserire la durata del gioco in minuti (es. 5 minuti, 240 minuti etc.) 
-L'orologio rileva la durata deltempo di pensiero della mossa e lo detrae solo al digitare dello spazio. Questa scelta è sia per evitare di consumare CPU dietro solo all'orologio, sia per insegnare a sè stessi quanto dura il proprio pensiero di gioco senza vedere l'orologio. 
+L'orologio rileva la durata deltempo di pensiero della mossa e lo detrae solo al digitare dello spazio. Questa scelta è sia per evitare di consumare la CPU dietro solo all'orologio, sia per capire mentalmente quanto dura il proprio pensiero di gioco senza vedere l'orologio.
+Non dimentichiamo che lo strumento deve essere adatto ai non vedenti, che non possono vedere il trascorrere del tempo ma solo ascoltarlo, quindi, diventa improponibile aggiornare ogni secondo e far dire un vocale. 
 
 Quando usare l'orologio scacchistico
 Se vorreste allenarvi con un orologio, ad esempio giocando col computer a partite lampo di 5-10 minuti oppure con un amico assegnando un tempo di 240 minuti (2ore)per per fare 40 mosse,  abbiamo due possibili scenari:
