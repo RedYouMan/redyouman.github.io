@@ -3,17 +3,17 @@ GIOCO DEGLI SCACCHI
 Versione disponibile 
 Questo paragrafo del tutorial segnalerà sempre la presenza di eventuali nuove versioni migliorative.
 
-Sul sito è stata pubblicata la versione 3.9 grafica di scacchi.
+Sul sito è stata pubblicata la versione 4.0 finale di scacchi.
 Per verificare la vostra versione ascoltate quando parte il programma oppure digitate CntrlH.
 
 Introduzioneal programma scacchi 
 Esso è un programma ascoltabile con NVDA, e consigliato ai non vedenti, ma con grafica per consentire di giocare anche alle persone vedenti.
 Come si vedrà è soprattutto un programma di studio e analisi, adatto a partite dove si attende la risposta di un amico oppure per risolvere dei problemi o per giocare contro il computer.
 Questa caratteristica sottolinea la modalità non agonistica del programma e, quindi, non necessita di orologio per la misurazione del tempo per le risposte di ogni giocatore.
-
+La presenza dell'orologio nel pacchetto ha solo il significato di "allenamento col computer" per abituarsi al tempo di gioco.
 Il programma scacchi consente di:
 1 - navigare, con frecce e mouse, sulla scacchiera dando informazioni di pezzi e case vuote
-2 - scegliere il punto di vista da cui giocare
+2 - scegliere il lato o il punto di vista da cui giocare
 3 - inserire le mosse del Bianco e del Nero
 4 - controllare il diritto di mossa (Bianco o Nero)
 5 - registrare o meno la partitacon notazione algebrica scacchistica(CntrlW per registrare)
@@ -38,10 +38,10 @@ Il programma scacchi consente di:
 24 - chiudere la scacchiera con CntrlQ oppure con il mouse sulla crocetta della finestra "Scacchi"
 25 - utilizzare Alt-Tab per spostarsi da scacchiera a console per inserire informazioni e ulteriore Alt-Tab per tornare a giocare
 26 - utilizzare in modo configurabile il motore di gioco stockfish
-27 - ottenere la valutazione della posizione durante la sospensione col computer
+27 - ottenere la valutazione della posizione sia dopo ogni semimossa del nero e sia durante la sospensione col computer
 28 - poter fare un tuning dei parametri del chess engine
-
-
+29 - ottenere una analisi delle prime 'multiPV' principali varianti che si possono intraprendere
+30 - usare un orologio 
 
 Tutte le possibilità di sopra, dipendono dalla vostra conoscenza degli strumenti a disposizione per poterlo fare, quindi è fondamentale sentire sia questo tutorial che l'help.
 
@@ -49,14 +49,15 @@ Installazione
 Si seguono i seguenti step:
 1 - unzippare in Desktop lo zip in modo che vi crei la directory scacchiGr.
 Tale operazione la potreste fare con Start+E + return per "Esplora file", andare sullo zip e con Fn+"menu contestuale" e cercare 7zip per fare Estrai qui. 
-2 - scacchi-launcher.exe è il file da lanciare digitando semplicemente scacchi-launcher seguito da return
-3 - per lanciare scacchi-launcher.exe potreste farlo sempre da "Esplora file" oppure lanciarlo da linea di comando della console.
+2 - scacchi-start.exe il file da lanciare 
+3 - per lanciare scacchi-start.exe potreste farlo sempre da "Esplora file" oppure lanciarlo da linea di comando della console o cliccando su esso col mouse.
 Per comodità ricordiamo che dopo aver aperto la console con Tasto Start + c + enter,
 dovete digitare:
 cd Desktop 
 cd scacchiGr
-ora digitate scacchi-launcher
+ora digitate scacchi-start 
 l'ultimo comando farà partire il programma.
+Se vi servisse l'orologio digitare clock-start seguito da return (Vedi il paragrafo che lo riguarda).
 
 Dove sono attivabili i controls
 Tutti i controls sono attivi solo sulla scacchiera grafica.
@@ -111,9 +112,8 @@ P-  per i problemi
 Registrazione partita
 La registrazione è consentita attivarla solo ad inizio partita. Non si registrano i problemi, nè le partite col computer.
 
-Scelta livello
-Quando si gioca contro il computer (CntrlZ) è possibile scegliere un livello di gioco tra 1 e 20.
-Maggiore è il livello più il computer potrebbe prendersi tempo di riflessione.
+Scelta livello di skill
+Quando si gioca contro il computer (CntrlZ) è possibile scegliere un livello di gioco tra 0 e 20.
 
 Nomi dei file
 I nomi dei file vi possono essere chiesti nell'uso di CntrlS (sospensione), CntrlR (ripresa gioco), CntrlW (registrazione partita), CntrlJ (problema che il computer risolve), CntrlP (problema che dobbiamo risolvere).
@@ -138,9 +138,9 @@ E' possibile sospendere una partita che si sta giocando col computer per, poi, r
 Durante questo tipo di sospensione si ottiene anche la valutazione della posizione da parte del computer, scritta sia su console che letta col vocale.
 Alla ripresa vi troverete attivato il computer, pronto a giocare e col punto di vista che avevate precedentemente.
 
-Valutazione posizione del computer
-Alla sospensione si ottiene una valutazione della posizione che può essere positiva o negativa lato Bianco. 
-Questovalore ottenuto dall'engine è la differenza tra la posizione sospesa e quella della best move che avrebbe potuto fare il bianco.
+Valutazione posizione 
+Durante il gioco col computer, sia dopo la semimossa del nero che alla sospensione si ottiene una valutazione della posizione che può essere positiva o negativa lato Bianco. 
+Questovalore ottenuto dall'engine è la differenza tra la posizione giocata e quella della best move che avrebbe potuto fare il bianco.
 Se il valore è positivo "white side" sta meglio il Bianco.
 
 Elenco dei file registrati oppure dei problemi disponibili
@@ -156,8 +156,9 @@ dir .\problemi\*
 
 Cambio punto di vista di gioco
 Il cambio del punto di vista da cui giocare può essere fatto in qualunque momento della partita con CntrlG.
+Esso serve per mettersi dalla parte del colore che dobbiamo giocare.
 
-Esempio di uso
+Esempio di uso del programma scacchi
 Supponiamo che vogliamo giocare gestendo bianco e nero    liberamente,per attendere la mossa di un amico, con il punto di vista nero e registrare la partita:
 - avviamo il programmache apre la scacchiera 
 - facciamo CntrlW per la registrazione della partita, questo solo ad inizio partita, inserendo il nome desiderato del file 
@@ -188,7 +189,6 @@ Nel caso di nostri problemi, il computer potrebbe evidenziare delle cose a cui n
 
 RoT Notation
 La RoT Notation che esamineremo di seguito è importante perchè su Internet le partite o i problemi mostrano solo immagini che un non vedente non può utilizzare. La RoT Notation descrive, più efficacemente di una FE Notation,  lo scopo della posizione, come sono dislocati tutti i pezzi, il punto di vista da cui mettersi, chi muove e il numero di mossa da cui partire. 
-Spero che la RoT notation abbia seguito tra i redattori scacchistici che si rendano conto del problema.
 
 Come si scrive un problema 
 Per scrivere con Notepad un file di problemi a mano con estensione .txt da porre sotto la directory problemi, occorrre seguire la RoTnotation  per l'occasione definita: 
@@ -232,12 +232,32 @@ Configurabilità delle versioni di stockfish
 Qualora ci fossero versioni più recenti di stockfish è possibile scaricare la nuova versione nella directory engine emodificare, nella directory bin, il file engine.cnf per mettervi il nuovo nome dell'eseguibile stockfish gui.
 L'applicativo continuerà a lavorare correttamente se il nuovo motore stockfish si basa ancora su comandi standard uci (universal chess interface).
 
-Copia della analisi multiPV
-Alla sospensione di una partita col computer si ottiene una quantità di principali varianti pari al valore MultiPV inserito in chessparam.cnf in bin. Questa analisi si può copiare col mouse, cliselezionando tutto e copiando col tastodestro. Infine si può incollare tutto su un file di testo di Blocco Notes.
-Tale analisi si può copiare selezionando col mouse, copiando col tasto destro e incollando il tutto su un file di testo del blocco notes.
-
 Tuning del chess engine
-Nel pacchetto scacchigr.7z nella cartella readme esistono vari file, tra cui tuning.txt (dalla versione 3.9 in poi).
+Nel pacchetto 7z nella cartella readme esistono vari file, tra cui tuning.txt (dalla versione 3.9 in poi).
+
+Come funziona l'orologio
+Dall'help, durante il lancio di clock-start, si apprende:
+- digitare spazio la prima volta per avviarlo
+- spazio per dire di aver mosso e fare cambio turno
+- Contrl-Q per uscire
+
+Dopo l'help occorre inserire la durata del gioco in minuti (es. 5 minuti, 240 minuti etc.) 
+L'orologio rileva la durata deltempo di pensiero della mossa e lo detrae solo al digitare dello spazio. Questa scelta è sia per evitare di consumare CPU dietro solo all'orologio, sia per insegnare a sè stessi quanto dura il proprio pensiero di gioco senza vedere l'orologio. 
+
+Quando usare l'orologio scacchistico
+Se vorreste allenarvi con un orologio, ad esempio giocando col computer a partite lampo di 5-10 minuti oppure con un amico assegnando un tempo di 240 minuti (2ore)per per fare 40 mosse,  abbiamo due possibili scenari:
+In entrambi gli scenari, dobbiamo attivare su una sola console sia Chess Clock che scacchi. 
+-Scenario col computer per le lampo
+1. attivate prima il Chess Clock (orologio) con clock-start(scacchi-start su una prima finestra di prompt)
+2. date spazio per avviare l'orologio e settatelo al tempo necessario
+3. attivate gli scacchi con scacchi-start 
+4. Alt-Tab sulla finestra "Scacchi" e fate la mossa (o la fate fare al computer come bianco)
+5. Alt-Tab verso la finestra "Chess Clock" e premere spazio per ogni giocatore che ha appena fatto fare il "toc" del pezzo sulla scacchiera
+
+- Scenario con un amico
+Stesso procedimento di prima, ma col punto 4 dove è il singolo giocatore che va sull'orologio e fa spazio
+
+Prima di giocare con l'orologio prendete prima la mano per spostarvi da una finestra ad un'altra, , lasciando Alt solo dopo che il Tab vi ha portato sulla finestra giusta, ascoltando la voce di aiuto. 
 
 Regole di gioco
 Per le regole coinvolte potreste consultare Wikipedia.
