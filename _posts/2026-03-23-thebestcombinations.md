@@ -1,9 +1,16 @@
 ---
-title: "scacchi:Giochi e articoli gratuiti per non vedenti e per vedenti"
-description: "blog di Rosario Turco con downloads di giochi gratuiti per non vedenti"
+title: "Scacchi: combinations collection"
+description: "blog di Rosario Turco con downloads di giochi gratuiti per ciechi"
 keywords:
-"articoli",    
-"giochi", "gratuiti", "gratis", "non vedenti", "ciechi", "ipovedenti"]
+  [
+    "tutorials for chess ",
+    "giochi",
+    "gratuiti",
+    "gratis",
+    "non vedenti",
+    "ciechi",
+    "ipovedenti",
+  ]
 categories: Blog
 ---
 
