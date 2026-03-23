@@ -12,6 +12,7 @@ categories: Blog
 Rosario Turco
 
 Nel seguito presentiamo le 100 combinazioni più belle di tutti i tempi, ripercorrendo tutti i giocatori famosi: campioni nazionali, internazionali e campioni del mondo.
+Una combinazione è una sequenza forzata di mosse con cui un giocatore costringe l'altro ad una posizione peggiore (Zugzwang), o a una perdita di materiale o a subire scacco matto.
 
 Essendo la lista limitata a solo 100 combinazioni da reperire solo su Internet, in modo da renderla facilmente fruibile ai non vedenti rispetto a immagini scacchistiche , chiediamo scusa a chi non fosse in tale elenco. Vi assicuro che per tale argomento si potrebbe compilare una lunghissima lista.
 
