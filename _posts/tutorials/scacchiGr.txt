@@ -58,7 +58,7 @@ cd Desktop
 cd scacchiGr
 ora digitate scacchi-start 
 l'ultimo comando farà partire il programma.
-Se vi servisse l'orologio digitare clock-start seguito da return (Vedi il paragrafo che lo riguarda).
+Se vi servisse l'orologio digitare clock-start seguito da return (Vedi il paragrafo che lo riguarda per avere una sola console).
 
 Dove sono attivabili i controls
 Tutti i controls sono attivi solo sulla scacchiera grafica.
@@ -237,6 +237,7 @@ Tuning del chess engine
 Nel pacchetto 7z nella cartella readme esistono vari file, tra cui tuning.txt (dalla versione 3.9 in poi).
 
 Come funziona l'orologio
+Se dovete avere orologio e scacchiera, lanciate prima l'orologio e sulla stessa console avviate Scacchi.
 Dall'help, durante il lancio di clock-start, si apprende:
 - digitare spazio la prima volta per avviarlo
 - spazio per dire di aver mosso e fare cambio turno
@@ -265,9 +266,9 @@ Regole di gioco
 Per le regole coinvolte potreste consultare Wikipedia.
 
 Conclusione
-L'applicativo Scacchipresentato coglie due aspetti importanti:
+L'applicativo Scacchi presentato coglie due aspetti importanti:
 - permette di giocare a non vedenti e vedenti
-- fa fruire un insieme di cose che gli appassionati di scacchi non informatici non saprebbero come utilizzare: chess engine, comandi uci, tuning, openings book, reti neurali, algoritmo alpha0 e altro ancora. 
+- fa fruire, in modo trasparente, un insieme di cose che gli appassionati di scacchi non informatici non saprebbero come utilizzare: chess engine, comandi uci, tuning, openings book, formato pgn e polyglot, reti neurali, algoritmo alpha0 e altro ancora. 
 Al momento l'introduzione si ferma qui. Se avete bisogno di altre info, scrivete alla email che trovate sul blog.
 Eventuali altri versioni rilasciate vedranno anche l'aggiornamento di questa guida.
 
