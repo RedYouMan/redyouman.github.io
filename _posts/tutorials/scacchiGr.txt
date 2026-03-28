@@ -278,6 +278,9 @@ Ora apriamo, dalla directory sospensioni il file .txt. creato, Con"Esplora File"
 Aggiungiamo le mosse che deve sapere il computer con:
 C:e2 e4 e7 e6 d2 d4 d7 d5 e4 e5
 Attenzione le mosse espresse accanto a C: sono in notazione uci command. Non spaventatevi, la differenza rispetto alla notazione algebrica è quando si giocano i pezzi diversi dai pedoni. Ad esempio se si gioca il cavallo da g1 a f3, NON scriviamo Cg1 Cf3 MA g1 f3, ovvero solo casa di partenza e quella di arrivo separate da spazio. D'altra parte solo il cavallo bianco potrebbe andare da g1 a f3 in questo contesto iniziale. 
+
+Attenzione se C: fosse non valorizzata correttamente il computer non saprebbe cosa fare, per cui si avrebbe un messaggio di "Mossa non valida" col tentativo di passare la mossa all'avversario ... In tal caso uscite e predisponete bene il file.
+
 Aggiungiamo inoltre:
 K:10
 E:Bianco
