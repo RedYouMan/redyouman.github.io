@@ -3,7 +3,7 @@ GIOCO DEGLI SCACCHI
 Versione disponibile 
 Questo paragrafo del tutorial segnalerà sempre la presenza di eventuali nuove versioni migliorative.
 
-Sul sito è stata pubblicata la versione 4.0 finale di Scacchi.
+Sul sito è stata pubblicata la versione 4.1 finale di Scacchi.
 Per verificare la vostra versione ascoltate quando parte il programma oppure digitate CntrlH.
 
 Introduzioneal programma Scacchi 
@@ -43,7 +43,8 @@ Il programma Scacchi consente di:
 28 - poter fare un tuning dei parametri del chess engine
 29 - ottenere una analisi delle prime 'multiPV' principali varianti che si possono intraprendere
 30 - usare un orologio 
-
+31 - crearsi il proprio openings book, ovvero le aperture con cui
+ci si vuole confrontare col computer
 Tutte le possibilità di sopra, dipendono dalla vostra conoscenza degli strumenti a disposizione per poterlo fare, quindi è fondamentale sentire sia questo tutorial che l'help.
 
 Installazione
@@ -261,6 +262,29 @@ In entrambi gli scenari, dobbiamo attivare su una sola console sia Chess Clock c
 Stesso procedimento di prima, ma col punto 4 dove è il singolo giocatore che va sull'orologio e fa spazio
 
 Prima di giocare con l'orologio prendete prima la mano per spostarvi da una finestra ad un'altra, , lasciando Alt solo dopo che il Tab vi ha portato sulla finestra giusta, ascoltando la voce di aiuto. 
+
+Openings Book personalizzato
+Possiamo provare le aperture che vogliamo costringendo il computer a giocarle.Vediamo come.
+Apriamo la scacchiera, immaginiamo di voler giocare da nero la Difesa Francese.
+Giochiamo sia il bianco che il nero ad esempio:
+1 e2 e4 -e7 e6
+2 d2 d4 - d7 d5
+3 e4 e5
+
+Questa è la prima variante che vogliamo provare della difesa Francese.
+Sospendiamo la partita e salviamo come difFrancese1
+
+Ora apriamo, dalla directory sospensioni il file .txt. creato, Con"Esplora File" clicchiamo su esso, e alla fine del file dobbiamo aggiungere tre record che interessano il computer.
+Aggiungiamo le mosse che deve sapere il computer con:
+C:e2 e4 e7 e6 d2 d4 d7 d5 e4 e5
+K:10
+E:Bianco
+
+Con K: gli diciamo lo skill con cui deve giocare.
+Con E: gli diciamo il colore con cui giocare   
+
+Semplice, no? Dopo che avete fatto il salvataggio del file, copiatelo anche il file per backup nella directory openingsbook per future giocate con tale variante, mentre per giocare ora col computer copiate il file nella directory sospensioni e lanciate scacchi-start e poi fate Cntrl-R per riprendere la partita come fosse sospesa.
+
 
 Regole di gioco
 Per le regole coinvolte potreste consultare Wikipedia.
