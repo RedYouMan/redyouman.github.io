@@ -281,7 +281,9 @@ Attenzione le mosse espresse accanto a C: sono in notazione uci command. Non spa
 
 Attenzione se C: fosse non valorizzata correttamente il computer non saprebbe cosa fare, per cui si avrebbe un messaggio di "Mossa non valida" col tentativo di passare la mossa all'avversario ... In tal caso uscite e predisponete bene il file.
 
-Aggiungiamo inoltre:
+Un'altra osservazione su C:. Solitamente un'apertura è caratterizzata dalle prime 5-6 mosse (semimosse di bianco e nero), quindi, 80 caratteri per C: dovrebbero bastare, altrimenti dovreste calcolarvi la fen che è più compatta qualunque sia il numero di mosse richiede sempre 72 posizioni senza spazi.
+
+Oltre a C: aggiungiamo inoltre:
 K:10
 E:Bianco
 
