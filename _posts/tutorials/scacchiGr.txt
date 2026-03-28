@@ -283,6 +283,7 @@ E:Bianco
 Con K: gli diciamo lo skill con cui deve giocare.
 Con E: gli diciamo il colore con cui giocare   
 
+Attenzione ad E: vuole le parole Bianco o Nero per intero e con le iniziali maiuscole altrimenti il computer non gioca.
 Semplice, no? Dopo che avete fatto il salvataggio del file, copiatelo anche il file per backup nella directory openingsbook per future giocate con tale variante, mentre per giocare ora col computer copiate il file nella directory sospensioni e lanciate scacchi-start e poi fate Cntrl-R per riprendere la partita come fosse sospesa.
 
 
