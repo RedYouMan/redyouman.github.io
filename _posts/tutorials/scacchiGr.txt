@@ -1,9 +1,11 @@
 GIOCO DEGLI SCACCHI
 
+Benvenuti a Scacchi-it il gioco degli scacchi in italiano con interfaccia vocale.
+
 Versione disponibile 
 Questo paragrafo del tutorial segnalerà sempre la presenza di eventuali nuove versioni migliorative.
 
-Sul sito è stata pubblicata la versione 4.1 finale di Scacchi.
+Sul sito è stata pubblicata la versione 4.2 finale di Scacchi.
 Per verificare la vostra versione ascoltate quando parte il programma oppure digitate CntrlH.
 
 Introduzioneal programma Scacchi 
@@ -43,8 +45,8 @@ Il programma Scacchi consente di:
 28 - poter fare un tuning dei parametri del chess engine
 29 - ottenere una analisi delle prime 'multiPV' principali varianti che si possono intraprendere
 30 - usare un orologio 
-31 - crearsi il proprio openings book, ovvero le aperture con cui
-ci si vuole confrontare col computer
+31 - forzare con CntrlA  il computer a giocare l'apertura che si desidera, creandosi anche un openings book personalizzato
+
 Tutte le possibilità di sopra, dipendono dalla vostra conoscenza degli strumenti a disposizione per poterlo fare, quindi è fondamentale sentire sia questo tutorial che l'help.
 
 Installazione
@@ -108,6 +110,7 @@ P-  per i problemi
 - G per giocare da un altro punto di vista: bianco o nero
 - Z per giocare contro il computer (zombie)
 - J per usare il Jolly del computer per risolvere i problemi
+- A per forzare l'apertura desiderata che il computer deve giocare
 - X per avere questa introduzione
 - Q per uscire (quit) 
 
@@ -270,29 +273,16 @@ Giochiamo sia il bianco che il nero ad esempio:
 1 e2 e4 -e7 e6
 2 d2 d4 - d7 d5
 3 e4 e5
+Ora facciamo control-A. 
+Questa funzionalità prevede che diciamoal computer:
+- lo skill che deve avere
+- il colore che deve usare
 
-Questa è la prima variante che vogliamo provare della difesa Francese.
-Sospendiamo la partita e salviamo come difFrancese1
+Il colore che il computer deve usare, ovviamente, è quello del giocatore successivo rispetto all'ultima mossa che abbiamo fatto sulla scacchiera
 
-Ora apriamo, dalla directory sospensioni il file .txt. creato, Con"Esplora File" clicchiamo su esso, e alla fine del file dobbiamo aggiungere tre record che interessano il computer.
-Aggiungiamo le mosse che deve sapere il computer con:
-C:e2 e4 e7 e6 d2 d4 d7 d5 e4 e5
-Attenzione le mosse espresse accanto a C: sono in notazione uci command. Non spaventatevi, la differenza rispetto alla notazione algebrica è quando si giocano i pezzi diversi dai pedoni. Ad esempio se si gioca il cavallo da g1 a f3, NON scriviamo Cg1 Cf3 MA g1 f3, ovvero solo casa di partenza e quella di arrivo separate da spazio. D'altra parte solo il cavallo bianco potrebbe andare da g1 a f3 in questo contesto iniziale. 
+Questa è, ad esempio,  la prima variante che vogliamo provare della difesa Francese
 
-Attenzione se C: fosse non valorizzata correttamente il computer non saprebbe cosa fare, per cui si avrebbe un messaggio di "Mossa non valida" col tentativo di passare la mossa all'avversario ... In tal caso uscite e predisponete bene il file.
-
-Un'altra osservazione su C:. Solitamente un'apertura è caratterizzata dalle prime 5-6 mosse (semimosse di bianco e nero), quindi, 80 caratteri per C: dovrebbero bastare.
-
-Oltre a C: aggiungiamo inoltre:
-K:10
-E:Bianco
-
-Con K: gli diciamo lo skill con cui deve giocare.
-Con E: gli diciamo il colore con cui giocare   
-
-Attenzione ad E: vuole le parole Bianco o Nero per intero e con le iniziali maiuscole altrimenti il computer non gioca.
-Semplice, no? Dopo che avete fatto il salvataggio del file, nella directory sospensioni, copiatelo anche per backup nella directory openingsbook per future giocate con tale variante, mentre adesso per giocare col computer lanciate scacchi-start e poi fate Cntrl-R per riprendere la partita come fosse sospesa.
-Un esempio lo trovate nella directory openingsbook: difFrancese1.txt.
+Sospendiamo la partita col computer e salviamo come difFrancese1 e il file mettiamolo in openingsbook, da usare con control-R successivamente senza rifare tutte le mosse.
 
 Regole di gioco
 Per le regole coinvolte potreste consultare Wikipedia.
