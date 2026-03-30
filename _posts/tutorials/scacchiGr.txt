@@ -267,7 +267,7 @@ Stesso procedimento di prima, ma col punto 4 dove è il singolo giocatore che va
 Prima di giocare con l'orologio prendete prima la mano per spostarvi da una finestra ad un'altra, , lasciando Alt solo dopo che il Tab vi ha portato sulla finestra giusta, ascoltando la voce di aiuto. 
 
 Openings Book personalizzato
-Possiamo provare le aperture che vogliamo costringendo il computer a giocarle.Vediamo come.
+Possiamo provare le aperture che vogliamo costringendo il computer a giocarle. Vediamo come.
 Apriamo la scacchiera, immaginiamo di voler giocare da nero la Difesa Francese.
 Giochiamo sia il bianco che il nero ad esempio:
 1 e2 e4 -e7 e6
@@ -282,7 +282,7 @@ Il colore che il computer deve usare, ovviamente, è quello del giocatore succes
 
 Questa è, ad esempio,  la prima variante che vogliamo provare della difesa Francese
 
-Sospendiamo la partita col computer e salviamo come difFrancese1 e il file mettiamolo in openingsbook, da usare con control-R successivamente senza rifare tutte le mosse.
+Sospendiamo la partita, sia senza che  col computer e salviamo come difFrancese<numero> e il file mettiamolo in openingsbook, da usare con control-R successivamente senza rifare tutte le mosse. Questo procedimento possiamo usarlo per aggiungere anche altre varianti della difesa Francese, in base ad esempio a quello che gioca il computer. 
 
 Regole di gioco
 Per le regole coinvolte potreste consultare Wikipedia.
