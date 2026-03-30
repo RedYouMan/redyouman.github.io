@@ -5,16 +5,16 @@ Benvenuti a Scacchi-it il gioco degli scacchi in italiano con interfaccia vocale
 Versione disponibile 
 Questo paragrafo del tutorial segnalerà sempre la presenza di eventuali nuove versioni migliorative.
 
-Sul sito è stata pubblicata la versione 4.2 finale di Scacchi.
+Sul sito è stata pubblicata la versione 4.2 di Scacchi-it.
 Per verificare la vostra versione ascoltate quando parte il programma oppure digitate CntrlH.
 
-Introduzioneal programma Scacchi 
+Introduzioneal programma Scacchi-it 
 Esso è un programma offline ascoltabile con NVDA, e consigliato ai non vedenti, ma con grafica per consentire di giocare anche alle persone vedenti.
 Come si vedrà è soprattutto un programma di studio e analisi, adatto a partite dove si attende la risposta di un amico oppure per risolvere dei problemi o per giocare contro il computer.
 Questa caratteristica sottolinea la modalità non agonistica del programma e, quindi, non necessita di orologio per la misurazione del tempo per le risposte di ogni giocatore.
 Tuttavia la presenza dell'orologio nel pacchetto ha solo il significato di "allenamento col computer" per abituarsi al tempo di gioco.
 
-Il programma Scacchi consente di:
+Il programma Scacchi-it consente di:
 1 - navigare, con frecce e mouse, sulla scacchiera dando informazioni di pezzi e case vuote
 2 - scegliere il lato o il punto di vista da cui giocare
 3 - inserire le mosse del Bianco e del Nero
@@ -163,7 +163,7 @@ Cambio punto di vista di gioco
 Il cambio del punto di vista da cui giocare può essere fatto in qualunque momento della partita con CntrlG.
 Esso serve per mettersi dalla parte del colore che dobbiamo giocare.
 
-Esempio di uso del programma scacchi
+Esempio di uso del programma Scacchi-it
 Supponiamo che vogliamo giocare gestendo bianco e nero    liberamente,per attendere la mossa di un amico, con il punto di vista nero e registrare la partita:
 - avviamo il programmache apre la scacchiera 
 - facciamo CntrlW per la registrazione della partita, questo solo ad inizio partita, inserendo il nome desiderato del file 
@@ -207,14 +207,14 @@ Attaccati ai due punti ci sono i pezzi separati da punti e virgola.
 Ad esempio B:Re1;Ac4;Td1;Dd8;Cg3;Pd6;
 Come potete notare le iniziali sono quelle dei pezzi in italiano e P è usata per il pedone.
 Lostesso vale per il Nero. La prima lettera riguarda il pezzo, dove: A=alfiere, T=Torre,C=cavallo,D=donna,R=Re,P=pedone.
-Il nostro programma usa solo le lettere in italiano, ma la rot notation può, in generale, usare anche le lettere inglesi dei pezzi. 
+Il programma Scacchi-it usa solo le lettere in italiano, ma la rot notation può, in generale, usare anche le lettere inglesi dei pezzi. 
 Dopo la lettera iniziale vi è la casella che indica dove va posizionato il pezzo.
 
 M: dice chi deve muovere per prima (B per bianco e N per Nero) 
 P: il numero di mossa di partenza che può essere 0 se inventate il problema oppure se traete il problema da una partita, potreste usare il numero di mossa reale, mettendo un valore diminuito di 1).
 Fate attenzione a tutti i tipi di record di sopra. Ad esempio se M:B e giocate un pezzo nero per prima vi dirà che non potete usare quel colore.
 
-Il programma controlla molte cose se scritte in modo impreciso, naturalmente se fate l'errore di mettere in Bianco la posizione Ac5 e lo fate anche per il Nero, vi troverete solo l'alfiere nero, ovvero l'ultima istruzione data sul pezzo.  
+Il programma Scacchi-it controlla molte cose su tali file e se ci sono parti scritte in modo impreciso, naturalmente se fate l'errore di mettere in Bianco (B:) la posizione Ac5 e lo fate anche per il Nero, vi troverete solo l'alfiere nero, ovvero l'ultima istruzione data sul pezzo.  
 In altri termini gli errori di logica il programma scacchi non li può correggere.
 Ci sono altri record gestiti in modo indiretto dal programma per le sospensioni tra cui anche la presenza di enpassant che si potrebbe utilizzare alla ripresa di gioco.
 
@@ -235,13 +235,13 @@ Su questo sito troverete una "Problems Collection" con almeno 100 fen associate,
 
 Configurabilità delle versioni di stockfish
 Qualora ci fossero versioni più recenti di stockfish è possibile scaricare la nuova versione nella directory engine emodificare, nella directory bin, il file engine.cnf per mettervi il nuovo nome dell'eseguibile stockfish gui.
-L'applicativo continuerà a lavorare correttamente se il nuovo motore stockfish si basa ancora su comandi standard uci (universal chess interface).
+L'applicativo Scacchi-it continuerà a lavorare correttamente se il nuovo motore stockfish si basa ancora su comandi standard uci (universal chess interface).
 
 Tuning del chess engine
 Nel pacchetto 7z nella cartella readme esistono vari file, tra cui tuning.txt (dalla versione 3.9 in poi).
 
 Come funziona l'orologio
-Se dovete avere orologio e scacchiera, lanciate prima l'orologio e sulla stessa console avviate Scacchi.
+Se dovete avere orologio e scacchiera, lanciate prima l'orologio e sulla stessa console avviate Scacchi-it.
 Dall'help, durante il lancio di clock-start, si apprende:
 - digitare spazio la prima volta per avviarlo
 - spazio per dire di aver mosso e fare cambio turno
@@ -252,13 +252,13 @@ L'orologio rileva la durata deltempo di pensiero della mossa e lo detrae solo al
 Non dimentichiamo che lo strumento deve essere adatto ai non vedenti, che non possono vedere il trascorrere del tempo ma solo ascoltarlo, quindi, diventa improponibile aggiornare ogni secondo e far dire un vocale. 
 
 Quando usare l'orologio scacchistico
-Se vorreste allenarvi con un orologio, ad esempio giocando col computer a partite lampo di 5-10 minuti oppure con un amico assegnando un tempo di 240 minuti (2ore)per per fare 40 mosse,  abbiamo due possibili scenari:
+Se vorreste allenarvi con un orologio, ad esempio giocando col computer a partite lampo di 5-10 minuti oppure con un amico assegnando un tempo di 120minuti (un'ora)per per fare 40 mosse,  abbiamo due possibili scenari:
 In entrambi gli scenari, dobbiamo attivare su una sola console sia Chess Clock che scacchi. 
 -Scenario col computer per le lampo
 1. attivate prima il Chess Clock (orologio) con clock-start(scacchi-start su una prima finestra di prompt)
 2. date spazio per avviare l'orologio e settatelo al tempo necessario
-3. attivate gli scacchi con scacchi-start 
-4. Alt-Tab sulla finestra "Scacchi" e fate la mossa (o la fate fare al computer come bianco)
+3. attivate Scacchi-it con scacchi-start 
+4. Alt-Tab sulla finestra "Scacchi-it" e fate la mossa (o la fate fare al computer come bianco)
 5. Alt-Tab verso la finestra "Chess Clock" e premere spazio per ogni giocatore che ha appena fatto fare il "toc" del pezzo sulla scacchiera
 
 - Scenario con un amico
@@ -288,7 +288,7 @@ Regole di gioco
 Per le regole coinvolte potreste consultare Wikipedia.
 
 Conclusione
-L'applicativo Scacchi presentato coglie due aspetti importanti:
+L'applicativo Scacchi-it presentato coglie due aspetti importanti:
 - permette di giocare a non vedenti e vedenti
 - fa fruire, in modo trasparente, un insieme di cose che gli appassionati di scacchi non informatici non saprebbero come utilizzare: chess engine, comandi uci, tuning, openings book, formato pgn e polyglot, reti neurali, algoritmo alpha0 e altro ancora. 
 
