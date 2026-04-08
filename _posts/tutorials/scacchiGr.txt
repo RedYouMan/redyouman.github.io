@@ -5,7 +5,7 @@ Benvenuti a Scacchi-it il gioco degli scacchi in italiano con interfaccia vocale
 Versione disponibile 
 Questo paragrafo del tutorial segnalerà sempre la presenza di eventuali nuove versioni migliorative.
 
-Sul sito è stata pubblicata la versione 4.2 di Scacchi-it.
+Sul sito è stata pubblicata la versione 5.0 di Scacchi-it.
 Per verificare la vostra versione ascoltate quando parte il programma oppure digitate CntrlH.
 
 Introduzioneal programma Scacchi-it 
@@ -46,7 +46,7 @@ Il programma Scacchi-it consente di:
 29 - ottenere una analisi delle prime 'multiPV' principali varianti che si possono intraprendere
 30 - usare un orologio 
 31 - forzare con CntrlA  il computer a giocare l'apertura che si desidera, creandosi anche un openings book personalizzato
-
+32 - utilizzare un Openings Trainer, per apprendere le aperture di gioco
 Tutte le possibilità di sopra, dipendono dalla vostra conoscenza degli strumenti a disposizione per poterlo fare, quindi è fondamentale sentire sia questo tutorial che l'help.
 
 
@@ -59,28 +59,28 @@ Fate Start+E + return per "Esplora file" e cercate Downloads.
 
 Nota: nel seguito Fn va usato solo se a sinistra della barra spaziatrice avete quattro tasti. Se ne avete solo tre, valgono le stesse operazioni di sotto senza fare Fn. 
 
-Quando siete in Downloads cercate scacchigr.7z e su tale file fate Fn+"Menu Contestuale" e cercate con le frecce "Copia" e fate return. 
+Quando siete in Downloads cercate scacchi-it.7z e su tale file fate Fn+"Menu Contestuale" e cercate con le frecce "Copia" e fate return. 
 Fate Alt+freccia a sinistra (per salire nelmenu di"Esplora file" e cercate ora Desktop.
 Fare di nuovo Fn+"Menu contestuale"+"Incolla" seguito da return.
-Ora scacchigr.7z è sul desktop.
+Ora scacchi-it.7z è sul desktop.
 Con "Esplora file" selezionare lo zip e fare Fn+"Menu contestuale"+"7z"+return e cercare "estrai qui".
-A questo punto sul Desktop vi crea una cartella scacchigr. 
-Sempre con "Esplora file" cliccate sulla cartella scacchigr e vi entrate.
+A questo punto sul Desktop vi crea una cartella scacchi-it. 
+Sempre con "Esplora file" cliccate sulla cartella scacchi-it e vi entrate.
 
-Con "Esplora file" per lanciare nella directory scacchigr un eseguibile, basta selezionarlo e fare return. Gli eseguibili sono:
+Con "Esplora file" per lanciare nella directory scacchi-it un eseguibile, basta selezionarlo e fare return. Gli eseguibili sono:
 - scacchi-start
 - clock-start
 
 Installazione SENZA "Esplora file"
 Si seguono i seguenti step:
-1 - unzippare in Desktop lo zip in modo che vi crei la directory scacchiGr.
+1 - unzippare in Desktop lo zip in modo che vi crei la directory scacchi-it.
 Tale operazione la potreste fare con Start+E + return per "Esplora file", andare sullo zip e con Fn+"menu contestuale" e cercare 7zip per fare Estrai qui. 
 2 - scacchi-start.exe il file da lanciare 
 3 - per lanciare scacchi-start.exe potreste farlo sempre da "Esplora file" oppure lanciarlo da linea di comando della console o cliccando su esso col mouse.
 Per comodità ricordiamo che dopo aver aperto la console con Tasto Start + c + enter,
 dovete digitare:
 cd Desktop 
-cd scacchiGr
+cd scacchi-it
 ora digitate scacchi-start 
 l'ultimo comando farà partire il programma.
 Se vi servisse l'orologio digitare clock-start seguito da return (Vedi il paragrafo che lo riguarda per avere una sola console).
@@ -133,6 +133,7 @@ P-  per i problemi
 - Z per giocare contro il computer (zombie)
 - J per usare il Jolly del computer per risolvere i problemi
 - A per forzare l'apertura desiderata che il computer deve giocare
+- T per attivare l'Openings Trainer
 - X per avere questa introduzione
 - Q per uscire (quit) 
 
@@ -171,7 +172,7 @@ Questovalore ottenuto dall'engine è la differenza tra la posizione giocata e qu
 Se il valore è positivo "white side" sta meglio il Bianco.
 
 Elenco dei file registrati oppure dei problemi disponibili
-Stando nella directory scacchiGr basta fare:
+Stando nella directory scacchi-it basta fare:
 dir .\registrazioni\*
 e si vedranno tutte le registrazioni.
 se volesteeliminarle tutte:
@@ -306,6 +307,49 @@ Questa è, ad esempio,  la prima variante che vogliamo provare della difesa Fran
 
 Sospendiamo la partita, sia senza che  col computer e salviamo come difFrancese<numero> e il file mettiamolo in openingsbook, da usare con control-R successivamente senza rifare tutte le mosse. Questo procedimento possiamo usarlo per aggiungere anche altre varianti della difesa Francese, in base ad esempio a quello che gioca il computer. 
 
+Esiste un secondo metodo legato all'Openings Trainer che vediamo tra poco.
+
+I file PGN
+I file pgn sono legati all'Openings Trainer. Il nome della estensione dei file pgn deriva da "portable games notation", uno standard per rappresentare partite di scacchi inun file . 
+Un file pgn può contenere centinaia di migliaia di stringhe che rappresentano partite di scacchi.
+Tali file vengono organizzati o classificati in due modi:
+- per campione di scacchi
+- per tipo di apertura di scacchi
+
+Per l'OpeningsTrainer ci interessano soprattutto i file pgn classificati per apertura, scaricabili da siti specifici. 
+Un sito ufficiale è "PGN Mentor". I file sono scaricabili dal link:
+https://www.pgnmentor.com/files/openings.pgn   
+
+Openings Trainer
+Con l'Openings Trainer potrete addestrarvi alle aperture di gioco, dopo aver scaricato i file pgn che vi interessano. Attualmente per iniziare Scacchi-it fornisce il file NimzoDefense.pgn (difesa NimzoIndiana su d4).
+Qualche pacchetto ulteriore aperture.7z vi fornirà altri file pgn maulteriori aperture non fornite potrete trovarle sul sito indicato e scaricarle ed estrarre i file pgn relativi.  
+Come si attiva? Bastano i seguenti passi:
+1. Si fa caricare la scacchiera con i pezzi alla linea di partenza.
+2. Qua potreste fare il cambio del punto di vista con CntrlG, unico punto in cui avrà effetto.
+3. CntrlT per attivare l'OpeningsTrainer 
+4. Si attende il caricamento.
+5. Si da un return e si attende il completamento della spiegazione sui tasti da usare
+6. Si usano le frecce per trovare le aperture di interesse
+7. Si da qualche return dopo aver ascoltato quante partite ci sono
+8. Si sceglie un numero di partita tra quelli disponibili seguito da return
+9. Il trainer vi da informazionisulla partita: evento, luogo, data, giocatori, il round del torneo, esito della partita. 
+10. Parte la visione dell'apertura guidata per almeno una quindicina di mosse. Il messaggio "Sconosciuto" dipende da una iniziale perdita di focus. 
+11. Il trainer vi chiederà di fare spazio dopo ogni due semimosse dei giocatori oppure di fare ESC per uscire dall'apertura guidata.
+12. All'uscita potreste fare tre cose alternative:
+- creare un OpeningsBook personalizzato con la sospensione
+- Continuare a giocare da solo
+- CntrlA per far giocare da li il computer con voi.
+  Non fateCntrlT dato che occorre avere la scacchiera con i pezzi alla linea di partenza.Evntualmente fate prima CntrlQ e poi riavviate con scacchi-start. 
+
+Sovrapposizione di controls
+Che succede se:
+1. Faccio CntrlZ dando il bianco al computer con skill 10, lo faccio giocare e quando devo giocare in nero faccio CntrlA e gli assegno lo stesso skill e colore nero?
+ Il computer da quel momento gioca solo da nero e vi lascia il bianco.
+2. Sto nell'OpeningsTrainer e sto vedendo una apertura guidata e faccio CntrlZ o CntrlA. Essi non hanno effetto.
+3. Sono uscito dall'OpeningsTrainer con ESC e faccio CntrlZ con scacchiera già con pezzi in mezzo. CntrlZ vi rimette la scacchiera con i pezzi alla linea di partenza.
+4. Sono uscito dall'Openings Trainer con i pezzi che sono stati giocati. Posso fare CntrlA per far giocare anche il computer da quel punto. Ma prima posso anche crearmi un OpeningsBook con CntrlS (sospensione).
+5. Sono uscito dall'OpeningsTrainer con ESC e rifaccio CntrlT, quando selezionerò una apertura me la farà vedere fino a che incontrando un pezzo già giocato andrà in errore.Se vi serve rifare CntrlT fate prima CntrlQ e riavviate con scacchi-start.
+  
 Regole di gioco
 Per le regole coinvolte potreste consultare Wikipedia.
 
