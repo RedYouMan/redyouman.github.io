@@ -47,8 +47,8 @@ Il programma Scacchi-it consente di:
 30 - usare un orologio 
 31 - forzare con CntrlA  il computer a giocare l'apertura che si desidera, creandosi anche un openings book personalizzato
 32 - utilizzare un Openings Trainer, per apprendere le aperture di gioco
-Tutte le possibilità di sopra, dipendono dalla vostra conoscenza degli strumenti a disposizione per poterlo fare, quindi è fondamentale sentire sia questo tutorial che l'help.
 
+Tutte le possibilità di sopra, dipendono dalla vostra conoscenza degli strumenti a disposizione per poterlo fare, quindi è fondamentale sentire sia questo tutorial che l'help.
 
 Download e Installazione con"Esplora file" 
 Da browser sul link https://redyouman.github.io/blog/2025/07/27/downloads.html
@@ -141,7 +141,7 @@ Registrazione partita
 La registrazione è consentita attivarla solo ad inizio partita. Non si registrano i problemi, nè le partite col computer.
 
 Scelta livello di skill
-Quando si gioca contro il computer (CntrlZ) è possibile scegliere un livello di gioco tra 0 e 20.
+Quando si gioca contro il computer (CntrlZ o CntrlA) è possibile scegliere un livello di gioco tra 0 e 20.
 
 Nomi dei file
 I nomi dei file vi possono essere chiesti nell'uso di CntrlS (sospensione), CntrlR (ripresa gioco), CntrlW (registrazione partita), CntrlJ (problema che il computer risolve), CntrlP (problema che dobbiamo risolvere).
@@ -167,7 +167,7 @@ Durante questo tipo di sospensione si ottiene anche la valutazione della posizio
 Alla ripresa vi troverete attivato il computer, pronto a giocare e col punto di vista che avevate precedentemente.
 
 Valutazione posizione 
-Durante il gioco col computer, sia dopo la semimossa del nero che alla sospensione si ottiene una valutazione della posizione che può essere positiva o negativa lato Bianco. 
+Durante il gioco col computer, (CntrlZ o CntrlA) sia dopo la semimossa del nero che alla sospensione si ottiene una valutazione della posizione che può essere positiva o negativa lato Bianco. 
 Questovalore ottenuto dall'engine è la differenza tra la posizione giocata e quella della best move che avrebbe potuto fare il bianco.
 Se il valore è positivo "white side" sta meglio il Bianco.
 
