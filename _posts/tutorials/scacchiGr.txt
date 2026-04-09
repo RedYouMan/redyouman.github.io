@@ -318,7 +318,7 @@ Tali file vengono organizzati o classificati in due modi:
 
 Per l'OpeningsTrainer ci interessano soprattutto i file pgn classificati per apertura, scaricabili da siti specifici. 
 Un sito ufficiale è "PGN Mentor". I file sono scaricabili dal link:
-https://www.pgnmentor.com/files/openings.pgn   
+https://www.pgnmentor.com/files.html#openings
 
 Openings Trainer
 Con l'Openings Trainer potrete addestrarvi alle aperture di gioco, dopo aver scaricato i file pgn che vi interessano. Attualmente per iniziare Scacchi-it fornisce il file NimzoDefense.pgn (difesa NimzoIndiana su d4).
