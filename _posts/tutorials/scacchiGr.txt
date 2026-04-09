@@ -23,7 +23,7 @@ Il programma Scacchi-it consente di:
 6 - sospendere la partita per riprenderla quando si vuole(Cntrl-S)
 7 - riprendere una partita sospesa, continuando a registrare, se prima lo stavamo facendo, . Inoltre la ripresa di una partita non registrata col computer, fa continuare a giocare con quest'ultimo (CntrlR)
 8 - caricare dei problemi scacchistici da risolvere(CntrlP)
-9 - conoscere le mosse fatte e l'ultima giocata (CntrlU)
+9 - conoscere le mosse fatte navigando sulla scacchiera
 10 - controllare che le mosse siano corrette rispetto alle regole dei pezzi
 11 - controllare lo scacco al re, lo scacco matto e lo stallo
 12 - mettere a conoscenza, nel caso di ripresa di una partita, della possibilità dell'enpassant, verificandone l'utilizzo
@@ -122,8 +122,7 @@ Solo nel caso della sospensione potreste scegliere tra varie cose: CntrlQ  per u
 Nomi dei comandi da ricordare
 I nomi dei controls sono tali da avere l'ultima lettera che stimoli una associazione di idee per ricordarli:
 - H per help o aiuto
-- W per write/registrare
-- U per ultima mossa
+- W per write/registrare 
 P-  per i problemi
 - S per sospendere
 - R per riprendere
