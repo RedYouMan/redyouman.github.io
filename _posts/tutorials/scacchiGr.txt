@@ -139,7 +139,9 @@ P-  per i problemi
 
 Registrazione partita
 La registrazione è consentita attivarla solo ad inizio partita. Non si registrano i problemi, nè le partite col computer.
-
+La mossa viene registrata solo dopo due semimosse, ovvero solo dopo che anche il nero ha giocato.
+Quindi, ad esempio, a inizio partita se gioca il bianco e si sospende la partita, il file non vieneaperto. Occorre sempre inserire due semimosse per una corretta e completa registrazione.
+ 
 Scelta livello di skill
 Quando si gioca contro il computer (CntrlZ o CntrlA) è possibile scegliere un livello di gioco tra 0 e 20.
 
