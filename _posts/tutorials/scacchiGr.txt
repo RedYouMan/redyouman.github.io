@@ -319,11 +319,19 @@ Tali file vengono organizzati o classificati in due modi:
 Per l'OpeningsTrainer ci interessano soprattutto i file pgn classificati per apertura, scaricabili da siti specifici. 
 Un sito ufficiale è "PGN Mentor". I file sono scaricabili dal link:
 https://www.pgnmentor.com/files.html#openings
+Qui le aperture sono classificate ulterirormente in:
+- aperture di pedone di donna sia moderna che classica
+- aperture di pedone di Re, sia moderna che classica
+
+Nelle aperture di pedone di Donna nella parte moderna troverete ad esempio NimzoIndiana, EstIndiana, OvestIndiana,BenOni, mentre nelle aperture di pedone di Donna parte classica troverete ad esempio il gambetto di Donna.
+
+Nella classificazione delle aperture di pedone di Re parte moderna troverete: Difesa Francese, Difesa Siciliana, Difesa Caro Kann, Difesa Aleckine etc., mentre nella parte classica ad esempio Partita Spagnola (Ruy Lopez), Partita Italiana, gambetto di Re etc. 
 
 Openings Trainer
 Con l'Openings Trainer potrete addestrarvi alle aperture di gioco, dopo aver scaricato i file pgn che vi interessano. Attualmente per iniziare Scacchi-it fornisce il file NimzoDefense.pgn (difesa NimzoIndiana su d4).
-Qualche pacchetto ulteriore aperture.7z vi fornirà altri file pgn maulteriori aperture non fornite potrete trovarle sul sito indicato e scaricarle ed estrarre i file pgn relativi.  
-Come si attiva? Bastano i seguenti passi:
+Sul sito indicato una volta scaricato lo zip di un'apertura, dovrete estrarre da esso il file pgn e copiarlo nella directory pgn_data di Scacchi-it.
+
+Come si attiva l'Openings Trainer? Bastano i seguenti passi:
 1. Si fa caricare la scacchiera con i pezzi alla linea di partenza.
 2. Qua potreste fare il cambio del punto di vista con CntrlG, unico punto in cui avrà effetto.
 3. CntrlT per attivare l'OpeningsTrainer 
@@ -349,6 +357,7 @@ Che succede se:
 3. Sono uscito dall'OpeningsTrainer con ESC e faccio CntrlZ con scacchiera già con pezzi in mezzo. CntrlZ vi rimette la scacchiera con i pezzi alla linea di partenza.
 4. Sono uscito dall'Openings Trainer con i pezzi che sono stati giocati. Posso fare CntrlA per far giocare anche il computer da quel punto. Ma prima posso anche crearmi un OpeningsBook con CntrlS (sospensione).
 5. Sono uscito dall'OpeningsTrainer con ESC e rifaccio CntrlT, quando selezionerò una apertura me la farà vedere fino a che incontrando un pezzo già giocato andrà in errore.Se vi serve rifare CntrlT fate prima CntrlQ e riavviate con scacchi-start.
+Implementare un altro control come CntrlI corrisponde ad uno stesso numero equivalente di azioni pari a CntrlQ e recall con frecce dell'istruzione scacchi-start.
   
 Regole di gioco
 Per le regole coinvolte potreste consultare Wikipedia.
