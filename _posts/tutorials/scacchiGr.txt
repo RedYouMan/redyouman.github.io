@@ -5,7 +5,7 @@ Benvenuti a Scacchi-it il gioco degli scacchi in italiano con interfaccia vocale
 Versione disponibile 
 Questo paragrafo del tutorial segnalerà sempre la presenza di eventuali nuove versioni migliorative.
 
-Sul sito è stata pubblicata la versione 5.0 di Scacchi-it.
+Sul sito è stata pubblicata la versione 5.1 di Scacchi-it.
 Per verificare la vostra versione ascoltate quando parte il programma oppure digitate CntrlH.
 
 Introduzioneal programma Scacchi-it 
