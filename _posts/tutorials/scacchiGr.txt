@@ -5,7 +5,7 @@ Benvenuti a Scacchi-it il gioco degli scacchi in italiano con interfaccia vocale
 Versione disponibile 
 Questo paragrafo del tutorial segnalerà sempre la presenza di eventuali nuove versioni migliorative.
 
-Sul sito è stata pubblicata la versione 5.2 di Scacchi-it.
+Sul sito è stata pubblicata la versione 5.3 di Scacchi-it.
 Per verificare la vostra versione ascoltate quando parte il programma oppure digitate CntrlH.
 
 Introduzioneal programma Scacchi-it 
@@ -343,12 +343,12 @@ Come si attiva l'Openings Trainer? Bastano i seguenti passi:
 9. Il trainer vi da informazionisulla partita: evento, luogo, data, giocatori, il round del torneo, esito della partita. 
 10. Parte la visione dell'apertura guidata per almeno una quindicina di mosse. Il messaggio "Sconosciuto" dipende da una iniziale perdita di focus. 
 11. Il trainer vi chiederà di fare spazio dopo ogni due semimosse dei giocatori oppure di fare ESC per uscire dall'apertura guidata.
-12. All'uscita potreste fare tre cose alternative:
+12. All'uscita potreste fare quattro cose alternative:
 - creare un OpeningsBook personalizzato con la sospensione
 - Continuare a giocare da solo
 - CntrlA per far giocare da li il computer con voi.
-  Non fateCntrlT dato che occorre avere la scacchiera con i pezzi alla linea di partenza.Evntualmente fate prima CntrlQ e poi riavviate con scacchi-start. 
-
+- CntrlT ancora
+  
 Sovrapposizione di controls
 Che succede se:
 1. Faccio CntrlZ dando il bianco al computer con skill 10, lo faccio giocare e quando devo giocare in nero faccio CntrlA e gli assegno lo stesso skill e colore nero?
@@ -356,8 +356,7 @@ Che succede se:
 2. Sto nell'OpeningsTrainer e sto vedendo una apertura guidata e faccio CntrlZ o CntrlA. Essi non hanno effetto.
 3. Sono uscito dall'OpeningsTrainer con ESC e faccio CntrlZ con scacchiera già con pezzi in mezzo. CntrlZ vi rimette la scacchiera con i pezzi alla linea di partenza.
 4. Sono uscito dall'Openings Trainer con i pezzi che sono stati giocati. Posso fare CntrlA per far giocare anche il computer da quel punto. Ma prima posso anche crearmi un OpeningsBook con CntrlS (sospensione).
-5. Sono uscito dall'OpeningsTrainer con ESC e rifaccio CntrlT, quando selezionerò una apertura me la farà vedere fino a che incontrando un pezzo già giocato andrà in errore.Se vi serve rifare CntrlT fate prima CntrlQ e riavviate con scacchi-start.
-Implementare un altro control come CntrlI corrisponde ad uno stesso numero equivalente di azioni pari a CntrlQ e recall con frecce dell'istruzione scacchi-start.
+5. Sono uscito dall'OpeningsTrainer con ESC e rifaccio CntrlT, ok è possibile.
   
 Regole di gioco
 Per le regole coinvolte potreste consultare Wikipedia.
