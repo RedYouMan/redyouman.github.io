@@ -8,6 +8,8 @@ Questo paragrafo del tutorial segnalerà sempre la presenza di eventuali nuove v
 Sul sito è stata pubblicata la versione 5.3 di Scacchi-it.
 Per verificare la vostra versione ascoltate quando parte il programma oppure digitate CntrlH.
 
+Nota: è stato segnalato bug su CntrlA che porterà alla prossima versione 5.4
+
 Introduzione al programma Scacchi-it 
 Esso è un programma offline ascoltabile con NVDA, e consigliato ai non vedenti, ma con grafica per consentire di giocare anche alle persone vedenti.
 Come si vedrà è soprattutto un programma di studio e analisi, adatto a partite dove si attende la risposta di un amico oppure per risolvere dei problemi o per giocare contro il computer.
