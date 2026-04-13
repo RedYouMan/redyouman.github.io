@@ -49,6 +49,7 @@ Il programma Scacchi-it consente di:
 30 - usare un orologio 
 31 - forzare con CntrlA  il computer a giocare l'apertura che si desidera, creandosi anche un openings book personalizzato
 32 - utilizzare un Openings Trainer, per apprendere le aperture di gioco
+33 - essere utilizzato su un video grande per presentazioni o lezioni
 
 Tutte le possibilità di sopra, dipendono dalla vostra conoscenza degli strumenti a disposizione per poterlo fare, quindi è fondamentale sentire sia questo tutorial che l'help.
 
