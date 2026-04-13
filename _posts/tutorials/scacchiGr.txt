@@ -5,9 +5,8 @@ Benvenuti a Scacchi-it il gioco degli scacchi in italiano con interfaccia vocale
 Versione disponibile 
 Questo paragrafo del tutorial segnalerà sempre la presenza di eventuali nuove versioni migliorative.
 
-Sul sito è stata pubblicata la versione 5.4 di Scacchi-it.
+Sul sito è stata pubblicata la versione 5.5 di Scacchi-it.
 Per verificare la vostra versione ascoltate quando parte il programma oppure digitate CntrlH.
-
 
 Introduzione al programma Scacchi-it 
 Esso è un programma offline ascoltabile con NVDA, e consigliato ai non vedenti, ma con grafica per consentire di giocare anche alle persone vedenti.
