@@ -139,6 +139,9 @@ P-  per i problemi
 - X per avere questa introduzione
 - Q per uscire (quit) 
 
+Come fare l'arrocco
+Basta selezionare il re e muoverlo di due case. Ad esempio per un arrocco corto del bianco, il re da e1 si sposta in g1, mentre per un arrocco lungo bianco il re si sposta da e1 a c1. Il programma automaticamente sposta, poi, la torre relativa. 
+
 Registrazione partita
 La registrazione è consentita attivarla solo ad inizio partita con CntrlW. Non si registrano i problemi, nè le partite col computer.
 La registrazione avviene ad ogni semimossa dei giocatori e continua anche se la partita viene ripresa dopo una sospensione.
