@@ -142,6 +142,9 @@ P-  per i problemi
 Come fare l'arrocco
 Basta selezionare il re e muoverlo di due case. Ad esempio per un arrocco corto del bianco, il re da e1 si sposta in g1, mentre per un arrocco lungo bianco il re si sposta da e1 a c1. Il programma automaticamente sposta, poi, la torre relativa. 
 
+Come fare l'enpassant
+Occorre mettere il proprio pedone alle spalle del pedone che si vuole catturare con enpassant,poi sarà Scacchi-it che completerà la cattura.
+
 Registrazione partita
 La registrazione è consentita attivarla solo ad inizio partita con CntrlW. Non si registrano i problemi, nè le partite col computer.
 La registrazione avviene ad ogni semimossa dei giocatori e continua anche se la partita viene ripresa dopo una sospensione.
