@@ -50,6 +50,7 @@ Il programma Scacchi-it consente di:
 31 - forzare con CntrlA  il computer a giocare l'apertura che si desidera, creandosi anche un openings book personalizzato
 32 - utilizzare un Openings Trainer, per apprendere le aperture di gioco
 33 - essere utilizzato su un video grande per presentazioni o lezioni
+34 - reinizializzare la scacchiera con CntrlN
 
 Tutte le possibilità di sopra, dipendono dalla vostra conoscenza degli strumenti a disposizione per poterlo fare, quindi è fondamentale sentire sia questo tutorial che l'help.
 
@@ -138,7 +139,7 @@ P-  per i problemi
 - T per attivare l'Openings Trainer
 - X per avere questa introduzione
 - Q per uscire (quit) 
-
+- N per reinizializzare la scacchiera
 Come fare l'arrocco
 Basta selezionare il re e muoverlo di due case. Ad esempio per un arrocco corto del bianco, il re da e1 si sposta in g1, mentre per un arrocco lungo bianco il re si sposta da e1 a c1. Il programma automaticamente sposta, poi, la torre relativa. 
 
