@@ -5,7 +5,7 @@ Benvenuti a Scacchi-it il gioco degli scacchi in italiano con interfaccia vocale
 Versione disponibile 
 Questo paragrafo del tutorial segnalerà sempre la presenza di eventuali nuove versioni migliorative.
 
-Sul sito è stata pubblicata la versione 5.8 di Scacchi-it, che aggiunge nuove funzionalità.
+Sul sito è stata pubblicata la versione 5.9 di Scacchi-it, che aggiunge nuove funzionalità.
 I cambiamenti sono tracciati nel file changelog.txt nella directory readme.
  
 Per verificare la vostra versione ascoltate quando parte il programma oppure digitate CntrlH.
@@ -18,7 +18,7 @@ Tuttavia la presenza dell'orologio nel pacchetto ha solo il significato di "alle
 
 Il programma Scacchi-it consente di:
 1 - navigare, con frecce e mouse, sulla scacchiera dando informazioni di pezzi e case vuote
-2 - scegliere il lato o il punto di vista da cui giocare (in fase di miglioramento) 
+2 - scegliere il lato o il punto di vista da cui giocare
 3 - inserire le mosse del Bianco e del Nero
 4 - controllare il diritto di mossa (Bianco o Nero)
 5 - registrare o meno la partitacon notazione algebrica scacchistica(CntrlW per registrare)
@@ -132,13 +132,15 @@ P-  per i problemi
 - R per riprendere
 - L per lasciare o abbandonare
 - O per lo stupore di chiedere patta per stallo
-- - Z per giocare contro il computer (zombie)
+- G per giocare da un altro punto di vista: bianco o nero
+- Z per giocare contro il computer (zombie)
 - J per usare il Jolly del computer per risolvere i problemi
 - A per forzare l'apertura desiderata che il computer deve giocare
 - T per attivare l'Openings Trainer
 - X per avere questa introduzione
 - Q per uscire (quit) 
 - N per reinizializzare la scacchiera
+
 
 Come fare l'arrocco
 Basta selezionare il re e muoverlo di due case. Ad esempio per un arrocco corto del bianco, il re da e1 si sposta in g1, mentre per un arrocco lungo bianco il re si sposta da e1 a c1. Il programma automaticamente sposta, poi, la torre relativa. 
@@ -198,17 +200,13 @@ dir .\problemi\*
 Cambio punto di vista di gioco
 Il cambio del punto di vista da cui giocare può essere fatto in qualunque momento della partita con CntrlG.
 Esso serve per mettersi dalla parte del colore che dobbiamo giocare.
-Attualmente è in fase di revisione.
-
 
 Esempio di uso del programma Scacchi-it
-
-Nel seguito si menziona il comando CntrlG che non è disponibile perchè in fase di revisione.
 Supponiamo che vogliamo giocare gestendo bianco e nero    liberamente,per attendere la mossa di un amico, con il punto di vista nero e registrare la partita:
 - avviamo il programmache apre la scacchiera 
 - facciamo CntrlW per la registrazione della partita, questo solo ad inizio partita, inserendo il nome desiderato del file 
 - il programma avvia la nuova predisposizione dei pezziche tiene conto della registrazione
-- Facciamo CntrlG per avere il punto di vista nero da cui giocare
+- Facciamo ora CntrlG per avereil punto di vista nero da cui giocare
 
 Se volessimo giocare col computer e che questi avesse il bianco, in sequenza dovremo fare:
 - avviare il programmaattendendo la scacchiera
