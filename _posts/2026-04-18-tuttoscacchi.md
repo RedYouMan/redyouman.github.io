@@ -27,10 +27,10 @@ Nel seguito troverete la licenza , le versioni stabili di Scacchi-it e delle uti
 ## Collezioni di scacchi
 
 I 100 migliori problemi di scacchi
-https://redyouman.github.io/blog/2026/03/06/collection.html
+[Articolo problemi di scacchi](https://redyouman.github.io/blog/2026/03/06/collection.html)
 
 Le 100 migliori combinazioni di scacchi
-https://redyouman.github.io/blog/2026/03/23/thebestcombinations.html
+[Articolo sulle combinazioni di scacchi](https://redyouman.github.io/blog/2026/03/23/thebestcombinations.[Articolo sulle combinazioni di scacchi](html)
 
 I 100 migliori finali di scacchi
-https://redyouman.github.io/blog/2026/03/25/thebestendgames.html
+[Articolo sui finali di scacchi](https://redyouman.github.io/blog/2026/03/25/thebestendgames.html)
