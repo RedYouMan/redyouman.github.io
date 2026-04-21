@@ -32,7 +32,7 @@ I 100 migliori problemi di scacchi
 [Articolo problemi di scacchi](https://redyouman.github.io/blog/2026/03/06/collection.html)
 
 Le 100 migliori combinazioni di scacchi
-[Articolo sulle combinazioni di scacchi](https://redyouman.github.io/blog/2026/03/23/thebestcombinations.[Articolo sulle combinazioni di scacchi](html)
+[Articolo combinazioni di scacchi](https://redyouman.github.io/blog/2026/03/23/thebestcombinations.html)
 
 I 100 migliori finali di scacchi
 [Articolo sui finali di scacchi](https://redyouman.github.io/blog/2026/03/25/thebestendgames.html)
