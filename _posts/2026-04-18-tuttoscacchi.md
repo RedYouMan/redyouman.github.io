@@ -14,7 +14,7 @@ keywords:
 categories: Blog
 ---
 
-# _DOWNLOADS per Scacchi_
+# Tutto Scacchi
 
 Nel seguito troverete la licenza , le versioni stabili di Scacchi-it e delle utility correlate, oltre agli articoli di interesse.
 
@@ -23,6 +23,8 @@ Nel seguito troverete la licenza , le versioni stabili di Scacchi-it e delle uti
 [scarica Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/scacchiGr.7z)
 
 [scarica fenpos](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repolc/fenpos.exe)
+
+[tutorial Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/tutorials/scacchiGr.txt)
 
 ## Collezioni di scacchi
 
