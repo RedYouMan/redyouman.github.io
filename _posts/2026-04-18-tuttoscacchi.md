@@ -16,7 +16,9 @@ categories: Blog
 
 # Tutto Scacchi
 
-Nel seguito troverete la licenza , le versioni stabili di Scacchi-it e delle utility correlate, oltre agli articoli di interesse.
+Questa pagina è dedicata a tutti gli appassionati di scacchi. Nel seguito troverete la licenza , le versioni stabili di Scacchi-it e delle utility correlate, oltre ad articoli di interesse.
+
+[Presentazione gruppo NV&V](https://redyouman.github.io/2025/07/26/giochi-gratuiti.html)
 
 [scarica licenza](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/MITlicence.pdf)
 
@@ -36,3 +38,7 @@ Le 100 migliori combinazioni di scacchi
 
 I 100 migliori finali di scacchi
 [Articolo sui finali di scacchi](https://redyouman.github.io/blog/2026/03/25/thebestendgames.html)
+
+## Altri giochi da scaricare
+
+[Pagina di download giochi](https://redyouman.github.io/blog/2025/07/27/downloads.html)
