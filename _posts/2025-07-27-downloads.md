@@ -87,6 +87,10 @@ Da notare che gli eseguibili di questa sezione hanno suffisso NV nel nome per di
 
 [scarica tris](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repolc/trisNV.exe)
 
+## **Tutto Scacchi**
+
+[Vai a TuttoScacchi](https://redyouman.github.io/blog/2026/04/18/tuttoscacchi.html)
+
 ## **Strumenti di ausilio**
 
 [scarica lettore testo](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repoaux/lettore.7z) Nota: prevede sintesi vocale
