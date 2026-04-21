@@ -11,8 +11,11 @@ I cambiamenti sono tracciati nel file changelog.txt nella directory readme.
 Per verificare la vostra versione ascoltate quando parte il programma oppure digitate CntrlH.
 
 Introduzione al programma Scacchi-it 
-Esso è un programma offline ascoltabile con NVDA, e consigliato ai non vedenti, ma con grafica per consentire di giocare anche alle persone vedenti.
-Come si vedrà è soprattutto un programma di studio e analisi, adatto a partite dove si attende la risposta di un amico oppure per risolvere dei problemi o per giocare contro il computer.
+Esso è un programma offline ascoltabile con sintesi vocale, consigliato ai non vedenti, ma con grafica per consentire di giocare anche alle persone vedenti.
+
+Il non vedente, tramite lo screen reader NVDA, potrà utilizzare il computer e il programma, ascoltando anche i messaggi "verbosi" della console.
+
+Come si vedrà Scacchi-it è soprattutto un programma di studio e analisi, adatto a partite dove si attende la risposta di un amico oppure per lezioni di scacchi, o risolvere dei problemi o per giocare contro il computer.
 Questa caratteristica sottolinea la modalità non agonistica del programma e, quindi, non necessita di orologio per la misurazione del tempo per le risposte di ogni giocatore.
 Tuttavia la presenza dell'orologio nel pacchetto ha solo il significato di "allenamento col computer" per abituarsi al tempo di gioco.
 
@@ -380,7 +383,7 @@ Conclusione
 L'applicativo Scacchi-it presentato coglie due aspetti importanti:
 - permette di giocare a non vedenti e vedenti
 - fa fruire, in modo trasparente, un insieme di cose che gli appassionati di scacchi non informatici non saprebbero come utilizzare: chess engine, comandi uci, tuning, openings book, formato pgn e polyglot, reti neurali, algoritmo alpha0 e altro ancora. 
-
+- è un applicativo open data, che permette l'interazione con esso attraverso la rot notation
 Al momento l'introduzione si ferma qui. Se avete bisogno di altre info, scrivete alla email che trovate sul blog.
 Eventuali altri versioni rilasciate vedranno anche l'aggiornamento di questa guida.
 
