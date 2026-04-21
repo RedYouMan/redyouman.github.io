@@ -28,7 +28,7 @@ Inoltre nella sezione strumenti di ausilio, troverete strumenti utili come ad es
 Questa sezione conterrà giochi offline grafici per ambienti C++ , autosufficienti ovvero non sarà necessario preinstallare pacchetti redistribuibili oppure .Net.
 I giochi sono adatti a vedenti e non vedenti.
 
-[scarica scacchi](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/scacchiGr.7z)
+[scarica Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/scacchiGr.7z)
 
 ## _Download giochi grafici (C#)_
 
