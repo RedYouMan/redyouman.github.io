@@ -116,9 +116,9 @@ ESC per zittire la console
 Se nel passaggio da una finestra ad un'altra con Alt-Tab, la console su NVDA si intromette a parlare, usate ESC per zittirla.
 
 Inserimento Informazioni
-Se siete sulla parte  grafica di scacchi, per andare su console e inserire le informazioni richieste usate alt+tab che vi permette di spostarvi tra le finestre. Dopo sempre con alt+tab ritornate sulla grafica di scacchi.
-Vi consigliamo di attendere sempre che termini il vocale prima di spostarvi con Alt-Tab, per capire bene cosa fare.
-Il programma rimane difatti in attesa.
+Se siete sulla parte  grafica di scacchi, per andare su console e inserire le informazioni richieste usate alt+tab+ESC  che vi permette di spostarvi tra le finestre. Dopo sempre con alt+tab ritornate sulla grafica di scacchi.
+Vi consigliamo di attendere sempre che termini il vocale prima di spostarvi di finestra per capire bene cosa fare.
+Spostatevi con Alt+Tab+Esc  solo dopo che vi sarà richiesto. Il programma rimane difatti in attesa.
 
 Alt e Tab sono a sinistra della tastiera, con il Tab nella parte centrale della fila verticale dei tasti a sinistra ad inizio tastiera.
 L'Alt si trova a sinistra accanto alla barra spaziatrice.
@@ -143,7 +143,6 @@ P-  per i problemi
 - X per avere questa introduzione
 - Q per uscire (quit) 
 - N per reinizializzare la scacchiera
-
 
 Come fare l'arrocco
 Basta selezionare il re e muoverlo di due case. Ad esempio per un arrocco corto del bianco, il re da e1 si sposta in g1, mentre per un arrocco lungo bianco il re si sposta da e1 a c1. Il programma automaticamente sposta, poi, la torre relativa. 
@@ -186,7 +185,7 @@ Alla ripresa vi troverete attivato il computer, pronto a giocare e col punto di 
 
 Valutazione posizione 
 Durante il gioco col computer, (CntrlZ o CntrlA) sia dopo la semimossa del nero che alla sospensione si ottiene una valutazione della posizione che può essere positiva o negativa lato Bianco. 
-Questovalore ottenuto dall'engine è la differenza tra la posizione giocata e quella della best move che avrebbe potuto fare il bianco.
+Questovalore ottenuto dall'engine è la differenza tra la posizione giocata e quella della best move che avrebbe potuto fare il bianco.Il valore è espresso in centipedone (centesimo di pedone).
 Se il valore è positivo "white side" sta meglio il Bianco.
 
 Elenco dei file registrati oppure dei problemi disponibili
