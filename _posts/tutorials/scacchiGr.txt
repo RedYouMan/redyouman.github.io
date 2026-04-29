@@ -5,7 +5,7 @@ Benvenuti a Scacchi-it il gioco degli scacchi in italiano con interfaccia vocale
 Versione disponibile 
 Questo paragrafo del tutorial segnalerà sempre la presenza di eventuali nuove versioni migliorative.
 
-Sul sito è stata pubblicata la versione 5.9 di Scacchi-it, che aggiunge nuove funzionalità.
+Sul sito è stata pubblicata la versione 5.10 di Scacchi-it, che aggiunge nuove funzionalità.
 I cambiamenti sono tracciati nel file changelog.txt nella directory readme.
  
 Per verificare la vostra versione ascoltate quando parte il programma oppure digitate CntrlH.
@@ -305,6 +305,11 @@ In entrambi gli scenari, dobbiamo attivare su una sola console sia Chess Clock c
 Stesso procedimento di prima, ma col punto 4 dove è il singolo giocatore che va sull'orologio e fa spazio
 
 Prima di giocare con l'orologio prendete prima la mano per spostarvi da una finestra ad un'altra, , lasciando Alt solo dopo che il Tab vi ha portato sulla finestra giusta, ascoltando la voce di aiuto. 
+
+Abbandono automatico
+Stockfish è molto forte con punteggio ELO di circa 3500 punti e risponde sempre molto rapidamente.
+Esso è stato progettato dai suoi autori per vincere o pareggiare e qualora si trovasse in una posizione perdente, tende ad analizzare all'infinito o si blocca. 
+Per evitare questo, quando si gioca col computer,  è settato in automatico il messaggio di "abbandono di stockfish" entro i 5 minuti durante i quali non rispondesse.  
 
 Openings Book personalizzato
 Possiamo provare le aperture che vogliamo costringendo il computer a giocarle. Vediamo come.
