@@ -5,7 +5,7 @@ Benvenuti a Scacchi-it il gioco degli scacchi in italiano con interfaccia vocale
 Versione disponibile 
 Questo paragrafo del tutorial segnalerà sempre la presenza di eventuali nuove versioni migliorative.
 
-Sul sito è stata pubblicata la versione 5.11 di Scacchi-it.
+Sul sito è stata pubblicata la versione 5.12 di Scacchi-it.
 I cambiamenti sono tracciati nel file changelog.txt nella directory readme.
  
 Per verificare la vostra versione ascoltate quando parte il programma oppure digitate CntrlH.
@@ -66,10 +66,10 @@ Fate Start+E + return per "Esplora file" e cercate Downloads.
 
 Nota: nel seguito Fn va usato solo se a sinistra della barra spaziatrice avete quattro tasti. Se ne avete solo tre, valgono le stesse operazioni di sotto senza fare Fn. 
 
-Quando siete in Downloads cercate scacchi-it.7z e su tale file fate Fn+"Menu Contestuale" e cercate con le frecce "Copia" e fate return. 
+Quando siete in Downloads cercate scacchiGr.7z e su tale file fate Fn+"Menu Contestuale" e cercate con le frecce "Copia" e fate return. 
 Fate Alt+freccia a sinistra (per salire nelmenu di"Esplora file" e cercate ora Desktop.
 Fare di nuovo Fn+"Menu contestuale"+"Incolla" seguito da return.
-Ora scacchi-it.7z è sul desktop.
+Ora scacchiGr.7z è sul desktop.
 Con "Esplora file" selezionare lo zip e fare Fn+"Menu contestuale"+"7z"+return e cercare "estrai qui".
 A questo punto sul Desktop vi crea una cartella scacchi-it. 
 Sempre con "Esplora file" cliccate sulla cartella scacchi-it e vi entrate.
@@ -116,9 +116,9 @@ ESC per zittire la console
 Se nel passaggio da una finestra ad un'altra con Alt-Tab, la console su NVDA si intromette a parlare, usate ESC per zittirla.
 
 Inserimento Informazioni
-Se siete sulla parte  grafica di scacchi, per andare su console e inserire le informazioni richieste usate alt+tab+ESC  che vi permette di spostarvi tra le finestre. Dopo sempre con alt+tab ritornate sulla grafica di scacchi.
+Se siete sulla parte  grafica di scacchi, per andare su console e inserire le informazioni richieste usate alt+tab seguito da ESC  che vi permette di spostarvi tra le finestre e zittire la console. Dopo sempre con alt+tab ritornate sulla grafica di scacchi-it.
 Vi consigliamo di attendere sempre che termini il vocale prima di spostarvi di finestra per capire bene cosa fare.
-Spostatevi con Alt+Tab+Esc  solo dopo che vi sarà richiesto. Il programma rimane difatti in attesa.
+Spostatevi con Alt+Tab seguito da Esc  solo dopo che vi sarà richiesto. Il programma rimane difatti in attesa.
 
 Alt e Tab sono a sinistra della tastiera, con il Tab nella parte centrale della fila verticale dei tasti a sinistra ad inizio tastiera.
 L'Alt si trova a sinistra accanto alla barra spaziatrice.
@@ -134,7 +134,6 @@ P-  per i problemi
 - S per sospendere
 - R per riprendere
 - L per lasciare o abbandonare
-- O per lo stupore di chiedere patta per stallo
 - G per giocare da un altro punto di vista: bianco o nero
 - Z per giocare contro il computer (zombie)
 - J per usare il Jolly del computer per risolvere i problemi
@@ -152,6 +151,11 @@ Occorre mettere il proprio pedone alle spalle del pedone che si vuole catturare 
 
 Come promuovere un pedone
 Si viene guidati sulla console con Alt-Tab e si deve rispondere Con T per torre, C per cavallo, A per alfiere o D per donna. Se si da un valore diverso non viene promosso il pedone.
+
+Scelta automatica della lingua italiana
+Scacchi-it sceglie automaticamente la lingua italiana se disponibile, altrimenti quella di sistema. Ad esempio se avete Windows in inglese, vi leggerà le frasi italiane con accento inglese.Per evitare questo occorre installare anche la lingua italiana su Windows in inglese.
+Se avete già entrambe le lingue userà l'italiano.
+Non ci sono problemi di installazione se avete Windows in italiano. 
 
 Registrazione partita
 La registrazione è consentita attivarla solo ad inizio partita con CntrlW. Non si registrano i problemi, nè le partite col computer.
