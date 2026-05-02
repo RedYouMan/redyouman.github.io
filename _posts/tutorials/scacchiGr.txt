@@ -384,13 +384,17 @@ Che succede se:
 4. Sono uscito dall'Openings Trainer con i pezzi che sono stati giocati. Posso fare CntrlA per far giocare anche il computer da quel punto. Ma prima posso anche crearmi un OpeningsBook con CntrlS (sospensione).
 5. Sono uscito dall'OpeningsTrainer con ESC e rifaccio CntrlT, ok è possibile.
 
+Scacco al Re, scacco matto e stallo
+Tutte e tre le tipologie sono controllate dal motore grafico di Scacchi-it.
+
 Regole di Patta non controllate
-Essendo Scacchi-it un programma di studio e analisi, non sono controllate le seguenti regole di patta:
+Innanzitutto la patta non può essere automatica ma deve essere richiesta da uno dei giocatori.
+Tuttavia essendo Scacchi-it un programma di studio e analisi, non sono controllate le seguenti regole di patta:
 a - Patta per le 50 mosse, che si verifica quando un giocatoreha raggiunto 50 mosse senza catture o movimento di pedoni. In tal caso al proprio turno può richiedere la patta.
 b - ripetizione della stessa posizione per tre volte
 c - quando rimangono re contro re 
 d - re con pezzi che non permettono scacco matto contro re
-e - re con pezzi che non permettono scacco matto contro re con pezzi che non permettono scacco matto
+e - re con pezzi che non permettono scacco matto contro re con pezzi che, a loro volta, non permettono scacco matto
 
 Altre Regole di gioco
 Per le regole coinvolte potreste consultare Wikipedia.
