@@ -392,9 +392,10 @@ Innanzitutto la patta non può essere automatica ma deve essere richiesta da uno
 Tuttavia essendo Scacchi-it un programma di studio e analisi, non sono controllate le seguenti regole di patta:
 a - Patta per le 50 mosse, che si verifica quando un giocatoreha raggiunto 50 mosse senza catture o movimento di pedoni. In tal caso al proprio turno può richiedere la patta.
 b - ripetizione della stessa posizione per tre volte
-c - quando rimangono re contro re 
-d - re con pezzi che non permettono scacco matto contro re
-e - re con pezzi che non permettono scacco matto contro re con pezzi che, a loro volta, non permettono scacco matto
+c - re con pezzi che non permettono scacco matto contro re
+d - re con pezzi che non permettono scacco matto contro re con pezzi che, a loro volta, non permettono scacco matto
+
+Unico caso controllato: quando rimane re contro re.
 
 Altre Regole di gioco
 Per le regole coinvolte potreste consultare Wikipedia.
