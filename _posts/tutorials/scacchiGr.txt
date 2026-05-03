@@ -395,8 +395,11 @@ b - ripetizione della stessa posizione per tre volte
 c - re con pezzi che non permettono scacco matto contro re
 d - re con pezzi che non permettono scacco matto contro re con pezzi che, a loro volta, non permettono scacco matto
 
-Unico caso controllato: quando rimane re contro re.
-
+Sono però controllate alcune patte teoriche elementari:
+- re contro re
+- re con alfiere (o cavallo) contro re
+- re con alfiere (o cavallo) contro re con alfiere (o cavallo)
+ 
 Altre Regole di gioco
 Per le regole coinvolte potreste consultare Wikipedia.
 
