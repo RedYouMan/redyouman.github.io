@@ -276,8 +276,8 @@ Ovvero si elencano prima i pedoni che hanno la possibilità di fare la cattura, 
 Gli altri record indirettamente gestiti dal programma non vengono documentati dato che sono competenza solo del programma.
 
 Il programma fengen
-Nella parte di download c'è il programma fengen che a partire da una posizione fen relativa ad un problema, vi estrae un file con rot notation, in modo da caricarla con l'applicativo scacchi. 
-Su questo sito troverete una "Problems Collection" con almeno 100 fen associate, tradotte in rot notation. Sul sito troverete anche una "Chess Combinations Collection" con le fen associate e con fengen potrete ottenere i file da caricare sotto scacchi.
+Nella parte di download c'è il programma fengen che a partire da una posizione fen relativa ad un problema, vi estrae un file con rot notation, in modo da caricarla con l'applicativo scacchi-it. 
+Su questo sito troverete una "Problems Collection" con almeno 100 fen associate, tradotte in rot notation. Sul sito troverete anche una "Chess Combinations Collection"  e una "final chess collection" con le fen associate e con fengen potrete ottenere i file da caricare sotto scacchi-it.
 
 Configurabilità delle versioni di stockfish
 Qualora ci fossero versioni più recenti di stockfish è possibile scaricare la nuova versione nella directory engine emodificare, nella directory bin, il file engine.cnf per mettervi il nuovo nome dell'eseguibile stockfish gui.
@@ -405,11 +405,13 @@ Sono però controllate alcune patte teoriche elementari:
 Altre Regole di gioco
 Per le regole coinvolte potreste consultare Wikipedia.
 
-Conclusione
+Conclusioni
 L'applicativo Scacchi-it presentato coglie vari aspetti importanti:
 - permette di giocare a non vedenti e vedenti
 - fa fruire, in modo trasparente, un insieme di cose che gli appassionati di scacchi non informatici non saprebbero come utilizzare: chess engine, comandi uci, tuning, openings book, formato pgn e polyglot, reti neurali, algoritmo alpha0 e altro ancora. 
 - è un applicativo open data, che permette l'interazione con esso attraverso la rot notation
+- permette di studiare, analizzare, giocare e dare lezioni di scacchi
+
 Al momento l'introduzione si ferma qui. Se avete bisogno di altre info, scrivete alla email che trovate sul blog.
 Eventuali altre versioni rilasciate vedranno anche l'aggiornamento di questa guida.
 
