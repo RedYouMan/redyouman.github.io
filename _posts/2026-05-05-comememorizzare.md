@@ -1,9 +1,9 @@
 ---
-title: "tuttoscacchi Downloads:Giochi gratuiti per non vedenti e per vedenti"
+title: ":come memorizzare la scacchiera "
 description: "blog di Rosario Turco con downloads di giochi gratuiti per non vedenti"
 keywords:
   [
-    "downloads",
+    "tutorial",
     "scacchi",
     "gratuiti",
     "gratis",
