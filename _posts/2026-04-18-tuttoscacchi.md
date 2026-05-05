@@ -43,6 +43,10 @@ Le 100 migliori combinazioni di scacchi
 I 100 migliori finali di scacchi
 [Articolo sui finali di scacchi](https://redyouman.github.io/blog/2026/03/25/thebestendgames.html)
 
+## **Memorizzazione scacchiera con esercizi spazio-relazionali**
+
+[Esercizi spazio-relazionali](https://redyouman.github.io/blog/2026/05/05/comememorizzare.html)
+
 ## Altri giochi da scaricare
 
 [Pagina di download giochi](https://redyouman.github.io/blog/2025/07/27/downloads.html)
