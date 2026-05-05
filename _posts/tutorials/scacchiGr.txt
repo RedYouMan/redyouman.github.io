@@ -407,7 +407,7 @@ Altre Regole di gioco
 Per le regole coinvolte potreste consultare Wikipedia.
 
 Conclusione
-L'applicativo Scacchi-it presentato coglie due aspetti importanti:
+L'applicativo Scacchi-it presentato coglie vari aspetti importanti:
 - permette di giocare a non vedenti e vedenti
 - fa fruire, in modo trasparente, un insieme di cose che gli appassionati di scacchi non informatici non saprebbero come utilizzare: chess engine, comandi uci, tuning, openings book, formato pgn e polyglot, reti neurali, algoritmo alpha0 e altro ancora. 
 - è un applicativo open data, che permette l'interazione con esso attraverso la rot notation
