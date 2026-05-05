@@ -1,5 +1,4 @@
-GIOCO DEGLI SCACCHI
-Tutorial su Schacchi-it
+Tutorial su Scacchi-it
 
 Benvenuti a Scacchi-it il gioco degli scacchi in italiano con interfaccia vocale.
 
