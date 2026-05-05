@@ -411,7 +411,7 @@ L'applicativo Scacchi-it presentato coglie vari aspetti importanti:
 - fa fruire, in modo trasparente, un insieme di cose che gli appassionati di scacchi non informatici non saprebbero come utilizzare: chess engine, comandi uci, tuning, openings book, formato pgn e polyglot, reti neurali, algoritmo alpha0 e altro ancora. 
 - è un applicativo open data, che permette l'interazione con esso attraverso la rot notation
 Al momento l'introduzione si ferma qui. Se avete bisogno di altre info, scrivete alla email che trovate sul blog.
-Eventuali altri versioni rilasciate vedranno anche l'aggiornamento di questa guida.
+Eventuali altre versioni rilasciate vedranno anche l'aggiornamento di questa guida.
 
 Segnalazioni
 Per segnalazioni di bug o altro potreste inviare via email (rosturco.na@gmail.com) la posizione dei pezzi attraverso il file di sospensione della partita, segnalando anche la versione di scacchi che state usando e la descrizione del problema.
