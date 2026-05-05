@@ -7,7 +7,7 @@ Versione disponibile
 Questo paragrafo del tutorial segnalerà sempre la presenza di eventuali nuove versioni migliorative.
 
 Sul sito è stata pubblicata la versione 5.15 di Scacchi-it.
-I cambiamenti sono tracciati nel file changelog.txt nella directory readme.
+I cambiamenti sono tracciati nel file changelog.txt nella directory readme e sono frutto delle segnalazioni della Community.
  
 Per verificare la vostra versione ascoltate quando parte il programma oppure digitate CntrlH.
 
@@ -33,7 +33,7 @@ Il programma Scacchi-it consente di:
 8 - caricare dei problemi scacchistici da risolvere(CntrlP)
 9 - conoscere le mosse fatte navigando sulla scacchiera
 10 - controllare che le mosse siano corrette rispetto alle regole dei pezzi
-11 - controllare lo scacco al re, lo scacco matto e lo stallo
+11 - controllare lo scacco al re, lo scacco matto , lo stallo e le patte elementari
 12 - mettere a conoscenza, nel caso di ripresa di una partita, della possibilità dell'enpassant, verificandone l'utilizzo
 13 - fare Abbandono da parte del re (CntrlL)
  14 - scegliere di giocare contro il computer (CntrlZ)
@@ -44,7 +44,7 @@ Il programma Scacchi-it consente di:
 19 - leggere il tutorial
 20 - vedere animazione della mossa dei pezzi
 21 - utilizzare le frecce e return oppure  il mouse per giocare
-22 - sintesi vocale con messaggi verbosi su console
+22 - sintesi vocale in italiano con messaggi verbosi su console
 23 - sonoro del toc di gioco di un pezzo
 24 - chiudere la scacchiera con CntrlQ oppure con il mouse sulla crocetta della finestra "Scacchi"
 25 - utilizzare Alt-Tab per spostarsi da scacchiera a console per inserire informazioni e ulteriore Alt-Tab per tornare a giocare
@@ -104,13 +104,13 @@ L'help della versione grafica è con sintesi vocale.
 Maggiori dettagli però sono nel tutorial che vi conviene leggere.
 
 Tutorial con CntrlX
-Questo tutorial è attivabile anche da programma scacchi con CntrlX.
+Questo tutorial è attivabile anche da programma scacchi con CntrlX sulla scacchiera.
 
 Navigazione
 La navigazione consente al non vedente di esplorare tutta la scacchiera tramite le frecce su, giù, destra e sinistra. Per i vedenti è possibile l'uso del mouse.
-La navigazione è udibile con NVDA.
+La navigazione è udibile con NVDA, mentre senza si udranno le informazioni essenziali per la comprensione del gioco.
 Si consiglia durante la navigazione di attendere sempre un secondo per ascoltare nome della casa e presenza o meno di un pezzo.
-Attenzione che occorre usare il RETURN sia per selezionare il pezzo che per indicare la casa dove metterlo. Analogamente col mouse si usa il tasto sinistro per selezionare pezzo e casa destinazione.
+Attenzione che occorre usare il RETURN per le frecce,sia per selezionare il pezzo che per indicare la casa dove metterlo. Analogamente col mouse si usa il tasto sinistro per selezionare pezzo e casa destinazione con un click sul tasto.
 
 Tempi di attesa con mouse o tasti
 Essendo un gioco dedicato ai non vedenti, esiste sempre 1 secondo di ritardoper individuare se la casa è vuota o con presenza di pezzo da menzionare.
