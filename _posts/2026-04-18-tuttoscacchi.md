@@ -28,6 +28,10 @@ Questa pagina è dedicata a tutti gli appassionati di scacchi. Nel seguito trove
 
 [tutorial Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/tutorials/scacchiGr.txt)
 
+[cosa è un chess engine](https://redyouman.github.io/blog/2026/05/12/chessengine.html)
+
+[Cosa è Scacchi-it](https://redyouman.github.io/blog/2026/05/12/motoregrafico.html)
+
 [scarica imparoTastiera per usare il computer](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repoaux/imparoTastiera.exe) Nota: da usare con NVDA
 
 [scarica corso tastiera e nvda](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repoaux/corso.7z)
