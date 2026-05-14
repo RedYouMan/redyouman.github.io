@@ -111,8 +111,11 @@ La navigazione è udibile con NVDA, mentre senza si udranno le informazioni esse
 Si consiglia durante la navigazione di attendere sempre un secondo per ascoltare nome della casa e presenza o meno di un pezzo.
 Attenzione che occorre usare il RETURN per le frecce,sia per selezionare il pezzo che per indicare la casa dove metterlo. Analogamente col mouse si usa il tasto sinistro per selezionare pezzo e casa destinazione con un click sul tasto.
 
-Tempi di attesa con mouse o tasti
+Tempi di attesa con mouse o tasti 
 Essendo un gioco dedicato ai non vedenti, esiste sempre 1 secondo di ritardoper individuare se la casa è vuota o con presenza di pezzo da menzionare.
+
+Tempi diattesa durante il caricamento file 
+Durante un CntrlR o CntrlP o CntrlJ occorre attendere per il caricamento dei dati e delle immagini corrispondenti. 
 
 ESC per zittire la console
 Se nel passaggio da una finestra ad un'altra con Alt-Tab, la console su NVDA si intromette a parlare, usate ESC per zittirla.
