@@ -5,7 +5,7 @@ Benvenuti a Scacchi-it il gioco degli scacchi in italiano con interfaccia vocale
 Versione disponibile 
 Questo paragrafo del tutorial segnalerà sempre la presenza di eventuali nuove versioni migliorative.
 
-Sul sito è stata pubblicata la versione 6.3 di Scacchi-it.
+Sul sito è stata pubblicata la versione 6.4 di Scacchi-it.
 I cambiamenti sono tracciati nel file changelog.txt nella directory readme e sono frutto delle segnalazioni della Community.
  
 Per verificare la vostra versione ascoltate quando parte il programma oppure digitate CntrlH.
@@ -426,6 +426,7 @@ Eventuali altre versioni rilasciate vedranno anche l'aggiornamento di questa gui
 
 Segnalazioni
 Per segnalazioni di bug o altro potreste inviare via email (rosturco.na@gmail.com) la posizione dei pezzi attraverso il file di sospensione della partita, segnalando anche la versione di scacchi che state usando e la descrizione del problema.
+Molto utile sarebbe avere la selezione della videata della console che si ottiene su essa con CntrlA e CntrlC da incollare, poi, in un file di testo da inviare nella email.
 
 Ultimo suggerimento
 Potreste usare il programma per registrare la partita, studiarvi le mosse da fare, sospendere la partita per  poi mandare al vostro amico, con altro strumento come email o whatsapp , la mossa  o addirittura il file di registrazione della partita fatta finora ,e quando anche lui vi risponderà su whatsapp, leggete dal file la sua mossa, riprendete la partita e studiate la nuova mossa.
