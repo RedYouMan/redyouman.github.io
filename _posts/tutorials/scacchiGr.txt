@@ -237,6 +237,7 @@ Se volessimo ascoltare l'analisi del computer nel risolver un problema:
 - fare CntrlJ e inserire il nome del problema
 - ascoltare l'analisi
 L'analisi avverrà su un massimo di dieci mosse e occorre attendere che il computer termini.
+Stockfish potrebbe farvi vedere linee di gioco anche diverse da quelle ipotizzate dal problema, preferendo, a volte, mosse solide al posto di sacrifici o rischi.
 
 Problemi da caricare
 I problemi potreste copiarli dalla settimana enigmistica, da un libro facendovi aiutare, oppure inventarli. Ovviamente dovrete riportare la posizione nel formato RoT su un file txt, come spiegheremo di seguito.
