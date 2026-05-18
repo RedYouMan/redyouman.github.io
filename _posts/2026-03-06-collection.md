@@ -57,7 +57,7 @@ Essa è costituita dai campi descritti di seguito nella tabella.
 |                M: |           6 |                                             turno di mossa : B o N |
 |                P: |           7 |                  numero di mossa ricavato dalla fen diminuito di 1 |
 
-Per quanto riguarda P: potreste mettere anche 1, in modo che, nel caso dei problemi, la numerazione coincide alla fine colnumero di mosse per risolvere il problema.
+Per quanto riguarda P: potreste mettere anche 0, in modo che, nel caso dei problemi, la numerazione coincide alla fine colnumero di mosse per risolvere il problema.
 Nella soluzione dei problemi tale valore non è influente, serve di più nella registrazione della posizione nelle sospensioni della partita.
 Le lettere che individuano il tipo di pezzo possono essere in italiano o in inglese, ma il nostro programma scacchi utilizza solo lettere in italiano.
 
