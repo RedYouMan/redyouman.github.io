@@ -5,9 +5,10 @@ Benvenuti a Scacchi-it il gioco degli scacchi in italiano con interfaccia vocale
 Versione disponibile 
 Questo paragrafo del tutorial segnalerà sempre la presenza di eventuali nuove versioni migliorative.
 
-Sul sito è stata pubblicata la versione 6.7 di Scacchi-it.
+Sul sito è stata pubblicata la versione 7.0 di Scacchi-it.
 I cambiamenti sono tracciati nel file changelog.txt nella directory readme e sono frutto delle segnalazioni della Community.
- 
+ La versione 7 completa tutti gli strumenti utili durante una lezione di scacchi.
+
 Per verificare la vostra versione ascoltate quando parte il programma oppure digitate CntrlH.
 
 Fate sempre F5 sul browser per assicurarvi che vi faccia vedere l'ultima versione del presente file.
@@ -30,7 +31,7 @@ Il programma Scacchi-it consente di:
 6 - sospendere la partita per riprenderla quando si vuole(Cntrl-S)
 7 - riprendere una partita sospesa, continuando a registrare, se prima lo stavamo facendo, . Inoltre la ripresa di una partita non registrata col computer, fa continuare a giocare con quest'ultimo (CntrlR)
 8 - caricare dei problemi scacchistici da risolvere(CntrlP)
-9 - conoscere le mosse fatte navigando sulla scacchiera
+9 - poter fare l'undo delle mosse (annullamento delle mosse CntrlU) 
 10 - controllare che le mosse siano corrette rispetto alle regole dei pezzi
 11 - controllare lo scacco al re, lo scacco matto , lo stallo e le patte elementari
 12 - mettere a conoscenza, nel caso di ripresa di una partita, della possibilità dell'enpassant, verificandone l'utilizzo
@@ -107,7 +108,7 @@ Questo tutorial è attivabile anche da programma scacchi con CntrlX sulla scacch
 
 Navigazione
 La navigazione consente al non vedente di esplorare tutta la scacchiera tramite le frecce su, giù, destra e sinistra. Per i vedenti è possibile l'uso del mouse.
-La navigazione è udibile con NVDA, mentre senza si udranno le informazioni essenziali per la comprensione del gioco.
+La navigazione è udibile con NVDA o con sintesi vocale, mentre senza NVDA si udranno le informazioni essenziali della sintesi vocale per la comprensione del gioco.
 Si consiglia durante la navigazione di attendere sempre un secondo per ascoltare nome della casa e presenza o meno di un pezzo.
 Attenzione che occorre usare il RETURN per le frecce,sia per selezionare il pezzo che per indicare la casa dove metterlo. Analogamente col mouse si usa il tasto sinistro per selezionare pezzo e casa destinazione con un click sul tasto.
 
@@ -127,14 +128,17 @@ Spostatevi con Alt+Tab seguito da Esc  solo dopo che vi sarà richiesto. Il prog
 
 Alt e Tab sono a sinistra della tastiera, con il Tab nella parte centrale della fila verticale dei tasti a sinistra ad inizio tastiera.
 L'Alt si trova a sinistra accanto alla barra spaziatrice.
-Nel passare da console a finestra scacchi, può accadere il messaggio "Scacchi non risponde" ma è solo per la perdita del focus momentaneamente. Appena ritornati sulla scacchiera tutto procede normalmente.
+
 Quando il programma vi chiederà informazioni, dopo aver risposto adeguatamente alla domanda, occorre premere return.Poi di nuovo Alt-Tab per tornare alla scacchiera.
 Solo nel caso della sospensione potreste scegliere tra varie cose: CntrlQ  per uscire o analizzare un problema (CntrlJ), risolvere un problema da soli (CntrlP) o anche ritornare sulla scacchiera e studiarsi cosa potrà rispondere l'amico.
+
+Nel passare da console a finestra scacchi-it, può accadere il messaggio "Scacchi-it non risponde" ma è solo per la perdita del focus momentaneamente.
+Se continua a dire tale messaggio   , fate di nuovo Alt-Tab per andare su console e di nuovo Alt-Tab per tornare sulla scacchiera. Appena ritornati sulla scacchiera tutto procede normalmente.
 
 Puntatore del mouse
 Se sei non vedente come me, ti raccomando di mantenere il puntatore del mouse sulla console. 
 Questo ti eviterà, quando usi NVDA, di ascoltare contemporaneamente console e scacchiera. 
-Ascolta la scacchiera,  dato che starai quasi sempre sulla scacchiera..
+Ascolta la scacchiera,  dato che starai quasi sempre sulla scacchiera.
 
 Nomi dei comandi da ricordare
 I nomi dei controls sono tali da avere l'ultima lettera che stimoli una associazione di idee per ricordarli:
@@ -144,6 +148,7 @@ P-  per i problemi
 - S per sospendere
 - R per riprendere
 - L per lasciare o abbandonare
+- U per l'undo della mossa
 - G per giocare da un altro punto di vista: bianco o nero
 - Z per giocare contro il computer (zombie)
 - J per usare il Jolly del computer per risolvere i problemi
@@ -216,6 +221,31 @@ dir .\problemi\*
 Cambio punto di vista di gioco
 Il cambio del punto di vista da cui giocare può essere fatto in qualunque momento della partita con CntrlG.
 Esso serve per mettersi dalla parte del colore che dobbiamo giocare.
+
+Strumenti per fare lezioni di scacchi
+Quando si fa una lezione di scacchi su video per persone vedenti, è consuetudinetornare indietro per mostrare cosa sarebbe successo facendo altre mosse.
+In tal caso sono utili sia CntrlN (per reinizializzare la scacchiera)e CntrlU (undo delle mosse). 
+La undoMove è permessa solo nei seguenti casi:
+- partita giocata senza engine 
+- soluzione di problemi da solo
+- ripresa di una partita
+
+Nei tre casi di sopra, si parte da una coda di comandi undo vuota ogni volta.
+
+Non viene consentito il suo uso nei seguenti casi:
+- durante una registrazione di una partita
+- durante il gioco con l'engine stockfish (cntrlA, CntrlJ, cntrlZ)
+- con l'Openings Trainer
+- con lo scacco matto, dato che si resetta la scacchiera  
+
+Si possono annullare:
+- mossa
+- cattura 
+- enpassant
+- promozione
+- arrocco
+
+Nel caso di due o più enpassant consecutivi, l'annullamento di quello che viene per ultimo richiede un annullamento in più.
 
 Esempio di uso del programma Scacchi-it
 Supponiamo che vogliamo giocare gestendo bianco e nero    liberamente,per attendere la mossa di un amico, con il punto di vista nero e registrare la partita:
