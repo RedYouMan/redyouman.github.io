@@ -32,10 +32,11 @@ Difatti i componenti di una stringa FEN (6 parti) sono:
 2. Turno: w (bianco) o b (nero).
 3. Arrocco: Kqkq (disponibilità arrocco lato re/donna) oppure valorizzati ognuno con -.
 4. Cattura en passant: Casa in cui un pedone avversario potrebbe andare dopo la cattura , o -.
-   C'è da aggiungere che, per standard, all'atto della fotografia della posizione, essa contiene il valore della casa di cattura dovuta allo spostamento di due passi di un pedone, anche se non esiste nessun pedone avversario che possa usufruire dell'enpassant.
+   C'è da aggiungere che, per standard, all'atto della fotografia della posizione, essa contiene il valore della casa di cattura dovuta allo spostamento di due passi di un pedone, anche se non esiste nessun pedone avversario che possa usufruire dell'enpassant.Ad esempio se si muove un pedone da b2 a b4 la casa indicata è b3, ovvero la casa di cattura in cui si metterebbe un pedone avversario in caso di cattura enpassant.
 5. Semi-mosse: Numero per la regola delle 50 mosse.
 6. Mosse totali: Numero di mosse della partita.
-   Per la semimossanella fen(quinto campo della stringa), come recita Wikipedia, è un contatore del numero di mezzi turni (mosse del Bianco
+
+   Per la semimossa nella fen(quinto campo della stringa), come recita Wikipedia, è un contatore del numero di mezzi turni (mosse del Bianco
    o del Nero) effettuati dall'ultima cattura o spinta di pedone. Viene utilizzato per determinare la regola delle 50 mosse: se arriva a 100 (50 mosse complete), la partita può essere dichiarata patta.
    Esempi FEN:
    • Posizione iniziale: rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1.
