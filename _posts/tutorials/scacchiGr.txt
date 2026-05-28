@@ -5,7 +5,7 @@ Benvenuti a Scacchi-it il gioco degli scacchi in italiano con interfaccia vocale
 Versione disponibile 
 Questo paragrafo del tutorial segnalerà sempre la presenza di eventuali nuove versioni migliorative.
 
-Sul sito è stata pubblicata la versione 7.0 di Scacchi-it.
+Sul sito è stata pubblicata la versione 7.1 di Scacchi-it, da considerarsi  la mainstream stabile.
 I cambiamenti sono tracciati nel file changelog.txt nella directory readme e sono frutto delle segnalazioni della Community.
  La versione 7 completa tutti gli strumenti utili durante una lezione di scacchi.
 
