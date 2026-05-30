@@ -279,6 +279,8 @@ Nel caso di nostri problemi, il computer potrebbe evidenziare delle cose a cui n
 
 RoT Notation
 La RoT Notation che esamineremo di seguito è importante perchè su Internet le partite o i problemi mostrano solo immagini che un non vedente non può utilizzare. La RoT Notation descrive, più efficacemente di una FE Notation,  lo scopo della posizione, come sono dislocati tutti i pezzi, il punto di vista da cui mettersi, chi muove e il numero di mossa da cui partire. 
+Essa è una estensione della notazione algebrica per rendere un applicativo di scacchi open data.
+La paternità di essa è tutelata dal copyright di Scacchi-it.
 
 Come si scrive un problema 
 Per scrivere con Notepad un file di problemi a mano con estensione .txt da porre sotto la directory problemi, occorrre seguire la RoTnotation  per l'occasione definita: 
