@@ -7,7 +7,7 @@ Questo paragrafo del tutorial segnalerà sempre la presenza di eventuali nuove v
 
 Sul sito è stata pubblicata la versione 7.1 di Scacchi-it, da considerarsi  la mainstream stabile.
 I cambiamenti sono tracciati nel file changelog.txt nella directory readme e sono frutto delle segnalazioni della Community.
- La versione 7 completa tutti gli strumenti utili durante una lezione di scacchi.
+La versione 7 completa tutti gli strumenti utili durante una lezione di scacchi.
 
 Per verificare la vostra versione ascoltate quando parte il programma oppure digitate CntrlH.
 
@@ -36,7 +36,7 @@ Il programma Scacchi-it consente di:
 11 - controllare lo scacco al re, lo scacco matto , lo stallo e le patte elementari
 12 - mettere a conoscenza, nel caso di ripresa di una partita, della possibilità dell'enpassant, verificandone l'utilizzo
 13 - fare Abbandono da parte del re (CntrlL)
- 14 - scegliere di giocare contro il computer (CntrlZ)
+14 - scegliere di giocare contro il computer (CntrlZ)
 15 - scegliere il livello di gioco contro il computer
 16 - usare i problemi scritti con una RoTnotation  per Non Vedenti  che informa sulla posizione in termini di descrizione del problema, disposizione dei pezzi del bianco e del nero, il punto di vista da cui giocare, il diritto di mossa, il numero di mossa di partenza
 17 - controllare la correttezza dei file dei problemi scritti a mano
@@ -144,7 +144,7 @@ Nomi dei comandi da ricordare
 I nomi dei controls sono tali da avere l'ultima lettera che stimoli una associazione di idee per ricordarli:
 - H per help o aiuto
 - W per write/registrare 
-P-  per i problemi
+- P per i problemi
 - S per sospendere
 - R per riprendere
 - L per lasciare o abbandonare
@@ -256,7 +256,7 @@ Supponiamo che vogliamo giocare gestendo bianco e nero    liberamente,per attend
 
 Se volessimo giocare col computer e che questi avesse il bianco, in sequenza dovremo fare:
 - avviare il programmaattendendo la scacchiera
--CntrlZ
+- CntrlZ
 - Ci chiederà con che colore deve giocare il computer 
 - La seconda domanda che ci farà è il livello di gioco desiderato (da 1 a 20).
 - Facciamo Cntrl-G per stare dalla parte del nero
