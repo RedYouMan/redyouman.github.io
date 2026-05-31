@@ -300,7 +300,7 @@ Lostesso vale per il Nero. La prima lettera riguarda il pezzo, dove: A=alfiere, 
 Il programma Scacchi-it usa solo le lettere in italiano, ma la rot notation può, in generale, usare anche le lettere inglesi dei pezzi. 
 Dopo la lettera iniziale vi è la casella che indica dove va posizionato il pezzo.
 
-M: dice chi deve muovere per prima (B per bianco e N per Nero). Deve essere coerente con V: (ovvero uguali). 
+M: dice chi deve muovere per prima (B per bianco e N per Nero). 
 P: il numero di mossa di partenza che può essere anche 0 se inventate il problema oppure se traete il problema da una partita, potreste usare il numero di mossa reale, mettendo un valore diminuito di 1, che vi consentirà di partire col numero di mossa uguale a quello del testo da cui avete tratto il tutto.
 Fate attenzione a tutti i tipi di record di sopra. Ad esempio se M:B e giocate un pezzo nero per prima vi dirà che non potete usare quel colore.
 

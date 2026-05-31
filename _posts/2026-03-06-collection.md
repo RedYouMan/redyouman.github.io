@@ -1,4 +1,4 @@
-:---
+---
 title: "Scacchi: FEN E RoT notation:problems Collection per ciechi "
 description: "blog di Rosario Turco con downloads di giochi gratuiti per ciechi"
 keywords:
@@ -12,7 +12,6 @@ keywords:
 "ipovedenti",
 ]
 categories: Blog
-
 ---
 
 # **Chess: One Hundred chess problems forblinds**
