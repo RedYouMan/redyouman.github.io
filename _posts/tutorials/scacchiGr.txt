@@ -308,16 +308,7 @@ Il programma Scacchi-it controlla molte cose su tali file e se ci sono parti scr
 In altri termini gli errori di logica il programma scacchi non li può correggere.
 Ci sono altri record gestiti in modo indiretto dal programma per le sospensioni tra cui anche la presenza di enpassant che si potrebbe utilizzare alla ripresa di gioco.
 
-Qui citiamo solo il record di enpassant U: che potrebbe essere utile nei problemi.
-Immaginate che il problema menzioni che un pedone in c2 del Bianco è stato mosso di due passi in c4, affiancando un pedone nero in b4 e che alla prima mossa del problema,  il nero deve decidere se prendere il pedone in c4 con enpassant oppure fare altra mossa.
-Per segnalare nel problema questa evenienza, possiamo mettere alla fine della RoT notation:
-U:b4c4
-Se oltre a b4 ci fosse anche un pedone nero in a4, allora:
-U:b4a4c4
-
-Ovvero si elencano prima i pedoni che hanno la possibilità di fare la cattura, poi il pedone catturabile.
-
-Gli altri record indirettamente gestiti dal programma non vengono documentati dato che sono competenza solo del programma.
+Quest'ultimi record indirettamente gestiti dal programma non vengono documentati dato che sono competenza solo del programma. 
 
 Il programma fengen
 Nella parte di download c'è il programma fengen che a partire da una posizione fen relativa ad un problema, vi estrae un file con rot notation, in modo da caricarla con l'applicativo scacchi-it. 

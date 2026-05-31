@@ -1,17 +1,18 @@
----
+:---
 title: "Scacchi: FEN E RoT notation:problems Collection per ciechi "
 description: "blog di Rosario Turco con downloads di giochi gratuiti per ciechi"
 keywords:
-  [
-    "tutorials for chess ",
-    "giochi",
-    "gratuiti",
-    "gratis",
-    "non vedenti",
-    "ciechi",
-    "ipovedenti",
-  ]
+[
+"tutorials for chess ",
+"giochi",
+"gratuiti",
+"gratis",
+"non vedenti",
+"ciechi",
+"ipovedenti",
+]
 categories: Blog
+
 ---
 
 # **Chess: One Hundred chess problems forblinds**
@@ -64,12 +65,7 @@ Nella soluzione dei problemi tale valore non è influente, serve di più nella r
 Le lettere che individuano il tipo di pezzo possono essere in italiano o in inglese, ma il nostro programma scacchi utilizza solo lettere in italiano.
 
 L'utilità del campo U: nasce dall'esigenza che, alla ripresa della partita, viene segnalato al cieco la possibilità dell'enpassant.
-Sul campo U:, inoltre, occorre una precisazione, meglio fare due esempi.
-Se ci fossero due pedoni neri nelle case b4 e d4 e il bianco muove c4, allora entrambi i pedoni neri potrebbero usufruire dell'enpassant, per cui:
-U:b4d4c4;
-Sono elencate prima le case dei pedoni che possono fare la cattura e, poi, la casa del pedone da catturare per enpassant
-Se ci fosse un pedone bianco in h5 e il nero giocasse g5 allora
-U:h5g5;
+In particolare è usato solo dal programma quando fa una sospensione per caricarlo. Non consigliabile introdurlo su un file.
 
 # **Mapping pezzi in italiano-inglese**
 
