@@ -4,7 +4,7 @@ Benvenuti a Scacchi-it il gioco degli scacchi in italiano con interfaccia vocale
 
 Scelta file txt per il tutorial
 E'stato scelto di usare un file di testo, al posto di un professionale manuale in pdf , per il semplice motivo
-che un file di testo è il più accessibile su browser ad un non vedente. s 
+che un file di testo è il più accessibile possibile su browser per un non vedente.  
 
 Versione disponibile 
 Questo paragrafo del tutorial segnalerà sempre la presenza di eventuali nuove versioni migliorative.
