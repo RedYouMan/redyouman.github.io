@@ -45,7 +45,8 @@ Difatti i componenti di una stringa FEN (6 parti) sono:
 
 # **La chess rot nottation**
 
-Il nome rotn discende dal nome dell'autore del programma di scacchi su questo sito (Rosario Turco. In particolare per il programma scacchi vedi pagina di download sezione grafica (C++).)
+la sigla rotn discende dal nome dell'autore del programma di scacchi su questo sito (Rosario Turco. In particolare per il programma scacchi vedi pagina di download sezione grafica (C++).)
+La rotn è una estensione della notazione algebrica che rende open data un applicativo di scacchi.
 Essa è costituita dai campi descritti di seguito nella tabella.
 
 | campo da scrivere |   posizione |                                                        significato |
