@@ -310,8 +310,8 @@ Ci sono altri record gestiti in modo indiretto dal programma per le sospensioni 
 
 Quest'ultimi record indirettamente gestiti dal programma non vengono documentati dato che sono competenza solo del programma. 
 
-Il programma fengen
-Nella parte di download c'è il programma fengen che a partire da una posizione fen relativa ad un problema, vi estrae un file con rot notation, in modo da caricarla con l'applicativo scacchi-it. 
+Il programma fenpos
+Nella parte di download c'è il programma fenpos che a partire da una posizione fen relativa ad un problema, vi estrae un file con rot notation, in modo da caricarla con l'applicativo scacchi-it. 
 Su questo sito troverete una "Problems Collection" con almeno 100 fen associate, tradotte in rot notation. Sul sito troverete anche una "Chess Combinations Collection"  e una "final chess collection" con le fen associate e con fengen potrete ottenere i file da caricare sotto scacchi-it.
 
 Configurabilità delle versioni di stockfish
