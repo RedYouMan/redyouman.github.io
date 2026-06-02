@@ -41,9 +41,12 @@ Il vantaggio di Scacchi-it è di interfacciarsi con stockfish rendendo semplici 
 
 Scacchi-it permette di studiare aperture, fare analisi con o senza stockfish, giocare con stockfish o amici e anche fare lezioni di scacchi.
 
+Per le lezioni di scacchi sono forniti utili comandi di undo delle mosse e la reimpostazione della scacchiera nella posizione iniziale.
+
 I non vedenti utilizzeranno un screen reader come NVDA che permetterà loro sia di usare il computer che usare Scacchi-it.
 
-La rot notation ideata, risulta più semplice a capirla e ricordarla rispetto alla fen o rispetto alle immagini che un non vedente non sarebbe in grado di usufruire. La rot notation è basata, se si guarda il tutorial di Scacchi-it, sulla notazione algebrica italiana ed ha il vantaggio per il non vedente che producendola su un file si può caricare la posizione corrispondente su Scacchi-it per poterla esaminare navigando sulla scacchiera.
+La rot notation ideata, risulta più semplice a capirla e ricordarla rispetto alla fen o rispetto alle immagini che un non vedente non sarebbe in grado di usufruire.
+La rot notation è una estensione della notazione algebrica, che rende un applicativo scacchistico open data. Ha il vantaggio per il non vedente che producendola su un file si può caricare la posizione corrispondente su Scacchi-it per poterla esaminare navigando sulla scacchiera.
 
 Il gioco è un utile e leggero modo, anche divertente, per integrare e far avere ai vedenti maggiore coscienza e consapevolezza sul mondo dei non vedenti , utilizzando lo stesso gioco abbattendo le barriere digitali e giocare alla pari.
 
