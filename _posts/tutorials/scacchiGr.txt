@@ -8,7 +8,7 @@ E'stato scelto di usare un file di testo, al posto di un professionale manuale i
 Versione disponibile 
 Questo paragrafo del tutorial segnalerà sempre la presenza di eventuali nuove versioni migliorative.
 
-Sul sito è stata pubblicata la versione 7.1 di Scacchi-it, da considerarsi  la mainstream stabile.
+Sul sito è stata pubblicata la versione 7.2 di Scacchi-it, da considerarsi  la mainstream stabile.
 I cambiamenti sono tracciati nel file changelog.txt nella directory readme e sono frutto delle segnalazioni della Community.
 La versione 7 completa tutti gli strumenti utili durante una lezione di scacchi.
 
