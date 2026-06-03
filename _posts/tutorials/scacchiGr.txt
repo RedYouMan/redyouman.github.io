@@ -49,7 +49,7 @@ Il programma Scacchi-it consente di:
 21 - utilizzare le frecce e return oppure  il mouse per giocare
 22 - sintesi vocale in italiano con messaggi verbosi su console
 23 - sonoro del toc di gioco di un pezzo
-24 - chiudere la scacchiera con CntrlQ oppure con il mouse sulla crocetta della finestra "Scacchi"
+24 - chiudere la scacchiera con CntrlQ oppure con il mouse sulla crocetta della finestra "Scacchi-it"
 25 - utilizzare Alt-Tab per spostarsi da scacchiera a console per inserire informazioni e ulteriore Alt-Tab per tornare a giocare
 26 - utilizzare in modo configurabile il motore di gioco stockfish
 27 - ottenere la valutazione della posizione sia dopo ogni semimossa del nero e sia durante la sospensione col computer
@@ -107,7 +107,7 @@ L'help della versione grafica è con sintesi vocale.
 Maggiori dettagli però sono nel tutorial che vi conviene leggere.
 
 Tutorial con CntrlX
-Questo tutorial è attivabile anche da programma scacchi con CntrlX sulla scacchiera.
+Questo tutorial è attivabile anche da programma Scacchi-it  con CntrlX sulla scacchiera.
 
 Navigazione
 La navigazione consente al non vedente di esplorare tutta la scacchiera tramite le frecce su, giù, destra e sinistra. Per i vedenti è possibile l'uso del mouse.
@@ -184,13 +184,14 @@ Quando si gioca contro il computer (CntrlZ o CntrlA) è possibile scegliere un l
 
 Nomi dei file
 I nomi dei file vi possono essere chiesti nell'uso di CntrlS (sospensione), CntrlR (ripresa gioco), CntrlW (registrazione partita), CntrlJ (problema che il computer risolve), CntrlP (problema che dobbiamo risolvere).
-Per i nomi dei file per la registrazione,   della partita o la sua momentanea sospensione, dovrete mantenere unvostro metodo per ricordare a cosa si riferiscono.
-Noi consigliamo semplicemente  di usare per la registrazione una  abbreviazione di nome e cognome dei due giocatori seguita da data. Ad esempio se giocate il12 febbraio 2026 tra Giuseppe Rivieccio e Carlo Cavour potreste chiamare il file
+Per i nomi dei file per la registrazione della partita con notazione algebrica,   o la sua momentanea sospensione, dovrete mantenere unvostro metodo per ricordare a cosa si riferiscono.
+I file di registrazione verranno aperti in directory registrazioni , mentre quelli di sospensioni nella directory sospensioni, per cui possono avere anche lo stesso nome.
+Noi consigliamo semplicemente  di usare una  abbreviazione di nome e cognome dei due giocatori seguita da data. Ad esempio se giocate il12 febbraio 2026 tra Giuseppe Rivieccio e Carlo Cavour potreste chiamare il file
 giurivcarcav12022026, senza estensione. Sarà il  programma che aggiungerà l'estensione  .txt.
-Il file verrà aperto nella directory registrazioni. Alla ripresa dovrete solo ricordarne il nome.
+Il file verrà aperto nella directory registrazioni se state registrando o nella directory sospensioni se state sospendendo la partita. Alla ripresa dovrete solo ricordarne il nome.
 
-Per i nomi dei problemi che create, potreste solamente numerarli: problema1.txt  etc
-Per le partite sospese è sufficiente un nome come sospesa senza estensione a cui provvederà il programma. Tale file non dovrete preoccuparvi di cancellarlo se sospendete ancora la partita e usate lo stesso nome, difatti esso  verrà rimosso al suo caricamento successivo.
+Per i nomi dei problemi che create a mano, potreste solamente numerarli: problema1.txt  etc
+Per le partite sospese è sufficiente un nome come sospesa Se giocate con un solo amico senza estensione a cui provvederà il programma. Tale file non dovrete preoccuparvi di cancellarlo se sospendete ancora la partita e usate lo stesso nome, difatti esso  verrà rimosso al suo caricamento successivo.
 Fate attenzione quando vi viene richiesto il nome del file desiderato, dato che viene precisato di NON mettere l'estensione.
 
 Directory DEI PROBLEMI E DELLE SOSPENSIONI
@@ -198,7 +199,7 @@ I problemi vanno posti nella directori problemi e devono avere estensione .txt q
 Un esempio è problema1.txt.  
 Quando caricate un problema non è importante digitare il nome con le lettere maiuscole se vi fossero e non va indicata la estensione (.txt).
 Ifile di sospensione verranno posti dal programma nella directory sospensioni e dopo essere stati caricati verranno rimossi.
-La sospensione con un nome deciso da voi vi può permettere di poter giocare più partite con vari amici e ricaricando,poi, solo quella relativa all'amico che vi ha comunicato la sua mossa.
+La sospensione con un nome diverso ogni volta vi può permettere di poter giocare più partite con vari amici e ricaricando,poi, solo quella relativa all'amico che vi ha comunicato la sua mossa.
  
 Sospensione partita giocata col computer
 E' possibile sospendere una partita che si sta giocando col computer per, poi, riprenderla.
@@ -305,7 +306,7 @@ P: il numero di mossa di partenza che può essere anche 0 se inventate il proble
 Fate attenzione a tutti i tipi di record di sopra. Ad esempio se M:B e giocate un pezzo nero per prima vi dirà che non potete usare quel colore.
 
 Il programma Scacchi-it controlla molte cose su tali file e se ci sono parti scritte in modo impreciso, naturalmente se fate l'errore di mettere in Bianco (B:) la posizione Ac5 e lo fate anche per il Nero, vi troverete solo l'alfiere nero, ovvero l'ultima istruzione data sul pezzo.  
-In altri termini gli errori di logica il programma scacchi non li può correggere.
+In altri termini gli errori di logica il programma Scacchi-it non li può correggere.
 Ci sono altri record gestiti in modo indiretto dal programma per le sospensioni tra cui anche la presenza di enpassant che si potrebbe utilizzare alla ripresa di gioco.
 
 Quest'ultimi record indirettamente gestiti dal programma non vengono documentati dato che sono competenza solo del programma. 
@@ -396,17 +397,16 @@ Sul sito indicato una volta scaricato lo zip di un'apertura, dovrete estrarre da
 
 Come si attiva l'Openings Trainer? Bastano i seguenti passi:
 1. Si fa caricare la scacchiera con i pezzi alla linea di partenza.
-2. Qua potreste fare il cambio del punto di vista con CntrlG, unico punto in cui avrà effetto.
-3. CntrlT per attivare l'OpeningsTrainer 
-4. Si attende il caricamento.
-5. Si da un return e si attende il completamento della spiegazione sui tasti da usare
-6. Si usano le frecce per trovare le aperture di interesse
-7. Si da qualche return dopo aver ascoltato quante partite ci sono
-8. Si sceglie un numero di partita tra quelli disponibili seguito da return
-9. Il trainer vi da informazionisulla partita: evento, luogo, data, giocatori, il round del torneo, esito della partita. 
-10. Parte la visione dell'apertura guidata per almeno una quindicina di mosse. Il messaggio "Sconosciuto" dipende da una iniziale perdita di focus. 
-11. Il trainer vi chiederà di fare spazio dopo ogni due semimosse dei giocatori oppure di fare ESC per uscire dall'apertura guidata.
-12. All'uscita potreste fare quattro cose alternative:
+2. CntrlT per attivare l'OpeningsTrainer 
+3. Si attende il caricamento.
+4. Si da un return e si attende il completamento della spiegazione sui tasti da usare
+5. Si usano le frecce per trovare le aperture di interesse
+6. Si da qualche return dopo aver ascoltato quante partite ci sono
+7. Si sceglie un numero di partita tra quelli disponibili seguito da return
+8. Il trainer vi da informazionisulla partita: evento, luogo, data, giocatori, il round del torneo, esito della partita. 
+9. Parte la visione dell'apertura guidata per almeno una quindicina di mosse. Il messaggio "Sconosciuto" dipende da una iniziale perdita di focus. 
+10. Il trainer vi chiederà di fare spazio dopo ogni due semimosse dei giocatori oppure di fare ESC per uscire dall'apertura guidata.
+11. All'uscita potreste fare quattro cose alternative:
 - creare un OpeningsBook personalizzato con la sospensione
 - Continuare a giocare da solo
 - CntrlA per far giocare da li il computer con voi.
