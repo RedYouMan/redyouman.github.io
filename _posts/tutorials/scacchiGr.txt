@@ -397,7 +397,7 @@ Sul sito indicato una volta scaricato lo zip di un'apertura, dovrete estrarre da
 
 Come si attiva l'Openings Trainer? Bastano i seguenti passi:
 1. Si fa caricare la scacchiera con i pezzi alla linea di partenza.
-2. CntrlT per attivare l'OpeningsTrainer 
+2. CntrlG per mettere il punto di vista desiderato seguito da CntrlT per attivare l'OpeningsTrainer 
 3. Si attende il caricamento.
 4. Si da un return e si attende il completamento della spiegazione sui tasti da usare
 5. Si usano le frecce per trovare le aperture di interesse
