@@ -63,11 +63,20 @@ Il programma Scacchi-it consente di:
 
 Tutte le possibilità di sopra, dipendono dalla vostra conoscenza degli strumenti a disposizione per poterlo fare, quindi è fondamentale sentire sia questo tutorial che l'help.
 
-Download e Installazione con"Esplora file" 
+Download e Windows Defender 
 Da browser sul link https://redyouman.github.io/blog/2025/07/27/downloads.html
 Trovate la sezione grafica C++ e scaricate scacchi
 
 Lo zip verrà posto in Downloads. 
+
+PER evitare che Windows Defender consideri una minaccia lo zip lo dovrete escludere con i seguenti passaggi:
+1. Cerca "Sicurezza di Windows" nella barra di ricerca e aprilo.
+2. Vai su Protezione da virus e minacce e clicca su Gestisci impostazioni.
+3. Scorri fino in fondo alla voce Esclusioni e clicca su Aggiungi o rimuovi esclusioni.
+
+AGGIUNGETE lo zip. 
+
+Installazione con "Esplora File" 
 Fate Start+E + return per "Esplora file" e cercate Downloads.
 
 Nota: nel seguito Fn va usato solo se a sinistra della barra spaziatrice avete quattro tasti. Se ne avete solo tre, valgono le stesse operazioni di sotto senza fare Fn. 
@@ -78,6 +87,9 @@ Fare di nuovo Fn+"Menu contestuale"+"Incolla" seguito da return.
 Ora scacchiGr.7z è sul desktop.
 Con "Esplora file" selezionare lo zip e fare Fn+"Menu contestuale"+"7z"+return e cercare "estrai qui".
 A questo punto sul Desktop vi crea una cartella scacchi-it. 
+
+Aggiungete a Windows Defender anche la directory scacchi-it sul Desktop, con gli stessi passaggi di prima.
+
 Sempre con "Esplora file" cliccate sulla cartella scacchi-it e vi entrate.
 
 Con "Esplora file" per lanciare nella directory scacchi-it un eseguibile, basta selezionarlo e fare return. Gli eseguibili sono:
@@ -88,7 +100,7 @@ Installazione SENZA "Esplora file"
 Si seguono i seguenti step:
 1 - unzippare in Desktop lo zip in modo che vi crei la directory scacchi-it.
 Tale operazione la potreste fare con Start+E + return per "Esplora file", andare sullo zip e con Fn+"menu contestuale" e cercare 7zip per fare Estrai qui. 
-2 - scacchi-start.exe il file da lanciare 
+2 - Aggiungete a Windows Defender la cartella scacchi-it 
 3 - per lanciare scacchi-start.exe potreste farlo sempre da "Esplora file" oppure lanciarlo da linea di comando della console o cliccando su esso col mouse.
 Per comodità ricordiamo che dopo aver aperto la console con Tasto Start + c + enter,
 dovete digitare:
