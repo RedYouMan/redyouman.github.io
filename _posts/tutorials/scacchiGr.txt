@@ -96,7 +96,7 @@ Con "Esplora file" per lanciare nella directory scacchi-it un eseguibile, basta 
 - scacchi-start
 - clock-start
 
-Installazione SENZA "Esplora file"
+Installazione con comandi da prompt
 Si seguono i seguenti step:
 1 - unzippare in Desktop lo zip in modo che vi crei la directory scacchi-it.
 Tale operazione la potreste fare con Start+E + return per "Esplora file", andare sullo zip e con Fn+"menu contestuale" e cercare 7zip per fare Estrai qui. 
