@@ -1,28 +1,31 @@
 Tutorial su Scacchi-it
 
 Benvenuti a Scacchi-it il gioco degli scacchi in italiano con interfaccia vocale.
+Da oggi anche online e multiplayer. 
 
-Scelta file txt per il tutorial
-E'stato scelto di usare un file di testo, al posto di un professionale manuale in pdf , per il semplice motivo che un file di testo è il più accessibile possibile su browser per un non vedente.  
+Scelta file testo per il tutorial
+Si è scelto di usare un file di testo, al posto di un professionale manuale in pdf . 
+Per il semplice motivo che un file di testo è il più accessibile possibile su browser per un non vedente.  
 
 Versione disponibile 
 Questo paragrafo del tutorial segnalerà sempre la presenza di eventuali nuove versioni migliorative.
 
-Sul sito è stata pubblicata la versione 7.3 di Scacchi-it, da considerarsi  la mainstream stabile.
+Sul sito è stata pubblicata la versione 8.0 di Scacchi-it, da considerarsi  la mainstream stabile.
+La grande novità è che il programma ora consente anche di giocare online in multiplayer.
 I cambiamenti sono tracciati nel file changelog.txt nella directory readme e sono frutto delle segnalazioni della Community.
-La versione 7 completa tutti gli strumenti utili durante una lezione di scacchi.
+La versione 7 ha completato tutti gli strumenti utili durante una lezione di scacchi, mentre la 8 aggiunge la possibilità di giocare online.
 
 Per verificare la vostra versione ascoltate quando parte il programma oppure digitate CntrlH.
 
 Fate sempre F5 sul browser per assicurarvi che vi faccia vedere l'ultima versione del presente file.
 
 Introduzione al programma Scacchi-it 
-Esso è un programma offline ascoltabile con sintesi vocale, consigliato ai non vedenti, ma con grafica per consentire di giocare anche alle persone vedenti.
+Esso è un programma offline /online ascoltabile con sintesi vocale, consigliato ai non vedenti, ma con grafica per consentire di giocare anche alle persone vedenti.
 
 Il non vedente, tramite lo screen reader NVDA, potrà utilizzare il computer e il programma, ascoltando anche i messaggi "verbosi" della console.
 
-Come si vedrà Scacchi-it è soprattutto un programma di studio e analisi, adatto a partite dove si attende la risposta di un amico oppure per lezioni di scacchi, o risolvere dei problemi o per giocare contro il computer.
-Questa caratteristica sottolinea la modalità non agonistica del programma e, quindi, non necessita di orologio per la misurazione del tempo per le risposte di ogni giocatore.
+Come si vedrà Scacchi-it è soprattutto un programma di studio e analisi, adatto a partite dove si attende la risposta di un amico oppure per lezioni di scacchi, o risolvere dei problemi o per giocare contro il computer e infine per giocare anche online.
+Questa caratteristica sottolinea la modalità non sempre agonistica del programma e, quindi, non necessita di orologio per la misurazione del tempo per le risposte di ogni giocatore.
 Tuttavia la presenza dell'orologio nel pacchetto ha solo il significato di "allenamento col computer" per abituarsi al tempo di gioco.
 
 Il programma Scacchi-it consente di:
@@ -60,6 +63,9 @@ Il programma Scacchi-it consente di:
 32 - utilizzare un Openings Trainer, per apprendere le aperture di gioco
 33 - essere utilizzato su un video grande per presentazioni o lezioni
 34 - reinizializzare la scacchiera con CntrlN
+- 35 giocare online
+
+La maggior parte di queste caratteristiche sono offerte in modalità offline, ma anche online sono presenti un sottoinsieme di esse: consultare il paragrafo online per vedere cosa è escluso.
 
 Tutte le possibilità di sopra, dipendono dalla vostra conoscenza degli strumenti a disposizione per poterlo fare, quindi è fondamentale sentire sia questo tutorial che l'help.
 
@@ -77,9 +83,9 @@ PER evitare che Windows Defender consideri una minaccia lo zip lo dovrete esclud
 AGGIUNGETE lo zip. 
 
 Installazione con "Esplora File" 
-Fate Start+E + return per "Esplora file" e cercate Downloads.
+Fate Start+E + return per "Esplora file" e cercate la cartella Downloads.
 
-Nota: nel seguito Fn va usato solo se a sinistra della barra spaziatrice avete quattro tasti. Se ne avete solo tre, valgono le stesse operazioni di sotto senza fare Fn. 
+Nota: nel seguito Fn (tasto Funzione) va usato solo se a sinistra della barra spaziatrice avete quattro tasti. Se ne avete solo tre, valgono le stesse operazioni di sotto senza fare Fn. 
 
 Quando siete in Downloads cercate scacchiGr.7z e su tale file fate Fn+"Menu Contestuale" e cercate con le frecce "Copia" e fate return. 
 Fate Alt+freccia a sinistra (per salire nelmenu di"Esplora file" e cercate ora Desktop.
@@ -88,7 +94,7 @@ Ora scacchiGr.7z è sul desktop.
 Con "Esplora file" selezionare lo zip e fare Fn+"Menu contestuale"+"7z"+return e cercare "estrai qui".
 A questo punto sul Desktop vi crea una cartella scacchi-it. 
 
-Aggiungete a Windows Defender anche la directory scacchi-it sul Desktop, con gli stessi passaggi di prima.
+Aggiungete a Windows Defender anche la cartella scacchi-it sul Desktop, con gli stessi passaggi di prima.
 
 Sempre con "Esplora file" cliccate sulla cartella scacchi-it e vi entrate.
 
@@ -97,6 +103,7 @@ Con "Esplora file" per lanciare nella directory scacchi-it un eseguibile, basta 
 - clock-start
 
 Installazione con comandi da prompt
+Come alternativa al paragrafo precedente si possono fare i comandi a mano. Se avete già fatto il paragrafo precedente, questo lo potrete saltare.
 Si seguono i seguenti step:
 1 - unzippare in Desktop lo zip in modo che vi crei la directory scacchi-it.
 Tale operazione la potreste fare con Start+E + return per "Esplora file", andare sullo zip e con Fn+"menu contestuale" e cercare 7zip per fare Estrai qui. 
@@ -172,6 +179,7 @@ I nomi dei controls sono tali da avere l'ultima lettera che stimoli una associaz
 - X per avere questa introduzione
 - Q per uscire (quit) 
 - N per reinizializzare la scacchiera
+- I per giocare online su Internet
 
 Come fare l'arrocco
 Basta selezionare il re e muoverlo di due case. Ad esempio per un arrocco corto del bianco, il re da e1 si sposta in g1, mentre per un arrocco lungo bianco il re si sposta da e1 a c1. Il programma automaticamente sposta, poi, la torre relativa. 
@@ -188,14 +196,14 @@ Se avete già entrambe le lingue userà l'italiano.
 Non ci sono problemi di installazione se avete Windows in italiano. 
 
 Registrazione partita
-La registrazione è consentita attivarla solo ad inizio partita con CntrlW. Non si registrano i problemi, nè le partite col computer.
+La registrazione è consentita attivarla in offline solo ad inizio partita con CntrlW. Non si registrano i problemi, nè le partite col computer.
 La registrazione avviene ad ogni semimossa dei giocatori e continua anche se la partita viene ripresa dopo una sospensione.
  
 Scelta livello di skill
-Quando si gioca contro il computer (CntrlZ o CntrlA) è possibile scegliere un livello di gioco tra 0 e 20.
+Quando si gioca in offline contro il computer (CntrlZ o CntrlA) è possibile scegliere un livello di gioco tra 0 e 20.
 
 Nomi dei file
-I nomi dei file vi possono essere chiesti nell'uso di CntrlS (sospensione), CntrlR (ripresa gioco), CntrlW (registrazione partita), CntrlJ (problema che il computer risolve), CntrlP (problema che dobbiamo risolvere).
+I nomi dei file vi possono essere chiesti nella modalità offline nell'uso di CntrlS (sospensione), CntrlR (ripresa gioco), CntrlW (registrazione partita), CntrlJ (problema che il computer risolve), CntrlP (problema che dobbiamo risolvere).
 Per i nomi dei file per la registrazione della partita con notazione algebrica,   o la sua momentanea sospensione, dovrete mantenere unvostro metodo per ricordare a cosa si riferiscono.
 I file di registrazione verranno aperti in directory registrazioni , mentre quelli di sospensioni nella directory sospensioni, per cui possono avere anche lo stesso nome.
 Noi consigliamo semplicemente  di usare una  abbreviazione di nome e cognome dei due giocatori seguita da data. Ad esempio se giocate il12 febbraio 2026 tra Giuseppe Rivieccio e Carlo Cavour potreste chiamare il file
@@ -214,17 +222,17 @@ Ifile di sospensione verranno posti dal programma nella directory sospensioni e 
 La sospensione con un nome diverso ogni volta vi può permettere di poter giocare più partite con vari amici e ricaricando,poi, solo quella relativa all'amico che vi ha comunicato la sua mossa.
  
 Sospensione partita giocata col computer
-E' possibile sospendere una partita che si sta giocando col computer per, poi, riprenderla.
+E' possibile sospendere una partita che si sta giocando col computer per , poi, riprenderla.
 Durante questo tipo di sospensione si ottiene anche la valutazione della posizione da parte del computer, scritta sia su console che letta col vocale.
 Alla ripresa vi troverete attivato il computer, pronto a giocare e col punto di vista che avevate precedentemente.
 
 Valutazione posizione 
-Durante il gioco col computer, (CntrlZ o CntrlA) sia dopo la semimossa del nero che alla sospensione si ottiene una valutazione della posizione che può essere positiva o negativa lato Bianco. 
+In offline durante il gioco col computer, (CntrlZ o CntrlA) sia dopo la semimossa del nero che alla sospensione si ottiene una valutazione della posizione che può essere positiva o negativa lato Bianco. 
 Questovalore ottenuto dall'engine è la differenza tra la posizione giocata e quella della best move che avrebbe potuto fare il bianco.Il valore è espresso in centipedone (centesimo di pedone).
 Se il valore è positivo "white side" sta meglio il Bianco.
 
 Elenco dei file registrati oppure dei problemi disponibili
-Stando nella directory scacchi-it basta fare:
+Vi segnalo un semplice metodo per ottenere l'elenco dei file. Stando nella directory scacchi-it basta fare:
 dir .\registrazioni\*
 e si vedranno tutte le registrazioni.
 se volesteeliminarle tutte:
@@ -235,7 +243,7 @@ Se voleste la lista dei problemi:
 dir .\problemi\*
 
 Cambio punto di vista di gioco
-Il cambio del punto di vista da cui giocare può essere fatto in qualunque momento della partita con CntrlG.
+Il cambio del punto di vista da cui giocare può essere fatto in qualunque momento della partita con CntrlG, con la sola avvertenza che Va fatto prima di passare all'online.
 Esso serve per mettersi dalla parte del colore che dobbiamo giocare.
 
 Strumenti per fare lezioni di scacchi
@@ -263,7 +271,7 @@ Si possono annullare:
 
 Nel caso di due o più enpassant consecutivi, l'annullamento di quello che viene per ultimo richiede un annullamento in più.
 
-Esempio di uso del programma Scacchi-it
+Esempio di uso del programma Scacchi-itin offline
 Supponiamo che vogliamo giocare gestendo bianco e nero    liberamente,per attendere la mossa di un amico, con il punto di vista nero e registrare la partita:
 - avviamo il programmache apre la scacchiera 
 - facciamo CntrlW per la registrazione della partita, questo solo ad inizio partita, inserendo il nome desiderato del file 
@@ -452,24 +460,148 @@ Sono però controllate alcune patte teoriche elementari:
 Altre Regole di gioco
 Per le regole coinvolte potreste consultare Wikipedia.
 
+Giocare online
+Si può giocare nella stessa rete o su Internet, con giocatori su reti diverse.
+Il server è multiplayer e assegna al bianco il nome della room da utilizzare.
+Il bianco comunicherà via email o whatsapp al nero il nome della room e attenderà , prima di fare la mossa, che il nero sia connesso.
+
+Giocare su stessa rete
+I due pc dovranno avere server.cnf configurati allo stesso modo. 
+Il file server.cnf sarà configurato con:
+ip-address=192.168.x.x
+port=65432
+Al posto delle x metterete i valori che troverete per il server.
+
+Come si individua l'ip del server nella stessa rete
+Sulla console del server  fare il comando:
+ipconfig > rete.txt
+Leggere rete.txt e trovare l'ip nella voce ipv4, che di solito nel caso distessa rete (casa o circolo) è del tipo 192.168.x.x
+
+Verifica se la porta desiderata non sia già in uso
+Se serverScacchi.exe non è stato lanciato, sulla console del  server fare il comando:
+netstat -a > porte.txt
+Leggere se esiste nel file porte.txt la porta 65432. 
+Senel file  è presente e non è stato lanciato serverScacchi.exe, significa che è già in uso da altro programma. Per cui nel file server.cnf va cambiata port a 65431 o simili.
+
+Verifica visibilità del server
+Su prompt di comando digitare:
+ping ip-address (es. ping 192.168.x.y dove x e y sono quelli del server)
+Se l'ip non è visibile occorre fare:
+disattivare prima di giocare Windows Defender Firewall
+su Impostazione di rete indicare la rete come PRIVATA
+Alla fine della partita rimettere su Windows Firewall.
+
+Attivazione del server
+Il serverScacchi.exe deve essere attivato solo sul pc che fa da server.
+
+ Come si gioca su stessa rete
+1. Solo il bianco avvia l'eseguibile serverScacchi.exe nella directory serverScacchi
+2. ogni giocatore avvia il programma scacchi-start.exe   
+3. ogni giocatore, aspetta prima il caricamento solito del programma,  poi fa cntrlI e risponde correttamente alle domande
+Dato che si gioca in multiplayer è importante che ogni giocatore inserisca come player almeno la iniziale del proprio nome seguito da cognome senza spazi (es. FArionne) . 
+Suggerimento al Bianco: usare 1 per giocare in bianco su online.
+Suggerimento al Nero: prima di fare cntrlI,fare CntrlG per stare dalla parte del Nero e usare 2 per giocare in Nero su online. 
+Il server assegna al Bianco il nome della room con cui accedere e che va comunicata al Nero. 
+I non vedenti possono catturare il nome della room dalla console facendo prima cntrl-A sulla console seguito da copia cntrlC e incollarlo su un notepad e trovare il nome della room da copiare e comunicare al Nero, magari con whatsapp.
+4. se il nero è collegato, il bianco può fare la prima mossa
+5. dopo una mossa il programma segnala come sempre quale numero di mossa si dovrà fare successivamente
+6. ogni giocatore vede la mossa fatta dall'altro
+7. il giocatore che ha fatto la mossa vedrà bloccarsi i propri pezzi, dato cheScacchi-it si mette in attesa di risposta.
+
+Giocare su reti diverse gratuitamente
+Si può giocare su reti diverse gratuitamente avendo il server in una VPN LogMein Hamachi free, che consente di collegare fino a 5 utenti, ovviamente i giocatori possono essere 4, mentre il quinto pc potrebbe fare da server tenendo su serveScacchi.exe
+
+Ecco come si procede:
+• Il gestore della rete scarica il software dal sito ufficiale LogMeIn Hamachi.
+• Installa il programma e lo apre.
+•E' importante annotarsi su un file di testo le informazioni di utente, passwords, rete, ip address e port che saranno in gioco 
+• Crea un account LogMeIn e accede (user=email  e password).
+• Clicca sul pulsante grande Accendi (Power On).
+• Clicca su Crea una nuova rete.
+• Inserisce un Nome Rete e una Password.
+• Clicca su Crea per confermare.
+• Annotarsi l'ip address che viene assegnato al primo pc che farà da server 
+
+Connessione alla Rete Hamachi (Per gli Ospiti)
+Per permettere ai tuoi amici di unirsi alla tua rete, devono seguire questi rapidi passaggi.
+• Scaricare e installare LogMeIn Hamachi.
+• Accedere al programma con proprie credenziali (user=email e password).
+• Cliccare sul pulsante Accendi.
+• Cliccare su Partecipa a una rete esistente.
+• Inserire il Nome Rete e la Password che è stata creatadal gestore della rete
+• Cliccare su Partecipa
+
+Ora tutti i computer appariranno nella lista di Hamachi con un indirizzo IP unico (che inizia con 25.). 
+Tutti i pc , compreso il server, quindi nel file server.cnf devono contenere l'ip del pc che farà  da server.
+
+Verifica se la porta desiderata non sia già in uso
+Se serverScacchi.exe non è stato lanciato, sulla console del  server fare il comando:
+netstat -a > porte.txt
+Leggere se esiste nel file porte.txt la porta 65432. 
+Senel file  è presente e non è stato lanciato serverScacchi.exe, significa che è già in uso da altro programma. Per cui nel file server.cnf va cambiata port a 65431 o simili.
+
+Verifica visibilità del server
+Su prompt di comando digitare:
+ping ip-address (es. ping 192.168.x.y dove x e y sono quelli del server)
+Se l'ip non è visibile occorre che Windows Defender Firewall non intervenga sulla porta 65432, per cui clicca con il tasto destro su Regole in entrata (nel menu a sinistra) e seleziona Nuova regola. Dovrai indicare la porta da escludere dal controllo.
+
+Attivazione del server
+Il serverScacchi.exe deve essere attivato solo sul pc che fa da server.
+
+I passaggi per giocare sono gli stessi di prima, indicati sopra nella parte dove si parlava di giocare sulla stessa rete.
+
+Per terminare di giocare online
+Nel caso di giocatore che deve giocare e non è bloccato per ricevere  una mossa, ha varie possibilità:
+a. cntrlL per abbandono del re
+b. cntrlQ per uscire
+c. cntrlN per riavviare la scacchiera ma in offline 
+d. cliccare col mouse sulla crocetta della finestra. Mentre per chi è bloccato cliccare sulla crocetta col mouse oppure fare Alt-Tab sulla console e chiudere la console.
+
+Queste possibilità comunicano via rete anche all'altro giocatore e lo fanno riavviare in offline.
+
+Avvertenze generali per l'online
+- Non si consente online l'uso di stockfish
+- Nnon si può registrare una partita 
+- Non si può sospendere e riprendere una partita
+- non si possono fare mosse di undo
+- non si può fare l'opening trainer
+
+Cancellare un pc dalla rete Hamachi
+Il gestore della rete può eliminare i pc che non vogliono più partecipare alla rete, per permettere ad altri di parteciparvi.
+
+Tempi di rete
+I tempi di rete possono dipendere dal controllo del firewall e del antivirus. Eventualmente se notate lentezza escludete da essi serverScacchi.exe, scacchi.exe e scacchi-start.exe
+
+Tracciamento delle mosse da parte  del server 
+Il log del server , prelevato dalla console con cntrlA e messo su un file di testo (notepad),permette l'osservazione del tracciamento di ogni partita , mossa per mossa inviata, in ogni room. 
+L'esito della partita può essere compreso da i comandi che il server traccia:
+- quitAB: c'è stato l'abbandono da parte di chi lo inoltra.
+- Matto: la partita è terminata con matto inflitto a chi riceve il comando Matto 
+- Stallo: la partita è terminata con Stallo da parte di chi doveva muovere
+- Patta: la partita è terminata con patta elementare da parte di chi doveva muovere
+- none : probabile patta concordata (da verificare con i giocatori)
+
+Il messaggio Errore send riporta uno di questi comandi, ma l'errore dipende dal fatto che nel caso Matto, Stallo, Patta l'altro Scacchi-it ha già completato la partita e ha restartato e, quindi, non preleva l'ultimo messaggio. Tuttavia il tracciamento del Matto, Stallo e Patta elementare sono corretti.
+
+Le patte non elementari sono concordate trai giocatori e verranno, eventualmente, comunicate a parte al circolo con una email.
+
+Estendere una rete Hamachi
+ESISTONO VARI piani tariffari annuali estendendo ad esempio fino a 32 pc una rete con un abbonamento annuo minimo oppure estendendo a reti multiple a costi contenuti.
+Consultare il sito ufficiale.
+
+Segnalazioni
+Per segnalazioni di bug o altro potreste inviare via email (rosturco.na@gmail.com) la posizione dei pezzi attraverso il file di sospensione della partita, segnalando anche la versione di scacchi che state usando e la descrizione del problema.
+Molto utile sarebbe avere la selezione della videata delle console (di Scacchi-it e serverScacchi se state online) che si ottiene su essa con CntrlA e CntrlC da incollare, poi, in un file di testo da inviare nella email.
+
 Conclusioni
 L'applicativo Scacchi-it presentato coglie vari aspetti importanti:
 - permette di giocare a non vedenti e vedenti
 - fa fruire, in modo trasparente, un insieme di cose che gli appassionati di scacchi non informatici non saprebbero come utilizzare: chess engine, comandi uci, tuning, openings book, formato pgn e polyglot, reti neurali, algoritmo alpha0 e altro ancora. 
 - è un applicativo open data, che permette l'interazione con esso attraverso la rot notation
 - permette di studiare, analizzare, giocare e dare lezioni di scacchi
-
-Al momento l'introduzione si ferma qui. Se avete bisogno di altre info, scrivete alla email che trovate sul blog.
-Eventuali altre versioni rilasciate vedranno anche l'aggiornamento di questa guida.
-
-Segnalazioni
-Per segnalazioni di bug o altro potreste inviare via email (rosturco.na@gmail.com) la posizione dei pezzi attraverso il file di sospensione della partita, segnalando anche la versione di scacchi che state usando e la descrizione del problema.
-Molto utile sarebbe avere la selezione della videata della console che si ottiene su essa con CntrlA e CntrlC da incollare, poi, in un file di testo da inviare nella email.
-
-Ultimo suggerimento
-Potreste usare il programma per registrare la partita, studiarvi le mosse da fare, sospendere la partita per  poi mandare al vostro amico, con altro strumento come email o whatsapp , la mossa  o addirittura il file di registrazione della partita fatta finora ,e quando anche lui vi risponderà su whatsapp, leggete dal file la sua mossa, riprendete la partita e studiate la nuova mossa.
-Potreste allenarvi con l'orologio e, prima o poi, partecipare ad uno dei tantissimi tornei con passaggi di categorie che organizza la federazione italiana per i non vedenti. 
+- permette di giocare offline o online
 
 Alla prossima
 
+Ricorda: L'accessibilità e la sicurezza, in ogni settore e genere, non sono un'opzione ma un diritto.
   
