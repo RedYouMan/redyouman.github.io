@@ -487,8 +487,8 @@ Verifica visibilità del server
 Su prompt di comando digitare:
 ping ip-address (es. ping 192.168.x.y dove x e y sono quelli del server)
 Se l'ip non è visibile occorre fare:
-disattivare prima di giocare Windows Defender Firewall
-su Impostazione di rete indicare la rete come PRIVATA
+disattivare prima di giocare Windows Defender Firewall sul server
+su Impostazione di rete per entrambi i giocatori indicare la rete come PRIVATA
 Alla fine della partita rimettere su Windows Firewall.
 
 Attivazione del server
@@ -543,7 +543,7 @@ Senel file  è presente e non è stato lanciato serverScacchi.exe, significa che
 Verifica visibilità del server
 Su prompt di comando digitare:
 ping ip-address (es. ping 192.168.x.y dove x e y sono quelli del server)
-Se l'ip non è visibile occorre che Windows Defender Firewall non intervenga sulla porta 65432, per cui clicca con il tasto destro su Regole in entrata (nel menu a sinistra) e seleziona Nuova regola. Dovrai indicare la porta da escludere dal controllo.
+Se l'ip non è visibile occorre che Windows Defender Firewall del server non intervenga sulla porta 65432, per cui clicca con il tasto destro su Regole in entrata (nel menu a sinistra) e seleziona Nuova regola. Dovrai indicare la porta da escludere dal controllo.
 
 Attivazione del server
 Il serverScacchi.exe deve essere attivato solo sul pc che fa da server.
