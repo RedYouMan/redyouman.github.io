@@ -16,9 +16,9 @@ categories: Blog
 
 # **Scacchi-it: cosa è e cosa fa**
 
-Scacchi-it è un programma di gioco degli scacchi, con interfaccia vocale, offline e gratuito, con licenza MIT e open data.
-Vediamo cosa vuol dire questa definizione. Il programma non fornisce sorgenti, quindi non è open source, ma ha una MIT licenza, che permette di distribuire liberamente gli eseguibili, conservando la paternità di Scacchi-it all'autore. Inoltre è open data, grazie alla rot notation ideata, che permette
-di interagire tramite file con il programma per produrre o caricare la posizione dei pezzi nelle seguenti funzionalità:
+Scacchi-it è un programma di gioco degli scacchi, con interfaccia vocale, online&offline e gratuito, con licenza MIT e open data. Le sue dimensioni sono tali da poter stare comodamente su una pen drive.
+
+Vediamo cosa vuol dire questa definizione. Il programma non fornisce sorgenti, quindi non è open source, ma ha una MIT licenza, che permette di distribuire liberamente gli eseguibili, conservando la paternità di Scacchi-it all'autore. Inoltre è open data, grazie alla rot notation ideata, che permette di interagire tramite file con il programma per produrre o caricare la posizione dei pezzi nelle seguenti funzionalità:
 
 - sospensione momentanea della partita con ripresa di essa
 - soluzione di un problema da soli o con l'aiuto del chess engine stockfish
@@ -47,6 +47,8 @@ I non vedenti utilizzeranno un screen reader come NVDA che permetterà loro sia 
 
 La rot notation ideata, risulta più semplice a capirla e ricordarla rispetto alla fen o rispetto alle immagini che un non vedente non sarebbe in grado di usufruire.
 La rot notation è una estensione della notazione algebrica, che rende un applicativo scacchistico open data. Ha il vantaggio per il non vedente che producendola su un file si può caricare la posizione corrispondente su Scacchi-it per poterla esaminare navigando sulla scacchiera.
+
+Scacchi-it permette di giocare online sia su stessa rete che su reti Hamachi.
 
 Il gioco è un utile e leggero modo, anche divertente, per integrare e far avere ai vedenti maggiore coscienza e consapevolezza sul mondo dei non vedenti , utilizzando lo stesso gioco abbattendo le barriere digitali e giocare alla pari.
 
