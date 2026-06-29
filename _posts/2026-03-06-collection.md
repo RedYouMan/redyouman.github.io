@@ -49,19 +49,20 @@ la sigla rotn discende dal nome dell'autore del programma di scacchi su questo s
 La rotn è una estensione della notazione algebrica che rende open data un applicativo di scacchi.
 Essa è costituita dai campi descritti di seguito nella tabella.
 
-| campo da scrivere |   posizione |                                                        significato |
-| ----------------: | ----------: | -----------------------------------------------------------------: |
-|                T: |           1 |                                  campo descrittivo della posizione |
-|                V: |           2 |                          Punto di vista da cui guardare la partita |
-|                B: |           3 | elenco separato da ; delle posizioni dei pezzi bianchi in italiano |
-|                N: |           4 |       elenco separato da ; delle posizioni dei pezzi neri italiano |
-|                U: | 5 opzionale |                                       elenco delle case dei pedoni |
-|                M: |           6 |                                             turno di mossa : B o N |
-|                P: |           7 |                  numero di mossa ricavato dalla fen diminuito di 1 |
+| campo da scrivere |   posizione |                                                                         significato |
+| ----------------: | ----------: | ----------------------------------------------------------------------------------: |
+|                T: |           1 |                                                   campo descrittivo della posizione |
+|                V: |           2 |                                           Punto di vista da cui guardare la partita |
+|                B: |           3 |                  elenco separato da ; delle posizioni dei pezzi bianchi in italiano |
+|                N: |           4 |                        elenco separato da ; delle posizioni dei pezzi neri italiano |
+|                U: | 5 opzionale |                                                        elenco delle case dei pedoni |
+|                M: |           6 |                                                              turno di mossa : B o N |
+|                P: |           7 | numero di mossa ricavato dalla fen diminuito di 1 se muove bianco altrimenti uguale |
 
 Per quanto riguarda P: potreste mettere anche 0, in modo che, nel caso dei problemi, la numerazione coincide alla fine colnumero di mosse per risolvere il problema.
 Nella soluzione dei problemi tale valore non è influente, serve di più nella registrazione della posizione nelle sospensioni della partita.
-Le lettere che individuano il tipo di pezzo possono essere in italiano o in inglese, ma il nostro programma scacchi utilizza solo lettere in italiano.
+La rotn è generalizzabile con lettere dei pezzi anche in inglese, al Posto di B: si può metter W: e B: al posto di N:.
+Le lettere che individuano il tipo di pezzo possono essere in italiano o in inglese, ma il nostro programma scacchi Scacchi-it utilizza solo lettere in italiano.
 
 L'utilità del campo U: nasce dall'esigenza che, alla ripresa della partita, viene segnalato al cieco la possibilità dell'enpassant.
 In particolare è usato solo dal programma quando fa una sospensione per caricarlo. Non consigliabile introdurlo su un file.
