@@ -49,23 +49,19 @@ la sigla rotn discende dal nome dell'autore del programma di scacchi su questo s
 La rotn è una estensione della notazione algebrica che rende open data un applicativo di scacchi.
 Essa è costituita dai campi descritti di seguito nella tabella.
 
-| campo da scrivere |   posizione |                                                                         significato |
-| ----------------: | ----------: | ----------------------------------------------------------------------------------: |
-|                T: |           1 |                                                   campo descrittivo della posizione |
-|                V: |           2 |                                           Punto di vista da cui guardare la partita |
-|                B: |           3 |                  elenco separato da ; delle posizioni dei pezzi bianchi in italiano |
-|                N: |           4 |                        elenco separato da ; delle posizioni dei pezzi neri italiano |
-|                U: | 5 opzionale |                                                        elenco delle case dei pedoni |
-|                M: |           6 |                                                              turno di mossa : B o N |
-|                P: |           7 | numero di mossa ricavato dalla fen diminuito di 1 se muove bianco altrimenti uguale |
+| campo da scrivere | posizione |                                                                         significato |
+| ----------------: | --------: | ----------------------------------------------------------------------------------: |
+|                T: |         1 |                                                   campo descrittivo della posizione |
+|                V: |         2 |                                           Punto di vista da cui guardare la partita |
+|                B: |         3 |                  elenco separato da ; delle posizioni dei pezzi bianchi in italiano |
+|                N: |         4 |                        elenco separato da ; delle posizioni dei pezzi neri italiano |
+|                M: |         5 |                                                              turno di mossa : B o N |
+|                P: |         6 | numero di mossa ricavato dalla fen diminuito di 1 se muove bianco altrimenti uguale |
 
 Per quanto riguarda P: potreste mettere anche 0, in modo che, nel caso dei problemi, la numerazione coincide alla fine colnumero di mosse per risolvere il problema.
 Nella soluzione dei problemi tale valore non è influente, serve di più nella registrazione della posizione nelle sospensioni della partita.
 La rotn è generalizzabile con lettere dei pezzi anche in inglese, al Posto di B: si può metter W: e B: al posto di N:.
 Le lettere che individuano il tipo di pezzo possono essere in italiano o in inglese, ma il nostro programma scacchi Scacchi-it utilizza solo lettere in italiano.
-
-L'utilità del campo U: nasce dall'esigenza che, alla ripresa della partita, viene segnalato al cieco la possibilità dell'enpassant.
-In particolare è usato solo dal programma quando fa una sospensione per caricarlo. Non consigliabile introdurlo su un file.
 
 # **Mapping pezzi in italiano-inglese**
 
@@ -93,7 +89,8 @@ Nel file problem<num>.txt otterrrete il risultato.
 Segue ora l'elenco dei problemi della presente collezione.
 Non sbirciate la soluzione!
 
-1. r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4
+1. r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R
+   w KQkq - 4 4
    Problema: Matto in 2 mosse. Bianco muove. Soluzione: 1.Bxf7+ Ke7 (o Kh8) 2.Nd5# (o 2.Ng5#). Tratto da partita classica, tema della scoperta.
    T:Problema: Matto in 2 mosse. Bianco muove
    V:B;
@@ -118,7 +115,7 @@ Non sbirciate la soluzione!
    B:Ta8;Cb8;Ac8;Dd8;Re8;Af8;Cg8;Th8;
    N:
    M:N;
-   P:0;
+   P:1;
 
 4. 6k1/5ppp/8/8/8/8/5PPP/6K1 w - - 0 1
    Problema: Matto in 2 mosse. Bianco muove. Soluzione: 1.h4 h6 2.h5#. Problema semplice, tema della forza bruta.
@@ -163,7 +160,7 @@ Non sbirciate la soluzione!
    B:Pd4;Pe4;Pa2;Pb2;Pc2;Pf2;Pg2;Ph2;Ta1;Cb1;Ac1;Dd1;Re1;Af1;Cg1;Th1;
    N:Ta8;Cb8;Ac8;Dd8;Re8;Af8;Cg8;Th8;Pa7;Pb7;Pc7;Pd7;Pe7;Pf7;Pg7;Ph7
    M:N;
-   P:1;
+   P:2;
 
 9. 6k1/6pp/8/8/8/8/6PP/6K1 w - - 0 1
    Problema: Matto in 2 mosse. Bianco muove. Soluzione: 1.h4 g5 2.h5#. Problema elementare di tecnica.
@@ -226,7 +223,7 @@ Non sbirciate la soluzione!
     B:Pe4;Pa2;Pb2;Pc2;Pd2;Pf2;Pg2;Ph2;Ta1;Cb1;Ac1;Dd1;Re1;Af1;Cg1;Th1
     N:Ta8;Cb8;Ac8;Dd8;Re8;Af8;Cg8;Th8;Pa7;Pb7;Pc7;Pd7;Pe7;Pf7;Pg7;Ph7
     M:N;
-    P:0;
+    P:1;
 
 16. r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 2 5
     Problema: Matto in 2 mosse. Bianco muove. Soluzione tattica con il vescovo. Tratto da Fried Liver Attack.
@@ -253,7 +250,7 @@ Non sbirciate la soluzione!
     B:Pd4;Pe4;Pa2;Pb2;Pc2;Pf2;Pg2;Ph2;Ta1;Cb1;Ac1;Dd1;Re1;Af1;Cg1;Th1
     N:Ta8;Cb8;Ac8;Dd8;Re8;Af8;Cg8;Th8;Pa7;Pb7;Pc7;Pd7;Pe7;Pf7;Pg7;Ph7
     M:N;
-    P:1;
+    P:2;
 
 19. r1bqkb1r/pppp1ppp/2n2n2/4p3/3PP3/3P1N2/PPP2PPP/RNBQKB1R w KQkq - 0 5
     Problema: Matto in 3 mosse. Bianco muove. Tema tattico nei Quattro Cavalli.
@@ -298,7 +295,7 @@ Non sbirciate la soluzione!
     B:Pe4;Pd3;Pa2;Pb2;Pc2;Pf2;Pg2;Ph2;Ta1;Cb1;Ac1;Dd1;Re1;Af1;Cg1;Th1
     N:Ta8;Cb8;Ac8;Dd8;Re8;Af8;Cg8;Th8;Pa7;Pb7;Pc7;Pd7;Pe7;Pf7;Pg7;Ph7
     M:N;
-    P:1;
+    P:2;
 
 24. r1bqkb1r/pppp1ppp/2n2n2/4p3/2BPP3/5N2/PPP2PPP/RNBQK2R w KQkq - 1 5
     Problema: Matto in 2 mosse. Bianco muove. Tema tattico nel Gioco Italiano.
@@ -325,7 +322,7 @@ Non sbirciate la soluzione!
     B:Pd4;Pe4;Pd3;Pa2;Pb2;Pc2;Pf2;Pg2;Ph2;Ta1;Cb1;Ac1;Dd1;Re1;Af1;Cg1;Th1
     N:Ta8;Cb8;Ac8;Dd8;Re8;Af8;Cg8;Th8;Pa7;Pb7;Pc7;Pd7;Pe7;Pf7;Pg7;Ph7
     M:N;
-    P:1;
+    P:2;
 
 27. r1bqkb1r/pppp1ppp/2n2n2/4p3/2BPP3/5N2/PPP2PPP/RNBQK2R b KQkq - 2 5
     Problema: Matto in 3 mosse. Nero muove. Tema della controffesa.
@@ -334,7 +331,7 @@ Non sbirciate la soluzione!
     B:Ac4;Pd4;Pe4;Cf3;Pa2;Pb2;Pc2;Pf2;Pg2;Ph2;Ta1;Cb1;Ac1;Dd1;Re1;Th1
     N:Ta8;Ac8;Dd8;Re8;Af8;Th8;Pa7;Pb7;Pc7;Pd7;Pf7;Pg7;Ph7;Cc6;Cf6;Pe5
     M:N;
-    P:4;
+    P:5;
 
 28. 7k/5ppp/8/8/8/8/6PP/R5K w - - 0 1
     Problema: Matto in 2 mosse. Bianco muove. Soluzione semplice con torre. Didattico.
@@ -352,7 +349,7 @@ Non sbirciate la soluzione!
     B:Pe4;Pc3;Pa2;Pb2;Pc2;Pf2;Pg2;Ph2;Ta1;Cb1;Ac1;Dd1;Re1;Af1;Cg1;Th1
     N:Ta8;Cb8;Ac8;Dd8;Re8;Af8;Cg8;Th8;Pa7;Pb7;Pc7;Pd7;Pe7;Pf7;Pg7;Ph7
     M:N;
-    P:1;
+    P:2;
 
 30. r1bqkb1r/pppp1ppp/2n2n2/4p3/3PP3/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 1 5
     Problema: Matto in 3 mosse. Nero muove. Tema della scoperta nella posizione centrale.
@@ -361,7 +358,7 @@ Non sbirciate la soluzione!
     B:Pd4;Pe4;Cc3;Cf3;Pa2;Pb2;Pc2;Pf2;Pg2;Ph2;Ta1;Ac1;Dd1;Re1;Af1;Th1
     N:Ta8;Ac8;Dd8;Re8;Af8;Th8;Pa7;Pb7;Pc7;Pd7;Pf7;Pg7;Ph7;Cc6;Cf6;Pe5
     M:N;
-    P:4;
+    P:5;
 
 31. 6k1/5ppp/8/8/8/2R5/5PPP/6K1 w - - 0 1
     Problema: Matto in 2 mosse. Bianco muove. Tema della torre sulla sesta traversa.
@@ -379,7 +376,7 @@ Non sbirciate la soluzione!
     B:Pd4;Pe4;Pc3;Pa2;Pb2;Pc2;Pf2;Pg2;Ph2;Ta1;Cb1;Ac1;Dd1;Re1;Af1;Cg1;Th1
     N:Ta8;Cb8;Ac8;Dd8;Re8;Af8;Cg8;Th8;Pa7;Pb7;Pc7;Pd7;Pe7;Pf7;Pg7;Ph7
     M:N;
-    P:1;
+    P:2;
 
 33. r1bqkb1r/pppp1ppp/2n2n2/4p3/2BPP3/5N2/PPP2PPP/RNBQK2R b KQkq - 2 5
     Problema: Matto in 2 mosse. Nero muove. Tema della tacca difensiva nel Gioco Italiano.
@@ -388,16 +385,10 @@ Non sbirciate la soluzione!
     B:Ac4;Pd4;Pe4;Cf3;Pa2;Pb2;Pc2;Pf2;Pg2;Ph2;Ta1;Cb1;Ac1;Dd1;Re1;Th1
     N:Ta8;Ac8;Dd8;Re8;Af8;Th8;Pa7;Pb7;Pc7;Pd7;Pf7;Pg7;Ph7;Cc6;Cf6;Pe5
     M:N;
-    P:4;
+    P:5;
 
 34. 7k/6pp/8/8/8/1R6/6PP/6K1 w - - 0 1
-    Problema: Matto in 2 mosse. Bianco muove. Posizionamento tattico della torre.
-    T:Matto in due mossebianco
-    V:1;
-    B:
-    N:
-    M:1;
-    P:6;
+    Provate a usare fenpos
 
 35. rnbqkbnr/pppppppp/8/8/2P1P3/8/PPP2PPP/RNBQKBNR b KQkq c3 0 2
     Problema: Matto in 4 mosse. Nero muove. Tema della lotta centrale. XX secolo.
@@ -406,7 +397,7 @@ Non sbirciate la soluzione!
     B:Pc4;Pe4;Pa2;Pb2;Pc2;Pf2;Pg2;Ph2;Ta1;Cb1;Ac1;Dd1;Re1;Af1;Cg1;Th1
     N:Ta8;Cb8;Ac8;Dd8;Re8;Af8;Cg8;Th8;Pa7;Pb7;Pc7;Pd7;Pe7;Pf7;Pg7;Ph7
     M:N;
-    P:1;
+    P:2;
 
 36. r1bqkb1r/pppp1ppp/2n2n2/4p3/2PEP3/5N2/PPP2PPP/RNBQK2R w KQkq - 1 5
     Problema: Matto in 3 mosse. Bianco muove. Birmingham gambit, tema tattico.
@@ -433,7 +424,7 @@ Non sbirciate la soluzione!
     B:Pc4;Pe4;Pa2;Pb2;Pc2;Pf2;Pg2;Ph2;Ta1;Cb1;Ac1;Dd1;Re1;Af1;Cg1;Th1
     N:Ta8;Cb8;Ac8;Dd8;Re8;Af8;Cg8;Th8;Pa7;Pb7;Pc7;Pd7;Pe7;Pf7;Pg7;Ph7
     M:N;
-    P:1;
+    P:2;
 
 39. r1bqkb1r/pppp1ppp/2n2n2/4p3/2PEP3/5N2/PPP2PPP/RNBQK2R b KQkq - 2 5
     Problema: Matto in 3 mosse. Nero muove. Controgiocare nel Gioco Italiano con gambit.
@@ -442,7 +433,7 @@ Non sbirciate la soluzione!
     B:Pc4;Pd4;Cf3;Pa2;Pb2;Pc2;Pf2;Pg2;Ph2;Ta1;Cb1;Ac1;Dd1;Re1;Th1
     N:Ta8;Ac8;Dd8;Re8;Af8;Th8;Pa7;Pb7;Pc7;Pd7;Pf7;Pg7;Ph7;Cc6;Cf6;Pe5
     M:N;
-    P:4;
+    P:5;
 
 40. 6k1/6pp/8/8/8/6B1/5PPP/6K1 w - - 0 1
     Problema: Matto in 2 mosse. Bianco muove. Tema minimalista con vescovo.
@@ -460,7 +451,7 @@ Non sbirciate la soluzione!
     B:Pb4;Pc4;Pe4;Pa2;Pb2;Pc2;Pf2;Pg2;Ph2;Ta1;Cb1;Ac1;Dd1;Re1;Af1;Cg1;Th1
     N:Ta8;Cb8;Ac8;Dd8;Re8;Af8;Cg8;Th8;Pa7;Pb7;Pc7;Pd7;Pe7;Pf7;Pg7;Ph7
     M:N;
-    P:1;
+    P:2;
 
 42. r1bqkb1r/pppp1ppp/2n2n2/4p3/1PPep3/5N2/PPP2PPP/RNBQKB1R w KQkq e3 0 6
     Problema: Matto in 2 mosse. Bianco muove. Tema tattico complesso nel gambit.
@@ -487,7 +478,7 @@ Non sbirciate la soluzione!
     B:Pb4;Pc4;Pe4;Pa2;Pb2;Pc2;Pf2;Pg2;Ph2;Ta1;Cb1;Ac1;Dd1;Re1;Af1;Cg1;Th1
     N:Ta8;Cb8;Ac8;Dd8;Re8;Af8;Cg8;Th8;Pa7;Pb7;Pc7;Pd7;Pe7;Pf7;Pg7;Ph7
     M:N;
-    P:1;
+    P:2;
 
 45. r1bqkb1r/pppp1ppp/2n2n2/4p3/1PPEP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 1 6
     Problema: Matto in 3 mosse. Nero muove. Controspinta nel gambit di donna.
@@ -496,7 +487,7 @@ Non sbirciate la soluzione!
     B:Pb4;Pc4;Pd4;Cf3;Pa2;Pb2;Pc2;Pf2;Pg2;Ph2;Ta1;Cb1;Ac1;Dd1;Re1;Af1;Th1
     N:Ta8;Ac8;Dd8;Re8;Af8;Th8;Pa7;Pb7;Pc7;Pd7;Pf7;Pg7;Ph7;Cc6;Cf6;Pe5
     M:N;
-    P:5;
+    P:6;
 
 46. 6k1/6pp/8/8/8/3N4/5PPP/6K1 w - - 0 1
     Problema: Matto in 2 mosse. Bianco muove. Cavallo centralizzato e minaccia.
@@ -559,7 +550,7 @@ P:2;
     B:Pb4;Pd3;Cf3;Pa2;Pb2;Pc2;Pf2;Pg2;Ph2;Ta1;Cb1;Ac1;Dd1;Re1;Af1;Th1
     N:Ta8;Cb8;Ac8;Dd8;Re8;Af8;Cg8;Th8;Pa7;Pb7;Pc7;Pd7;Pe7;Pf7;Pg7;Ph7;Pc4
     M:N;
-    P:3;
+    P:4;
 
 53. r1bqkb1r/pppp1ppp/2n2n2/4p3/1PPEP3/3P1N2/PPP2PPP/RNBQKB1R b KQkq - 0 6
     Problema: Matto in 3 mosse. Nero muove. Tema della contrattacco nel sistema di donna.
@@ -568,7 +559,7 @@ P:2;
     B:Pb4;Pc4;Pd4;Pd3;Cf3;Pa2;Pb2;Pc2;Pf2;Pg2;Ph2;Ta1;Cb1;Ac1;Dd1;Re1;Af1;Th1
     N:Ta8;Ac8;Dd8;Re8;Af8;Th8;Pa7;Pb7;Pc7;Pd7;Pf7;Pg7;Ph7;Cc6;Cf6;Pe5
     M:N;
-    P:5;
+    P:6;
 
 54. 7k/6pp/8/8/8/5Q2/5PPP/6K1 w - - 0 1
     Problema: Matto in 2 mosse. Bianco muove. Regina attiva su diagonale.
@@ -586,7 +577,7 @@ P:2;
     B:Pc4;Pe4;Pd3;Cf3;Pa2;Pb2;Pc2;Pf2;Pg2;Ph2;Ta1;Cb1;Ac1;Dd1;Re1;Af1;Th1
     N:Ta8;Cb8;Ac8;Dd8;Re8;Af8;Cg8;Th8;Pa7;Pb7;Pc7;Pd7;Pe7;Pf7;Pg7;Ph7
     M:N;
-    P:2;
+    P:3;
 
 56. r1bqkb1r/pppp1ppp/2n2n2/4p3/2PEP3/3P1N2/PPP2PPP/RNBQKB1R w KQkq - 1 6
     Problema: Matto in 2 mosse. Bianco muove. Tema tattico su casa debole.
@@ -613,7 +604,7 @@ P:2;
     B:Pc4;Pe4;Pd3;Pa2;Pb2;Pc2;Pf2;Pg2;Ph2;Ta1;Cb1;Ac1;Dd1;Re1;Af1;Cg1;Th1
     N:Ta8;Cb8;Ac8;Dd8;Re8;Af8;Cg8;Th8;Pa7;Pb7;Pc7;Pd7;Pe7;Pf7;Pg7;Ph7
     M:N;
-    P:1;
+    P:2;
 
 59. r1bqkb1r/pppp1ppp/2n2n2/4p3/2PEP3/3P4/PPP2PPP/RNBQKB1R b KQkq - 1 5
     Problema: Matto in 2 mosse. Nero muove. Tema della fuga e contrattacco.
@@ -622,7 +613,7 @@ P:2;
     B:Pc4;Pd4;Pd3;Pa2;Pb2;Pc2;Pf2;Pg2;Ph2;Ta1;Cb1;Ac1;Dd1;Re1;Af1;Th1
     N:Ta8;Ac8;Dd8;Re8;Af8;Th8;Pa7;Pb7;Pc7;Pd7;Pf7;Pg7;Ph7;Cc6;Cf6;Pe5
     M:N;
-    P:4;
+    P:5;
 
 60. 7k/6pp/8/8/8/2Q5/5PPP/6K1 w - - 0 1
     Problema: Matto in 2 mosse. Bianco muove. Regina centralizzata.
@@ -640,7 +631,7 @@ P:2;
     B:Pd4;Pe4;Pd3;Pa2;Pb2;Pc2;Pf2;Pg2;Ph2;Ta1;Cb1;Ac1;Dd1;Re1;Af1;Cg1;Th1
     N:Ta8;Cb8;Ac8;Dd8;Re8;Af8;Cg8;Th8;Pa7;Pb7;Pc7;Pd7;Pe7;Pf7;Pg7;Ph7
     M:N;
-    P:2;
+    P:3;
 
 62. r1bqkb1r/pppp1ppp/2n2n2/4p3/3PP3/3P1N2/PPP2PPP/RNBQKB1R w KQkq - 1 5
     Problema: Matto in 3 mosse. Bianco muove. Tema nei Quattro Cavalli con spinta centrale.
@@ -667,7 +658,7 @@ P:2;
     B:
     N:
     M:N;
-    P:2;
+    P:3;
 
 65. r1bqkb1r/pppp1ppp/2n2n2/4p3/3PP3/3P4/PPP2PPP/RNBQKB1R b KQkq - 1 5
     Problema: Matto in 2 mosse. Nero muove. Tema della scoperta difensiva.
@@ -676,7 +667,7 @@ P:2;
     B:Pd4;Pe4;Pd3;Pa2;Pb2;Pc2;Pf2;Pg2;Ph2;Ta1;Cb1;Ac1;Dd1;Re1;Af1;Th1
     N:Ta8;Ac8;Dd8;Re8;Af8;Th8;Pa7;Pb7;Pc7;Pd7;Pf7;Pg7;Ph7;Cc6;Cf6;Pe5
     M:N;
-    P:4;
+    P:5;
 
 66. 7k/6pp/8/8/8/6Q1/5PPP/6K1 w - - 0 1
     Problema: Matto in 3 mosse. Bianco muove. Regina sul fianco e pedone.
@@ -694,7 +685,7 @@ P:2;
     B:Pe4;Pd3;Cf3;Pa2;Pb2;Pc2;Pf2;Pg2;Ph2;Ta1;Cb1;Ac1;Dd1;Re1;Af1;Th1
     N:Ta8;Cb8;Ac8;Dd8;Re8;Af8;Cg8;Th8;Pa7;Pb7;Pc7;Pd7;Pe7;Pf7;Pg7;Ph7
     M:N;
-    P:3;
+    P:4;
 
 68. r1bqkb1r/pppp1ppp/2n2n2/4p3/3PP3/3PBN2/PPP2PPP/RNBQK2R w KQkq - 2 5
     Problema: Matto in 2 mosse. Bianco muove. Tema del vescovo e cavallo coordinati.
@@ -721,7 +712,7 @@ P:2;
     B:Pd4;Pe4;Pd3;Cf3;Pa2;Pb2;Pc2;Pf2;Pg2;Ph2;Ta1;Cb1;Ac1;Dd1;Re1;Af1;Th1
     N:Ta8;Cb8;Ac8;Dd8;Re8;Af8;Cg8;Th8;Pa7;Pb7;Pc7;Pd7;Pe7;Pf7;Pg7;Ph7
     M:N;
-    P:4;
+    P:5;
 
 71. r1bqkb1r/pppp1ppp/2n2n2/4p3/3PP3/3PBNN2/PPP2PPP/RNBQK2R w KQkq - 1 6
     Problema: Matto in 3 mosse. Bianco muove. Tema della pressione su f7.
@@ -748,7 +739,7 @@ P:2;
     B:Pd4;Pe4;Pd3;Pa2;Pb2;Pc2;Pf2;Pg2;Ph2;Ta1;Cb1;Ac1;Dd1;Re1;Af1;Cg1;Th1
     N:Ta8;Cb8;Ac8;Dd8;Re8;Af8;Cg8;Th8;Pa7;Pb7;Pc7;Pd7;Pe7;Pf7;Pg7;Ph7
     M:N;
-    P:3;
+    P:4;
 
 74. r1bqkb1r/pppp1ppp/2n2n2/4p3/3PP3/2NPBN2/PPP2PPP/RNBQK2R b KQkq - 1 5
     Problema: Matto in 2 mosse. Nero muove. Tema della fuga verticale.
@@ -757,7 +748,7 @@ P:2;
     B:Pd4;Pe4;Cc3;Pd3;Ae3;Cf3;Pa2;Pb2;Pc2;Pf2;Pg2;Ph2;Ta1;Cb1;Ac1;Dd1;Re1;Th1
     N:Ta8;Ac8;Dd8;Re8;Af8;Th8;Pa7;Pb7;Pc7;Pd7;Pf7;Pg7;Ph7;Cc6;Cf6;Pe5
     M:N;
-    P:4;
+    P:5;
 
 75. 6k1/6pp/8/8/8/1R6/5PPP/6K1 w - - 0 1
     Problema: Matto in 3 mosse. Bianco muove. Torre centralizzata e pedone.
@@ -775,7 +766,7 @@ V:N;
 B:Pc4;Pd4;Pe4;Pa2;Pb2;Pc2;Pf2;Pg2;Ph2;Ta1;Cb1;Ac1;Dd1;Re1;Af1;Cg1;Th1
 N:Ta8;Cb8;Ac8;Dd8;Re8;Af8;Cg8;Th8;Pa7;Pb7;Pc7;Pd7;Pe7;Pf7;Pg7;Ph7
 M:N;
-P:1;
+P:2;
 
 77. r1bqkb1r/pppp1ppp/2n2n2/4p3/2PPP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 1 5
     Problema: Matto in 3 mosse. Bianco muove. Tema tattico sul centro occupato.
@@ -802,7 +793,7 @@ P:1;
     B:Pc4;Pd4;Pe4;Pa2;Pb2;Pc2;Pf2;Pg2;Ph2;Ta1;Cb1;Ac1;Dd1;Re1;Af1;Cg1;Th1
     N:Ta8;Cb8;Ac8;Dd8;Re8;Af8;Cg8;Th8;Pa7;Pb7;Pc7;Pd7;Pe7;Pf7;Pg7;Ph7
     M:N;
-    P:2;
+    P:3;
 
 80. r1bqkb1r/pppp1ppp/2n2n2/4p3/2PPP3/3P1N2/PPP2PPP/RNBQKB1R b KQkq - 0 6
     Problema: Matto in 2 mosse. Nero muove. Tema della controffesa nel gambit.
@@ -811,7 +802,7 @@ P:1;
     B:Pc4;Pd4;Pe4;Pd3;Cf3;Pa2;Pb2;Pc2;Pf2;Pg2;Ph2;Ta1;Cb1;Ac1;Dd1;Re1;Af1;Th1
     N:Ta8;Ac8;Dd8;Re8;Af8;Th8;Pa7;Pb7;Pc7;Pd7;Pf7;Pg7;Ph7;Cc6;Cf6;Pe5
     M:N;
-    P:5;
+    P:6;
 
 81. 6k1/6pp/8/8/8/1B6/5PPP/6K1 w - - 0 1
     Problema: Matto in 3 mosse. Bianco muove. Vescovo e pedone.
@@ -829,7 +820,7 @@ P:1;
     B:Pc4;Pd4;Pe4;Pc3;Pa2;Pb2;Pc2;Pf2;Pg2;Ph2;Ta1;Cb1;Ac1;Dd1;Re1;Af1;Cg1;Th1
     N:Ta8;Cb8;Ac8;Dd8;Re8;Af8;Cg8;Th8;Pa7;Pb7;Pc7;Pd7;Pe7;Pf7;Pg7;Ph7
     M:N;
-    P:1;
+    P:2;
 
 83. r1bqkb1r/pppp1ppp/2n2n2/4p3/2PPP3/2PP1N2/PPP2PPP/RNBQKB1R w KQkq - 1 6
     Problema: Matto in 3 mosse. Bianco muove. Tema del blocco e pressione.
@@ -856,7 +847,7 @@ P:1;
     B:Pc4;Pd4;Pe4;Pc3;Pa2;Pb2;Pc2;Pf2;Pg2;Ph2;Ta1;Cb1;Ac1;Dd1;Re1;Af1;Cg1;Th1
     N:Ta8;Cb8;Ac8;Dd8;Re8;Af8;Cg8;Th8;Pa7;Pb7;Pc7;Pd7;Pe7;Pf7;Pg7;Ph7
     M:N;
-    P:2;
+    P:3;
 
 86. r1bqkb1r/pppp1ppp/2n2n2/4p3/2PPP3/2PP1N2/PPP2PPP/RNBQKB1R b KQkq - 2 6
     Problema: Matto in 2 mosse. Nero muove. Tema della fuga orizzontale.
@@ -865,7 +856,7 @@ P:1;
     B:Pc4;Pd4;Pe4;Pc3;Pd3;Cf3;Pa2;Pb2;Pc2;Pf2;Pg2;Ph2;Ta1;Cb1;Ac1;Dd1;Re1;Af1;Th1
     N:Ta8;Ac8;Dd8;Re8;Af8;Th8;Pa7;Pb7;Pc7;Pd7;Pf7;Pg7;Ph7;Cc6;Cf6;Pe5
     M:N;
-    P:5;
+    P:6;
 
 87. 6k1/6pp/8/8/8/4B3/5PPP/6K1 w - - 0 1
     Problema: Matto in 3 mosse. Bianco muove. Vescovo e spinta coordinata.
@@ -910,7 +901,7 @@ P:1;
     B:Pb4;Pc4;Pd4;Pd3;Cf3;Pa2;Pb2;Pc2;Pf2;Pg2;Ph2;Ta1;Cb1;Ac1;Dd1;Re1;Af1;Th1
     N:Ta8;Cb8;Ac8;Dd8;Re8;Af8;Cg8;Th8;Pa7;Pb7;Pc7;Pd7;Pe7;Pf7;Pg7;Ph7
     M:N;
-    P:2;
+    P:3;
 
 92. r1bqkb1r/pppp1ppp/2n2n2/4p3/1PPEP3/2PP4/PPP2PPP/RNBQKBNR b KQkq - 0 8
     Problema: Matto in 2 mosse. Nero muove. Tema del cavallo e controspinta.
@@ -919,7 +910,7 @@ P:1;
     B:Pb4;Pc4;Pd4;Pc3;Pd3;Pa2;Pb2;Pc2;Pf2;Pg2;Ph2;Ta1;Cb1;Ac1;Dd1;Re1;Af1;Cg1;Th1
     N:Ta8;Ac8;Dd8;Re8;Af8;Th8;Pa7;Pb7;Pc7;Pd7;Pf7;Pg7;Ph7;Cc6;Cf6;Pe5
     M:N;
-    P:7;
+    P:8;
 
 93. 6k1/6pp/8/8/8/6B1/5PPP/6K1 w - - 0 1
     Problema: Matto in 3 mosse. Bianco muove. Vescovo e pedone finale.
@@ -946,7 +937,7 @@ P:2;
     B:Pb4;Pc4;Pd4;Pc3;Pd3;Cf3;Pa2;Pb2;Pc2;Pf2;Pg2;Ph2;Ta1;Cb1;Ac1;Dd1;Re1;Af1;Th1
     N:Ta8;Ac8;Dd8;Re8;Af8;Th8;Pa7;Pb7;Pc7;Pd7;Pf7;Pg7;Ph7;Cc6;Cf6;Pe5
     M:N;
-    P:6;
+    P:7;
 
 96. 7k/6pp/8/8/8/1B6/5PPP/6K1 w - - 0 1
     Problema: Matto in 2 mosse. Bianco muove. Vescovo su casa laterale.
@@ -964,7 +955,7 @@ P:2;
     B:Pb4;Pc4;Pd3;Cf3;Pa2;Pb2;Pc2;Pf2;Pg2;Ph2;Ta1;Cb1;Ac1;Dd1;Re1;Af1;Th1
     N:Ta8;Cb8;Ac8;Dd8;Re8;Af8;Cg8;Th8;Pa7;Pb7;Pc7;Pd7;Pe7;Pf7;Pg7;Ph7
     M:N;
-    P:2;
+    P:3;
 
 98. r1bqkb1r/pppp1ppp/2n2n2/4p3/1CPPEP3/5N2/PPP2PPP/RNBQK2R w KQkq - 0 8
     Problema: Matto in 2 mosse. Bianco muove. Tema del sacrificio del vescovo.
