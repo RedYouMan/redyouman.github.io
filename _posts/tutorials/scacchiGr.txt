@@ -299,21 +299,21 @@ L'analisi avverrà su un massimo di dieci mosse e occorre attendere che il compu
 Stockfish potrebbe farvi vedere linee di gioco anche diverse da quelle ipotizzate dal problema, preferendo, a volte, mosse solide al posto di sacrifici o rischi.
 
 Problemi da caricare
-I problemi potreste copiarli dalla settimana enigmistica, da un libro facendovi aiutare, oppure inventarli. Ovviamente dovrete riportare la posizione nel formato RoT su un file txt, come spiegheremo di seguito.
+I problemi potreste copiarli dalla settimana enigmistica, da un libro facendovi aiutare, oppure inventarli. Ovviamente dovrete riportare la posizione nel formato RoT notation (RoTN) su un file txt, come spiegheremo di seguito.
 Un esempio fornitovi è problema1.txt nella directory problemi e caricabile con CtrlP o anche con CtrlJ. 
 
 Analisi problemi da parte del computer
 E' utile ascoltare come il computer affronta i problemi, sia quelli inventati da noi che quelli proposti altrove.
 Nel caso di nostri problemi, il computer potrebbe evidenziare delle cose a cui non avevamo pensato. Non sempre il computer è fortemente brillante nelle combinazioni, ma nella maggior parte delle analisi è molto preciso.
 
-ROTN
-La ROTN che esamineremo di seguito è importante perchè su Internet le partite o i problemi mostrano solo immagini che un non vedente non può utilizzare. La RoT Notation descrive, più efficacemente di una FE Notation,  lo scopo della posizione, come sono dislocati tutti i pezzi, il punto di vista da cui mettersi, chi muove e il numero di mossa da cui partire. 
+RoTN
+La RoTN che esamineremo di seguito è importante perchè su Internet le partite o i problemi mostrano solo immagini che un non vedente non può utilizzare. La RoT Notation descrive, più efficacemente di una FE Notation,  lo scopo della posizione, come sono dislocati tutti i pezzi, il punto di vista da cui mettersi, chi muove e il numero di mossa da cui partire. 
 Essa è una estensione della notazione algebrica per rendere un applicativo di scacchi di tipo open data.
 La paternità di essa è tutelata dal copyright di Scacchi-it.
 
 Come si scrive un problema o una posizione
 
-La ROTN è un file testuale fatto di descrittori seguiti da valori. Tutti i campi descrittori sono obbligatori e V: va messo dopo T: e prima degli altri rimanenti.
+La RoTN è un file testuale fatto di descrittori seguiti da valori. Tutti i campi descrittori sono obbligatori e V: va messo dopo T: e prima degli altri rimanenti.
 
 *Esempio RoTN*
 T:Matto in una mossa
@@ -337,8 +337,8 @@ E' obbligatorio mettere il descrittore V: dopo quello T: ma prima di tutti gli a
 Il programma Scacchi-it usa solo le lettere dei pezzi in italiano, ma la rot notation può essere generalizzata e usare anche le lettere inglesi dei pezzi. e al posto del descrittore italiano B: il corrispondente inglese W: e analogamente per il descrittore italiano N: sostituito con quello inglese B:.
 Dopo la lettera iniziale vi è la casella che indica dove va posizionato il pezzo.
 
-Vantaggi della rotn
-La rotn unisce i vantaggi di una immagine con quelli della notazione algebrica più sintetica rispetto alla FEN.
+Vantaggi della RoTN
+La RoTN unisce i vantaggi di una immagine con quelli della notazione algebrica più sintetica rispetto alla FEN.
 Infatti aggiunge il testo (T:) che valorizza il momento artistico e clou della posizione, inoltre aggiunge il punto di vista da cui guardare e giocare la partita. La sinteticità della notazione algebrica rende più rapidamente intuibile la posizione.
 
 Per comprendere meglio i limiti di una fen esaminiamo come è fatta.
@@ -367,7 +367,7 @@ Ad esempio la fen seguente mostra i suoi limiti:
 7K/5k2/8/8/8/8/8/6q1 B ---- - 0 34 
   
 Tutto questo per dire che il nero ha due pezzi: re e regina e il bianco solo il re, con la mossa al nero; Ma non dice cosa occorre fare e da che punto di vista mettersi per valutare meglio la posizione.
-Nella rot troveremo semplicemente e in maniera chiara senza doversi fare i conti: 
+Nella RoTN troveremo semplicemente e in maniera chiara senza doversi fare i conti: 
 
 T:Matto in una mossa
 V:N;
@@ -384,11 +384,11 @@ Inoltre per un umano non serve sapere la situazione degli arrocchi, lo vede da s
 Scacchi-it , ideato per vedenti e non vedenti, nelle sospensioni si segna l'enpassant per comunicare la possibilità di esso alla ripresa, ma solo se esiste tale possibilità, diversamente dallo standard fen.
 
 In un e-book per non vedenti se ci sono immagini, esse non sono fruibili dal non vedente; per cui, generalmente, viene descritta la posizione con la notazione algebrica, che ha il vantaggio di far comprendere la posizione dei pezzi rapidamente. 
-La rotn fa un passo ulteriore, consentendo l'ascolto e l'immediato utilizzo su scacchiera e non solo.
+La RoTN fa un passo ulteriore, consentendo l'ascolto e l'immediato utilizzo su scacchiera e non solo.
 
-Se in un e-book viene mostrata la rotn, col copia e incolla si può rapidamente trasferirla in un file e caricarla in Scacchi-it. In tal modo si può ascoltare, con sintesi vocale, il testo e navigare sulla scacchiera esplorando la posizione, apprezzando meglio quanto descritto nel e-book.
+Se in un e-book viene mostrata la RoTN, col copia e incolla si può rapidamente trasferirla in un file e caricarla in Scacchi-it. In tal modo si può ascoltare, con sintesi vocale, il testo e navigare sulla scacchiera esplorando la posizione, apprezzando meglio quanto descritto nel e-book.
 
-La rotn, inoltre, rende open data l'applicativo Scacchi-it in modo bidirezionale: consente di sospendere una partita e di riprenderla più tardi, come pure scrivere o copiare problemi e caricarli per la loro soluzione.
+La RoTN, inoltre, rende open data l'applicativo Scacchi-it in modo bidirezionale: consente di sospendere una partita e di riprenderla più tardi, come pure scrivere o copiare problemi e caricarli per la loro soluzione.
 Per cui la giusta definizione della rot notation è che essa estende la notazione algebrica e rende open data un applicativo di scacchi, consentendo di interagire con esso in due direzioni e aggiungendo la sintesi vocale e i vantaggi di una immagine.
 
 Il programma fenpos
