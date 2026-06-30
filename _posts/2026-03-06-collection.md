@@ -388,7 +388,12 @@ Non sbirciate la soluzione!
     P:5;
 
 34. 7k/6pp/8/8/8/1R6/6PP/6K1 w - - 0 1
-    Provate a usare fenpos
+    T:Matto
+    V:B;
+    B:Tb3;Pg2;Ph2;Rg1
+    N:Rh8;Pg7;Ph7
+    M:B;
+    P:0;
 
 35. rnbqkbnr/pppppppp/8/8/2P1P3/8/PPP2PPP/RNBQKBNR b KQkq c3 0 2
     Problema: Matto in 4 mosse. Nero muove. Tema della lotta centrale. XX secolo.
