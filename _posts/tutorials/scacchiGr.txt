@@ -745,9 +745,9 @@ pezzo_nero       = lettera_pezzo_it , casella ;
 lettera_pezzo_it = "R" | "D" | "T" | "A" | "C" ; 
 
 newline          = "\n" ; (* A capo. Il file è testuale *)
-#### *Note importanti sulla BNF vs il tuo esempio:*
+#### *Note importanti sulla BNF :*
 
-1.  *Ordine Fisso*: `rotn_file = T V B N M P` Questo forza `V:` dopo `T:` e prima degli altri, come richiedi tu.
-2.  *`;` finale*: Ho messo `;` obbligatorio su T,V,B,N,P. Su M no, perché nel tuo esempio `M:N` non ha `;`. Su B e N ho messo `[ ";"]` perché il tuo `B:Rh8;` ha `;` anche se è 1 solo pezzo.
-3.  *Lettere pezzi*: Ho messo solo IT: `R D T A C`. Se vuoi la versione EN metti anche `K Q B N`.
+1.  *Ordine Fisso*: `rotn_file = T V B N M P` Questo forza `V:` dopo `T:` e prima degli altri, .
+2.  *`;` finale*: obbligatorio il punto e virgola su T,V,B,N,P. M può non avere `;`. 
+3.  *Lettere pezzi*: IT: `R D T A C`. Mentre in versione EN `K Q B N`, ma B: va sostituito con W: e N: con B:.
   
