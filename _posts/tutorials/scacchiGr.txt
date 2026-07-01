@@ -752,7 +752,7 @@ newline          = "\n" ; (* A capo. Il file è testuale *)
 3.  *Lettere pezzi*: IT: `R D T A C`. Mentre in versione EN `K Q B N`, ma B: va sostituito con W: e N: con B:.
 
 
-(* ===== RoTN - Rot Notation (English version) for Scacchi-it v8.1 ===== *)
+(* ===== RoTN - Rot Notation (English version) generalization ===== *)
 
 rotn_file        = t_desc , v_desc , w_desc , b_desc , m_desc , p_desc ;
 
