@@ -29,6 +29,8 @@ Nuova versione Scacchi-it 8.1 (online&offline)
 
 [tutorial Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/tutorials/scacchiGr.txt)
 
+[ROTN v1.0 BNF EBNF/ISO 14977 ](https://redyouman.github.io/blog/2026/07/02/Spec-ROTN.html)
+
 [cosa è un chess engine](https://redyouman.github.io/blog/2026/05/12/chessengine.html)
 
 [Cosa è Scacchi-it](https://redyouman.github.io/blog/2026/05/12/motoregrafico.html)
