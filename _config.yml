@@ -29,8 +29,9 @@ github_username: RedYouMan
 
 # Build settings
 theme: minima
-plugins: - jekyll-sitemap
-  jekyll-feed
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
 
 timezone: Europe/Rome
 
