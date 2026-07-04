@@ -37,10 +37,15 @@ Trappola famosa. Il Bianco sacrifica e chiude con l'Alfiere su f7.
 **1. e4 e5 2. Ab5 Cc6 3. Ac4 Cf6 4. Df3 d5 5. exd5 Cxd5?? 6. Dxf7#**
 Simile al Pastore ma parte da Ab5. Occhio a 5...Cd4! per difendersi.
 
+## Esercizio
+
+Come esercizio riporta il matto sulla scacchiera e cerca di assimilare come funziona il tranello.
+
 ### Conclusione
 
 Il segreto è sempre attaccare f2/f7. Se il tuo avversario sviluppa senza arroccare, queste trappole funzionano.
 
-#Esercizio
+## Esercizio
+
 Come esercizio riporta il matto sulla scacchiera e cerca di assimilare come funziona il tranello.
 
