@@ -22,7 +22,8 @@ Questa pagina è dedicata a tutti gli appassionati di scacchi. Nel seguito trove
 
 [scarica licenza](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/MITlicence.pdf)
 
-Nuova versione Scacchi-it 8.1 - online&offline
+## Software da scaricare: Novità Scacchi-it 8.1 - online&offline
+
 [scarica Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/scacchiGr.7z)
 
 [scarica fenpos](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repolc/fenpos.exe)
@@ -31,15 +32,15 @@ Nuova versione Scacchi-it 8.1 - online&offline
 
 [ROTN v1.0 BNF EBNF/ISO 14977 ](https://redyouman.github.io/blog/2026/07/02/Spec-ROTN.html)
 
-[cosa è un chess engine](https://redyouman.github.io/blog/2026/05/12/chessengine.html)
-
-[Cosa è Scacchi-it](https://redyouman.github.io/blog/2026/05/12/motoregrafico.html)
-
 [scarica imparoTastiera per usare il computer](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repoaux/imparoTastiera.exe) Nota: da usare con NVDA
 
 [scarica corso tastiera e nvda](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repoaux/corso.7z)
 
-## Tranelli famosi
+## Articoli
+
+[cosa è un chess engine](https://redyouman.github.io/blog/2026/05/12/chessengine.html)
+
+[Cosa è Scacchi-it](https://redyouman.github.io/blog/2026/05/12/motoregrafico.html)
 
 [Tranelli famosi di scacchi](https://redyouman.github.io/blog/2026/07/04/Mattifamosi.html)
 
