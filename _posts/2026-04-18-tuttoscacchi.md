@@ -41,7 +41,7 @@ Nuova versione Scacchi-it 8.1 (online&offline)
 
 ## Tranelli famosi
 
-[Tranelli famosi di scacchi](https://redyouman.github.io/blog/2026/07/04/Mattointremosse.html)
+[Tranelli famosi di scacchi](https://redyouman.github.io/blog/2026/07/04/Mattifamosi.html)
 
 ## Collezioni di scacchi
 
