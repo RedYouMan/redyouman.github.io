@@ -39,6 +39,10 @@ Nuova versione Scacchi-it 8.1 (online&offline)
 
 [scarica corso tastiera e nvda](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repoaux/corso.7z)
 
+## Tranelli famosi
+
+[Tranelli famosi di scacchi](https://redyouman.github.io/blog/2026/07/04/Mattointremosse.html)
+
 ## Collezioni di scacchi
 
 I 100 migliori problemi di scacchi
