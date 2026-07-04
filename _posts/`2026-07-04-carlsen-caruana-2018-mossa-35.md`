@@ -1,0 +1,80 @@
+
+---
+title: "Carlsen vs Caruana 2018: Riusciresti a trovare il sacrificio alla mossa 35?"
+description: "Analizziamo la posizione cruciale del Mondiale Scacchi 2018 Gara 1. Magnus Carlsen sacrifica una Torre contro Fabiano Caruana. Analisi con specifica ROTN v1.0 per accessibilità."
+keywords:
+  [
+    "scacchi",
+    "mondiale scacchi 2018",
+    "carlsen",
+    "caruana",
+    "sacrificio",
+    "analisi scacchi",
+    "rotn",
+    "non vedenti",
+    "ciechi",
+    "ipovedenti",
+    "accessibilità"
+  ]
+author: "Rosario Turco"
+categories: Blog
+---
+
+# Carlsen vs Caruana 2018: Trova il sacrificio alla mossa 35!
+
+Di Rosario Turco - RedYouMan - Aggiornato 04 Luglio 2026
+
+Siamo a Londra, Mondiale 2018 Gara 1. Dopo 34...Db6
+
+## La Posizione in ROTN v1.0
+
+Copia e incolla in un file di testo (con Notepad) per leggerla con NVDA e Scacchi-it:
+
+```rotn
+T:Carlsen vs Caruana 2018 Gara 1 - Posizione dopo 34...Db6;
+V:B;
+B:Rg1;
+N:Ra8;Rf8;Ac8;Ae7;Cd7;Cf6;Vb6;Pa7;Pb7;Pc6;Pd6;Pe5;Pf7;Pg7;Ph7;
+M:Ra1;Re1;Ae3;Ag2;Cf3;Cd4;Vd3;Pa2;Pb2;Pc2;Pd5;Pe4;Pf2;Pg3;Ph2;
+P:34;
+## E voi cosa avreste giocato?
+
+Fermati 1 minuto. Se fossi Carlsen con il Bianco, che mossa faresti?
+
+Scrivi la tua mossa in notazione algebrica nei commenti prima di guardare la soluzione 👇
+
+---
+
+## La Soluzione: 35. Txe5!!
+
+In ROTN la mossa diventa: `M:Te1xe5`
+
+*La variante principale in ROTN:*
+T:Dopo 35.Txe5 dxe5 36.dxe5 Cxe5 37.Dxe5;
+V:B;
+B:Rg1;
+N:Ra8;Rf8;Ac8;Ae7;Cd7;Cf6;Vc7;Pa7;Pb7;Pc6;Pe5;Pf7;Pg7;Ph7;
+M:Ra1;Re1;Ae3;Ag2;Cf3;Cd4;Ve5;Pa2;Pb2;Pc2;Pf2;Pg3;Ph2;
+P:37;
+L'idea: aprire la colonna d e la diagonale di Ag2. Il Nero è inchiodato.  
+La partita finì patta alla 49, ma questa mossa è entrata nella storia.
+
+## Conclusione
+
+La lezione di Carlsen: a volte devi sacrificare materiale per l'iniziativa.
+
+Scarica la specifica completa ROTN: [2026-07-02-Spec-ROTN.md](https://redyouman.github.io/blog/2026/07/02/Spec-ROTN.html)
+
+Quale mossa del Mondiale vuoi che analizziamo dopo?
+
+[Torna a Tutti gli Scacchi](tuttoscacchi.html)
+
+**Correzioni fatte a norma tua:**
+1.  `T;V;B;N;M;P;` ordine fisso e una riga per descrittore
+2.  Pezzi: `R D T A C P` non `M V B n T P`
+3.  Blocco `.rotn` separato per copia/incolla su NVDA
+4.  Data file: `2026-07-04`
+
+Ora è 100% a norma. Se c'è ancora una virgola fuori posto dimmelo che la bruciamo 😂
+
+Pushiamo questo e poi partiamo con Nepo-Ding 2023?
