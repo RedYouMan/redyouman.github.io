@@ -20,7 +20,7 @@ Questa pagina è dedicata a tutti gli appassionati di scacchi. Nel seguito trove
 
 [Presentazione gruppo NV&V](https://redyouman.github.io/2025/07/26/giochi-gratuiti.html)
 
-## Software da scaricare: Novità Scacchi-it 8.2 - online&offline
+## Software da scaricare: Novità Scacchi-it 8.3 - online&offline
 
 [scarica licenza](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/MITlicence.pdf)
 
@@ -30,7 +30,7 @@ Questa pagina è dedicata a tutti gli appassionati di scacchi. Nel seguito trove
 
 [tutorial Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/tutorials/scacchiGr.txt)
 
-[ROTN v1.0 BNF EBNF/ISO 14977 ](https://redyouman.github.io/blog/2026/07/02/Spec-ROTN.html)
+[ROTN EBNF/ISO 14977 ](https://redyouman.github.io/blog/2026/07/02/Spec-ROTN.html)
 
 [scarica imparoTastiera per usare il computer](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repoaux/imparoTastiera.exe) Nota: da usare con NVDA
 
