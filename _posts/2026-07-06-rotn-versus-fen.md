@@ -50,7 +50,7 @@ Un applicativo che rispetta la ROTN può attraverso essa: sospendere una partita
 
 La sinteticità della notazione algebrica rende più rapidamente intuibile la posizione.
 
-Scacchi-it è stato il prodotto creato da me e centrato sulla ROTN, per un costo di 8 mesi/uomo.
+Scacchi-it è stato il software creato da me e centrato sulla ROTN, per un costo di 8 mesi/uomo per ottenere circa 35 funzionalità tra offline e online.
 
 Per comprendere meglio i limiti di una fen esaminiamo come è fatta.
 
