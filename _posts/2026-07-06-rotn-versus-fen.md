@@ -18,6 +18,9 @@ categories: Blog
 
 di Rosario Turco
 
+Innanzitutto è una specifica per chisviluppa software scacchistico compatibile con screen reader (come NVDA e simili), ma che consente di utilizzare il software anche ai vedenti, in un concetto a me caro di integrazione dei due mondi: non vedenti e vedenti (NV&V).
+Il gioco diventa un momento sociale di integrazione e di possibilità alla pari tra vedente e non vedente.
+
 La RoTN è un file testuale fatto di descrittori seguiti da valori. Tutti i campi descrittori sono obbligatori e V: va messo dopo T: e prima degli altri rimanenti.
 
 _Esempio RoTN_
@@ -42,7 +45,12 @@ Il motivo è che un applicativo di scacchi (es: Scacchi-it) incrementa la mossa 
 # **Vantaggi della RoTN**
 
 La RoTN unisce i vantaggi di una immagine con quelli della notazione algebrica più sintetica rispetto alla FEN.
-Infatti aggiunge il testo (T:) che valorizza il momento artistico e clou della posizione, inoltre aggiunge il punto di vista da cui guardare e giocare la partita. La sinteticità della notazione algebrica rende più rapidamente intuibile la posizione.
+Infatti aggiunge il testo (T:) che valorizza il momento artistico e clou della posizione, inoltre aggiunge il punto di vista da cui guardare e giocare la partita. L'applicativo, difatti, carica la posizione dal punto di vista dichiarato nella ROTN.
+Un applicativo che rispetta la ROTN può attraverso essa: sospendere una partita, riprendere una partita, ruotare la scacchiera, caricare un problema scritto con Notepad, creato da noi o copiato da internet o da un e-book.
+
+La sinteticità della notazione algebrica rende più rapidamente intuibile la posizione.
+
+Scacchi-it è stato il prodotto creato da me e centrato sulla ROTN, per un costo di 8 mesi/uomo.
 
 Per comprendere meglio i limiti di una fen esaminiamo come è fatta.
 
@@ -101,4 +109,3 @@ Come sempre accade, chi ha delle necessità, realizza una specifica e un applica
 
 La definizione della Specifica ufficiale ROTN completa, ISO 14977 è disponibile a:
 https://redyouman.github.io/blog/2026/07/02/Spec-ROTN.html
-
