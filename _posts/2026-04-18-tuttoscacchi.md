@@ -45,6 +45,10 @@ Questa pagina è dedicata a tutti gli appassionati di scacchi. Nel seguito trove
 
 [Tranelli famosi di scacchi](https://redyouman.github.io/blog/2026/07/04/Mattifamosi.html)
 
+## **rubrica - ROTN: Scacchi a voce alta**
+
+[vincere da una patta](https://redyouman.github.io/blog/2026/07/07/vincere-una-patta.html)
+
 ## Collezioni di scacchi
 
 I 100 migliori problemi di scacchi
