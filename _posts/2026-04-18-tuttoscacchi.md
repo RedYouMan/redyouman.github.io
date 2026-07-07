@@ -33,6 +33,9 @@ Questa pagina è dedicata a tutti gli appassionati di scacchi. Nel seguito trove
 [ROTN EBNF/ISO 14977 ](https://redyouman.github.io/blog/2026/07/02/Spec-ROTN.html)
 
 [Cosa è la rotn](https://redyouman.github.io/blog/2026/07/06/rotn-versus-fen.html)
+
+[what is ROTN](https://redyouman.github.io/blog/2026/07/07/what-is-rotn.html)
+
 [scarica imparoTastiera per usare il computer](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repoaux/imparoTastiera.exe) Nota: da usare con NVDA
 
 [scarica corso tastiera e nvda](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repoaux/corso.7z)
