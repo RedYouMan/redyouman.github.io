@@ -24,7 +24,7 @@ La specifica dichiara un metodo semplice e intuitivo per superare facilmente vec
 
 La ROTN è un file testuale fatto di descrittori seguiti da valori. Tutti i campi descrittori sono obbligatori e con posizione e ordine fisso.
 
-_Esempio RoTN_
+_Esempio ROTN_
 T:Matto in una mossa
 V:N;
 B:Rh8;
@@ -43,9 +43,9 @@ In particolare P: va diminuito di 1 se a giocare per prima è il Bianco (M:B) op
 
 Il motivo è che un applicativo di scacchi (es: Scacchi-it) incrementa la mossa quando gioca in bianco e non lo fa in nero, proprio perchè la mossa è costituita da due semimosse: quella del bianco e poi quella del nero.
 
-# **Vantaggi della RoTN**
+# **Vantaggi della ROTN**
 
-La RoTN unisce i vantaggi di una immagine con quelli della notazione algebrica più sintetica rispetto alla FEN.
+La ROTN unisce i vantaggi di una immagine con quelli della notazione algebrica più sintetica rispetto alla FEN.
 Infatti aggiunge il testo (T:) che valorizza il momento artistico e clou della posizione, inoltre aggiunge il punto di vista da cui guardare e giocare la partita. L'applicativo, difatti, carica la posizione dal punto di vista dichiarato nella ROTN.
 Un applicativo che rispetta la ROTN può attraverso essa: sospendere una partita, riprendere una partita, ruotare la scacchiera, caricare un problema scritto con Notepad, creato da noi o copiato da internet o da un e-book.
 
@@ -79,7 +79,7 @@ Ad esempio la fen seguente mostra i suoi limiti:
 7K/5k2/8/8/8/8/8/6q1 B ---- - 0 34
 
 Tutto questo per dire che il nero ha due pezzi: re e regina e il bianco solo il re, con la mossa al nero; Ma non dice cosa occorre fare e da che punto di vista mettersi per valutare meglio la posizione.
-Nella RoTN troveremo semplicemente e in maniera chiara senza doversi fare i conti:
+Nella ROTN troveremo semplicemente e in maniera chiara senza doversi fare i conti:
 
 T:Matto in una mossa
 V:N;
@@ -97,11 +97,11 @@ Inoltre per un umano non serve sapere la situazione degli arrocchi, lo vede da s
 Scacchi-it , ideato per vedenti e non vedenti, nelle sospensioni si segna l'enpassant per comunicare la possibilità di esso alla ripresa, ma solo se esiste tale possibilità, diversamente dallo standard fen.
 
 In un e-book per non vedenti se ci sono immagini, esse non sono fruibili dal non vedente; per cui, generalmente, viene descritta la posizione con la notazione algebrica, che ha il vantaggio di far comprendere la posizione dei pezzi rapidamente.
-La RoTN fa un passo ulteriore, consentendo l'ascolto e l'immediato utilizzo su scacchiera e non solo.
+La ROTN fa un passo ulteriore, consentendo l'ascolto e l'immediato utilizzo su scacchiera e non solo.
 
-Se in un e-book viene mostrata la RoTN, col copia e incolla si può rapidamente trasferirla in un file e caricarla in Scacchi-it. In tal modo si può ascoltare, con sintesi vocale, il testo e navigare sulla scacchiera esplorando la posizione, apprezzando meglio quanto descritto nel e-book.
+Se in un e-book viene mostrata la ROTN, col copia e incolla si può rapidamente trasferirla in un file e caricarla in Scacchi-it. In tal modo si può ascoltare, con sintesi vocale, il testo e navigare sulla scacchiera esplorando la posizione, apprezzando meglio quanto descritto nel e-book.
 
-La RoTN, inoltre, rende open data l'applicativo Scacchi-it in modo bidirezionale: consente di sospendere una partita e di riprenderla più tardi, come pure scrivere o copiare problemi e caricarli per la loro soluzione.
+La ROTN, inoltre, rende open data l'applicativo Scacchi-it in modo bidirezionale: consente di sospendere una partita e di riprenderla più tardi, come pure scrivere o copiare problemi e caricarli per la loro soluzione.
 Per cui la giusta definizione della rot notation è che essa estende la notazione algebrica e rende open data un applicativo di scacchi, consentendo di interagire con esso in due direzioni e aggiungendo la sintesi vocale e i vantaggi di una immagine.
 
 # **Specifica formalizzata per non vedenti**
