@@ -18,10 +18,11 @@ categories: Blog
 
 di Rosario Turco
 
-Innanzitutto è una specifica per chisviluppa software scacchistico compatibile con screen reader (come NVDA e simili), ma che consente di utilizzare il software anche ai vedenti, in un concetto a me caro di integrazione dei due mondi: non vedenti e vedenti (NV&V).
+Innanzitutto è una specifica di accessibilità digitale per chi sviluppa software scacchistico compatibile con screen reader (come NVDA e simili), ma che consente di utilizzare il software anche ai vedenti, in linea con un concetto a me caro di integrazione dei due mondi: non vedenti e vedenti (NV&V).
 Il gioco diventa un momento sociale di integrazione e di possibilità alla pari tra vedente e non vedente.
+La specifica dichiara un metodo semplice e intuitivo per superare facilmente vecchie problematiche, soprattutto editoriali, che gli scacchi da sempre si portano dietro: una immagine non è fruibile da un non vedente su Internet o su un ebook e la fen è poco intuitiva per un umano, adatta più a un computer e risalente al secolo scorso.Per cui ROTN versus FEN è una tematica culturale da affrontare: occorre del tempo affinchè ci si renda conto per mettere in discussione l'ovvio e i metodi finora usati.
 
-La RoTN è un file testuale fatto di descrittori seguiti da valori. Tutti i campi descrittori sono obbligatori e V: va messo dopo T: e prima degli altri rimanenti.
+La ROTN è un file testuale fatto di descrittori seguiti da valori. Tutti i campi descrittori sono obbligatori e con posizione e ordine fisso.
 
 _Esempio RoTN_
 T:Matto in una mossa
