@@ -37,7 +37,7 @@ P:34;
 - **V:** Describes from which point of view the program should load the position (White or Black, using W; or B;).
 - **W:** Describes the list of white pieces, separated by semicolons, using english algebraic notation (e.g., Bg5;Ke2;).
 - **B:** Describes the list of black pieces, as above.
-- **M:** Describes whose turn it is (White or Black, using B or N).
+- **M:** Describes whose turn it is (White or Black, using W or B).
 - **P:** Describes the starting move number.
 
 In particular, **P:** should be decreased by 1 if White is the first to move (M:B), or it remains the same if Black is the first to move (M:N).
