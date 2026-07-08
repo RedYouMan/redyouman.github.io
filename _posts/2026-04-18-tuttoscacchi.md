@@ -42,7 +42,7 @@ Questa pagina è dedicata a tutti gli appassionati di scacchi. Nel seguito trove
 
 ## Articoli
 
-[Come vincere da una patta](https://redyouman.github.io/blog/2026/07/08/vincere-dauna-patta.html)
+[Come vincere da una patta](https://redyouman.github.io/blog/2026/07/08/esempio-didattico1.html)
 
 [cosa è un chess engine](https://redyouman.github.io/blog/2026/05/12/chessengine.html)
 
