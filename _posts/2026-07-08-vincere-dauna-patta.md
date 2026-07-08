@@ -23,9 +23,11 @@ Materiale pari, simmetria totale. Tratto al Bianco. All’apparenza nulla da far
 
 ## Codice ROTN da copiare su Scacchi-it
 
+Suggerimento furbo: prima di copiare e incollare in un file, leggi dove sono i due re. Altro consiglio: se sei tu a compilare i campi dei pezzi, metti sempre prima i re degli altri pezzi.
+
 Copia le 6 righe qui sotto in un file di testo e salvalo come finale.txt
 
-T:Mondiale 2018 - Carlsen vs Caruana - Il concetto di Zugzwang
+T:esempio didattico - prova a porre - Il nero in Zugzwang
 V:B;
 B:Re1;Ta1;Th1;Pa2;Pb2;Pc2;Pf2;Pg2;Ph2;
 N:Re8;Ta8;Th8;Pa7;Pb7;Pc7;Pf7;Pg7;Ph7;
