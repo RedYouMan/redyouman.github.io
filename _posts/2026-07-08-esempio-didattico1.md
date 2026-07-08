@@ -33,16 +33,17 @@ Materiale pari, simmetria totale. Tratto al Bianco. All’apparenza nulla da far
 
 Suggerimento furbo: prima di copiare e incollare in un file, leggi dove sono i due re. Altro consiglio: se sei tu a compilare i campi dei pezzi, metti sempre prima i re degli altri pezzi.
 
-Copia le 6 righe qui sotto in un file di testo e salvalo come finale.txt
+Nota: Posizione didattica ispirata al finale Carlsen-Caruana, Mondiale 2018.
+Se scrivi la ROTN in un file markdown md usa gli asterischi (corsivo) per far comprendere a NVDA i separatori. Se usi, invece, ebook o html non servono gli asterischi.
+Se copi la rotn di sotto con gli asterischi, probabilmente tutta la ROTN è su una sola riga: incolla essa in un file con nome ad esempio finale.txt. Togli gli asterischi, fai in modo che ogni descrittore è solo su una riga propriacol suo valore, e metti il file nella cartella problemi di Scacchi-it.  
+Poi fai Ctrl+P, Alt-Tab sulla console e scrivi il nome del file senza estensione.
 
 *T:metti il nero in Zugzwang
 *V:B\*
-*B:Re1;Ta1;Th1;Pa2;Pb2;Pc2;Pf2;Pg2;Ph2
+_B:Re1;Ta1;Th1;Pa2;Pb2;Pc2;Pf2;Pg2;Ph2_
 *N:Re8;Ta8;Th8;Pa7;Pb7;Pc7;Pf7;Pg7;Ph7\*
-_M:B_
-\*P:0\*
-
-Nota: Posizione didattica ispirata al finale Carlsen-Caruana, Mondiale 2018.
+*M:B*
+\*P:0*
 
 ## L’analisi passo-passo
 
@@ -63,9 +64,7 @@ Con NVDA è immediato: senti che i Re si guardano e che il Bianco può fare la d
 
 ## Provala tu
 
-Copia le 6 righe ROTN qui sopra e metti il file nella cartella problemi di Scacchi-it.  
-Poi fai Ctrl+P, Alt-Tab sulla console e scrivi il nome del file senza estensione.  
-Metti le cuffie e prova a giocare Re2, Re3, f4. Nota come la posizione del nero è peggiorata dopo la terza mossa.
+prova a giocare Re2, Re3, f4. Nota come la posizione del nero è peggiorata dopo la terza mossa.
 
 ## Conclusione
 
