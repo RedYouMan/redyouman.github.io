@@ -32,7 +32,7 @@ N:Rf7;Dg1;
 M:N
 P:34;
 
-- T: descrive la posizione che verrà letta anche con sintesi vocale
+- T: descrive la posizione che verrà letta anche con sintesi vocale, con possibili consigli tecnici
 - V: descrive da che punto di vista si vuole che il programma carichi la posizione (Bianco o Nero usando B; o N;)
 - B: descrive l'elenco separato da punti e virgole dei pezzi con notazione algebrica italiana (es: Ag5;Re2;)
 - N: descrive l'insieme dei pezzi neri come sopra

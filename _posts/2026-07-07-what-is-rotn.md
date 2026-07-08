@@ -33,7 +33,7 @@ B:Kf7;Qg1;
 M:B
 P:34;
 
-- **T:** Describes the position that will be read, even with voice synthesis.
+- **T:** Describes the position,, with possible technical advise , that will be read, even with voice synthesis.
 - **V:** Describes from which point of view the program should load the position (White or Black, using W; or B;).
 - **W:** Describes the list of white pieces, separated by semicolons, using english algebraic notation (e.g., Bg5;Ke2;).
 - **B:** Describes the list of black pieces, as above.
