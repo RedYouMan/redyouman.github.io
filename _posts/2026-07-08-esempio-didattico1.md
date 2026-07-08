@@ -34,8 +34,8 @@ Materiale pari, simmetria totale. Tratto al Bianco. All’apparenza nulla da far
 Suggerimento furbo: prima di copiare e incollare in un file, leggi dove sono i due re. Altro consiglio: se sei tu a compilare i campi dei pezzi, metti sempre prima i re degli altri pezzi.
 
 Nota: Posizione didattica ispirata al finale Carlsen-Caruana, Mondiale 2018.
-Se scrivi la ROTN in un file markdown md usa gli asterischi (corsivo) per far comprendere a NVDA i separatori. Se usi, invece, ebook o html non servono gli asterischi.
-Se copi la rotn di sotto con gli asterischi, probabilmente tutta la ROTN è su una sola riga: incolla essa in un file con nome ad esempio finale.txt. Togli gli asterischi, fai in modo che ogni descrittore è solo su una riga propriacol suo valore, e metti il file nella cartella problemi di Scacchi-it.  
+Se scrivi la ROTN in un file markdown md usa gli asterischi (** avanti e dietro ogni campo spaziando la coppia di 1 dal testo**), questo per far comprendere a NVDA i separatori. Se usi, invece, ebook o html non servono gli asterischi e la ROTN è scrivibile su 6 righe in modo chiaro (metodo consigliato).
+Se copi la rotn di sotto con gli asterischi, probabilmente tutta la ROTN è su una sola riga: incolla essa in un file con nome ad esempio finale.txt. Togli gli asterischi, fai in modo che ogni descrittore è su una riga propria col suo valore, e metti il file nella cartella problemi di Scacchi-it.  
 Poi fai Ctrl+P, Alt-Tab sulla console e scrivi il nome del file senza estensione.
 
 ** T:metti il nero in Zugzwang **
