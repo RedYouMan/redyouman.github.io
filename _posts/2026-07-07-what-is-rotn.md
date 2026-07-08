@@ -23,6 +23,8 @@ The game becomes a moment of social integration and equal opportunity between si
 
 The specification declares a simple and intuitive method to easily overcome old problems, especially editorial ones, that chess has always carried with it: an image is not accessible to a blind person on the Internet or in an ebook, and FEN is not very intuitive for humans—it is more suited to computers and dates back to the last century. Therefore, ROTN vs. FEN is a cultural issue to address: it takes time to realize that we need to question the obvious and the methods used so far.
 
+The goal of ROTN is to have a speaking position with voice synthesis and containing descriptions and advice, including technical ones
+
 ROTN is a text file consisting of descriptors followed by values. All descriptor fields are mandatory and have a fixed position and order.
 
 **Example of ROTN:**
