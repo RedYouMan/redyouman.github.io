@@ -38,12 +38,14 @@ Se scrivi la ROTN in un file markdown md usa gli asterischi (corsivo) per far co
 Se copi la rotn di sotto con gli asterischi, probabilmente tutta la ROTN è su una sola riga: incolla essa in un file con nome ad esempio finale.txt. Togli gli asterischi, fai in modo che ogni descrittore è solo su una riga propriacol suo valore, e metti il file nella cartella problemi di Scacchi-it.  
 Poi fai Ctrl+P, Alt-Tab sulla console e scrivi il nome del file senza estensione.
 
-*T:metti il nero in Zugzwang
-*V:B\*
-_B:Re1;Ta1;Th1;Pa2;Pb2;Pc2;Pf2;Pg2;Ph2_
-*N:Re8;Ta8;Th8;Pa7;Pb7;Pc7;Pf7;Pg7;Ph7\*
-*M:B*
-\*P:0*
+** T:metti il nero in Zugzwang **
+** V:B **
+** B:Re1;Ta1;Th1;Pa2;Pb2;Pc2;Pf2;Pg2;Ph2**
+
+** N:Re8;Ta8;Th8;Pa7;Pb7;Pc7;Pf7;Pg7;Ph7 **
+
+** M:B **
+** P:0 **
 
 ## L’analisi passo-passo
 
