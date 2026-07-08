@@ -1,4 +1,3 @@
-
 ---
 title: "tuttoscacchi Downloads:Giochi gratuiti per non vedenti e per vedenti"
 description: "blog di Rosario Turco con downloads di giochi gratuiti per non vedenti"
@@ -42,8 +41,6 @@ Questa pagina è dedicata a tutti gli appassionati di scacchi. Nel seguito trove
 [scarica corso tastiera e nvda](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repoaux/corso.7z)
 
 ## Articoli
-
-[Come vincere una patta](https://redyouman.github.io/blog/2026/07/08/esempio-didattico1.html)
 
 [cosa è un chess engine](https://redyouman.github.io/blog/2026/05/12/chessengine.html)
 
