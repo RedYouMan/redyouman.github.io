@@ -42,6 +42,8 @@ Questa pagina è dedicata a tutti gli appassionati di scacchi. Nel seguito trove
 
 ## Articoli
 
+[Come vincere da una patta](https://redyouman.github.io/blog/2026/07/08/vincere-dauna-patta.html)
+
 [cosa è un chess engine](https://redyouman.github.io/blog/2026/05/12/chessengine.html)
 
 [Cosa è Scacchi-it](https://redyouman.github.io/blog/2026/05/12/motoregrafico.html)
