@@ -1,9 +1,17 @@
 ---
-title: "ROTN in azione: come vincere un finale apparentemente patto in 3 mosse"
-author: Rosario
-date: 2026-04-29
-tags: [ROTN, Scacchi, Finali, Scacchi-it, Accessibilità]
-summary: "Un finale simmetrico ispirato a Carlsen-Caruana 2018. Con la ROTN vediamo come 3 mosse bastano per vincere una posizione che sembra patta."
+title: "la ROTN in azione - esempio didattico 1"
+description: "blog di Rosario Turco con downloads di giochi gratuiti per non vedenti"
+keywords:
+  [
+    "downloads",
+    "scacchi",
+    "gratuiti",
+    "gratis",
+    "non vedenti",
+    "ciechi",
+    "ipovedenti",
+  ]
+categories: Blog
 ---
 
 # come vincere un finale apparentemente patto in 3 mosse
