@@ -35,7 +35,7 @@ Suggerimento furbo: prima di copiare e incollare in un file, leggi dove sono i d
 
 Copia le 6 righe qui sotto in un file di testo e salvalo come finale.txt
 
-T:prova a porre il nero in Zugzwang
+T:metti il nero in Zugzwang
 V:B;
 B:Re1;Ta1;Th1;Pa2;Pb2;Pc2;Pf2;Pg2;Ph2;
 N:Re8;Ta8;Th8;Pa7;Pb7;Pc7;Pf7;Pg7;Ph7;
