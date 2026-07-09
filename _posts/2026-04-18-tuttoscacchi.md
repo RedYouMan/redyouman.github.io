@@ -42,6 +42,8 @@ Questa pagina è dedicata a tutti gli appassionati di scacchi. Nel seguito trove
 
 ## Articoli
 
+[How to write articles with rotn ](https://redyouman.github.io/blog/2026/07/09/editorial-example-rotn.html)
+
 [esempio rotn in un articolo](https://redyouman.github.io/blog/2026/07/09/esempio-editoriale-rotn.html)
 
 [cosa è un chess engine](https://redyouman.github.io/blog/2026/05/12/chessengine.html)
