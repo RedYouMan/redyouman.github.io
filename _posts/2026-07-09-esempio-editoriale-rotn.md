@@ -1,7 +1,16 @@
 ---
-title: "Come inserire ROTN nei tuoi articoli, blog e ebook"
-description: "Guida per editori: inserire posizioni scacchistiche accessibili in Markdown, HTML ed ePub usando file separati e template da compilare."
-author: "Rosario Turco"
+title: "esempio editoriale per come inserire la rotn in un articolo"
+description: "blog di Rosario Turco con downloads di giochi gratuiti per non vedenti"
+keywords:
+  [
+    "Articoli",
+    "scacchi",
+    "gratuiti",
+    "gratis",
+    "non vedenti",
+    "ciechi",
+    "ipovedenti",
+  ]
 categories: Blog
 ---
 
