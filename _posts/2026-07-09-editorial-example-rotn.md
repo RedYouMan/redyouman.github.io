@@ -47,6 +47,7 @@ Example name: `ch3-pos2.rotn.txt`
 
 _Step 2: Insert it into the eBook_  
 Attach the file as a resource in the ePub.
+Note: The following example link will not open but it is to help you understand how to proceed
 
 _Step 3: Link it in the text_
 Let's analyze the position.
