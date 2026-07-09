@@ -37,6 +37,7 @@ Salvalo subito con un nome descrittivo. Esempi:
 Importante: non lasciare mai il nome `template.html`
 
 Modifica i dati del file.
+Nota: Il link dell'esempio sotto su questa pagina non verrà aperto, ma serviva a farvi comprendere come sfruttarlo: provate sul vostro sito.
 
 _Passo 3: Carica il file nella cartella del sito e Linka nel Markdown_  
 Carica il file nella cartella del tuo sito.  
