@@ -3,8 +3,6 @@ title: "Come inserire ROTN nei tuoi articoli, blog e ebook"
 description: "Guida per editori: inserire posizioni scacchistiche accessibili in Markdown, HTML ed ePub usando file separati e template da compilare."
 author: "Rosario Turco"
 categories: Blog
-tags: [scacchi, accessibilità, ROTN, editoria, NVDA]
-date: 2026-07-04
 ---
 
 # Come inserire ROTN nei tuoi contenuti
