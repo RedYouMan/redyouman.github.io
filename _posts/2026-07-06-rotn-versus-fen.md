@@ -95,7 +95,7 @@ Come si nota la fen ha anche altre due barriere invisibili all'accessibilità:
 - la non immediata comprensione: occorre farsi dei calcoli per capire la posizione dei pezzi
 
 Inoltre per un umano non serve sapere la situazione degli arrocchi, lo vede da se, e anche il computer è in grado di analizzarlo e settarlo, nè gli serve la segnalazione delle 50 mosse o dell'enpassant.
-Scacchi-it, in particolare, sfrutta la specifica della ROTN che stabilisce , che si può mettere nei casi ambigui di arrocco non valido, nella lista dei pezzi di B: o di N: il valore NS (No Short Castle) o NL (No Long Castle) o entrambi separati da ';'.
+
 
 Scacchi-it , ideato per vedenti e non vedenti, nelle sospensioni si segna l'enpassant per comunicare la possibilità di esso alla ripresa, ma solo se esiste tale possibilità, diversamente dallo standard fen.
 
