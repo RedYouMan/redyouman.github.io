@@ -334,7 +334,8 @@ In particolare P: va diminuito di 1 se a giocare per prima è il Bianco (M:B) op
 
 I descrittori sono obbligatori e con ordine fisso, ognuno con una propria riga. Non è obbligatorio il ';' alla fine di ogni riga, ma è obbligatorio solo nella lista di posizioni algebriche dei pezzi.
 
-Per i casi ambigui di arrocco, come il caso che torre o re erano stati mossi e poi ritornati nella posizione di origine, si segnala l'arrocco non valido in B: o N: nella lista di pezzi: il valore NS (No Short Castle) e NL (No Long Castle). I due valori possono essere presenti uno solo, o entrambi separati da ';'. 
+Per i casi ambigui di arrocco, come ad esempio di torre o re mossi in precedenza e poi ritornati nella posizione di origine o altre situazioni ambigue, si segnala l'arrocco non valido in B: o N: nella lista di pezzi: il valore NS (No Short Castle) e NL (No Long Castle). I due valori possono essere presenti uno solo, o entrambi separati da ';'. 
+
 Il programma Scacchi-it usa solo le lettere dei pezzi in italiano, ma la rot notation può essere generalizzata e usare anche le lettere inglesi dei pezzi. e al posto del descrittore italiano B: il corrispondente inglese W: e analogamente per il descrittore italiano N: sostituito con quello inglese B:.
 Dopo la lettera iniziale vi è la casella che indica dove va posizionato il pezzo.
 
