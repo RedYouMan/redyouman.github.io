@@ -21,11 +21,11 @@ by Rosario Turco
 First and foremost, it is a digital accessibility specification for those who develop chess software compatible with screen readers (such as NVDA and similar), but it also allows sighted people to use the software, in line with a concept dear to me of integrating the two worlds: blind and sighted (NV&V).
 The game becomes a moment of social integration and equal opportunity between sighted and blind individuals.
 
-The specification declares a simple and intuitive method to easily overcome old problems, especially editorial ones, that chess has always carried with it: an image is not accessible to a blind person on the Internet or in an ebook, and FEN is not very intuitive for humans—it is more suited to computers and dates back to the last century. Therefore, ROTN vs. FEN is a cultural issue to address: it takes time to realize that we need to question the obvious and the methods used so far.
+The specification declares a simple and intuitive method to easily overcome old problems, especially editorial ones, that chess has always carried with it: an image is not accessible to a blind person on the Internet or in an ebook, and FEN is not very intuitive for humans—it is more suited to computers and dates back to the last century.
 
 The goal of ROTN is to have a speaking position with voice synthesis and containing descriptions and advice, including technical ones
 
-However ROTN is an additional opportunity to the fen.
+Anyway, the ROTN is an extra opportunity to take advantage of new technological ways.
 
 ROTN is a text file consisting of descriptors followed by values. All descriptor fields are mandatory and have a fixed position and order.
 
