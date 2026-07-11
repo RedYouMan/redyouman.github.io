@@ -22,9 +22,7 @@ ROTN è la Rot Notation, un formato testuale ASCII per descrivere posizioni scac
 
 Per non interrompere la lettura, la posizione ROTN non va messa nel testo. Va messa in un file separato e linkata.
 
-## 1. Flusso di lavoro per Blog, Siti e Markdown
-
-Usiamo un template HTML da compilare una sola volta per ogni posizione.
+un template HTML da compilare una sola volta per ogni posizione.
 
 _Passo 1: Scarica il template_  
 [Scarica template-html](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/templates/template-html.7z)  
@@ -63,16 +61,50 @@ Analizziamo la posizione.
 <a href="cap3-pos2.rotn.txt" download>Scarica file ROTN </a>
 Il lettore scarica e apre il .txt con NVDA.
 
-## 3. Nota importante su IT e EN
+## 3. Flusso di lavoro perprendere una posizione da Lichess/Chess.com e trasformarla in file.txt ROTN
 
-L'ordine dei tag è fisso: `T;V;B;N;M;P;` per l'italiano  
-L'ordine dei tag è fisso: `T;V;W;B;M;P;` per l'inglese
+Obiettivo: prendere una posizione da Lichess/Chess.com e trasformarla in file.txt ROTN per il tuo ebook.
 
-Il tag `V` decide la lingua:  
-`V:B;` o `V:N;` = Italiano. Quindi usa `B:` e `N:`  
-`V:W;` o `V:B;` = Inglese. Quindi usa `W:` e `B:`
+#### _Cosa ti serve_
 
-## 4. Contenuto del template HTML da scaricare
+1.  _fenpos.exe_: scaricalo da qui: `[link a fenpos.exe]`
+2.  _Una cartella_ sul Desktop, chiamala `ROTN_Ebook`
 
-Il codice completo è nel file che hai scaricato al punto 1.
-Aprilo con Blocco Note e compila solo la textarea.
+#### _Flusso di lavoro per l'editore_
+
+_Passo 1: Prendi la posizione dal portale_
+
+1.  Vai su Lichess.org → Analysis Board o Chess.com → Analysis
+2.  Monta la posizione del tuo diagramma
+3.  Cerca il tasto `Copia FEN`. Cliccalo.  
+    _Esempio FEN copiato:_ `r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2N2N2/PP1PPP/R1BQKB1R w KQkq - 0 1`
+
+_Passo 2: Prepara i dati_
+Ti servono 5 cose. Scrivetele su un blocco note per comodità:
+
+1.  _Titolo_: `Apertura Italiana p.23`
+2.  _Chi muove_: `Bianco` oppure `Nero`
+3.  _Num Mossa_: `1` <- di solito è sempre 1 per i diagrammi
+4.  _Num Problema_: `023` <- usa 3 cifre così stanno in ordine
+5.  _FEN_: incolla quello copiato al passo 1
+
+_Passo 3: Scarica e Lancia fenpos.exe_
+[scarica fenpos](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repolc/fenpos.exe)
+1.  Metti `fenpos.exe` dentro la cartella `ROTN_Ebook`
+2.  Nella cartella tieni premuto `Shift` + Tasto destro → `Apri finestra PowerShell qui`
+3.  Incolla questo comando, cambiando i dati tra virgolette:
+    .\fenpos.exe "Apertura Italiana p.23" "Bianco" 1 023 "r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2N2N2/PP1PPP/R1BQKB1R w KQkq - 0 1"
+4.  Premi `Invio`
+
+_Fatto._  
+Nella cartella `ROTN_Ebook` ti trovi il file: `023_Apertura_Italiana_p.23.rotn.txt`  
+Aprilo e incolla il contenuto nel tuo ebook.
+
+#### _Note importanti per l'editore_
+
+1.  _Le virgolette sono obbligatorie_ intorno a Titolo, Chi_muove e FEN
+2.  _Num Problema_: se hai 10 diagrammi usa 001, 002, 003... così sono ordinati
+3.  _Errori_: se esce "comando non trovato" significa che non sei nella cartella giusta di `fenpos.exe`
+
+Buon Lavoro!
+
