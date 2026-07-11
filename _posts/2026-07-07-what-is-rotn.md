@@ -25,6 +25,8 @@ The specification declares a simple and intuitive method to easily overcome old 
 
 The goal of ROTN is to have a speaking position with voice synthesis and containing descriptions and advice, including technical ones
 
+However ROTN is an additional opportunity to the fen.
+
 ROTN is a text file consisting of descriptors followed by values. All descriptor fields are mandatory and have a fixed position and order.
 
 **Example of ROTN:**
