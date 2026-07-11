@@ -67,7 +67,7 @@ Obiettivo: prendere una posizione da Lichess/Chess.com e trasformarla in file.tx
 
 #### _Cosa ti serve_
 
-1.  _fenpos.exe_: scaricalo da qui: `[link a fenpos.exe]`
+1.  _fenpos.exe_: scaricalo da qui: `[scarica fenpos](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repolc/fenpos.exe)
 2.  _Una cartella_ sul Desktop, chiamala `ROTN_Ebook`
 
 #### _Flusso di lavoro per l'editore_
@@ -88,8 +88,7 @@ Ti servono 5 cose. Scrivetele su un blocco note per comodità:
 4.  _Num Problema_: `023` <- usa 3 cifre così stanno in ordine
 5.  _FEN_: incolla quello copiato al passo 1
 
-_Passo 3: Scarica e Lancia fenpos.exe_
-[scarica fenpos](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repolc/fenpos.exe)
+_Passo 3: Lancia fenpos.exe_
 1.  Metti `fenpos.exe` dentro la cartella `ROTN_Ebook`
 2.  Nella cartella tieni premuto `Shift` + Tasto destro → `Apri finestra PowerShell qui`
 3.  Incolla questo comando, cambiando i dati tra virgolette:
