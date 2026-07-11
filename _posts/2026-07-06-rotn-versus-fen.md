@@ -24,6 +24,8 @@ La specifica dichiara un metodo semplice e intuitivo per superare facilmente vec
 
 L'obiettivo della ROTN è di avere una posizione parlante con sintesi vocale e contenente descrizioni e consigli anche tecnici.
 
+La rotn va considerata una opportunità aggiuntiva alla fen.
+
 La ROTN è un file testuale fatto di descrittori seguiti da valori. Tutti i campi descrittori sono obbligatori e con posizione e ordine fisso.
 
 _Esempio ROTN_
@@ -95,7 +97,6 @@ Come si nota la fen ha anche altre due barriere invisibili all'accessibilità:
 - la non immediata comprensione: occorre farsi dei calcoli per capire la posizione dei pezzi
 
 Inoltre per un umano non serve sapere la situazione degli arrocchi, lo vede da se, e anche il computer è in grado di analizzarlo e settarlo, nè gli serve la segnalazione delle 50 mosse o dell'enpassant.
-
 
 Scacchi-it , ideato per vedenti e non vedenti, nelle sospensioni si segna l'enpassant per comunicare la possibilità di esso alla ripresa, ma solo se esiste tale possibilità, diversamente dallo standard fen.
 
