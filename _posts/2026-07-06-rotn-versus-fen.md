@@ -24,9 +24,9 @@ La specifica dichiara un metodo semplice e intuitivo per superare facilmente vec
 
 L'obiettivo della ROTN è di avere una posizione parlante con sintesi vocale e contenente descrizioni e consigli anche tecnici.
 
-La rotn va considerata una opportunità aggiuntiva alla fen.
+La rotn, quindi, è una opportunità aggiuntiva alla fen.
 
-La ROTN è un file testuale fatto di descrittori seguiti da valori. Tutti i campi descrittori sono obbligatori e con posizione e ordine fisso.
+Essa è costituita da un file testuale fatto di descrittori seguiti da valori. Tutti i campi descrittori sono obbligatori e con posizione e ordine fisso.
 
 _Esempio ROTN_
 T:Matto in una mossa
