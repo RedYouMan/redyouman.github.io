@@ -341,6 +341,7 @@ Dopo la lettera iniziale vi è la casella che indica dove va posizionato il pezz
 
 
 Descrittore opzionale U: se presente indica la lista di case, non separate da ';', dei pedoni che possono fare una cattura enpassant e la casa del pedone sotto attacco es. U:c4b4; altro esempio U:d4f4e4;
+Il descrittore serve negli automatismi di sospensione di una partita e  la sua ripresa. In posizioni scritte a mano,  è responsabilità di chi scrive osservare l'ordine esatto e la sintassi del comando.
 
 Vantaggi della RoTN
 La RoTN unisce i vantaggi di una immagine con quelli della notazione algebrica più sintetica rispetto alla FEN.
