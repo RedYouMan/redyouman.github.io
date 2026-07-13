@@ -47,6 +47,9 @@ In particolare P: va diminuito di 1 se a giocare per prima è il Bianco (M:B) op
 
 Il motivo è che un applicativo di scacchi (es: Scacchi-it) incrementa la mossa quando gioca in bianco e non lo fa in nero, proprio perchè la mossa è costituita da due semimosse: quella del bianco e poi quella del nero.
 
+Descrittore opzionale U: se presente indica la lista di case, non separate da ';', dei pedoni che possono fare una cattura enpassant e la casa del pedone sotto attacco es. U:c4b4; altro esempio U:d4f4e4;
+Il descrittore serve negli automatismi di sospensione di una partita e la sua ripresa. In posizioni scritte a mano, è responsabilità di chi scrive osservare l'ordine esatto e la sintassi del comando.
+
 # **Vantaggi della ROTN**
 
 La ROTN unisce i vantaggi di una immagine con quelli della notazione algebrica più sintetica rispetto alla FEN.
