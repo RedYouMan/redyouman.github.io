@@ -24,6 +24,8 @@ La specifica dichiara un metodo semplice e intuitivo per superare facilmente vec
 
 L'obiettivo della ROTN è di avere una posizione parlante con sintesi vocale e contenente descrizioni e consigli anche tecnici.
 
+Oggi uno screen reader leggendo la fen vi spara un insieme di caratteri velocemente, senza darvi il tempo di "vedere" attraverso il canale uditivo.
+
 La rotn, in realtà , è una opportunità aggiuntiva alla fen, per sfruttare altri canali tecnologici.
 
 Essa è costituita da un file testuale fatto di descrittori seguiti da valori. Tutti i campi descrittori sono obbligatori e con posizione e ordine fisso.
@@ -59,6 +61,12 @@ Un applicativo che rispetta la ROTN può attraverso essa: sospendere una partita
 La sinteticità della notazione algebrica rende più rapidamente intuibile la posizione.
 
 Scacchi-it è stato il software creato da me e centrato sulla ROTN, per un costo di 8 mesi/uomo per ottenere circa 35 funzionalità tra offline e online.
+
+[scarica Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/scacchiGr.7z)
+[Manuale Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/tutorials/scacchiGr.txt)
+
+La definizione della Specifica ufficiale ROTN completa, ISO 14977 è disponibile a:
+https://redyouman.github.io/blog/2026/07/02/Spec-ROTN.html
 
 Per comprendere meglio i limiti di una fen esaminiamo come è fatta.
 
@@ -114,6 +122,3 @@ Per cui la giusta definizione della rot notation è che essa estende la notazion
 # **Specifica formalizzata per non vedenti**
 
 Come sempre accade, chi ha delle necessità, realizza una specifica e un applicativo di scacchi (Scacchi-it) che ne dimostra i vantaggi in modo pratico.Un applicativo innovativo, per giocare offline e online, con stockfish, studiare le aperture con un Openings Trainer, poter fare lezioni con undo delle mosse e con una facile reinizializzazione della scacchiera.
-
-La definizione della Specifica ufficiale ROTN completa, ISO 14977 è disponibile a:
-https://redyouman.github.io/blog/2026/07/02/Spec-ROTN.html

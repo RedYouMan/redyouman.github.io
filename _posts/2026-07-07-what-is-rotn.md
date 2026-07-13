@@ -25,6 +25,8 @@ The specification declares a simple and intuitive method to easily overcome old 
 
 The goal of ROTN is to have a speaking position with voice synthesis and containing descriptions and advice, including technical ones
 
+"Today, when a screen reader reads a fen text, it fires a stream of characters at you so fast that it doesn't give you time to 'see' it through your auditory channel."
+
 Anyway, the ROTN is an extra opportunity to take advantage of new technological ways.
 
 ROTN is a text file consisting of descriptors followed by values. All descriptor fields are mandatory and have a fixed position and order.
@@ -56,6 +58,13 @@ Specifically, for Scacchi-it, take advantage of the ROTN specification. In ambig
 
 _Scacchi-it_, designed for both sighted and blind users, in game suspensions, marks en passant to communicate its possibility upon resumption, but only if such a possibility exists, unlike the FEN standard.
 
+[Download Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/scacchiGr.7z)
+
+[italian tutorial Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/tutorials/scacchiGr.txt)
+
+The complete official ROTN specification, ISO 14977, is available at:
+https://redyouman.github.io/blog/2026/07/02/Spec-ROTN.html
+
 In an ebook for the blind, if there are images, they are not accessible to the blind; therefore, generally, the position is described using algebraic notation, which has the advantage of quickly conveying the position of the pieces.
 
 ROTN takes a further step by enabling listening and immediate use on a chessboard, not just that. If an ebook displays the ROTN, it can be quickly copied and pasted into a file and loaded into _Scacchi-it_. This way, one can listen to the text with voice synthesis, navigate the chessboard, explore the position, and better appreciate what is described in the ebook.
@@ -66,6 +75,3 @@ Therefore, the correct definition of ROTN notation is that it extends algebraic 
 # **Formalized Specification for the Blind**
 
 As always happens, those with specific needs create a specification and a chess application (_Scacchi-it_) that practically demonstrates its advantages. An innovative application to play offline and online, with Stockfish, study openings with an Openings Trainer, give lessons with move undo, and easily reset the chessboard.
-
-The complete official ROTN specification, ISO 14977, is available at:
-https://redyouman.github.io/blog/2026/07/02/Spec-ROTN.html
