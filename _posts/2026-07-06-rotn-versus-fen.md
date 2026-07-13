@@ -62,6 +62,7 @@ La sinteticità della notazione algebrica rende più rapidamente intuibile la po
 
 Scacchi-it è stato il software creato da me e centrato sulla ROTN, per un costo di 8 mesi/uomo per ottenere circa 35 funzionalità tra offline e online.
 
+Se siete interessati a scaricarlo, utilizzare i link:
 [scarica Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/scacchiGr.7z)
 [Manuale Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/tutorials/scacchiGr.txt)
 
