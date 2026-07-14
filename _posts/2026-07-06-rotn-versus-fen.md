@@ -61,14 +61,6 @@ Un applicativo che rispetta la ROTN può attraverso essa: sospendere una partita
 La sinteticità della notazione algebrica rende più rapidamente intuibile la posizione.
 
 Scacchi-it è stato il software creato da me e centrato sulla ROTN, per un costo di 8 mesi/uomo per ottenere circa 35 funzionalità tra offline e online.
-
-Se siete interessati a scaricarlo, utilizzare i link:
-[scarica Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/scacchiGr.7z)
-[Manuale Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/tutorials/scacchiGr.txt)
-
-La definizione della Specifica ufficiale ROTN completa, ISO 14977 è disponibile a:
-https://redyouman.github.io/blog/2026/07/02/Spec-ROTN.html
-
 Per comprendere meglio i limiti di una fen esaminiamo come è fatta.
 
 fu ideata da Steven J. Edwards estendendo il Forsyth's system ideato per l'uso del calcolatore. La sua forma,inizialmente, era dovuta al tentativo di risparmiare la quantità di memoria nel registrare delle informazioni.
@@ -123,3 +115,10 @@ Per cui la giusta definizione della rot notation è che essa estende la notazion
 # **Specifica formalizzata per non vedenti**
 
 Come sempre accade, chi ha delle necessità, realizza una specifica e un applicativo di scacchi (Scacchi-it) che ne dimostra i vantaggi in modo pratico.Un applicativo innovativo, per giocare offline e online, con stockfish, studiare le aperture con un Openings Trainer, poter fare lezioni con undo delle mosse e con una facile reinizializzazione della scacchiera.
+
+Se siete interessati a scaricare Scacchi-it, il manuale e la specifica, utilizzare i link:
+[scarica Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/scacchiGr.7z)
+[Manuale Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/tutorials/scacchiGr.txt)
+
+La definizione della Specifica ufficiale ROTN completa, ISO 14977 è disponibile a:
+https://redyouman.github.io/blog/2026/07/02/Spec-ROTN.html

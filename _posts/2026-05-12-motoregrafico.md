@@ -37,13 +37,6 @@ Sostanzialmente Scacchi-it è un motore grafico che si interfaccia con il chess 
 - parte vocaleper i non vedenti, segnalando tutti gli aiuti necessari
 - parte verbosa su console, utile per vedenti e non vedenti, per comprendere i controlli di gioco del motore grafico edeventuali suggerimenti
 
-Se sei interessato il motore grafico si può ottenere gratuitamente da questi link:
-[scarica Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/scacchiGr.7z)
-
-[Manuale Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/tutorials/scacchiGr.txt)
-
-# _Vediamo Scacchi-it in breve_
-
 Il vantaggio di Scacchi-it è di interfacciarsi con stockfish rendendo semplici e trasparenti tutte le problematiche di comandi uci, posizione fen, pgn,configurazioni e altro ancora che richiederebbe una maggiore conoscenza informatica che esula dal gioco stesso.
 
 Scacchi-it permette di studiare aperture, fare analisi con o senza stockfish, giocare con stockfish o amici e anche fare lezioni di scacchi.
@@ -66,4 +59,6 @@ La community attorno a tutti i giochi , contribuisce e apprezza molto il lavoro 
 La definizione della Specifica ufficiale ROTN completa, ISO 14977 è disponibile a:
 https://redyouman.github.io/blog/2026/07/02/Spec-ROTN.html
 
-Alla prossima
+Se siete interessati a scaricare Scacchi-it e il manuale, utilizzare i link:
+[scarica Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/scacchiGr.7z)
+[Manuale Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/tutorials/scacchiGr.txt)
