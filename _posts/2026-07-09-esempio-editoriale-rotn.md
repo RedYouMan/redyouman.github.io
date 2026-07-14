@@ -83,19 +83,19 @@ _Passo 2: Prepara i dati_
 Ti servono 3 cose. Scrivetele su un blocco note per comodità:
 
 1.  _Titolo_: `Apertura Italiana p.23`
-2.  \_Num posizione o problema `023` <- usa 3 cifre così stanno in ordine
+2.  \_Num posizione o problema `21`
 3.  _FEN_: incolla quello copiato al passo 1
 
 _Passo 3: Lancia fenpos.exe_
 
 1.  Metti `fenpos.exe` dentro la cartella `ROTN_Ebook`
 2.  Nella cartella tieni premuto `Shift` + Tasto destro → `Apri finestra PowerShell qui`
-3.  Incolla questo comando, cambiando i dati tra virgolette:
-    .\fenpos.exe "Apertura Italiana p.23" "023 "r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2N2N2/PP1PPP/R1BQKB1R w KQkq - 0 1"
+3.  Incolla questo comando, cambiando i dati tra virgolette e il numero:
+    .\fenpos.exe "Apertura Italiana p.23" 21 "r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2N2N2/PP1PPP/R1BQKB1R w KQkq - 0 1"
 4.  Premi `Invio`
 
 _Fatto._  
-Nella cartella `ROTN_Ebook` ti trovi il file: `pos_023.txt`  
+Nella cartella `ROTN_Ebook` ti trovi il file: `pos_21.txt`  
 Aprilo e incolla il contenuto nel tuo ebook.
 
 #### _Note importanti per l'editore_
