@@ -51,6 +51,10 @@ In particular, **P:** should be decreased by 1 if White is the first to move (M:
 The reason is that a chess application (e.g., _Scacchi-it_) increments the move when playing as White and does not do so when playing as Black, precisely because a move consists of two half-moves: White's and then Black's.
 
 "Optional descriptor U: if present, it indicates the list of squares (not separated by ';') of the pawns that can perform an en passant capture and the square of the pawn under attack, e.g., U:c4b4; another example U:d4f4e4; The descriptor is used for the automated suspension and resumption of a match. In handwritten positions, it is the responsibility of the writer to observe the exact order and syntax of the command."
+Optional Z descriptor: indicates the number of half-moves present in the FEN (field 5).
+• Software developer-reserved descriptors: F, K, L, C, E.
+• The text-to-speech feature in the application must read: T, M, P, U, Z.
+• Furthermore, the application rotates the chessboard according to V.
 
 FEN has additional fields for castling, en passant, and the 50-move rule, which are not useful for humans. A human does not need to know the castling status—they can see it for themselves—and the computer is also able to analyze and set it. There is no need to signal the 50-move rule or en passant.
 

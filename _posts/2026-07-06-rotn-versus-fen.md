@@ -52,6 +52,12 @@ Il motivo è che un applicativo di scacchi (es: Scacchi-it) incrementa la mossa 
 Descrittore opzionale U: se presente indica la lista di case, non separate da ';', dei pedoni che possono fare una cattura enpassant e la casa del pedone sotto attacco es. U:c4b4; altro esempio U:d4f4e4;
 Il descrittore serve negli automatismi di sospensione di una partita e la sua ripresa. In posizioni scritte a mano, è responsabilità di chi scrive osservare l'ordine esatto e la sintassi del comando.
 
+Descrittore opzionale Z: indica il numero di semimosse presenti nella fen (campo 5)
+
+Descrittori riservati ai produttori software:F, K, L, C, E.
+La sintesi vocale nell'applicativo deve leggere: T, M, P, U, Z.
+Inoltre l'applicativo ruota la scacchiera secondo V.
+
 # **Vantaggi della ROTN**
 
 La ROTN unisce i vantaggi di una immagine con quelli della notazione algebrica più sintetica rispetto alla FEN.
