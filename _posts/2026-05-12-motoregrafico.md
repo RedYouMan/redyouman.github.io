@@ -29,13 +29,18 @@ Per la notazione algebrica è anche risolta la possibilità che due pezzi simili
 
 Inoltre la modalità open data si evidenzia anche con la "portable game notation" (pgn) che in Scacchi-it è sfruttata dalla funzionalità Openings Trainer, che permette di addestrarsi sulle aperture desiderate e scaricate da un sito come PGN mentor.
 
-Sostanzialmente Scacchi-it è un motore grafico che si interfaccia con il chess engine stockfish ed è costituito dalle seguenti parti:
+Scacchi-it è un progetto italiano, con un motore grafico che si interfaccia con il chess engine stockfish ed è costituito dalle seguenti parti:
 
 - parte grafica (scacchiera e pezzi)
 - parte caricamento rot notation
 - parte di controllo delle mosse valide
+- parte gestione stockfish
 - parte vocaleper i non vedenti, segnalando tutti gli aiuti necessari
 - parte verbosa su console, utile per vedenti e non vedenti, per comprendere i controlli di gioco del motore grafico edeventuali suggerimenti
+- parte Openings Trainer con file pgn
+- parte server per gioco in rete o in vpn
+- parte utility fenpos
+- parte orologio di gioco
 
 Il vantaggio di Scacchi-it è di interfacciarsi con stockfish rendendo semplici e trasparenti tutte le problematiche di comandi uci, posizione fen, pgn,configurazioni e altro ancora che richiederebbe una maggiore conoscenza informatica che esula dal gioco stesso.
 
