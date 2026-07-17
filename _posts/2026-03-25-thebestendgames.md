@@ -37,7 +37,7 @@ potreste generarvi il file del problema per risolverlo col nostro applicativo sc
 
 Se digitate fenpos seguito da return otterrrete lo usage per capire come dare i campi in input a fenpos.
 
-Col programma scacchi potreste sia risolvere il finale da soli (CntrlP), sia farlo risolvere dal computer (CntrlJ).
+Col programma Scacchi-it potreste sia risolvere il finale da soli (CntrlP), sia farlo risolvere dal computer (CntrlJ).
 
 Una avvertenza doverosa: se sottola directory problemi avete già il problema di default (problema1.txt) o altri problemi che avete aggiunto, dato che fenpos vi genera file col nome prob<numero>.txt dovreste eventualmente rinominare il file che vi ha generato .
 Ad esempio se fenpos vi genera nella directory il file prob3.txt e sotto la directory problemi ne esiste uno con lo stesso nome, potrestte rinominarlo finale<numero>.txt prima di metterlo sotto la directory.
