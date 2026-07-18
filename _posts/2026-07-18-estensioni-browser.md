@@ -56,6 +56,8 @@ Puoi scaricare l'estensione e il manuale di installazione ai link in fondo alla 
 ROTN + FEN to ROTN Voice dimostrano che l'accessibilità negli scacchi non richiede di reinventare tutto.  
 Basta trasformare i dati in un formato che parli la lingua dell'utente.
 
+Gli attenti osservatori avranno notato che viene detto "Testo non disponibile" e "latoscacchiera ...". Il testo in una fen non è disponibile e il punto di vista da cui giocare non è suggerito. Due ulteriori difetti della FEN, rispetto alle immagini non utilizzabili dai non vedenti e rispetto allaROTN.
+Tuttavia dopo aver fatto CtrlC su un file Notepad, si può inserire del testo nel descrittore T:, ad esempio il tema della posizione con suggerimenti tecnici, magari prelevati dal portale o dal documento visionato. Analoga cosa per il descrittore V:.
 Spero che tale lavoro aiuti la comunità scacchistica, sia dei non vedenti che dei vedenti.
 
 [estensione fen-to-rotn-firefox](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/estensioni/fen-to-rotn-firefox.7z)
