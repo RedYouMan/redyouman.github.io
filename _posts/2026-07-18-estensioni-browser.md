@@ -69,3 +69,9 @@ Spero che tale lavoro aiuti la comunità scacchistica, sia dei non vedenti che d
 _Nota per Chrome: l'estensione va caricata decompressa tramite `chrome://extensions` con "Modalità sviluppatore" attiva._
 
 [ROTN EBNF/ISO 14977 ](https://redyouman.github.io/blog/2026/07/02/Spec-ROTN.html)
+
+[scarica Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/scacchiGr.7z)
+
+[scarica fenpos](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repolc/fenpos.exe)
+
+[tutorial Scacchi-it](https://github.com/RedYouMan/redyouman
