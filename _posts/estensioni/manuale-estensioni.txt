@@ -1,58 +1,63 @@
 
-### *MANUALE FEN TO ROTN VOICE v1.0*
+### _MANUALE FEN TO ROTN VOICE v1.0_
 
-*1. COMPATIBILITÀ E VERSIONI*  
+_1. COMPATIBILITÀ E VERSIONI_  
 Questa estensione funziona con:  
 *Browser supportati*: Mozilla Firefox versione 109 o successiva. Google Chrome versione 88 o successiva. Funziona anche su browser basati su Chromium come Edge e Brave.  
 *Lettore schermo*: Testato con NVDA. Funziona anche con JAWS.  
 *Sistema operativo*: Windows 10, Windows 11, Linux, MacOS  
-*Versione estensione*: 1.0.0
-*Autore: Rosario Turco
+*Versione estensione*: 1.0.0  
+*Autore*: Rosario Turco
 
-*2. A COSA SERVE*  
+_2. A COSA SERVE_  
 Questa estensione converte una posizione FEN in notazione ROTN.  
 Poi ti legge un riassunto con voce italiana e ti copia negli appunti la stringa pronta per incollarla.
 
 *Tasto rapido*: `Alt + Maiusc + R`  
-*Comando vocale*: `S + Invio` per copiare
+*Comando suggerito da vocale*: `S + Invio` per copiare
 
-*3. INSTALLAZIONE FIREFOX*  
-Passo 1: Apri Firefox  
-Passo 2: Vai su `about:addons`  
-Passo 3: Premi `Ctrl + O` e scegli `Installa componente aggiuntivo da file`  
-Passo 4: Seleziona il file `fen-to-rotn-firefox.7z`  
-Passo 5: Conferma l'installazione  
-Nota: Firefox installerà direttamente il file `.7z`. Non serve estrarre.
+_3. INSTALLAZIONE FIREFOX_  
+Passo 1: Scarica il file `fen-to-rotn-firefox.7z`  
+Passo 2: Estrai il file con 7zip o WinRAR. Otterrai `fen-to-rotn-firefox.xpi`  
+Passo 3: Apri Firefox  
+Passo 4: Vai su `about:addons`  
+Passo 5: Premi `Ctrl + O` e scegli `Installa componente aggiuntivo da file`  
+Passo 6: Seleziona il file `fen-to-rotn-firefox.xpi` appena estratto  
+Passo 7: Conferma l'installazione
 
-*4. INSTALLAZIONE CHROME / EDGE / BRAVE*  
-Passo 1: Apri Chrome  
-Passo 2: Vai su `chrome://extensions`  
-Passo 3: Attiva `Modalità sviluppatore` in alto a destra  
-Passo 4: Estrai il file `fen-to-rotn-chrome.7z` in una cartella  
-Passo 5: Premi `Carica estensione decompressa` e seleziona la cartella `fen-to-rotn-chrome`  
-Nota: Su Chrome l'estensione va caricata decompressa. Non eliminarla dalla cartella dopo.
+_4. INSTALLAZIONE CHROME / EDGE / BRAVE_  
+Passo 1: Scarica il file `fen-to-rotn-chrome.7z`  
+Passo 2: Estrai il file con 7zip o WinRAR in una cartella sul desktop  
+Passo 3: Apri Chrome  
+Passo 4: Vai su `chrome://extensions`  
+Passo 5: Attiva `Modalità sviluppatore` in alto a destra  
+Passo 6: Premi `Carica estensione decompressa` e seleziona la cartella `fen-to-rotn-chrome`  
+Passo 7: Lascia la cartella dov'è. Non eliminarla.
 
-*5. COME SI USA*  
+_5. COME SI USA_  
 Passo 1: Vai su una pagina con un FEN. Es: Lichess, Chess.com  
 Passo 2: Seleziona il testo del FEN con il mouse o tastiera  
 Passo 3: Premi `Alt + Maiusc + R`  
 Passo 4: L'estensione legge: `Convertito. Pezzi bianchi: Re E1, Donna D1... Pezzi neri: ...`  
 Passo 5: Per copiare il ROTN negli appunti premi `S` e poi `Invio`
 
-*6. COSA FA IL ROTN*  
+_6. COSA FA IL ROTN_  
 Converte il FEN in elenco di pezzi leggibile.  
-Esempio: `rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1`  
+Esempio: `rnbqkbnr/pppp/8/8/8/8/PP/RNBQKBNR w KQkq - 0 1`  
 diventa: `Pezzi bianchi: Re E1, Donna D1, Torri A1 H1... Pezzi neri: Re E8...`
 
-*7. PROBLEMI COMUNI*  
-Problema: Non parla  
-Soluzione: Controlla che il volume sia alto e che NVDA sia attivo
+_7. PROBLEMI COMUNI_  
+*Problema*: Non parla  
+*Soluzione*: Controlla che il volume sia alto e che NVDA sia attivo
 
-Problema: Non copia  
-Soluzione: Su Chrome vai su `chrome://extensions/shortcuts` e riassegna il tasto
+*Problema*: Non copia  
+*Soluzione*: Su Chrome vai su `chrome://extensions/shortcuts` e riassegna il tasto
 
-Problema: Dice "nessun FEN selezionato"  
-Soluzione: Seleziona prima il FEN con il mouse o `Maiusc + Frecce`
+*Problema*: Dice "nessun FEN selezionato"  
+*Soluzione*: Seleziona prima il FEN con il mouse o `Maiusc + Frecce`
 
-Problema: Chrome dice "manifest non valido"  
-Soluzione: Stai usando la cartella sbagliata. Usa `fen-to-rotn-chrome` per Chrome
+*Problema*: Chrome dice "manifest non valido"  
+*Soluzione*: Hai selezionato la cartella sbagliata. Seleziona `fen-to-rotn-chrome` e non il .7z
+
+*Problema*: Firefox non trova il file .xpi  
+*Soluzione*: Devi prima estrarre il .7z. Dentro c'è il file .xpi da installare
