@@ -59,7 +59,9 @@ Basta trasformare i dati in un formato che parli la lingua dell'utente.
 Spero che tale lavoro aiuti la comunità scacchistica, sia dei non vedenti che dei vedenti.
 
 [estensione fen-to-rotn-firefox](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/estensioni/fen-to-rotn-firefox.7z)
+
 [estensione fen-to-rotn-chrome](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/estensioni/fen-to-rotn-chrome.7z)
+
 [manuale estensioni](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/estensioni/manuale-estensioni.txt)
 
 _Nota per Chrome: l'estensione va caricata decompressa tramite `chrome://extensions` con "Modalità sviluppatore" attiva._
