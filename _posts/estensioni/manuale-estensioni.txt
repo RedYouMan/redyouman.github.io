@@ -1,0 +1,58 @@
+
+### *MANUALE FEN TO ROTN VOICE v1.0*
+
+*1. COMPATIBILITÀ E VERSIONI*  
+Questa estensione funziona con:  
+*Browser supportati*: Mozilla Firefox versione 109 o successiva. Google Chrome versione 88 o successiva. Funziona anche su browser basati su Chromium come Edge e Brave.  
+*Lettore schermo*: Testato con NVDA. Funziona anche con JAWS.  
+*Sistema operativo*: Windows 10, Windows 11, Linux, MacOS  
+*Versione estensione*: 1.0.0
+*Autore: Rosario Turco
+
+*2. A COSA SERVE*  
+Questa estensione converte una posizione FEN in notazione ROTN.  
+Poi ti legge un riassunto con voce italiana e ti copia negli appunti la stringa pronta per incollarla.
+
+*Tasto rapido*: `Alt + Maiusc + R`  
+*Comando vocale*: `S + Invio` per copiare
+
+*3. INSTALLAZIONE FIREFOX*  
+Passo 1: Apri Firefox  
+Passo 2: Vai su `about:addons`  
+Passo 3: Premi `Ctrl + O` e scegli `Installa componente aggiuntivo da file`  
+Passo 4: Seleziona il file `fen-to-rotn-firefox.7z`  
+Passo 5: Conferma l'installazione  
+Nota: Firefox installerà direttamente il file `.7z`. Non serve estrarre.
+
+*4. INSTALLAZIONE CHROME / EDGE / BRAVE*  
+Passo 1: Apri Chrome  
+Passo 2: Vai su `chrome://extensions`  
+Passo 3: Attiva `Modalità sviluppatore` in alto a destra  
+Passo 4: Estrai il file `fen-to-rotn-chrome.7z` in una cartella  
+Passo 5: Premi `Carica estensione decompressa` e seleziona la cartella `fen-to-rotn-chrome`  
+Nota: Su Chrome l'estensione va caricata decompressa. Non eliminarla dalla cartella dopo.
+
+*5. COME SI USA*  
+Passo 1: Vai su una pagina con un FEN. Es: Lichess, Chess.com  
+Passo 2: Seleziona il testo del FEN con il mouse o tastiera  
+Passo 3: Premi `Alt + Maiusc + R`  
+Passo 4: L'estensione legge: `Convertito. Pezzi bianchi: Re E1, Donna D1... Pezzi neri: ...`  
+Passo 5: Per copiare il ROTN negli appunti premi `S` e poi `Invio`
+
+*6. COSA FA IL ROTN*  
+Converte il FEN in elenco di pezzi leggibile.  
+Esempio: `rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1`  
+diventa: `Pezzi bianchi: Re E1, Donna D1, Torri A1 H1... Pezzi neri: Re E8...`
+
+*7. PROBLEMI COMUNI*  
+Problema: Non parla  
+Soluzione: Controlla che il volume sia alto e che NVDA sia attivo
+
+Problema: Non copia  
+Soluzione: Su Chrome vai su `chrome://extensions/shortcuts` e riassegna il tasto
+
+Problema: Dice "nessun FEN selezionato"  
+Soluzione: Seleziona prima il FEN con il mouse o `Maiusc + Frecce`
+
+Problema: Chrome dice "manifest non valido"  
+Soluzione: Stai usando la cartella sbagliata. Usa `fen-to-rotn-chrome` per Chrome

@@ -50,6 +50,10 @@ Questa pagina è dedicata a tutti gli appassionati di scacchi. Nel seguito trove
 
 [Cosa è Scacchi-it](https://redyouman.github.io/blog/2026/05/12/motoregrafico.html)
 
+[estensione fen-to-rotn-firefox](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/estensioni/fen-to-rotn-firefox.7z)
+[estensione fen-to-rotn-chrome](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/estensioni/fen-to-rotn-chrome.7z)
+[manuale estensioni](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/estensioni/manuale-estensioni.txt)
+
 [Tranelli famosi di scacchi](https://redyouman.github.io/blog/2026/07/04/Mattifamosi.html)
 
 ## Collezioni di scacchi
