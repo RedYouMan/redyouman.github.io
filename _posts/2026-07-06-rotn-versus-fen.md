@@ -57,6 +57,7 @@ Descrittore opzionale Z: indica il numero di semimosse presenti nella fen (campo
 Descrittori riservati ai produttori software:F, K, L, C, E.
 La sintesi vocale nell'applicativo deve leggere: T, M, P, U, Z.
 Inoltre l'applicativo ruota la scacchiera secondo V.
+Dalla ROTN l'applicativo Scacchi-it apprende gli arrocchi validi (quelli non validi sono marcati con NS=No Short Castle e NL=No Long Castle), il numero di semimosse per la regola delle 50 mosse , oltre all'enpassant.
 
 # **Vantaggi della ROTN**
 

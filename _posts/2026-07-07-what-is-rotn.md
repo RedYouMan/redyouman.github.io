@@ -56,6 +56,8 @@ Optional Z descriptor: indicates the number of half-moves present in the FEN (fi
 • The text-to-speech feature in the application must read: T, M, P, U, Z.
 • Furthermore, the application rotates the chessboard according to V.
 
+From the ROTN, the Scacchi-it application learns the valid castling moves (invalid ones are marked with NS=No Short Castle and NL=No Long Castle), the half-move number for the 50-move rule, as well as the en passant.
+
 _Scacchi-it_, designed for both sighted and blind users, in game suspensions, marks en passant to communicate its possibility upon resumption, but only if such a possibility exists, unlike the FEN standard.
 
 In an ebook for the blind, if there are images, they are not accessible to the blind; therefore, generally, the position is described using algebraic notation, which has the advantage of quickly conveying the position of the pieces.
