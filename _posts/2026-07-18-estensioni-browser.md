@@ -66,7 +66,7 @@ Spero che tale lavoro aiuti la comunità scacchistica, sia dei non vedenti che d
 
 [manuale estensioni](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/estensioni/manuale-estensioni.txt)
 
-[ROTN EBNF/ISO 14977 ](https://redyouman.github.io/blog/2026/07/02/Spec-ROTN.html)
+[ROTN EBNF ISO 14977 ](https://redyouman.github.io/blog/2026/07/02/Spec-ROTN.html)
 
 [scarica Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/scacchiGr.7z)
 
