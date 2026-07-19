@@ -106,8 +106,6 @@ Come si nota la fen ha anche altre due barriere invisibili all'accessibilità:
 - la lingua: K, k, Q, q, B, b etc.
 - la non immediata comprensione: occorre farsi dei calcoli per capire la posizione dei pezzi
 
-Inoltre per un umano non serve sapere la situazione degli arrocchi, lo vede da se, e anche il computer è in grado di analizzarlo e settarlo, nè gli serve la segnalazione delle 50 mosse o dell'enpassant.
-
 Scacchi-it , ideato per vedenti e non vedenti, nelle sospensioni si segna l'enpassant per comunicare la possibilità di esso alla ripresa, ma solo se esiste tale possibilità, diversamente dallo standard fen.
 
 In un e-book per non vedenti se ci sono immagini, esse non sono fruibili dal non vedente; per cui, generalmente, viene descritta la posizione con la notazione algebrica, che ha il vantaggio di far comprendere la posizione dei pezzi rapidamente.

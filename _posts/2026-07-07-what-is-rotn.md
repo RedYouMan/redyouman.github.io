@@ -56,10 +56,6 @@ Optional Z descriptor: indicates the number of half-moves present in the FEN (fi
 • The text-to-speech feature in the application must read: T, M, P, U, Z.
 • Furthermore, the application rotates the chessboard according to V.
 
-FEN has additional fields for castling, en passant, and the 50-move rule, which are not useful for humans. A human does not need to know the castling status—they can see it for themselves—and the computer is also able to analyze and set it. There is no need to signal the 50-move rule or en passant.
-
-Specifically, for Scacchi-it, take advantage of the ROTN specification. In ambiguous cases of invalid castling, this allows you to add the value NS (No Short Castle), NL (No Long Castle), or both separated by a ';' to the White (W:) or Black (B:)piece list.
-
 _Scacchi-it_, designed for both sighted and blind users, in game suspensions, marks en passant to communicate its possibility upon resumption, but only if such a possibility exists, unlike the FEN standard.
 
 In an ebook for the blind, if there are images, they are not accessible to the blind; therefore, generally, the position is described using algebraic notation, which has the advantage of quickly conveying the position of the pieces.
