@@ -26,7 +26,7 @@ L'obiettivo della ROTN è di avere una posizione parlante con sintesi vocale e c
 
 Oggi uno screen reader leggendo la fen vi spara un insieme di caratteri velocemente, senza darvi il tempo di "vedere" attraverso il canale uditivo.
 
-La rotn, in realtà , è una opportunità aggiuntiva alla fen, per sfruttare altri canali tecnologici.
+La rotn, in realtà , è una opportunità aggiuntiva alla fen, per sfruttare altri canali tecnologici e dare voce alla FEN.
 
 Essa è costituita da un file testuale fatto di descrittori seguiti da valori. Tutti i campi descrittori sono obbligatori e con posizione e ordine fisso.
 
@@ -128,4 +128,5 @@ Se siete interessati a scaricare Scacchi-it, il manuale e la specifica, utilizza
 [Manuale Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/tutorials/scacchiGr.txt)
 
 La definizione della Specifica ufficiale ROTN completa, ISO 14977 è disponibile a:
-https://redyouman.github.io/blog/2026/07/02/Spec-ROTN.html
+[Leggi specifica](https://redyouman.github.io/blog/2026/07/02/Spec-ROTN.html)
+[Dare voce alla fen con rotn](https://redyouman.github.io/blog/2026/07/18/estensioni-browser.html)

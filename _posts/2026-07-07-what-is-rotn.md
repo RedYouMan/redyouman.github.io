@@ -67,6 +67,8 @@ ROTN takes a further step by enabling listening and immediate use on a chessboar
 Additionally, ROTN makes the _Scacchi-it_ application open data in a bidirectional way: it allows suspending a game and resuming it later, as well as writing or copying problems and loading them for solving.
 Therefore, the correct definition of ROTN notation is that it extends algebraic notation and makes a chess application open data, allowing interaction in two directions and adding the benefits of voice synthesis and images.
 
+However ROTN provides voice to the FEN".
+
 Finally, in the Scacchi-it case, the ROTN is the internal language for exchange with all external formats such as FEN or other future formats."
 
 # **Formalized Specification for the Blind**
@@ -77,5 +79,6 @@ As always happens, those with specific needs create a specification and a chess 
 
 [italian tutorial Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/tutorials/scacchiGr.txt)
 
-The complete official ROTN specification, ISO 14977, is available at:
-https://redyouman.github.io/blog/2026/07/02/Spec-ROTN.html
+[The complete official ROTN specification, ISO 14977](https://redyouman.github.io/blog/2026/07/02/Spec-ROTN.html)
+
+[Dare voce alla fen con rotn](https://redyouman.github.io/blog/2026/07/18/estensioni-browser.html)
