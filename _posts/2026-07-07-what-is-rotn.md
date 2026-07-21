@@ -67,6 +67,8 @@ ROTN takes a further step by enabling listening and immediate use on a chessboar
 Additionally, ROTN makes the _Scacchi-it_ application open data in a bidirectional way: it allows suspending a game and resuming it later, as well as writing or copying problems and loading them for solving.
 Therefore, the correct definition of ROTN notation is that it extends algebraic notation and makes a chess application open data, allowing interaction in two directions and adding the benefits of voice synthesis and images.
 
+Finally, in the Scacchi-it case, the ROTN is the internal language for exchange with all external formats such as FEN or other future formats."
+
 # **Formalized Specification for the Blind**
 
 As always happens, those with specific needs create a specification and a chess application (_Scacchi-it_) that practically demonstrates its advantages. An innovative application to play offline and online, with Stockfish, study openings with an Openings Trainer, give lessons with move undo, and easily reset the chessboard.

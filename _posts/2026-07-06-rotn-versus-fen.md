@@ -117,6 +117,8 @@ Se in un e-book viene mostrata la ROTN, col copia e incolla si può rapidamente 
 La ROTN, inoltre, rende open data l'applicativo Scacchi-it in modo bidirezionale: consente di sospendere una partita e di riprenderla più tardi, come pure scrivere o copiare problemi e caricarli per la loro soluzione.
 Per cui la giusta definizione della rot notation è che essa estende la notazione algebrica e rende open data un applicativo di scacchi, consentendo di interagire con esso in due direzioni e aggiungendo la sintesi vocale e i vantaggi di una immagine.
 
+Infine la ROTN è, nel caso Scacchi-it, la lingua interna, di interscambio con tutti i formati esterni come laFEN o altri formati futuri.
+
 # **Specifica formalizzata per non vedenti**
 
 Come sempre accade, chi ha delle necessità, realizza una specifica e un applicativo di scacchi (Scacchi-it) che ne dimostra i vantaggi in modo pratico.Un applicativo innovativo, per giocare offline e online, con stockfish, studiare le aperture con un Openings Trainer, poter fare lezioni con undo delle mosse e con una facile reinizializzazione della scacchiera.
