@@ -1,5 +1,5 @@
 
-### _MANUALE FEN TO ROTN VOICE v1.0_
+### _MANUALE FEN TO ROTN 
 
 _1. COMPATIBILITÀ E VERSIONI_  
 Questa estensione funziona con:  
@@ -11,7 +11,7 @@ Questa estensione funziona con:
 
 _2. A COSA SERVE_  
 Questa estensione converte una posizione FEN in notazione ROTN.  
-Poi ti legge un riassunto con voce italiana e ti copia negli appunti la stringa pronta per incollarla.
+Poi ti legge tutte le info con voce italiana e ti copia negli appunti la stringa pronta per incollarla.
 
 *Tasto rapido*: `Alt + Maiusc + R`  
 *Per lista completa pezzi bianchi e neri* attendere il termine del suggerimento e della domanda prima di fare s+invio
@@ -25,8 +25,9 @@ Passo 5: Premi `Ctrl + O` e scegli `Installa componente aggiuntivo da file`
 Passo 6: Seleziona il file `fen-to-rotn-firefox.xpi` appena estratto  
 Passo 7: Conferma l'installazione
 
-Attenzione non ancora disponibile.
-_4. INSTALLAZIONE CHROME / EDGE / BRAVE_  
+ATTENZIONE: Firefox ad inizio 2027 utilizzerà la versione manifest 3 abbandonando la MV2. Il che vorrà dire che dovrete utilizzare per firefox quella di chrome che già è a MV3.
+
+4. INSTALLAZIONE CHROME / EDGE / BRAVE_  
 Passo 1: Scarica il file `fen-to-rotn-chrome.7z`  
 Passo 2: Estrai il file con 7zip o WinRAR in una cartella sul desktop  
 Passo 3: Apri Chrome  
@@ -37,15 +38,13 @@ Passo 7: Lascia la cartella dov'è. Non eliminarla.
 
 _5. COME SI USA_  
 Passo 1: Vai su una pagina con un FEN. Es: Lichess, Chess.com  
-Passo 2: Seleziona il testo del FEN con il mouse o tastiera  
-Passo 3: Premi `Alt + Maiusc + R`  
-Passo 4: L'estensione legge: `Convertito. Pezzi bianchi: Re E1, Donna D1... Pezzi neri: ...`  
-Passo 5: Per copiare il ROTN negli appunti premi `S` e poi `Invio`
+Passo2: Fai shift+F10 e scendi con freccia in basso su converti_rotn e invio
+Passo 3: L'estensione legge: tutte le info 
+Passo 4: ESC per uscire (se vuoiinterrompere)
+Passo 5: Negli appunti hai le info in formato ROTN e puoi fare CtrlV su Notepad.
 
 _6. COSA FA IL ROTN_  
-Converte il FEN in elenco di pezzi leggibile.  
-Esempio: `rnbqkbnr/pppp/8/8/8/8/PP/RNBQKBNR w KQkq - 0 1`  
-diventa: `Pezzi bianchi: Re E1, Donna D1, Torri A1 H1... Pezzi neri: Re E8...`
+L'estensione da informazioni su testo, elenco pezzi, chi muove, il numero di mossa , se presente enpassant, il numero di semimosse.
 
 _7. PROBLEMI COMUNI_  
 *Problema*: Non parla  
