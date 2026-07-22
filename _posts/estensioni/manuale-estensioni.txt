@@ -14,7 +14,7 @@ Questa estensione converte una posizione FEN in notazione ROTN.
 Poi ti legge un riassunto con voce italiana e ti copia negli appunti la stringa pronta per incollarla.
 
 *Tasto rapido*: `Alt + Maiusc + R`  
-*Comando suggerito da vocale*: `S + Invio` per copiare
+*Per lista completa pezzi bianchi e neri* attendere il termine del suggerimento e della domanda prima di fare s+invio
 
 _3. INSTALLAZIONE FIREFOX_  
 Passo 1: Scarica il file `fen-to-rotn-firefox.7z`  
