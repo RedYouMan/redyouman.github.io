@@ -25,6 +25,7 @@ Passo 5: Premi `Ctrl + O` e scegli `Installa componente aggiuntivo da file`
 Passo 6: Seleziona il file `fen-to-rotn-firefox.xpi` appena estratto  
 Passo 7: Conferma l'installazione
 
+Attenzione non ancora disponibile.
 _4. INSTALLAZIONE CHROME / EDGE / BRAVE_  
 Passo 1: Scarica il file `fen-to-rotn-chrome.7z`  
 Passo 2: Estrai il file con 7zip o WinRAR in una cartella sul desktop  
