@@ -44,14 +44,12 @@ P:34;
 - **W:** Describes the list of white pieces, separated by semicolons, using english algebraic notation (e.g., Bg5;Ke2;).
 - **B:** Describes the list of black pieces, as above.
 - **M:** Describes whose turn it is (White or Black, using W or B).
-- **P:** Describes the starting move number.
+- **P:** Describes the move number of the position.
 
-In particular, **P:** should be decreased by 1 if White is the first to move (M:B), or it remains the same if Black is the first to move (M:N).
+Optional descriptor U: if present, it indicates the list of squares (not separated by ';') of the pawns that can perform an en passant capture and the square of the pawn under attack, e.g., U:c4b4; another example U:d4f4e4; The descriptor is used for the automated suspension and resumption of a match. In handwritten positions, it is the responsibility of the writer to observe the exact order and syntax of the command."
 
-The reason is that a chess application (e.g., _Scacchi-it_) increments the move when playing as White and does not do so when playing as Black, precisely because a move consists of two half-moves: White's and then Black's.
-
-"Optional descriptor U: if present, it indicates the list of squares (not separated by ';') of the pawns that can perform an en passant capture and the square of the pawn under attack, e.g., U:c4b4; another example U:d4f4e4; The descriptor is used for the automated suspension and resumption of a match. In handwritten positions, it is the responsibility of the writer to observe the exact order and syntax of the command."
 Optional Z descriptor: indicates the number of half-moves present in the FEN (field 5).
+
 • Software developer-reserved descriptors: F, K, L, C, E.
 • The text-to-speech feature in the application must read: T, M, P, U, Z.
 • Furthermore, the application rotates the chessboard according to V.

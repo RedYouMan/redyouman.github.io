@@ -43,11 +43,7 @@ P:34;
 - B: descrive l'elenco separato da punti e virgole dei pezzi con notazione algebrica italiana (es: Ag5;Re2;)
 - N: descrive l'insieme dei pezzi neri come sopra
 - M: descrive a chi tocca la mossa (Bianco o Nero usando B o N)
-- P: descrive il numero di mossa di partenza
-
-In particolare P: va diminuito di 1 se a giocare per prima è il Bianco (M:B) oppure rimane uguale se gioca per prima il Nero (M:N).
-
-Il motivo è che un applicativo di scacchi (es: Scacchi-it) incrementa la mossa quando gioca in bianco e non lo fa in nero, proprio perchè la mossa è costituita da due semimosse: quella del bianco e poi quella del nero.
+- P: descrive il numero di mossa della posizione
 
 Descrittore opzionale U: se presente indica la lista di case, non separate da ';', dei pedoni che possono fare una cattura enpassant e la casa del pedone sotto attacco es. U:c4b4; altro esempio U:d4f4e4;
 Il descrittore serve negli automatismi di sospensione di una partita e la sua ripresa. In posizioni scritte a mano, è responsabilità di chi scrive osservare l'ordine esatto e la sintassi del comando.
@@ -55,6 +51,7 @@ Il descrittore serve negli automatismi di sospensione di una partita e la sua ri
 Descrittore opzionale Z: indica il numero di semimosse presenti nella fen (campo 5)
 
 Descrittori riservati ai produttori software:F, K, L, C, E.
+
 La sintesi vocale nell'applicativo deve leggere: T, M, P, U, Z.
 Inoltre l'applicativo ruota la scacchiera secondo V.
 Dalla ROTN l'applicativo Scacchi-it apprende gli arrocchi validi (quelli non validi sono marcati con NS=No Short Castle e NL=No Long Castle), il numero di semimosse per la regola delle 50 mosse , oltre all'enpassant.
@@ -102,6 +99,7 @@ B:Rh8;
 N:Rf7;Dg1;
 M:N
 P:34;
+
 Come si nota la fen ha anche altre due barriere invisibili all'accessibilità:
 
 - la lingua: K, k, Q, q, B, b etc.
