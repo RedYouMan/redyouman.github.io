@@ -1,3 +1,8 @@
+---
+author: "Rosario Turco"
+categories: Blog
+---
+
 # ROTN: un formato nativo-accessibile per la notazione scacchistica e l'estensione FEN to ROTN Voice
 
 Di Rosario Turco
@@ -72,4 +77,4 @@ Spero che tale lavoro aiuti la comunità scacchistica, sia dei non vedenti che d
 
 [scarica fenpos](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repolc/fenpos.exe)
 
-[tutorial Scacchi-it](https://github.com/RedYouMan/redyouman
+[tutorial Scacchi-it](https://github.com/RedYouMan/redyouman)

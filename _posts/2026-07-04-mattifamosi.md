@@ -14,6 +14,7 @@ keywords:
     "gambetto",
   ]
 author: "Rosario Turco"
+categories: Blog
 ---
 
 # Matto in 3 mosse: 3 schemi da conoscere
