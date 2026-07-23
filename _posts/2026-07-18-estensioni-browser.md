@@ -1,5 +1,7 @@
 ---
-author: "Rosario Turco"
+title: "scacchi: estensioni browser per ROTN"
+description: "blog di Rosario Turco con downloads di giochi gratuiti per ciechi"
+
 categories: Blog
 ---
 
