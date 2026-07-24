@@ -69,6 +69,8 @@ However ROTN provides voice to the FEN".
 
 Finally, in the Scacchi-it case, the ROTN is the internal language for exchange with all external formats such as FEN or other future formats."
 
+One last observation: the true strength of Scacchi-it and ROTN is not obvious. It allows me to set up any position in 3 seconds and test checkmate, stalemate, castling, en passant and any other complicated position, without having to play 40 moves every time.
+
 # **Formalized Specification for the Blind**
 
 As always happens, those with specific needs create a specification and a chess application (_Scacchi-it_) that practically demonstrates its advantages. An innovative application to play offline and online, with Stockfish, study openings with an Openings Trainer, give lessons with move undo, and easily reset the chessboard.
