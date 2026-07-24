@@ -82,6 +82,8 @@ Se avete una fen position, per ottenere il file del problema, potreste scaricare
 Per lo usage consultare il programma stesso lanciandolo.Usage
 Nel file problem<num>.txt otterrrete il risultato.
 
+Attenzione fenpos adatta, per comodità, il numero di mossa della posizione presente nella fen ai fini di Scacchi-it, in particolare per il valore di P (Vedi tutorial di Scacchi-it).
+
 # **Come usare la rotn ottenuta?** Ad esempio scrivendola in un file per caricarlo col nostro programma scacchi e risolvere il problema da soli o con l'aiuto del computer.
 
 # **Problems Collection**
