@@ -117,7 +117,7 @@ Per cui la giusta definizione della rot notation è che essa estende la notazion
 
 Infine la ROTN è, nel caso Scacchi-it, la lingua interna, di interscambio con tutti i formati esterni come laFEN o altri formati futuri.
 
-un ultima osservazione: la vera forza di Scacchi-it e ROTN non è evidente. Mi permette di piazzare qualsiasi posizione in 3 secondi e testare: matto, stallo, arrocco, en passant e qualsiasi altra posizione complicata, senza dover giocare 40 mosse ogni volta.
+un ultima osservazione: la vera forza di ROTN non è evidente. Permette di piazzare qualsiasi posizione in 3 secondi e testare: matto, stallo, arrocco, en passant e qualsiasi altra posizione complicata, senza dover giocare 40 mosse ogni volta. Un grosso guadagno di tempo per consolidare Scacchi-it.
 
 # **Specifica formalizzata per non vedenti**
 

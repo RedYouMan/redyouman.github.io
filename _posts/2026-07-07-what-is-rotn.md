@@ -69,7 +69,7 @@ However ROTN provides voice to the FEN".
 
 Finally, in the Scacchi-it case, the ROTN is the internal language for exchange with all external formats such as FEN or other future formats."
 
-One last observation: the true strength of Scacchi-it and ROTN is not obvious. It allows me to set up any position in 3 seconds and test checkmate, stalemate, castling, en passant and any other complicated position, without having to play 40 moves every time.
+One last observation: the true strength of ROTN is not obvious. It allows you to set up any position in 3 seconds and test checkmate, stalemate, castling, en passant, and any other complicated position, without having to play 40 moves every time. A huge time-saver to consolidate Scacchi-it.
 
 # **Formalized Specification for the Blind**
 
