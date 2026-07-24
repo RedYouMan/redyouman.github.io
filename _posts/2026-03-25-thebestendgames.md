@@ -37,6 +37,8 @@ potreste generarvi il file del problema per risolverlo col nostro applicativo sc
 
 Se digitate fenpos seguito da return otterrrete lo usage per capire come dare i campi in input a fenpos.
 
+Attenzione fenpos, per comodità, adatta il valore del numero di mossa della posizione ai fini di Scacchi-it (Vedi tutorial).
+
 Col programma Scacchi-it potreste sia risolvere il finale da soli (CntrlP), sia farlo risolvere dal computer (CntrlJ).
 
 Una avvertenza doverosa: se sottola directory problemi avete già il problema di default (problema1.txt) o altri problemi che avete aggiunto, dato che fenpos vi genera file col nome prob<numero>.txt dovreste eventualmente rinominare il file che vi ha generato .
