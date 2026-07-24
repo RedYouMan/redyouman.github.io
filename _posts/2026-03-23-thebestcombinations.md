@@ -39,15 +39,7 @@ Attenzione fenpos, per comodità, adatta il valore del numero di mossa della pos
 
 Col programma scacchi-it potreste sia risolvere la combinazione da soli (CntrlP), sia farla risolvere dal computer (CntrlJ).
 
-Una avvertenza doverosa: se sottola directory problemi avete già il problema di default (problema1.txt) o altri problemi che avete aggiunto, dato che fenpos vi genera file col nome prob<numero>.txt dovreste eventualmente rinominare il file che vi ha generato .
-Ad esempio se fenpos vi genera nella directory il file prob3.txt e sotto la directory problemi ne esiste uno con lo stesso nome, potrestte rinominarlo comb<numero>.txt prima di metterlo sotto la directory.
-Per rinominarlo avete due modi:
-con "Esplora File", seguito da Fn+"Menu contestuale"+rinomina
-oppure con comandi DOS:
-Fate Alt-c per aprire la console (prompt dei comandi)
-cd <directory dove è il file>
-rename prob<numero>.txt comb<numero>.txt
-copy comb<numero>.txt <directory_problemi/>comb<numero>.txt
+Attenzione se il nome del problema pos\_<numero>.txt esiste già nella directory, allora il nuovo file lo dovrete rinominare.
 
 Elenco delle combinazioni trovate
 

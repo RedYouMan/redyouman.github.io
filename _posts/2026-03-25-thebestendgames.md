@@ -41,14 +41,14 @@ Attenzione fenpos, per comodità, adatta il valore del numero di mossa della pos
 
 Col programma Scacchi-it potreste sia risolvere il finale da soli (CntrlP), sia farlo risolvere dal computer (CntrlJ).
 
-Una avvertenza doverosa: se sottola directory problemi avete già il problema di default (problema1.txt) o altri problemi che avete aggiunto, dato che fenpos vi genera file col nome prob<numero>.txt dovreste eventualmente rinominare il file che vi ha generato .
-Ad esempio se fenpos vi genera nella directory il file prob3.txt e sotto la directory problemi ne esiste uno con lo stesso nome, potrestte rinominarlo finale<numero>.txt prima di metterlo sotto la directory.
+Una avvertenza doverosa: se sotto la directory problemi avete già un file con stesso nome che fenpos vi genera , dovrete rinominare il nuovo.
+Ad esempio se fenpos vi genera nella directory il file pos*3.txt e sotto la directory problemi ne esiste uno con lo stesso nome, potrestte rinominarlo finale<numero>.txt prima di metterlo sotto la directory.
 Per rinominarlo avete due modi:
 con "Esplora File", seguito da Fn+"Menu contestuale"+rinomina
 oppure con comandi DOS:
 Fate Alt-c per aprire la console (prompt dei comandi)
 cd <directory dove è il file>
-rename prob<numero>.txt finale<numero>.txt
+rename pos*<numero>.txt finale<numero>.txt
 copy finale<numero>.txt <directory_problemi/>finale<numero>.txt
 
 Elenco dei finali trovati

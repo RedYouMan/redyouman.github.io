@@ -91,6 +91,8 @@ Attenzione fenpos adatta, per comodità, il numero di mossa della posizione pres
 Segue ora l'elenco dei problemi della presente collezione.
 Non sbirciate la soluzione!
 
+Nella ROTN scritta a mano da dare a Scacchi-it se M:B allora il numero di mossa della posizione P viene diminuito di 1 per comodità di Scacchi-it.
+
 1. r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R
    w KQkq - 4 4
    Problema: Matto in 2 mosse. Bianco muove. Soluzione: 1.Bxf7+ Ke7 (o Kh8) 2.Nd5# (o 2.Ng5#). Tratto da partita classica, tema della scoperta.
