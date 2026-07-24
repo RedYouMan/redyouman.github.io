@@ -67,6 +67,8 @@ Gli attenti osservatori avranno notato che viene detto "Testo non disponibile" e
 Tuttavia dopo aver fatto CtrlC su un file Notepad, si può inserire del testo nel descrittore T:, ad esempio il tema della posizione con suggerimenti tecnici, magari prelevati dal portale o dal documento visionato. Analoga cosa per il descrittore V:.
 Spero che tale lavoro aiuti la comunità scacchistica, sia dei non vedenti che dei vedenti.
 
+Se usate le estensioni per Scacchi-it consultare il tutorial di Scacchi-it.
+
 [estensione fen-to-rotn-firefox](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/estensioni/fen-to-rotn-firefox.7z)
 
 [estensione fen-to-rotn-chrome](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/estensioni/fen-to-rotn-chrome.7z)
@@ -76,7 +78,5 @@ Spero che tale lavoro aiuti la comunità scacchistica, sia dei non vedenti che d
 [ROTN EBNF ISO 14977 ](https://redyouman.github.io/blog/2026/07/02/Spec-ROTN.html)
 
 [scarica Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/scacchiGr.7z)
-
-[scarica fenpos](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repolc/fenpos.exe)
 
 [tutorial Scacchi-it](https://github.com/RedYouMan/redyouman)
