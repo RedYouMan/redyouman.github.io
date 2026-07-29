@@ -129,9 +129,11 @@ un ultima osservazione: la vera forza di ROTN non è evidente. Permette di piazz
 Come sempre accade, chi ha delle necessità, realizza una specifica e un applicativo di scacchi (Scacchi-it) che ne dimostra i vantaggi in modo pratico.Un applicativo innovativo, per giocare offline e online, con stockfish, studiare le aperture con un Openings Trainer, poter fare lezioni con undo delle mosse e con una facile reinizializzazione della scacchiera.
 
 Se siete interessati a scaricare Scacchi-it, il manuale e la specifica, utilizzare i link:
+
 [scarica Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/scacchiGr.7z)
 [Manuale Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/tutorials/scacchiGr.txt)
 
 La definizione della Specifica ufficiale ROTN completa, ISO 14977 è disponibile a:
-[Leggi specifica](https://redyouman.github.io/blog/2026/07/02/specifica-rotn.html)
+[Leggi specifica](https://redyouman.github.io/blog/2026/07/02/specifica-rotn.html
+
 [Dare voce alla fen con rotn](https://redyouman.github.io/blog/2026/07/18/estensioni-browser.html)
