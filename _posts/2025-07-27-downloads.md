@@ -25,10 +25,15 @@ Inoltre nella sezione strumenti di ausilio, troverete strumenti utili come ad es
 
 ## _Download giochi grafici (C++)_
 
-Questa sezione conterrà giochi offline grafici per ambienti C++ , autosufficienti ovvero non sarà necessario preinstallare pacchetti redistribuibili oppure .Net.
+Questa sezione conterrà giochi offline/online grafici per ambienti C++ , autosufficienti ovvero non sarà necessario preinstallare pacchetti redistribuibili oppure .Net.
 I giochi sono adatti a vedenti e non vedenti.
 
+Scacchi-it v. 10.0 piattaforma italiana di scacchi con sintesi vocale
 [scarica Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/scacchiGr.7z)
+[Manuale Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/tutorials/scacchiGr.txt)
+Il manuale di Scacchi-it conviene sempre leggerlo dall'interno di Scacchi-it, usando CtrlX che si apre sul browser e vi accorgerete anche delle nuove versioni.
+Per gli appassionati di scacchi vedi la pagina dedicata a:
+[TuttoScacchi](https://redyouman.github.io/blog/2026/04/18/tuttoscacchi.html)
 
 ## _Download giochi grafici (C#)_
 
