@@ -67,5 +67,7 @@ La community attorno a tutti i giochi , contribuisce e apprezza molto il lavoro 
 La definizione della Specifica ufficiale ROTN completa, ISO 14977 è disponibile a:[Leggi specifica](https://redyouman.github.io/blog/2026/07/02/specifica-rotn.html)
 
 Se siete interessati a scaricare Scacchi-it e il manuale, utilizzare i link:
+
 [scarica Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/scacchiGr.7z)
+
 [Manuale Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/tutorials/scacchiGr.txt)
