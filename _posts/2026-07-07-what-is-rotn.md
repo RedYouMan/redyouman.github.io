@@ -22,7 +22,7 @@ First of all, a specific is investigated here on digital accessibility for those
 The game becomes a moment of social integration and equal opportunity between sighted and blind individuals.
 Not only are digital accessibility features investigated, such as the inclusion and autonomy of the blind, but also all those features useful for the development of a chess application and chess platform. The study thus led to the drafting of a specific ROTN and the development of the Scacchi-it platform.
 
-The specification declares a simple and intuitive method to easily overcome old problems, especially editorial ones, that chess has always carried with it: an image is not accessible to a blind person on the Internet or in an ebook, and FEN is not very intuitive for humans—it is more suited to computers and dates back to the last century.
+The specification declares a simple and intuitive method to easily overcome old problems, that chess has always carried with it: an image is not accessible to a blind person on the Internet or in an ebook, and FEN is not very intuitive for humans—it is more suited to computers and dates back to the last century.
 
 The goal of ROTN is to have a speaking position with voice synthesis and containing descriptions and advice, including technical ones
 
