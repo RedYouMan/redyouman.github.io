@@ -21,7 +21,7 @@ di Rosario Turco
 Innanzitutto è qui indagata una specifica di accessibilità digitale per chi sviluppa software scacchistico compatibile con screen reader (come NVDA e simili), ma che consente di utilizzare il software anche ai vedenti, in linea con un concetto a me caro di integrazione dei due mondi: non vedenti e vedenti (NV&V).
 Il gioco diventa un momento sociale di integrazione e di possibilità alla pari tra vedente e non vedente.
 
-Non solo vengono indagate caratteristiche di accessibilità digitale, come inclusione e autonomia dei non vedenti, ma anche tutte quelle caratteristiche utili allo sviluppo di unapplicativo di scacchi, una piattaforma o un portale di scacchi.
+Non solo vengono indagate caratteristiche di accessibilità digitale, come inclusione e autonomia dei non vedenti, ma anche tutte quelle caratteristiche utili allo sviluppo di unapplicativo di scacchi o una piattaforma di scacchi.
 
 Lo studio ha portato alla redazione, quindi, di una specifica ROTN e allo sviluppo della piattaforma Scacchi-it.
 
