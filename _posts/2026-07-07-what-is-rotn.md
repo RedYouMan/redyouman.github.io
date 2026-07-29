@@ -81,6 +81,6 @@ Links:
 
 [italian tutorial Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/tutorials/scacchiGr.txt)
 
-[The complete official ROTN specification, ISO 14977](https://redyouman.github.io/blog/2026/07/02/Spec-ROTN.html)
+[The complete official ROTN specification, ISO 14977](https://redyouman.github.io/blog/2026/07/02/specifica-rotn.html)
 
 [Dare voce alla fen con rotn](https://redyouman.github.io/blog/2026/07/18/estensioni-browser.html)
