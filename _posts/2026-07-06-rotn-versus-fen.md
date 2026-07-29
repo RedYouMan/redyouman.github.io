@@ -18,11 +18,16 @@ categories: Blog
 
 di Rosario Turco
 
-Innanzitutto è una specifica di accessibilità digitale per chi sviluppa software scacchistico compatibile con screen reader (come NVDA e simili), ma che consente di utilizzare il software anche ai vedenti, in linea con un concetto a me caro di integrazione dei due mondi: non vedenti e vedenti (NV&V).
+Innanzitutto è qui indagata una specifica di accessibilità digitale per chi sviluppa software scacchistico compatibile con screen reader (come NVDA e simili), ma che consente di utilizzare il software anche ai vedenti, in linea con un concetto a me caro di integrazione dei due mondi: non vedenti e vedenti (NV&V).
 Il gioco diventa un momento sociale di integrazione e di possibilità alla pari tra vedente e non vedente.
-La specifica dichiara un metodo semplice e intuitivo per superare facilmente vecchie problematiche, soprattutto editoriali, che gli scacchi da sempre si portano dietro: una immagine non è fruibile da un non vedente su Internet o su un ebook e la fen è poco intuitiva per un umano, adatta più a un computer e risalente al secolo scorso.
 
-L'obiettivo della ROTN è di avere una posizione parlante con sintesi vocale e contenente descrizioni e consigli anche tecnici.
+Non solo vengono indagate caratteristiche di accessibilità digitale, come inclusione e autonomia dei non vedenti, ma anche tutte quelle caratteristiche utili allo sviluppo di unapplicativo di scacchi, una piattaforma o un portale di scacchi.
+
+Lo studio ha portato alla redazione, quindi, di una specifica ROTN e allo sviluppo della piattaforma Scacchi-it.
+
+La specifica dichiara un metodo semplice e intuitivo per superare facilmente vecchie problematiche, che gli scacchi da sempre si portano dietro: una immagine non è fruibile da un non vedente su Internet o su un ebook e la fen è poco intuitiva per un umano, adatta più a un computer e risalente al secolo scorso.
+
+L'obiettivo della ROTN è di avere una posizione parlante con sintesi vocale e contenente descrizioni come il tema della posizione e consigli anche tecnici.
 
 Oggi uno screen reader leggendo la fen vi spara un insieme di caratteri velocemente, senza darvi il tempo di "vedere" attraverso il canale uditivo.
 

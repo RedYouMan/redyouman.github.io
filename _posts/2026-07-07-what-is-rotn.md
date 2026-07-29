@@ -18,8 +18,9 @@ categories: Blog
 
 by Rosario Turco
 
-First and foremost, it is a digital accessibility specification for those who develop chess software compatible with screen readers (such as NVDA and similar), but it also allows sighted people to use the software, in line with a concept dear to me of integrating the two worlds: blind and sighted (NV&V).
+First of all, a specific is investigated here on digital accessibility for those who develop chess software compatible with screen readers (such as NVDA and similar), but it also allows sighted people to use the software, in line with a concept dear to me of integrating the two worlds: blind and sighted (NV&V).
 The game becomes a moment of social integration and equal opportunity between sighted and blind individuals.
+Not only are digital accessibility features investigated, such as the inclusion and autonomy of the blind, but also all those features useful for the development of a chess application, platform, or chess portal. The study thus led to the drafting of a specific ROTN and the development of the Scacchi-it platform.
 
 The specification declares a simple and intuitive method to easily overcome old problems, especially editorial ones, that chess has always carried with it: an image is not accessible to a blind person on the Internet or in an ebook, and FEN is not very intuitive for humans—it is more suited to computers and dates back to the last century.
 
@@ -75,6 +76,7 @@ One last observation: the true strength of ROTN is not obvious. It allows you to
 
 As always happens, those with specific needs create a specification and a chess application (_Scacchi-it_) that practically demonstrates its advantages. An innovative application to play offline and online, with Stockfish, study openings with an Openings Trainer, give lessons with move undo, and easily reset the chessboard.
 
+Links:
 [Download Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/scacchiGr.7z)
 
 [italian tutorial Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/tutorials/scacchiGr.txt)
