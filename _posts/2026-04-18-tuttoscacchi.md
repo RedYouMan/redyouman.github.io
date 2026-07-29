@@ -24,6 +24,7 @@ Questa pagina è dedicata a tutti gli appassionati di scacchi. Nel seguito trove
 
 [scarica licenza](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/MITlicence.pdf)
 
+Scacchi-it versione 10.0
 [scarica Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/scacchiGr.7z)
 
 [scarica fenpos](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repolc/fenpos.exe)
