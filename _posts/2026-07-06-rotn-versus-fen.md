@@ -18,7 +18,7 @@ categories: Blog
 
 di Rosario Turco
 
-Innanzitutto è qui indagata una specifica di accessibilità digitale per chi sviluppa software scacchistico compatibile con screen reader (come NVDA e simili), ma che consente di utilizzare il software anche ai vedenti, in linea con un concetto a me caro di integrazione dei due mondi: non vedenti e vedenti (NV&V).
+In questo articolo è indagata una specifica di accessibilità digitale per chi sviluppa software scacchistico compatibile con screen reader (come NVDA e simili), ma che consente di utilizzare il software anche ai vedenti, in linea con un concetto a me caro di integrazione dei due mondi: non vedenti e vedenti (NV&V).
 Il gioco diventa un momento sociale di integrazione e di possibilità alla pari tra vedente e non vedente.
 
 Non solo vengono indagate caratteristiche di accessibilità digitale, come inclusione e autonomia dei non vedenti, ma anche tutte quelle caratteristiche utili allo sviluppo di unapplicativo di scacchi o una piattaforma di scacchi.
@@ -33,7 +33,7 @@ Oggi uno screen reader leggendo la fen vi spara un insieme di caratteri veloceme
 
 La rotn, in realtà , è una opportunità aggiuntiva alla fen, per sfruttare altri canali tecnologici e dare voce alla FEN.
 
-Essa è costituita da un file testuale fatto di descrittori seguiti da valori. Tutti i campi descrittori sono obbligatori e con posizione e ordine fisso.
+La ROTN è costituita da un file testuale fatto di descrittori seguiti da valori. Tutti i campi descrittori sono obbligatori e con posizione e ordine fisso.
 
 _Esempio ROTN_
 T:Matto in una mossa
