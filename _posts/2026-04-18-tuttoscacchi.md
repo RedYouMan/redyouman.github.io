@@ -38,6 +38,10 @@ Scacchi-it versione 10.0
 
 [what is ROTN](https://redyouman.github.io/blog/2026/07/07/what-is-rotn.html)
 
+[Leggi Accessibilità Web](https://redyouman.github.io/blog/2026/07/31/web-accessibile.html)
+
+[Read Web accessibility](https://redyouman.github.io/blog/2026/07/31/optimal-web.html)
+
 [scarica imparoTastiera per usare il computer](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repoaux/imparoTastiera.exe) Nota: da usare con NVDA
 
 [scarica corso tastiera e nvda](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repoaux/corso.7z)
