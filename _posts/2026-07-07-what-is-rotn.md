@@ -16,7 +16,7 @@ categories: Blog
 
 # **What is ROTN**
 
-by Rosario Turco
+by Rosario Turco, engineer
 
 First of all, a specific is investigated here on digital accessibility for those who develop chess software compatible with screen readers (such as NVDA and similar), but it also allows sighted people to use the software, in line with a concept dear to me of integrating the two worlds: blind and sighted (NV&V).
 The game becomes a moment of social integration and equal opportunity between sighted and blind individuals.

@@ -16,7 +16,7 @@ categories: Blog
 
 # **Cosa è la ROTN**
 
-di Rosario Turco
+di Rosario Turco, ingegnere
 
 In questo articolo è indagata una specifica di accessibilità digitale per chi sviluppa software scacchistico compatibile con screen reader (come NVDA e simili), ma che consente di utilizzare il software anche ai vedenti, in linea con un concetto a me caro di integrazione dei due mondi: non vedenti e vedenti (NV&V).
 Il gioco diventa un momento sociale di integrazione e di possibilità alla pari tra vedente e non vedente.
