@@ -51,9 +51,11 @@ Optional descriptor U: if present, it indicates the list of squares (not separat
 
 Optional Z descriptor: indicates the number of half-moves present in the FEN (field 5).
 
-• Software developer-reserved descriptors: F, K, L, C, E.
-• The text-to-speech feature in the application must read: T, M, P, U, Z.
-• Furthermore, the application rotates the chessboard according to V.
+Descriptors reserved for software producers: F, K, L, C, E, all useful during the suspension and resumption phases of a game. Specifically for a portal, where suspension and resumption involve files on the server, a short-term persistence strategy of a few days can be used (e.g., 2 days after which resuming the game is no longer possible).
+
+The text-to-speech feature in the application must read: T, M, P, U, Z.
+
+Furthermore, the application rotates the chessboard according to V.
 
 From the ROTN, the Scacchi-it application learns the valid castling moves (invalid ones are marked with NS=No Short Castle and NL=No Long Castle), the half-move number for the 50-move rule, as well as the en passant.
 

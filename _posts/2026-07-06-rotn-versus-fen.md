@@ -55,7 +55,7 @@ Il descrittore serve negli automatismi di sospensione di una partita e la sua ri
 
 Descrittore opzionale Z: indica il numero di semimosse presenti nella fen (campo 5)
 
-Descrittori riservati ai produttori software:F, K, L, C, E.
+Descrittori riservati ai produttori software:F, K, L, C, E, tutti utili nelle fasi di sospensione e ripresa di una partita. In particolare per un portale, la sospensione e ripresa che comportano file presenti sul server, si può usare una strategia di permanenza per un breve periodo di giorni (es. 2 giorni dopo i quali non è più possibile la ripresa della partita).
 
 La sintesi vocale nell'applicativo deve leggere: T, M, P, U, Z.
 Inoltre l'applicativo ruota la scacchiera secondo V.
