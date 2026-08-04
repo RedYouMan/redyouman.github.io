@@ -1,12 +1,14 @@
 ---
 title: "tuttoscacchi Downloads:Giochi gratuiti per non vedenti e per vedenti"
-description: "blog di Rosario Turco con downloads di giochi gratuiti per non vedenti"
+description: "blog di Rosario Turco con downloads di giochi gratuiti per vedenti e non vedenti con utilizzo di screen reader NVDA o JAWS"
 keywords:
   [
     "downloads",
     "scacchi",
-    "gratuiti",
     "gratis",
+    screen reader,
+    "NVDA",
+    "JAWS",
     "non vedenti",
     "ciechi",
     "ipovedenti",
@@ -38,10 +40,11 @@ Scacchi-it versione 10.0 compatibile con screen reader NVDA e JAWS.
 
 [what is ROTN](https://redyouman.github.io/blog/2026/07/07/what-is-rotn.html)
 
-[Leggi Accessibilità Web](https://redyouman.github.io/blog/2026/07/31/web-accessibile.html)
+[Portali scacchi: accessibilità web](https://redyouman.github.io/blog/2026/07/31/web-accessibile.html)
 
-[Read Web accessibility](https://redyouman.github.io/blog/2026/07/31/optimal-web.html)
+[Portals of chess: Web accessibility](https://redyouman.github.io/blog/2026/07/31/optimal-web.html)
 
+Utility per non vedenti
 [scarica imparoTastiera per usare il computer](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repoaux/imparoTastiera.exe) Nota: da usare con NVDA
 
 [scarica corso tastiera e nvda](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repoaux/corso.7z)
@@ -79,6 +82,6 @@ I 100 migliori finali di scacchi
 
 [Esercizi spazio-relazionali](https://redyouman.github.io/blog/2026/05/05/comememorizzare.html)
 
-## Altri giochi da scaricare
+## Altri giochi gratuiti per non vedenti da scaricare
 
 [Pagina di download giochi](https://redyouman.github.io/blog/2025/07/27/downloads.html)
