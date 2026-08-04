@@ -32,9 +32,9 @@ Scacchi-it versione 10.0 compatibile con screen reader NVDA e JAWS.
 
 [scarica fenpos](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repolc/fenpos.exe)
 
-[tutorial Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/tutorials/scacchiGr.txt)
+[Manuale Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/tutorials/scacchiGr.txt)
 
-[ROTN EBNF ISO 14977 ](https://redyouman.github.io/blog/2026/07/02/specifica-rotn.html)
+[Specifica Completa ROTN EBNF ISO 14977 ](https://redyouman.github.io/blog/2026/07/02/specifica-rotn.html)
 
 [Cosa è la rotn](https://redyouman.github.io/blog/2026/07/06/rotn-versus-fen.html)
 
