@@ -9,6 +9,7 @@ keywords:
     screen reader,
     "NVDA",
     "JAWS",
+    "Windows",
     "non vedenti",
     "ciechi",
     "ipovedenti",
@@ -26,8 +27,8 @@ Questa pagina è dedicata a tutti gli appassionati di scacchi. Nel seguito trove
 
 [scarica licenza](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/MITlicence.pdf)
 
-Scacchi-it versione 10.0 compatibile con screen reader NVDA e JAWS.
-
+Scacchi-it versione 10.0 per Windows, compatibile con screen reader NVDA e JAWS.
+Creato da un non vedente per la integrazione e autonomia dei non vedenti.
 [scarica Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/scacchiGr.7z)
 
 [scarica fenpos](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repolc/fenpos.exe)
