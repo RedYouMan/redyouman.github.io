@@ -1,6 +1,6 @@
 ---
-title: "tuttoscacchi Downloads:Giochi gratuiti per non vedenti e per vedenti"
-description: "blog di Rosario Turco con downloads di giochi gratuiti per vedenti e non vedenti con utilizzo di screen reader NVDA o JAWS"
+title: "tuttoscacchi Downloads:Giochi gratuiti su Windows per non vedenti e vedenti"
+description: "Scacchi per non vedenti, accessibilità ottimizzata per i migliori screen  reader su Windows "
 keywords:
   [
     "downloads",
