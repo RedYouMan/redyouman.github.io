@@ -27,7 +27,7 @@ Questa pagina è dedicata a tutti gli appassionati di scacchi. Nel seguito trove
 
 [scarica licenza](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/MITlicence.pdf)
 
-Scacchi-it versione 10.3 per Windows, compatibile con screen reader NVDA e JAWS, con sintesi vocale e italiano.
+Scacchi-it versione 10.4 per Windows, compatibile con screen reader NVDA e JAWS, con sintesi vocale e italiano.
 Creato da un non vedente per la integrazione e autonomia dei non vedenti.
 Potrai giocare offline/online, anche contro stockfish, imparare aperture con un Openings Trainer, ottenere suggerimenti dal coach e utilizzare Scacchi-it anche per fare lezioni.
 Leggero e di dimensioni da pendrive. Nessuna pubblicità.
