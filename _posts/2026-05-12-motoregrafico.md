@@ -33,11 +33,15 @@ Scacchi-it ha un motore grafico che si interfaccia con il chess engine stockfish
 - parte grafica (scacchiera e pezzi)
 - parte caricamento rot notation
 - parte di controllo delle mosse valide
+- parte gestione scacco matto, stallo, patta elementare, scacco al re
+- parte gestione registrazione partita su log con notazione algebrica italiana
+- parte sospensione e ripresa partita
+- parte rotazione scacchiera
 - parte gestione stockfish
 - parte vocaleper i non vedenti, segnalando tutti gli aiuti necessari
 - parte verbosa su console, utile per vedenti e non vedenti, per comprendere i controlli di gioco del motore grafico edeventuali suggerimenti
 - parte Openings Trainer con file pgn
-- parte server per gioco in rete o in vpn
+- parte server per gioco in rete o in vpn(multiplayers)
 - parte utility: fenpos, validaFEN, incolla-fen, coachFEN.
 - parte orologio di gioco
 
@@ -47,7 +51,7 @@ Scacchi-it permette di studiare aperture, fare analisi con o senza stockfish, gi
 
 Per le lezioni di scacchi sono forniti utili comandi di undo delle mosse e la reimpostazione della scacchiera nella posizione iniziale.
 
-I non vedenti utilizzeranno un screen reader come NVDA che permetterà loro sia di usare il computer che usare Scacchi-it.
+I non vedenti utilizzeranno un screen reader come NVDA o JAWS che permetterà loro sia di usare il computer che usare Scacchi-it.
 
 La rot notation ideata, risulta più semplice a capirla e ricordarla rispetto alla fen o rispetto alle immagini che un non vedente non sarebbe in grado di usufruire.
 La rot notation è una estensione della notazione algebrica, che rende un applicativo scacchistico open data. Ha il vantaggio per il non vedente che producendola su un file si può caricare la posizione corrispondente su Scacchi-it per poterla esaminare navigando sulla scacchiera.
