@@ -43,15 +43,16 @@ N:Rf7;Dg1;
 M:N
 P:34;
 
-- T: descrive la posizione che verrà letta anche con sintesi vocale, con possibili consigli tecnici
-- V: descrive da che punto di vista si vuole che il programma carichi la posizione (Bianco o Nero usando B; o N;)
-- B: descrive l'elenco separato da punti e virgole dei pezzi con notazione algebrica italiana (es: Ag5;Re2;)
+- T: descrive la posizione (tema) che verrà letta anche con sintesi vocale, con possibili consigli tecnici
+- V: descrive da che punto di vista o lato della scacchiera si vuole che il programma carichi la posizione (Bianco o Nero usando B; o N;)
+- B: descrive l'elenco separato da punti e virgole dei pezzi con notazione algebrica italiana e la situazione degli arrocchi se necessario (es: Ag5;Re2;)
 - N: descrive l'insieme dei pezzi neri come sopra
 - M: descrive a chi tocca la mossa (Bianco o Nero usando B o N)
 - P: descrive il numero di mossa della posizione
 
 Descrittore opzionale U: se presente indica la lista di case, non separate da ';', dei pedoni che possono fare una cattura enpassant e la casa del pedone sotto attacco es. U:c4b4; altro esempio U:d4f4e4;
 Il descrittore serve negli automatismi di sospensione di una partita e la sua ripresa. In posizioni scritte a mano, è responsabilità di chi scrive osservare l'ordine esatto e la sintassi del comando.
+Consultare il Manuale.
 
 Descrittore opzionale Z: indica il numero di semimosse presenti nella fen (campo 5)
 

@@ -49,14 +49,14 @@ la sigla rotn discende dal nome dell'autore del programma di scacchi su questo s
 La rotn è una estensione della notazione algebrica che rende open data un applicativo di scacchi.
 Essa è costituita dai campi descritti di seguito nella tabella.
 
-| campo da scrivere | posizione |                                                                         significato |
-| ----------------: | --------: | ----------------------------------------------------------------------------------: |
-|                T: |         1 |                                                   campo descrittivo della posizione |
-|                V: |         2 |                                           Punto di vista da cui guardare la partita |
-|                B: |         3 |                  elenco separato da ; delle posizioni dei pezzi bianchi in italiano |
-|                N: |         4 |                        elenco separato da ; delle posizioni dei pezzi neri italiano |
-|                M: |         5 |                                                              turno di mossa : B o N |
-|                P: |         6 | numero di mossa ricavato dalla fen diminuito di 1 se muove bianco altrimenti uguale |
+| campo da scrivere | posizione |                                                        significato |
+| ----------------: | --------: | -----------------------------------------------------------------: |
+|                T: |         1 |                                  campo descrittivo della posizione |
+|                V: |         2 |                          Punto di vista da cui guardare la partita |
+|                B: |         3 | elenco separato da ; delle posizioni dei pezzi bianchi in italiano |
+|                N: |         4 |       elenco separato da ; delle posizioni dei pezzi neri italiano |
+|                M: |         5 |                                             turno di mossa : B o N |
+|                P: |         6 |                                 numero di mossa ricavato dalla fen |
 
 Per quanto riguarda P: potreste mettere anche 0, in modo che, nel caso dei problemi, la numerazione coincide alla fine colnumero di mosse per risolvere il problema.
 Nella soluzione dei problemi tale valore non è influente, serve di più nella registrazione della posizione nelle sospensioni della partita.
@@ -91,7 +91,7 @@ Attenzione fenpos adatta, per comodità, il numero di mossa della posizione pres
 Segue ora l'elenco dei problemi della presente collezione.
 Non sbirciate la soluzione!
 
-Nella ROTN scritta a mano da dare a Scacchi-it se M:B allora il numero di mossa della posizione P viene diminuito di 1 per comodità di Scacchi-it.
+Nella ROTN scritta a mano da dare a Scacchi-it se M:B allora il numero di mossa della posizione P va diminuito di 1 per comodità di Scacchi-it.Mentre se usate fenpos, automaticamente verrà fatto.
 
 1. r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R
    w KQkq - 4 4
