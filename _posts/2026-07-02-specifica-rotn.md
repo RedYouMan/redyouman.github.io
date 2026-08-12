@@ -12,7 +12,7 @@ categories: Blog
 
 ## [IT] Specifica Italiana
 
-_ROTN_ = *Ro*t *N*otation
+_ROTN_ = *Ro*T *N*otation
 Formato testuale ASCII per descrivere posizioni scacchistiche accessibili per screen reader.
 
 _Regole Generali:_
@@ -32,7 +32,7 @@ _Regole Generali:_
 _Descrittori Obbligatori - Ordine fisso:_
 `T;V;B;N;M;P;`
 
-_Descrittore opzionale U alla fine_ - elenco case senza separatore ';', dei pedoni che possono eseguire la cattura enpassant e per ultima la casa del pedone che può essere catturato (es. `U:d4f4e4;`). U diventa utile negli automatismi di sospensione e ripresa partita, oltre a descrizione di posizioni
+_Descrittore opzionale U alla fine_ - elenco case senza separatore ';', dei pedoni che possono eseguire la cattura enpassant e per ultima la casa del pedone che può essere catturato (es. `U:d4f4e4;`). U diventa utile negli automatismi di sospensione e ripresa partita. Esiste solo se ci sono i pedoni affiancati.
 
 _Descrittore opzionale Z alla fine_ - numero di semimosse (campo 5 fen)
 
@@ -106,7 +106,7 @@ _General Rules:_
 _Mandatory Descriptors - Fixed Order:_
 `T;V;W;B;M;P;`
 
-_Optional Descriptor U_ - list of square, without of ';',of pawns that can perform enpassant and the square of pawn under enpassant attack (eg. `U:d4f4e4;`). "U becomes useful in the automation of match suspension and resumption, as well as in the description of positions.
+_Optional Descriptor U_ - list of square, without of ';',of pawns that can perform enpassant and the square of pawn under enpassant attack (eg. `U:d4f4e4;`). "U becomes useful in the automation of match suspension and resumption. It exists if there are connected pawns.
 
 _Optional Descriptor Z_ - number of halfmoves (field 5 fen), if it's greater than zero.
 
