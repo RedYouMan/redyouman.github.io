@@ -25,8 +25,7 @@ Utilizza il comando curl già presente sulle piattaforme Windows.
 
 SE4B = Semantic Engine for Blinds.
 
-Link da cui scaricarlo:
-[Scarica il downloader ](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repolc/se4b-downloader.exe)
+[Scarica il downloader](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repolc/se4b-downloader.exe)
 
 ### 1. Semantica, Intento e Feedback
 
