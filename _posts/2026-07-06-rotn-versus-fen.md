@@ -52,6 +52,7 @@ P:34;
 
 Descrittore opzionale U: se presente indica la lista di case, non separate da ';', dei pedoni che possono fare una cattura enpassant e la casa del pedone sotto attacco es. U:c4b4; altro esempio U:d4f4e4;
 Il descrittore serve negli automatismi di sospensione di una partita e la sua ripresa. In posizioni scritte a mano, è responsabilità di chi scrive osservare l'ordine esatto e la sintassi del comando.
+Esso rappresenta un reale enpassant, quindi U è presente solo se accanto al pedone sotto attacco ci sono affiancati uno o due pedoni avversari.
 Consultare il Manuale.
 
 Descrittore opzionale Z: indica il numero di semimosse presenti nella fen (campo 5)

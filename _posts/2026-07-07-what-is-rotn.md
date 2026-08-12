@@ -48,6 +48,7 @@ P:34;
 - **P:** Describes the move number of the position.
 
 Optional descriptor U: if present, it indicates the list of squares (not separated by ';') of the pawns that can perform an en passant capture and the square of the pawn under attack, e.g., U:c4b4; another example U:d4f4e4; The descriptor is used for the automated suspension and resumption of a match. In handwritten positions, it is the responsibility of the writer to observe the exact order and syntax of the command."
+It is presents only there are connected pawns.
 Consult the manual.
 
 Optional Z descriptor: indicates the number of half-moves present in the FEN (field 5).
