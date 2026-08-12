@@ -24,6 +24,7 @@ Pensato per NVDA/JAWS. Legge tutto ad alta voce.
 Utilizza il comando curl già presente sulle piattaforme Windows.
 
 SE4B = Semantic Engine for Blinds.
+Prima scarica e dopo guarda gli esempi dopo il link.
 
 [Scarica il downloader](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repolc/se4b-downloader.exe)
 
