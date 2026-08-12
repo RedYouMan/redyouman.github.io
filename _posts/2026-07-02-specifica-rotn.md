@@ -106,7 +106,7 @@ _General Rules:_
 _Mandatory Descriptors - Fixed Order:_
 `T;V;W;B;M;P;`
 
-_Optional Descriptor U_ - list of square, without of ';',of pawns that can perform enpassant and the square of pawn under enpassant attack (eg. `U:d4f4e4;`). "U becomes useful in the automation of match suspension and resumption. It exists if there are connected pawns.
+_Optional Descriptor U_ - list of square, without of ';',of pawns that can perform enpassant and the square of pawn under enpassant attack (eg. `U:d4f4e4;`). U becomes useful in the automation of match suspension and resumption. It exists if there are connected pawns.
 
 _Optional Descriptor Z_ - number of halfmoves (field 5 fen), if it's greater than zero.
 
