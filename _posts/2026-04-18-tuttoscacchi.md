@@ -1,5 +1,5 @@
 ---
-title: "tuttoscacchi Downloads:Giochi gratuiti su Windows per non vedenti e vedenti"
+title: "tuttoscacchi di RedyouMan - Downloads:Giochi gratuiti su Windows per non vedenti e vedenti"
 description: "Scacchi per non vedenti, accessibilità ottimizzata per i migliori screen  reader su Windows "
 keywords:
   [
@@ -10,6 +10,7 @@ keywords:
     "NVDA",
     "JAWS",
     "Windows",
+    "RedyouMan",
     "non vedenti",
     "ciechi",
     "ipovedenti",
@@ -17,7 +18,7 @@ keywords:
 categories: Blog
 ---
 
-# Tutto Scacchi
+# Tutto Scacchi di RedYouMan
 
 Questa pagina è dedicata a tutti gli appassionati di scacchi. Nel seguito troverete la licenza , le versioni stabili di Scacchi-it e delle utility correlate, oltre ad articoli di interesse.
 
