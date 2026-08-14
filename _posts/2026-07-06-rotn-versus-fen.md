@@ -126,6 +126,8 @@ Infine la ROTN è, nel caso Scacchi-it, la lingua interna, di interscambio con t
 
 un ultima osservazione: la vera forza di ROTN non è evidente. Permette di piazzare qualsiasi posizione in 3 secondi e testare: matto, stallo, arrocco, en passant e qualsiasi altra posizione complicata, senza dover giocare 40 mosse ogni volta. Un grosso guadagno di tempo per consolidare Scacchi-it.
 
+Questo risulta un enorme vantaggio anche per gli istruttori di scacchi, che con basso sforzo cognitivo possono creare rapidamente posizioni o database di posizioni didattiche.
+
 # **Specifica formalizzata per non vedenti**
 
 Come sempre accade, chi ha delle necessità, realizza una specifica e un applicativo di scacchi (Scacchi-it) che ne dimostra i vantaggi in modo pratico.Un applicativo innovativo, per giocare offline e online, con stockfish, studiare le aperture con un Openings Trainer, poter fare lezioni con undo delle mosse e con una facile reinizializzazione della scacchiera.

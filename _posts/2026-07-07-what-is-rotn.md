@@ -76,6 +76,8 @@ Finally, in the Scacchi-it case, the ROTN is the internal language for exchange 
 
 One last observation: the true strength of ROTN is not obvious. It allows you to set up any position in 3 seconds and test checkmate, stalemate, castling, en passant, and any other complicated position, without having to play 40 moves every time. A huge time-saver to consolidate Scacchi-it.
 
+This also turns out to be a huge advantage for chess instructors, who can quickly create positions or databases of teaching positions with low cognitive effort.
+
 # **Formalized Specification for the Blind**
 
 As always happens, those with specific needs create a specification and a chess application (_Scacchi-it_) that practically demonstrates its advantages. An innovative application to play offline and online, with Stockfish, study openings with an Openings Trainer, give lessons with move undo, and easily reset the chessboard.
