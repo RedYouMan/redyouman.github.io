@@ -5,12 +5,10 @@ Da oggi anche online e multiplayer.
 Compatibile con screen reader come NVDA e JAWS
 per Windows 10 e 11
 
-
 Licenza
 *Scacchi-it* is free software released under the MIT License.  
 *Copyright © 2025 Rosario Turco* - Version 9.0  
 You may use, copy, and modify it freely, provided that this copyright notice is retained.
-
 
 Scelta file di testo per il manuale
 Si è scelto di usare un file di testo, al posto di un professionale manuale in pdf. 
@@ -82,6 +80,15 @@ Scacchi-it consente di:
 La maggior parte di queste caratteristiche sono offerte in modalità offline, ma anche online sono presenti un sottoinsieme di esse: consultare il paragrafo online per vedere cosa è escluso.
 
 Tutte le possibilità di sopra, dipendono dalla vostra conoscenza degli strumenti a disposizione per poterlo fare, quindi è fondamentale sentire sia questo tutorial che l'help.
+
+Per interagire con Scacchi-it si procede su due elementi:
+- scacchiera grafica, realizzata con SFML (Simple & Fast Multimedia Library)
+- console
+
+La console permette, in modo semplice ed efficace, varie cose:
+- lancio dei comandi iniziali
+- inserimento dati: spostando il focus con Alt-Tab da scacchiera a console e viceversa
+- tracciamento di situazioni particolari verificatesi
 
 Download e Windows Defender 
 Da browser sul link https://redyouman.github.io/blog/2025/07/27/downloads.html
@@ -418,7 +425,6 @@ un ultima osservazione: la vera forza di Scacchi-it e ROTN non è evidente.
 Mi permette di piazzare qualsiasi posizione in 3 secondi e testare: matto, stallo, arrocco, en passant e qualsiasi altra posizione complicata, senza dover giocare 40 mosse ogni volta.
 
 Questo diventa anche un vantaggio per gli istruttori di scacchi: la rapidità con cui creare una posizione didattica o un database di posizioni è elevata, con basso sforzo cognitivo.
-
 Come si nota la fen ha anche altre due barriere invisibili all'accessibilità:
 - la lingua: K, k, Q, q, B, b etc.
 - la non immediata comprensione: occorre farsi dei calcoli per capire la posizione dei pezzi(sforzo cognitivo)
@@ -808,6 +814,9 @@ L'applicativo Scacchi-it presentato coglie vari aspetti importanti:
 - è un applicativo open data, che permette l'interazione con esso attraverso la rot notation
 - permette di studiare, analizzare, giocare e dare lezioni di scacchi
 - permette di giocare offline o online
+- Permette una didattica inclusiva insegnando gli scacchi in classe mettendo sullo stesso piano tutti gli studenti.
+- Strumento di analisi: Utile ai docenti per proiettare o dimostrare soluzioni di problemi e varianti di apertura.
+- Supporto dimostrativo: Ideale per lezioni frontali e laboratori scolastici.
 
 Ricorda: L'accessibilità e la sicurezza, in ogni settore e genere, non sono un'opzione ma un diritto.
 Alla prossima
