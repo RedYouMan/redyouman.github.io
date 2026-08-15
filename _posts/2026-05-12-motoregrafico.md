@@ -62,6 +62,10 @@ Scacchi-it permette di studiare aperture, fare analisi con o senza stockfish, gi
 
 Per le lezioni di scacchi sono forniti utili comandi di undo delle mosse e la reimpostazione della scacchiera nella posizione iniziale.
 
+Permette una didattica inclusiva insegnando gli scacchi in classe mettendo sullo stesso piano tutti gli studenti.
+Strumento di analisi: Utile ai docenti per proiettare o dimostrare soluzioni di problemi e varianti di apertura.
+Supporto dimostrativo: Ideale per lezioni frontali e laboratori scolastici.
+
 La ROTN che descrive le posizioni risulta un vantaggio di rapidità e basso sforzo cognitivo in molti casi:
 
 - per i test degli sviluppatori: si crea una posizione anche complessa in pochi secondi
