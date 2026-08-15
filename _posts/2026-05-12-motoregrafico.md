@@ -47,6 +47,13 @@ Scacchi-it è una piattaforma che si interfaccia con il chess engine stockfish e
 - parte utility: fenpos, validaFEN, incolla-fen, coachFEN.
 - parte orologio di gioco
 
+La parte grafica è realizzata con interfaccia SFML e i pezzi sono immagini png.
+La parte console, sebbene spartana, ha vari ruoli:
+
+- lancio dei comandi iniziali
+- inserimento dati (con Alt-Tab per andare da scacchiera a console e inserire dati e ritornare su scacchiera con Alt-Tab)
+- tracciamento di particolari situazioni
+
 Il vantaggio di Scacchi-it è di interfacciarsi con stockfish rendendo semplici e trasparenti tutte le problematiche di comandi uci, posizione FEN , pgn,configurazioni e altro ancora che richiederebbe una maggiore conoscenza informatica che esula dal gioco stesso.
 
 Scacchi-it permette di studiare aperture, fare analisi con o senza stockfish, giocare con stockfish o amici e anche fare lezioni di scacchi. La funzionalità coachFEN, ad esempio, a fronte di una FEN trovata, consiglia la migliore mossa.
