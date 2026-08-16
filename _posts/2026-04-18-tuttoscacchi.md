@@ -32,6 +32,7 @@ Scacchi-it versione 10.5 per Windows 10 o 11, compatibile con screen reader NVDA
 Creato da un non vedente per la integrazione e autonomia dei non vedenti.
 Potrai giocare offline/online, anche contro stockfish, imparare aperture con un Openings Trainer, ottenere suggerimenti dal coach e utilizzare Scacchi-it anche per fare lezioni.
 Leggero e di dimensioni da pendrive. Nessuna pubblicità.
+La sua interfaccia grafica utilizza SFML (Simple & Fast Multimedia Library).
 
 [scarica Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/scacchiGr.7z)
 
