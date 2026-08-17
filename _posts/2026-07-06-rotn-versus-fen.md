@@ -49,6 +49,7 @@ P:34;
 - N: descrive l'insieme dei pezzi neri come sopra
 - M: descrive a chi tocca la mossa (Bianco o Nero usando B o N)
 - P: descrive il numero di mossa della posizione
+  La regola "ogni descrittore una riga" non è per un fatto informatico ma per la semplice psicologia che un facile copia e incolla aumenta l'autostima del non vedente.
 
 Descrittore opzionale U: se presente indica la lista di case, non separate da ';', dei pedoni che possono fare una cattura enpassant e la casa del pedone sotto attacco es. U:c4b4; altro esempio U:d4f4e4;
 Il descrittore serve negli automatismi di sospensione di una partita e la sua ripresa. In posizioni scritte a mano, è responsabilità di chi scrive osservare l'ordine esatto e la sintassi del comando.

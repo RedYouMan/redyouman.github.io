@@ -47,6 +47,8 @@ P:34;
 - **M:** Describes whose turn it is (White or Black, using W or B).
 - **P:** Describes the move number of the position.
 
+The 'one descriptor per line' rule is not for a computer reason, but for the simple psychology that an easy copy-paste boosts a blind person's self-esteem.
+
 Optional descriptor U: if present, it indicates the list of squares (not separated by ';') of the pawns that can perform an en passant capture and the square of the pawn under attack, e.g., U:c4b4; another example U:d4f4e4; The descriptor is used for the automated suspension and resumption of a match. In handwritten positions, it is the responsibility of the writer to observe the exact order and syntax of the command."
 It is presents only there are connected pawns.
 Consult the manual.
