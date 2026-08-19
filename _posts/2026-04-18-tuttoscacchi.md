@@ -55,6 +55,10 @@ Utility per non vedenti
 
 [scarica corso tastiera e nvda](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repoaux/corso.7z)
 
+## Materiale per Didattica
+
+[Software e Documentazione completa scacchi](https://redyouman.github.io/blog/2026/08/19/didattica.html)
+
 ## Articoli
 
 [How to write articles with rotn ](https://redyouman.github.io/blog/2026/07/09/editorial-example-rotn.html)
