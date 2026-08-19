@@ -76,7 +76,7 @@ Utility per non vedenti
 
 ## Per la Didattica
 
-[Didattica scacchi](https://redyouman.github.io/blog/didattica.html)
+[Didattica scacchi](https://redyouman.github.io/blog/2026/08/19/didattica.html)
 
 ## Collezioni di scacchi
 
