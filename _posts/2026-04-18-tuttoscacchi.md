@@ -74,6 +74,10 @@ Utility per non vedenti
 
 [Tranelli famosi di scacchi](https://redyouman.github.io/blog/2026/07/04/Mattifamosi.html)
 
+## Per la Didattica
+
+[Didattica scacchi](https://redyouman.github.io/blog/didattica.html)
+
 ## Collezioni di scacchi
 
 I 100 migliori problemi di scacchi
