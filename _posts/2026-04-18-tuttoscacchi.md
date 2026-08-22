@@ -47,6 +47,7 @@ Uno strumento tiflologico per gli scacchi.
 
 [Portals of chess: Web accessibility](https://redyouman.github.io/blog/2026/07/31/optimal-web.html)
 
+Fenpos è una utility estrapolata da Scacchi-it per la conversione di una FEN al formato ROTN. La ROTN è l'innovativa struttura per il passaggio delle posizioni scacchistiche a Scacchi-it ed è gestita soltanto da quest'ultimo.
 [scarica fenpos](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repolc/fenpos.exe)
 
 Utility per non vedenti
