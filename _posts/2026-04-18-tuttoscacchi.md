@@ -27,7 +27,7 @@ Questa pagina è dedicata a tutti gli appassionati di scacchi. Nel seguito trove
 ## Software da scaricare: Novità Scacchi-it - online&offline
 
 Scacchi-it per Windows 10 o 11, compatibile con screen reader NVDA e JAWS, con sintesi vocale e italiano.
-Potrai giocare offline/online, anche contro stockfish, imparare aperture con un Openings Trainer basato sullo standard pgn, ottenere suggerimenti dal coach e utilizzare Scacchi-it anche per fare lezioni.
+Potrai giocare offline/online, anche contro stockfish con 20 livelli di difficoltà, potrai imparare aperture con un Openings Trainer basato sullo standard pgn, ottenere suggerimenti dal coach e utilizzare Scacchi-it anche per fare didattica.
 Leggero e di dimensioni da pendrive. Nessuna pubblicità.
 La sua interfaccia grafica utilizza SFML (Simple & Fast Multimedia Library).
 Uno strumento tiflologico per gli scacchi, espressamente progettato e implementato da un non vedente per la inclusione e la totale autonomia dei non vedenti.
