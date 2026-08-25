@@ -43,6 +43,7 @@ Leggero e di dimensioni da pendrive. Nessuna pubblicità.
 
 [what is ROTN](https://redyouman.github.io/blog/2026/07/07/what-is-rotn.html)
 
+Blind Mode e i problemi dei portali di scacchi
 [Portali scacchi: accessibilità web](https://redyouman.github.io/blog/2026/07/31/web-accessibile.html)
 
 [Portals of chess: Web accessibility](https://redyouman.github.io/blog/2026/07/31/optimal-web.html)
@@ -51,6 +52,9 @@ Fenpos è una utility estrapolata da Scacchi-it per la conversione di una FEN al
 [scarica fenpos](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repolc/fenpos.exe)
 
 Utility per non vedenti
+Per usare un computer e un programma di scacchi occorre imparare
+ad usare uno screen reader innanzitutto e la tastiera, per sapere dove sono i tasti.
+
 [scarica imparoTastiera per usare il computer](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repoaux/imparoTastiera.exe) Nota: da usare con NVDA
 
 [scarica corso tastiera e nvda](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repoaux/corso.7z)
