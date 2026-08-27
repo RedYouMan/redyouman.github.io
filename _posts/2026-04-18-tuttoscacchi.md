@@ -1,5 +1,5 @@
 ---
-title: "tuttoscacchi di RedyouMan - Downloads:Giochi gratuiti su Windows per non vedenti e vedenti"
+title: "tuttoscacchi di RedyouMan - Downloads:scacchi gratuiti su Windows per non vedenti e vedenti(tiflologico)"
 description: "Scacchi per non vedenti, accessibilità ottimizzata per i migliori screen  reader su Windows "
 keywords:
   [
