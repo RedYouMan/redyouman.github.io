@@ -26,12 +26,12 @@ Questa pagina è dedicata a tutti gli appassionati di scacchi. Nel seguito trove
 
 ## Software da scaricare
 
-Scacchi-it strumento tiflologico italiano per Windows 10 o 11, compatibile con screen reader NVDA e JAWS.
+Scacchi-it strumento tiflologico inclusivo, italiano con la ROTN, per Windows 10 o 11, compatibile con screen reader NVDA e JAWS.
 [scarica Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/scacchiGr.7z)
 Potrai giocare offline/online Hamachi, anche contro stockfish con 20 livelli di difficoltà, imparare aperture con un Openings Trainer con standard pgn, ottenere suggerimenti dal coach e utilizzarlo anche per la didattica.
 Puoi creare qualsiasi posizione con la innovativa ROTN (ROTnotation) oppure incollare a Scacchi-it una FEN disponibile.
 Utilizza sintesi vocale e una interfaccia grafica SFML (Simple & Fast Multimedia Library).
-Espressamente progettato da un non vedente per la inclusione e la totale autonomia dei non vedenti.
+Espressamente progettato da Rosario Turco, un non vedente per la inclusione e la totale autonomia dei non vedenti.
 Leggero e di dimensioni da pendrive. Nessuna pubblicità.
 
 Documentazione Scacchi-it
