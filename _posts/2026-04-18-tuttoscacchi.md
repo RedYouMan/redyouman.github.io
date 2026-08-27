@@ -24,17 +24,17 @@ Questa pagina è dedicata a tutti gli appassionati di scacchi. Nel seguito trove
 
 [Presentazione gruppo NV&V](https://redyouman.github.io/2025/07/26/giochi-gratuiti.html)
 
-## Software da scaricare: Novità Scacchi-it - online&offline
+## Software da scaricare
 
-Scacchi-it strumento tiflologico per Windows 10 o 11, compatibile con screen reader NVDA e JAWS, con sintesi vocale e italiano.
+Scacchi-it strumento tiflologico italiano per Windows 10 o 11, compatibile con screen reader NVDA e JAWS.
+[scarica Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/scacchiGr.7z)
 Potrai giocare offline/online Hamachi, anche contro stockfish con 20 livelli di difficoltà, imparare aperture con un Openings Trainer con standard pgn, ottenere suggerimenti dal coach e utilizzarlo anche per la didattica.
 Puoi creare qualsiasi posizione con la innovativa ROTN (ROTnotation) oppure incollare a Scacchi-it una FEN disponibile.
-Utilizza una interfaccia grafica SFML (Simple & Fast Multimedia Library).
+Utilizza sintesi vocale e una interfaccia grafica SFML (Simple & Fast Multimedia Library).
 Espressamente progettato da un non vedente per la inclusione e la totale autonomia dei non vedenti.
 Leggero e di dimensioni da pendrive. Nessuna pubblicità.
 
-[scarica Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/scacchiGr.7z)
-
+Documentazione Scacchi-it
 [Manuale Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/tutorials/scacchiGr.txt)
 
 [Specifica formale Completa ROTN EBNF ISO 14977 ](https://redyouman.github.io/blog/2026/07/02/specifica-rotn.html)
@@ -65,14 +65,17 @@ ad usare uno screen reader innanzitutto e la tastiera, per sapere dove sono i ta
 
 ## Articoli
 
+Editoria: un ebook con immagini deve essere integrato con la ROTN
 [How to write articles with rotn ](https://redyouman.github.io/blog/2026/07/09/editorial-example-rotn.html)
 
 [esempio rotn in un articolo](https://redyouman.github.io/blog/2026/07/09/esempio-editoriale-rotn.html)
 
+Come si è arrivati a progettare Scacchi-it
 [cosa è un chess engine](https://redyouman.github.io/blog/2026/05/12/chessengine.html)
 
 [Cosa è Scacchi-it](https://redyouman.github.io/blog/2026/05/12/motoregrafico.html)
 
+La FEN troppo posizionale e con informazioni spesso inutili, come slash e numeri, con sforzo cognitivo ulteriore
 [Dare voce alla fen con rotn](https://redyouman.github.io/blog/2026/07/18/estensioni-browser.html)
 
 [estensione fen-to-rotn-firefox](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/estensioni/fen-to-rotn-firefox.7z)
