@@ -24,7 +24,14 @@ Questa pagina è dedicata a tutti gli appassionati di scacchi. Nel seguito trove
 
 [Presentazione gruppo NV&V](https://redyouman.github.io/2025/07/26/giochi-gratuiti.html)
 
-## Software da scaricare
+## Scacchi-it Repository da clonare
+
+Scacchi-it è open source e open data.
+I sorgenti li puoi esaminare dopo aver clonato il repository col comando:
+'git clone https://github.com/RedYouMan/scacchi.git'
+Potrai esaminare come realizzare la ROTN.
+
+## Software runtime da scaricare
 
 Scacchi-it strumento tiflologico inclusivo, italiano con la ROTN, per Windows 10 o 11, compatibile con screen reader NVDA e JAWS.
 Rispetta il decreto Legge 82/2022.
