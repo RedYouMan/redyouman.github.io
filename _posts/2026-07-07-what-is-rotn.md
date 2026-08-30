@@ -30,6 +30,8 @@ The goal of ROTN is to have a speaking position with voice synthesis and contain
 
 Anyway, the ROTN is an extra opportunity to take advantage of new technological ways.
 
+Do not make the mistake of believing that ROTN replaces any standard: it replaces neither the PGN nor the FEN standard. Instead, it serves as an additional useful tool for the visually impaired and screen readers. Scacchi-it itself features that paste the FEN.
+
 ROTN is a text file consisting of descriptors followed by values. All descriptor fields are mandatory and have a fixed position and order.
 
 **Example of ROTN:**
