@@ -32,6 +32,7 @@ Anyway, the ROTN is an extra opportunity to take advantage of new technological 
 
 Do not make the mistake of believing that ROTN replaces any standard: it replaces neither the PGN nor the FEN standard. Instead, it serves as an additional useful tool for the visually impaired and screen readers. Scacchi-it itself features that paste the FEN.
 
+The ROTN must not act as an intermediary for PGN; the PGN standard is already highly effective as it is based on algebraic notation.
 must not modify any chess engine like Stockfish and the like; FEN can continue to work under the hood in these engines, within the framework of the platform being built.
 
 ROTN is a text file consisting of descriptors followed by values. All descriptor fields are mandatory and have a fixed position and order.
