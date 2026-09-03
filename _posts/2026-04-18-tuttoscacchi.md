@@ -73,7 +73,7 @@ ad usare uno screen reader innanzitutto e la tastiera, per sapere dove sono i ta
 
 ## Articoli
 
-Editoria: un ebook con immagini deve essere integrato con la ROTN
+Editoria: un ebook con diagrammi deve essere integrato con la ROTN
 [How to write articles with rotn ](https://redyouman.github.io/blog/2026/07/09/editorial-example-rotn.html)
 
 [esempio rotn in un articolo](https://redyouman.github.io/blog/2026/07/09/esempio-editoriale-rotn.html)
@@ -83,7 +83,7 @@ Come si è arrivati a progettare Scacchi-it
 
 [Cosa è Scacchi-it](https://redyouman.github.io/blog/2026/05/12/motoregrafico.html)
 
-La FEN troppo posizionale e con informazioni spesso inutili, come slash e numeri, con sforzo cognitivo ulteriore
+La FEN troppo posizionale e con informazioni spesso inutili ad uno screen reader, come slash e numeri, con sforzo cognitivo ulteriore
 [Dare voce alla fen con rotn](https://redyouman.github.io/blog/2026/07/18/estensioni-browser.html)
 
 [estensione fen-to-rotn-firefox](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/estensioni/fen-to-rotn-firefox.7z)
