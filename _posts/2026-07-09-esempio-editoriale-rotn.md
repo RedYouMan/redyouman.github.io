@@ -18,6 +18,8 @@ categories: Blog
 
 di Rosario Turco
 
+Nel seguito si elencano varie soluzioni per pubblicare un articolo di scacchi per non vedenti.
+
 ROTN è la Rot Notation, un formato testuale ASCII per descrivere posizioni scacchistiche accessibili agli screen reader come NVDA.
 
 Per non interrompere la lettura, la posizione ROTN non va messa nel testo. Va messa in un file separato e linkata.
@@ -103,6 +105,12 @@ Aprilo e incolla il contenuto nel tuo ebook.
 1.  _Le virgolette sono obbligatorie_ intorno a Titolo, Chi_muove e FEN
 2.  _Num Problema_: se hai 10 diagrammi usa 001, 002, 003... così sono ordinati
 3.  _Errori_: se esce "comando non trovato" significa che non sei nella cartella giusta di `fenpos.exe`
+
+## Alternativa molto semplice
+
+Negli ebook continuare a mettere i diagrammi per i normodotati, ma fuori diagramma indicare pos 1: ROTN1, mentre in Appendice si scrive la ROTN della posizione con la tecnica salva-spazio di caratteri di dimensioni più piccole che comunque sono leggibili da uno screen reader e possono subire facilmenteil copia e incolla per Scacchi-it e applicativi similari.
+
+Non mettere i diagrammi è vero che si soddisfa il non vedente ma è una eresia per i normodotati.
 
 Buon Lavoro!
 
