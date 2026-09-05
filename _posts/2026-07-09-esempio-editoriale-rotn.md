@@ -108,7 +108,8 @@ Aprilo e incolla il contenuto nel tuo ebook.
 
 ## Alternativa molto semplice
 
-Negli ebook continuare a mettere i diagrammi per i normodotati, ma fuori diagramma indicare pos 1: ROTN1, mentre in Appendice si scrive la ROTN della posizione con la tecnica salva-spazio di caratteri di dimensioni più piccole che comunque sono leggibili da uno screen reader e possono subire facilmenteil copia e incolla per Scacchi-it e applicativi similari.
+Negli ebook si può continuare a mettere i diagrammi per i normodotati, ma fuori diagramma si può indicare pos 1: ROTN1, mentre in Appendice si scrive la ROTN della posizione con la tecnica salva-spazio di caratteri di dimensioni più piccole che comunque sono leggibili da uno screen reader e possono subire facilmenteil copia e incolla per Scacchi-it e applicativi similari.
+Non solo ma l'appendice può presentarsi come una tabella di quattro colonne e da 8 a 10 righe. In questo modo si possono contenere da 32 a 40 ROTN in funzione della dimensione data ai caratteri.
 
 Non mettere i diagrammi è vero che si soddisfa il non vedente ma è una eresia per i normodotati.
 
