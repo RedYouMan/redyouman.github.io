@@ -26,6 +26,8 @@ Questa pagina è dedicata a tutti gli appassionati di scacchi. Nel seguito trove
 
 ## Scacchi-it Repository da clonare
 
+(pronuncia: Scacchitrattinoit)
+
 Scacchi-it è open source e open data.
 I sorgenti li puoi esaminare dopo aver clonato il repository col comando:
 'git clone https://github.com/RedYouMan/scacchi.git'
