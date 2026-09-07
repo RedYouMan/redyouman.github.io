@@ -24,9 +24,7 @@ Questa pagina è dedicata a tutti gli appassionati di scacchi. Nel seguito trove
 
 [Presentazione gruppo NV&V](https://redyouman.github.io/2025/07/26/giochi-gratuiti.html)
 
-## Scacchi-it Repository da clonare
-
-(pronuncia: Scacchitrattinoit)
+## "Scacchi-it" (pronuncia: Scacchitrattinoit)
 
 Scacchi-it è open source e open data.
 I sorgenti li puoi esaminare dopo aver clonato il repository col comando:
