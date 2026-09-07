@@ -35,7 +35,7 @@ Potrai esaminare come realizzare la ROTN.
 
 ## Software runtime da scaricare
 
-Scacchi-it strumento tiflologico inclusivo, italiano con la ROTN, per Windows 10 o 11, compatibile con screen reader NVDA e JAWS.
+Scacchi-it ecosistema tiflologico inclusivo, italiano con la ROTN, per Windows 10 o 11, compatibile con screen reader NVDA e JAWS.
 Rispetta il decreto Legge 82/2022.
 [scarica Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/scacchiGr.7z)
 Potrai giocare offline/online Hamachi, anche contro stockfish offline con 20 livelli di difficoltà, imparare aperture con un Openings Trainer che usa standard pgn, ottenere suggerimenti dal coachFEN o dal coachGame.
