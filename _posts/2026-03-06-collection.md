@@ -56,10 +56,9 @@ Essa è costituita dai campi descritti di seguito nella tabella.
 |                B: |         3 | elenco separato da ; delle posizioni dei pezzi bianchi in italiano |
 |                N: |         4 |       elenco separato da ; delle posizioni dei pezzi neri italiano |
 |                M: |         5 |                                             turno di mossa : B o N |
-|                P: |         6 |                                 numero di mossa ricavato dalla fen |
+|                P: |         6 |                          ultimo numero di mossa giocato dal bianco |
 
 Per quanto riguarda P: potreste mettere anche 0, in modo che, nel caso dei problemi, la numerazione coincide alla fine colnumero di mosse per risolvere il problema.
-Nella soluzione dei problemi tale valore non è influente, serve di più nella registrazione della posizione nelle sospensioni della partita.
 La rotn è generalizzabile con lettere dei pezzi anche in inglese, al Posto di B: si può metter W: e B: al posto di N:.
 Le lettere che individuano il tipo di pezzo possono essere in italiano o in inglese, ma il nostro programma scacchi Scacchi-it utilizza solo lettere in italiano.
 
@@ -82,9 +81,9 @@ Se avete una fen position, per ottenere il file del problema, potreste scaricare
 Per lo usage consultare il programma stesso lanciandolo.Usage
 Nel file problem<num>.txt otterrrete il risultato.
 
-Attenzione fenpos adatta, per comodità, il numero di mossa della posizione presente nella fen ai fini di Scacchi-it, in particolare per il valore di P (Vedi tutorial di Scacchi-it).
-
-# **Come usare la rotn ottenuta?** Ad esempio scrivendola in un file per caricarlo col nostro programma scacchi e risolvere il problema da soli o con l'aiuto del computer.
+Attenzione fenpos adatta il numero di mossa della posizione presente nella fen .
+Difatti P è l'ultimo numero di mossa giocato dal bianco, mentre il numero di mossa indicato nella FEN è quello da giocare (Vedi Manuale).
+La regola che segue fenpos è se M=B allora P=numero della FEN- 1 altrimenti se M=N allora P=numero della FEN
 
 # **Problems Collection**
 
