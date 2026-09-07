@@ -50,7 +50,7 @@ P:34;
 - **W:** Describes the list of white pieces, separated by semicolons, using english algebraic notation (e.g., Bg5;Ke2;).
 - **B:** Describes the list of black pieces, as above.
 - **M:** Describes whose turn it is (White or Black, using W or B).
-- **P:** Describes the move number of the position.
+- **P:** Describes the last move number played by white.
 
 The 'one descriptor per line' rule is not for a computer reason, but for the simple psychology that an easy copy-paste boosts a blind person's self-esteem.
 
