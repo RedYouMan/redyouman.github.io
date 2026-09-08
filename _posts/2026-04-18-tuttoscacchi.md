@@ -29,18 +29,18 @@ Questa pagina è dedicata a tutti gli appassionati di scacchi. Nel seguito trove
 Scacchi-it è open source e open data.
 I sorgenti li puoi esaminare dopo aver clonato il repository col comando:
 'git clone https://github.com/RedYouMan/scacchi.git'
-Potrai esaminare come realizzare la ROTN.
+Potrai esaminare come realizzare la ROTN (Rotated Notation).
 
 ## Software runtime da scaricare
 
-Scacchi-it ecosistema tiflologico inclusivo, italiano con la ROTN, per Windows 10 o 11, compatibile con screen reader NVDA e JAWS.
+Scacchi-it ecosistema tiflologico inclusivo, italiano con la ROTN, per Windows 10 o 11, compatibile con screen reader NVDA, JAWS e display braille.
 Rispetta il decreto Legge 82/2022.
 [scarica Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/scacchiGr.7z)
-Potrai giocare offline/online Hamachi, anche contro stockfish offline con 20 livelli di difficoltà, imparare aperture con un Openings Trainer che usa standard pgn, ottenere suggerimenti dal coachFEN o dal coachGame.
-Scacchi-it è fortemente indicato anche per la didattica e la preparazione ai tornei.
-Scacchi-it dispone anche di orologio scacchistico.
+Potrai giocare offline/online multiplayer Hamachi con le room, anche contro stockfish offline con 20 livelli di difficoltà, imparare aperture con un Openings Trainer che usa standard pgn, ottenere suggerimenti dal coachFEN o dal coachGame integrati.
+Potrai usare un orologio scacchistico per allenarti a partite lampo e ai tornei.
 Puoi creare qualsiasi posizione con la innovativa ROTN (ROTnotation) oppure incollare a Scacchi-it una FEN disponibile.
 Utilizza sintesi vocale e una interfaccia grafica SFML (Simple & Fast Multimedia Library).
+Scacchi-it è fortemente indicato anche per la didattica e la preparazione ai tornei.
 Espressamente progettato da Rosario Turco, un non vedente per la inclusione e la totale autonomia dei non vedenti.
 Leggero e di dimensioni da pendrive. Nessuna pubblicità.
 
