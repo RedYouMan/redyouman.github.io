@@ -76,6 +76,7 @@ Per evitare che la console con i suoi messaggi interferisca con quelli vocali de
 Il vantaggio di Scacchi-it è di interfacciarsi con stockfish rendendo semplici e trasparenti tutte le problematiche di comandi uci, posizione FEN , pgn,configurazioni e altro ancora che richiederebbe una maggiore conoscenza informatica che esula dal gioco stesso.
 
 Scacchi-it permette di studiare aperture, fare analisi con o senza stockfish, giocare con stockfish o amici e anche fare lezioni di scacchi. La funzionalità coachFEN, ad esempio, a fronte di una FEN trovata, consiglia la migliore mossa.
+Altra funzionalità è coachGame, che esamina il file di una partita registrata, guardando le mosse del colore del giocatore desiderato, fornendo in output un file di report contenente le mosse, la valutazione e se necessario la mossa migliore in quella posizione.
 
 Per le lezioni di scacchi sono forniti utili comandi di undo delle mosse e la reimpostazione della scacchiera nella posizione iniziale.
 
