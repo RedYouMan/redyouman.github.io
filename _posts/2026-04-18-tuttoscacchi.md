@@ -36,7 +36,6 @@ Potrai esaminare come realizzare la ROTN (Rotated Notation).
 ## Software runtime da scaricare
 
 Scacchi-it ecosistema tiflologico inclusivo, italiano con la ROTN, per Windows 10 o 11, compatibile con screen reader NVDA, JAWS e display braille.
-La ROTN rispetta la european accessibility act e il decreto Legge 82/2022.
 
 [scarica Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/scacchiGr.7z)
 
@@ -48,6 +47,10 @@ Scacchi-it è fortemente indicato anche per la didattica e la preparazione ai to
 Espressamente progettato da Rosario Turco, un non vedente per la inclusione e la totale autonomia dei non vedenti.
 Leggero e di dimensioni da pendrive. Nessuna pubblicità.
 
+La ROTN rispetta l'European Accessibility Act (Direttiva UE 2019/882) e il D.Lgs. 82/2022 (WCAG 2.1 AA).\*\*
+Progettata per tiflologia: navigazione solo da tastiera, compatibile NVDA/JAWS/Braille, annuncio vocale senza slash e numeri della FEN.
+Open source e open data PGN, conforme ai requisiti di accessibilità per l'editoria digitale dal 28 giugno 2025.
+
 Documentazione Scacchi-it
 [Manuale Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/tutorials/scacchiGr.txt)
 
@@ -57,7 +60,7 @@ Documentazione Scacchi-it
 
 [what is ROTN](https://redyouman.github.io/blog/2026/07/07/what-is-rotn.html)
 
-Blind Mode e i problemi dei portali di scacchi
+I problemi dei portali di scacchi
 [Portali scacchi: accessibilità web](https://redyouman.github.io/blog/2026/07/31/web-accessibile.html)
 
 [Portals of chess: Web accessibility](https://redyouman.github.io/blog/2026/07/31/optimal-web.html)
