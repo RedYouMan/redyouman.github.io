@@ -30,7 +30,26 @@ Ha alcune peculiarità:
 
 Inoltre la modalità open data si evidenzia anche con la "portable game notation" (pgn) che in Scacchi-it è sfruttata dalla funzionalità Openings Trainer, che permette di addestrarsi sulle aperture desiderate e scaricate da un sito come PGN mentor.
 
-Scacchi-it è una piattaforma che si interfaccia con il chess engine stockfish ed è costituito dalle seguenti parti:
+L'ecosistema Scacchi-it è costituito da varie parti.
+Scacchi-it core, suddiviso in:
+
+1. Motore grafico e controllo tasti
+2. motore di controllo, con parte controllo gioco a due, controllo stockfish, controllo online, Openings Trainer,undo
+3. stockfish
+
+Scacchi-it Utility che collaborano con la parte core:
+
+1. IncollaFEN
+2. validaFEN
+3. fenpos
+
+Scacchi-it Applicativi indipendenti, costituita da:
+
+1. coachFEN
+2. coachGame
+3. clock-start
+
+   Le funzionalità della parte core sono molteplici:
 
 - parte grafica (scacchiera e pezzi)
 - parte caricamento rot notation
@@ -43,9 +62,7 @@ Scacchi-it è una piattaforma che si interfaccia con il chess engine stockfish e
 - parte vocaleper i non vedenti, segnalando tutti gli aiuti necessari
 - parte verbosa su console, utile per vedenti e non vedenti, per comprendere i controlli di gioco del motore grafico edeventuali suggerimenti
 - parte Openings Trainer con file pgn
-- parte server per gioco in rete o in vpn(multiplayers)
-- parte utility: fenpos, validaFEN, incolla-fen, coachFEN.
-- parte orologio di gioco
+- parte controllo server per gioco in rete o in vpn(multiplayers)
 
 La parte grafica è realizzata con interfaccia SFML (Simple & Fast Multimedia Library) e i pezzi sono immagini png.
 La parte console, sebbene spartana ma efficace, ha vari ruoli:
