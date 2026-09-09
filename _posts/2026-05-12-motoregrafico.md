@@ -35,7 +35,7 @@ Scacchi-it core, suddiviso in:
 
 1. Motore grafico e controllo tasti
 2. motore di controllo, con parte controllo gioco a due, controllo stockfish, controllo online, Openings Trainer,undo
-3. stockfish
+3. stockfish, scaricato dal suo sito
 
 Scacchi-it Utility che collaborano con la parte core:
 
