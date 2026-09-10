@@ -52,7 +52,8 @@ Leggero e di dimensioni da pendrive. Nessuna pubblicità.
 Nasce per superare i limiti di accessibilità della FEN (slash e numeri non leggibili da screen reader NVDA/JAWS/Braille) e fornire, a differenza della FEN, un alt-text rigoroso e vocalizzabile per ogni diagramma, come richiesto dall'EAA per l'editoria digitale dal 28 giugno 2025. Open source e open data PGN.
 
 ROTN ed editori per eaa e d.l. 82/2022
-[eaa e d.l. 82/2022 con la ROTN](https://redyouman.github.io/blog/2026/09/10/rotn-per-editori.html)
+
+[eaa e d.l. 82/2022 con la ROTN](https://redyouman.github.io/2026/09/10/rotn-per-editori.html)
 
 Documentazione Scacchi-it
 [Manuale Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/tutorials/scacchiGr.txt)
