@@ -53,7 +53,7 @@ Nasce per superare i limiti di accessibilità della FEN (slash e numeri non legg
 
 ROTN ed editori per eaa e d.l. 82/2022
 
-[eaa e d.l. 82/2022 con la ROTN](https://redyouman.github.io/2026/09/10/rotn-per-editori.html)
+[diagrammi scacchi a norma con european accessibility act e legge 82/2022 con la ROTN](https://redyouman.github.io/2026/09/10/rotn-per-editori.html)
 
 Documentazione Scacchi-it
 [Manuale Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/tutorials/scacchiGr.txt)
