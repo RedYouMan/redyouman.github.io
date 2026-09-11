@@ -62,6 +62,8 @@ Documentazione Scacchi-it
 
 [Cosa è la rotn](https://redyouman.github.io/blog/2026/07/06/rotn-versus-fen.html)
 
+[Come google usa diagrammi-ALT-e-ROTN](https://redyouman.github.io/scacchi-it/rotn/accessibilit%C3%A0/2026/09/11/rotn-1.9-ebnf-iso14977-eaa.html)
+
 [what is ROTN](https://redyouman.github.io/blog/2026/07/07/what-is-rotn.html)
 
 I problemi dei portali di scacchi
