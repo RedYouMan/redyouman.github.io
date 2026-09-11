@@ -1,7 +1,6 @@
-
 ---
-title: "ROTN v1.9 - Come rendere accessibili i diagrammi scacchistici secondo EAA 82/2022 e WCAG 1.1.1"
-description: "Documento tecnico ROTN v1.9: lo standard aperto per l'alternativa testuale ai diagrammi di scacchi. Come implementare alt + ROTN in EPUB 3 per la conformità a D.Lgs 82/2022, EN 301 549 e WCAG 2.2."
+title: "ROTN v1.9: Come rendere accessibili i diagrammi scacchistici secondo EAA 82/2022 e WCAG 1.1.1"
+description: "Documento tecnico di come ROTN v1.9 sia utilizzabile nella Editoria come standard aperto per l'alternativa testuale ai diagrammi di scacchi. Come implementare alt + ROTN in EPUB 3 per la conformità a D.Lgs 82/2022, EN 301 549 e WCAG 2.2."
 keywords:
   [
     "ROTN",
@@ -16,7 +15,7 @@ keywords:
     "alt text scacchi",
     "FEN accessibile",
     "Rosario Turco",
-    "Scacchi-it"
+    "Scacchi-it",
   ]
 categories: ["Blog", "Accessibilità", "ForDevelopers"]
 author: "Rosario Turco"
@@ -32,16 +31,16 @@ Data: 2026-07-02 - Spec v1.9
 Riferimenti normativi: EPUB Accessibility 1.1, WCAG 2.2 AA, EN 301 549 v3.2.1, D.Lgs 82/2022
 
 1. Problema
-Il FEN come alt-text (r1bqkbnr/pppp...) non e' leggibile da NVDA/JAWS. Viola il principio di equivalente comprensibile.
+   Il FEN come alt-text (r1bqkbnr/pppp...) non e' leggibile da NVDA/JAWS. Viola il principio di equivalente comprensibile.
 
 2. Soluzione proposta: ROTN
-Ordine fisso T;V;B;N;M;P; in italiano, T;V;W;B;M;P; in inglese
-T = testo posizione
-V = vista
-B/N = lista pezzi formato Lettera+casella
-M = tratto
-P = ultimo numero di mossa giocato dal Bianco
-U = en-passant opzionale, Z = semimosse opzionale
+   Ordine fisso T;V;B;N;M;P; in italiano, T;V;W;B;M;P; in inglese
+   T = testo posizione
+   V = vista
+   B/N = lista pezzi formato Lettera+casella
+   M = tratto
+   P = ultimo numero di mossa giocato dal Bianco
+   U = en-passant opzionale, Z = semimosse opzionale
 
 Esempio:
 T:Matto in 2 mosse
@@ -52,10 +51,10 @@ M:B;
 P:12;
 
 3. Implementazione EPUB 3 / HTML5 a norma
-Usare figure con figcaption, img con alt breve, e pre con ROTN esteso. Questo passa Ace by DAISY.
+   Usare figure con figcaption, img con alt breve, e pre con ROTN esteso. Questo passa Ace by DAISY.
 
 4. Confronto
-FEN illeggibile da NVDA. ROTN lettura naturale tramite T+M+P. Validazione con max 16 pezzi e re obbligatorio.
+   FEN illeggibile da NVDA. ROTN lettura naturale tramite T+M+P. Validazione con max 16 pezzi e re obbligatorio.
 
 5. Per editore a norma 82/2022
-Fornire alt sintetico + blocco ROTN + validazione Ace.
+   Fornire alt sintetico + blocco ROTN + validazione Ace.
