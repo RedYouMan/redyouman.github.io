@@ -58,4 +58,4 @@ P:12;
 5. Per editore a norma 82/2022
    Fornire alt sintetico + blocco ROTN + validazione Ace.
 
-   Si consiglia prima di utilizzare questa proposta di soluzione di consultarel'autorità competente (Agid).
+   Si consiglia, prima di utilizzare questa proposta di soluzione, di consultare l'autorità competente (Agid).

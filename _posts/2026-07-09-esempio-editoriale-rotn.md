@@ -1,5 +1,5 @@
 ---
-title: "esempio editoriale per come inserire la rotn in un articolo"
+title: "Proposta per come inserire la rotn in un articolo"
 description: "blog di Rosario Turco con downloads di giochi gratuiti per non vedenti"
 keywords:
   [
@@ -14,7 +14,7 @@ keywords:
 categories: Blog
 ---
 
-# Come inserire ROTN nei tuoi contenuti
+# Proposta di come inserire ROTN nei tuoi contenuti
 
 di Rosario Turco
 
@@ -114,5 +114,5 @@ Non mettere i diagrammi è vero che si soddisfa il non vedente ma è una eresia 
 
 Buon Lavoro!
 
-Si consiglia prima di usare una qualsiasi soluzione proposta di consultare l'autorità competente (Agid).
+Si consiglia, prima di usare una qualsiasi soluzione proposta, di consultare l'autorità competente (Agid).
 
