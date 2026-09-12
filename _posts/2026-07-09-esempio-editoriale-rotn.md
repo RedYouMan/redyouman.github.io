@@ -18,7 +18,7 @@ categories: Blog
 
 di Rosario Turco
 
-Nel seguito si elencano varie soluzioni per pubblicare un articolo di scacchi per non vedenti.
+Nel seguito si elencano varie soluzioni, come proposte, per pubblicare un articolo di scacchi per non vedenti.
 
 ROTN è la Rot Notation, un formato testuale ASCII per descrivere posizioni scacchistiche accessibili agli screen reader come NVDA.
 
@@ -113,4 +113,6 @@ Negli ebook si possono continuare a mettere i diagrammi per i normodotati, con A
 Non mettere i diagrammi è vero che si soddisfa il non vedente ma è una eresia per i normodotati.
 
 Buon Lavoro!
+
+Si consiglia prima di usare una qualsiasi soluzione proposta di consultare l'autorità competente (Agid).
 
