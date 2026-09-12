@@ -64,6 +64,7 @@ Documentazione Scacchi-it
 
 [Come google usa diagrammi-ALT-e-ROTN](https://redyouman.github.io/blog/2026/09/11/rotn-1.9-ebnf-iso14977-eaa.html)
 
+[La ROTN con machine learning e AI](https://redyouman.github.io/blog/2026/09/12/rotn-e-AI.html)
 [what is ROTN](https://redyouman.github.io/blog/2026/07/07/what-is-rotn.html)
 
 I problemi dei portali di scacchi
