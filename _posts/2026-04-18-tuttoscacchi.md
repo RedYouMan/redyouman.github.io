@@ -29,7 +29,7 @@ Questa pagina è dedicata a tutti gli appassionati di scacchi. Nel seguito trove
 Scacchi-it è open source e open data.
 I sorgenti li puoi esaminare dopo aver clonato il repository col comando:
 'git clone https://github.com/RedYouMan/scacchi.git'
-Potrai esaminare come realizzare la ROTN (Readable Ordered Text Notation).
+Potrai esaminare come realizzare la ROTN versione 1.9 (Readable Ordered Text Notation).
 
 ![Immagine della scacchiera di Scacchi-it](/images/scacchi-finestra.png)
 
@@ -47,7 +47,7 @@ Scacchi-it è fortemente indicato anche per la didattica e la preparazione ai to
 Espressamente progettato da Rosario Turco, un non vedente per la inclusione e la totale autonomia dei non vedenti.
 Leggero e di dimensioni da pendrive. Nessuna pubblicità.
 
-[diagrammi scacchi a norma con european accessibility act e legge 82/2022 con la ROTN](https://redyouman.github.io/2026/09/10/rotn-per-editori.html)
+[diagrammi scacchi con la ROTN](https://redyouman.github.io/2026/09/10/rotn-per-editori.html)
 
 Documentazione Scacchi-it
 [Manuale Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/tutorials/scacchiGr.txt)
