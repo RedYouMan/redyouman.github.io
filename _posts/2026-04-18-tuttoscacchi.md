@@ -41,7 +41,7 @@ Scacchi-it ecosistema tiflologico inclusivo, italiano con la ROTN, per Windows 1
 
 Potrai giocare offline/online multiplayer Hamachi con le room, anche contro stockfish offline con 20 livelli di difficoltà, imparare aperture con un Openings Trainer che usa standard pgn, ottenere suggerimenti dal coachFEN o dal coachGame integrati.
 Potrai usare un orologio scacchistico per allenarti a partite lampo e ai tornei.
-Puoi creare qualsiasi posizione con la innovativa ROTN (Readable Ordered Text Notation.) oppure incollare a Scacchi-it una FEN disponibile.
+Puoi creare qualsiasi posizione con la innovativa ROTN versione 1.9 (Readable Ordered Text Notation.) oppure incollare a Scacchi-it una FEN disponibile.
 Utilizza sintesi vocale e una interfaccia grafica SFML (Simple & Fast Multimedia Library) con animazione delle mosse.
 Scacchi-it è fortemente indicato anche per la didattica e la preparazione ai tornei.
 Espressamente progettato da Rosario Turco, un non vedente per la inclusione e la totale autonomia dei non vedenti.
