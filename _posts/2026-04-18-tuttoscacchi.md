@@ -29,7 +29,7 @@ Questa pagina è dedicata a tutti gli appassionati di scacchi. Nel seguito trove
 Scacchi-it è open source e open data.
 I sorgenti li puoi esaminare dopo aver clonato il repository col comando:
 'git clone https://github.com/RedYouMan/scacchi.git'
-Potrai esaminare come realizzare la ROTN (Rotated Notation).
+Potrai esaminare come realizzare la ROTN (Readable Ordered Text Notation).
 
 ![Immagine della scacchiera di Scacchi-it](/images/scacchi-finestra.png)
 

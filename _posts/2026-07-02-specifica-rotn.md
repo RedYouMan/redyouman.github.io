@@ -1,5 +1,5 @@
 ---
-title: "scacchi accessibili: Specifica ROTN - Rot Notation"
+title: "scacchi accessibili: Specifica ROTN - Readable Ordered Text Notation"
 description: "Una specifica per notazione ROTN negli scacchi"
 categories: Blog
 ---
