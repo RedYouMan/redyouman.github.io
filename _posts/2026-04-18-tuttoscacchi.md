@@ -47,7 +47,7 @@ Scacchi-it è fortemente indicato anche per la didattica e la preparazione ai to
 Espressamente progettato da Rosario Turco, un non vedente per la inclusione e la totale autonomia dei non vedenti.
 Leggero e di dimensioni da pendrive. Nessuna pubblicità.
 
-**La ROTN (Rotated Notation) è stata progettata appositamente per rispettare l'European Accessibility Act (Direttiva UE 2019/882) e il D.Lgs. 82/2022 (WCAG 2.1 AA).**
+**La ROTN (Readable Ordered Text Notation.) è stata progettata appositamente per rispettare l'European Accessibility Act (Direttiva UE 2019/882) e il D.Lgs. 82/2022 (WCAG 2.1 AA).**
 
 Nasce per superare i limiti di accessibilità della FEN (slash e numeri non leggibili da screen reader NVDA/JAWS/Braille) e fornire, a differenza della FEN, un alt-text rigoroso e vocalizzabile per ogni diagramma, come richiesto dall'EAA per l'editoria digitale dal 28 giugno 2025. Open source e open data PGN.
 
