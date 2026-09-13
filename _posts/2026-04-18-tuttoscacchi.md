@@ -83,11 +83,6 @@ ad usare uno screen reader innanzitutto e la tastiera, per sapere dove sono i ta
 
 ## Articoli
 
-Editoria: un ebook con diagrammi deve essere integrato con la ROTN
-[How to write articles with rotn ](https://redyouman.github.io/blog/2026/07/09/editorial-example-rotn.html)
-
-[esempio rotn in un articolo](https://redyouman.github.io/blog/2026/07/09/esempio-editoriale-rotn.html)
-
 Come si è arrivati a progettare Scacchi-it
 [cosa è un chess engine](https://redyouman.github.io/blog/2026/05/12/chessengine.html)
 
