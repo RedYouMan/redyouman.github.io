@@ -21,6 +21,9 @@ categories: Blog
 # Tutto Scacchi di RedYouMan
 
 _ROTN v1.9: ROTN = Readable Ordered Text Notation (def. ufficiale, ex ROT Notation fino a v1.8)._
+Registrato su Zenodo (CERN) a cura di _Rosario Turco_
+DOI ROTN: https://doi.org/10.5281/zenodo.22737720
+DOI SCACCHI: https://doi.org/10.5281/zenodo.22737784
 
 Questa pagina è dedicata a tutti gli appassionati di scacchi. Nel seguito troverete la licenza , le versioni stabili di Scacchi-it e delle utility correlate, oltre ad articoli di interesse.
 
