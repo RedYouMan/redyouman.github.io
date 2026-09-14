@@ -122,3 +122,19 @@ I 100 migliori finali di scacchi
 ## Altri giochi gratuiti per non vedenti da scaricare
 
 [Pagina di download giochi](https://redyouman.github.io/blog/2025/07/27/downloads.html)
+
+## Download Scacchi-it: programma scacchi gratuito per Windows, offline e accessibile
+
+Scacchi-it (si legge Scacchi-trattino-it) è un programma di scacchi gratuito per Windows 10 e 11, open source e open data, utilizzabile offline senza pubblicità. Nato come gioco di scacchi per non vedenti e per vedenti, è adatto anche a ipovedenti grazie all'uso con screen reader e ingranditori.
+
+È un gioco di scacchi tiflologico e accessibile che permette di giocare, studiare aperture, risolvere problemi e creare lezioni. Se cerchi scacchi offline italiano, scacchi per ciechi o scacchi per ipovedenti, puoi scaricare Scacchi-it gratuitamente da questa pagina.
+
+## Per editori: proposta per diagrammi scacchistici accessibili con ROTN v1.9
+
+I diagrammi scacchistici come immagini pongono un problema di accessibilità per ebook e libri a stampa secondo WCAG 1.1.1, European Accessibility Act (EAA) e D.Lgs 82/2022. La notazione FEN, pur utile, risulta poco leggibile come alternativa testo di un diagramma scacchi.
+
+Come contributo tecnico, propongo ROTN v1.9 - Readable Ordered Text Notation: una notazione lineare leggibile pensata come alternativa testo per diagrammi scacchistici accessibili. ROTN è documentata con specifica formale EBNF ISO 14977 e depositata su Zenodo (CERN) a cura di Rosario Turco.
+
+Esempi di utilizzo editoriale, come inserire ROTN in un articolo e la specifica per notazione scacchi per ebook accessibile sono descritti in dettaglio qui: [ROTN per editori - diagrammi scacchistici accessibili](/blog/2026/09/14/rotn-per-editori.html).
+
+La valutazione di conformità della soluzione per la propria collana editoriale spetta all'editore con il proprio consulente per l'accessibilità e, ove previsto, con AGID. Quanto qui proposto non costituisce certificazione di conformità.
