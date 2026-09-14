@@ -48,6 +48,7 @@ Potrai giocare offline/online multiplayer Hamachi con le room, anche contro stoc
 Potrai usare un orologio scacchistico per allenarti a partite lampo e ai tornei.
 Puoi creare qualsiasi posizione con la innovativa ROTN versione 1.9 (Readable Ordered Text Notation.) oppure incollare a Scacchi-it una FEN disponibile. Utilizza sintesi vocale e una grafica moderna SFML (Simple & Fast Multimedia Library) con animazione delle mosse e mouse e tastiera.
 Scacchi-it è fortemente indicato anche per la didattica inclusiva e la preparazione ai tornei.
+Consigliabile come affiancamento a scacchiere tattili per una didattica completa duale.
 Espressamente progettato da Rosario Turco, un non vedente per la inclusione e la totale autonomia dei non vedenti.
 Leggero e di dimensioni da pendrive. Nessuna pubblicità.
 
