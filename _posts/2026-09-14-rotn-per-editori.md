@@ -17,10 +17,7 @@ keywords:
     "Rosario Turco",
     "Scacchi-it",
   ]
-categories: ["Blog", "Accessibilità", "ForDevelopers"]
-author: "Rosario Turco"
-date: 2026-07-02
-license: "CC BY-SA 4.0 + GPL v3"
+categories: Blog
 ---
 
 DOCUMENTO TECNICO - proposta per diagrammi scacchistici
