@@ -53,7 +53,7 @@ Consigliabile come affiancamento a scacchiere tattili per una didattica completa
 Espressamente progettato da Rosario Turco, un non vedente per la inclusione e la totale autonomia dei non vedenti.
 Leggero e di dimensioni da pendrive. Nessuna pubblicità.
 
-[diagrammi scacchi con la ROTN](https://redyouman.github.io/2026/09/10/rotn-per-editori.html)
+[diagrammi scacchi con la ROTN](https://redyouman.github.io/2026/09/14/rotn-per-editori.html)
 
 Documentazione Scacchi-it
 [Manuale Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/tutorials/scacchiGr.txt)
