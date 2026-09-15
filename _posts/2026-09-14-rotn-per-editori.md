@@ -55,4 +55,4 @@ P:12;
 5. Per editore a norma 82/2022
    Fornire alt sintetico + blocco ROTN + validazione Ace.
 
-   Attenzione: Si consiglia, prima di utilizzare questa proposta di soluzione, di consultare l'autorità competente (Agid).
+Attenzione: La valutazione di conformità della soluzione per la propria collana editoriale spetta all'editore con il proprio consulente per l'accessibilità e, ove previsto, con AGID. Quanto qui proposto non costituisce certificazione di conformità.
