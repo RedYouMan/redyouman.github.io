@@ -37,7 +37,7 @@ I sorgenti li puoi esaminare dopo aver clonato il repository col comando:
 'git clone https://github.com/RedYouMan/scacchi.git'
 Potrai esaminare come realizzare la ROTN versione 1.9 (Readable Ordered Text Notation).
 
-![Immagine della scacchiera di Scacchi-it](/images/scacchi-finestra.png)
+![Immagine della scacchiera di Scacchi-it, con console e orologio](/images/scacchi-finestra.png)
 
 ## Software runtime da scaricare
 
