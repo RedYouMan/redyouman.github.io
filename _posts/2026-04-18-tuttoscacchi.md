@@ -102,6 +102,8 @@ La FEN troppo posizionale e con informazioni spesso inutili ad uno screen reader
 
 [manuale estensioni](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/estensioni/manuale-estensioni.txt)
 
+[Scacchi-it come front-end di stockfish](https://redyouman.github.io/blog/2026/09/15/front-end-stockfish.html)
+
 [Tranelli famosi di scacchi](https://redyouman.github.io/blog/2026/07/04/Mattifamosi.html)
 
 ## Collezioni di scacchi
