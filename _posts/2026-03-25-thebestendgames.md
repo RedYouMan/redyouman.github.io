@@ -111,4 +111,3 @@ Lista accessibile per screen reader NVDA. Formato una riga per fenpos: `T:tema V
 98 | Caruana vs Aronian, 2018 | Bianco | T:Caruana vs Aronian, 2018 V:B; B:Rd4;Te2; N:Rd5; M:B P:1;
 99 | Giri vs Nakamura, 2019 | Nero | T:Giri vs Nakamura, 2019 V:N; B:Rd4;Tf3; N:Rd6; M:N P:1;
 100 | Radjabov vs Caruana, 2018 | Bianco | T:Radjabov vs Caruana, 2018 V:B; B:Pd4;Rd3; N:Re6;Pd5; M:B P:1;
-Ora puoi incollarlo direttamente su GitHub. Tutte le 300 posizioni degli altri articoli le convertiamo allo stesso modo in 5 minuti, senza cancellare nulla.
