@@ -129,6 +129,7 @@ I 100 migliori finali di scacchi
 
 Scacchi-it (si legge Scacchi-trattino-it) è un programma di scacchi gratuito per Windows 10 e 11, open source e open data, utilizzabile offline senza pubblicità. Nato come gioco di scacchi per non vedenti e per vedenti, è adatto anche a ipovedenti grazie all'uso con screen reader e ingranditori.
 
+diagrammi scacchi
 scacchi simpleEditor editor per creare database con posizioni ROTN
 scacchi gratis windows italiano offline non vedente
 scacchi gratis windows italiano offline tiflologico
