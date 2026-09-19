@@ -135,6 +135,7 @@ scacchi editor accessibilità posizioni ROTN
 
 scacchi gratis windows italiano offline non vedente
 scacchi gratis windows italiano offline tiflologico
+scacchi Scacchi-it estensioni browser per prendere la fen dai portali e ottenere la ROTN della specifica formale
 Scacchi-it è un gioco di scacchi tiflologico e accessibile che permette di giocare, studiare aperture, risolvere problemi e creare lezioni. Se cerchi scacchi offline italiano, scacchi per ciechi o scacchi per ipovedenti, puoi scaricare Scacchi-it gratuitamente da questa pagina.
 
 ## Per editori: proposta per diagrammi scacchistici accessibili con ROTN v1.9
