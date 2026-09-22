@@ -97,3 +97,7 @@ Links:
 [The complete official ROTN specification, ISO 14977](https://redyouman.github.io/blog/2026/07/02/specifica-rotn.html)
 
 [Dare voce alla fen con rotn](https://redyouman.github.io/blog/2026/07/18/estensioni-browser.html)
+
+Registrato su Zenodo (CERN) a cura di _Rosario Turco_
+DOI ROTN: https://doi.org/10.5281/zenodo.22737720
+DOI SCACCHI: https://doi.org/10.5281/zenodo.22737784
