@@ -29,6 +29,7 @@ DOI SCACCHI: https://doi.org/10.5281/zenodo.22737784
 Questa pagina è dedicata a tutti gli appassionati di scacchi. Nel seguito troverete le versioni stabili di Scacchi-it e delle utility correlate, oltre ad articoli di interesse.
 
 [Presentazione gruppo NV&V](https://redyouman.github.io/2025/07/26/giochi-gratuiti.html)
+
 [Libri di Rosario Turco](https://redyouman.github.io/blog/2026/09/22/Libri.html)
 
 ## "Scacchi-it" (pronuncia: Scacchitrattinoit)
