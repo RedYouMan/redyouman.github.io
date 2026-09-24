@@ -49,7 +49,6 @@ Scacchi-it ecosistema tiflologico inclusivo, italiano con la ROTN, per Windows 1
 
 [scarica Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/scacchiGr.7z)
 
-Non servono account, nessuna pubblicità, nessun tracciamento di dati sensibili.
 Potrai giocare offline/online multiplayer Hamachi con le room, anche contro stockfish offline con 20 livelli di difficoltà, imparare aperture con un Openings Trainer che usa standard pgn, ottenere suggerimenti dal coachFEN o dal coachGame integrati.
 Potrai usare un orologio scacchistico per allenarti a partite lampo e ai tornei.
 Potrai creare qualsiasi posizione con la innovativa ROTN versione 1.9 (Readable Ordered Text Notation) anche con il simpleEditor che ti aiuta a popolare il tuo Database di posizioni oppure incollare a Scacchi-it una FEN disponibile. Scacchi-it Utilizza sintesi vocale e una grafica moderna SFML (Simple & Fast Multimedia Library) con animazione delle mosse e utilizzo di mouse e tastiera.
@@ -143,6 +142,8 @@ scacchi editor accessibilità posizioni ROTN
 scacchi gratis windows italiano offline non vedente
 scacchi gratis windows italiano offline tiflologico
 scacchi Scacchi-it estensioni browser per prendere la fen dai portali e ottenere la ROTN della specifica formale
+scacchi offline Nessun account nessuna pubblicità nessun tracciamento dati sensibili
+
 Scacchi-it è un gioco di scacchi tiflologico e accessibile che permette di giocare, studiare aperture, risolvere problemi e creare lezioni. Se cerchi scacchi offline italiano, scacchi per ciechi o scacchi per ipovedenti, puoi scaricare Scacchi-it gratuitamente da questa pagina.
 
 ## Per editori: proposta per diagrammi scacchistici accessibili con ROTN v1.9
