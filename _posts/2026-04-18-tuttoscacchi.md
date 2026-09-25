@@ -143,6 +143,7 @@ scacchi gratis windows italiano offline non vedente
 scacchi gratis windows italiano offline tiflologico
 scacchi Scacchi-it estensioni browser per prendere la fen dai portali e ottenere la ROTN della specifica formale
 scacchi offline windows italiano tiflologico open source open data Nessun account nessuna pubblicità nessun tracciamento dati sensibili
+scacchi gratis windows italiano offline open source open data didattica
 
 Scacchi-it è un gioco di scacchi tiflologico e accessibile che permette di giocare, studiare aperture, risolvere problemi e creare lezioni. Se cerchi scacchi offline italiano, scacchi per ciechi o scacchi per ipovedenti, puoi scaricare Scacchi-it gratuitamente da questa pagina.
 
