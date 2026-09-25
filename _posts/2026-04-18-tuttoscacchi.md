@@ -1,5 +1,5 @@
 ---
-title: "tuttoscacchi di RedyouMan - Downloads:scacchi gratuiti su Windows per non vedenti e vedenti(tiflologico)"
+title: "tuttoscacchi di Rosario Turco- Downloads:scacchi gratuiti su Windows per non vedenti e vedenti(tiflologico)"
 description: "Scacchi per non vedenti, accessibilità ottimizzata per i migliori screen  reader su Windows "
 keywords:
   [
@@ -11,6 +11,7 @@ keywords:
     "JAWS",
     "Windows",
     "RedyouMan",
+    "Rosario Turco",
     "non vedenti",
     "ciechi",
     "ipovedenti",
@@ -18,7 +19,7 @@ keywords:
 categories: Blog
 ---
 
-# Tutto Scacchi di RedYouMan
+# Tutto Scacchi di Rosario Turco
 
 #`Scacchi per non vedenti su Windows: gioco gratis offline con sintesi vocale - ROTN`
 
