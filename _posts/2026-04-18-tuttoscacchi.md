@@ -156,5 +156,4 @@ I diagrammi scacchistici come immagini pongono un problema di accessibilità per
 Come contributo tecnico, propongo ROTN v1.9 - Readable Ordered Text Notation: una notazione lineare leggibile pensata come alternativa testo per diagrammi scacchistici accessibili. ROTN è documentata con specifica formale EBNF ISO 14977 e depositata su Zenodo (CERN) a cura di Rosario Turco.
 La specifica è nei link sopra.
 Esempi di utilizzo editoriale, come inserire ROTN in un articolo e la specifica per notazione scacchi per ebook accessibile sono descritti in dettaglio qui: [ROTN per editori - diagrammi scacchistici accessibili](/blog/2026/09/14/rotn-per-editori.html).
-
 La valutazione di conformità della soluzione per la propria collana editoriale spetta all'editore con il proprio consulente per l'accessibilità e, ove previsto, con AGID. Quanto qui proposto non costituisce certificazione di conformità.
