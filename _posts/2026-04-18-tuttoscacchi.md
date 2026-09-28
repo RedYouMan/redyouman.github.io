@@ -157,3 +157,5 @@ Come contributo tecnico, propongo ROTN v1.9 - Readable Ordered Text Notation: un
 La specifica è nei link sopra.
 Esempi di utilizzo editoriale, come inserire ROTN in un articolo e la specifica per notazione scacchi per ebook accessibile sono descritti in dettaglio qui: [ROTN per editori - diagrammi scacchistici accessibili](/blog/2026/09/14/rotn-per-editori.html).
 La valutazione di conformità della soluzione per la propria collana editoriale spetta all'editore con il proprio consulente per l'accessibilità e, ove previsto, con AGID. Quanto qui proposto non costituisce certificazione di conformità.
+
+scacchi progetto italiano Scacchi-it e la specifica formale ROTN Zenodo github punti di forza importanza etica sociale scientifica sportiva autorevolezza chi interessa compreso editori
