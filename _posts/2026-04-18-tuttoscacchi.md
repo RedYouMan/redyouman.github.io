@@ -163,3 +163,4 @@ La valutazione di conformità della soluzione per la propria collana editoriale 
 
 scacchi progetto italiano Scacchi-it e la specifica formale ROTN Zenodo github punti di forza importanza etica sociale scientifica sportiva autorevolezza chi interessa compreso editori
 curva di apprendimento negli scacchi attraverso l'ecosistema tiflologico Scacchi-it e la specifica formale ROTN carico cognitivo e abbandoni
+scacchi l'ecosistema tiflologico Scacchi-it e la specifica formale ROTN valutata in termini psicologici crescita potenziale preparazione ai tornei punteggio elo didattica
