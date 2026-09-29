@@ -162,3 +162,4 @@ Esempi di utilizzo editoriale, come inserire ROTN in un articolo e la specifica 
 La valutazione di conformità della soluzione per la propria collana editoriale spetta all'editore con il proprio consulente per l'accessibilità e, ove previsto, con AGID. Quanto qui proposto non costituisce certificazione di conformità.
 
 scacchi progetto italiano Scacchi-it e la specifica formale ROTN Zenodo github punti di forza importanza etica sociale scientifica sportiva autorevolezza chi interessa compreso editori
+curva di apprendimento negli scacchi attraverso l'ecosistema tiflologico Scacchi-it e la specifica formale ROTN carico cognitivo e abbandoni
