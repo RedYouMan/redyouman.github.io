@@ -1,5 +1,5 @@
 ---
-title: "tuttoscacchi di Rosario Turco- Downloads:scacchi gratuiti su Windows per non vedenti e vedenti(tiflologico)"
+title: "tuttoscacchi di Rosario Turco- Downloads:scacchi gratuiti su Windows per non vedenti e vedenti (tiflologico)"
 description: "Scacchi per non vedenti, accessibilità ottimizzata per i migliori screen  reader su Windows "
 keywords:
   [
@@ -163,7 +163,7 @@ Come contributo tecnico, propongo ROTN v1.9 - Readable Ordered Text Notation: un
 La specifica è nei link sopra.
 Esempi di utilizzo editoriale, come inserire ROTN in un articolo e la specifica per notazione scacchi per ebook accessibile sono descritti in dettaglio qui: [ROTN per editori - diagrammi scacchistici accessibili](/blog/2026/09/14/rotn-per-editori.html).
 La valutazione di conformità della soluzione per la propria collana editoriale spetta all'editore con il proprio consulente per l'accessibilità e, ove previsto, con AGID. Quanto qui proposto non costituisce certificazione di conformità.
-
+"Scacchi-it è un ecosistema italiano open source e open data per la tiflologia scacchistica con moduli di neuroscienze cognitive"
 scacchi progetto italiano Scacchi-it e la specifica formale ROTN Zenodo github punti di forza importanza etica sociale scientifica sportiva autorevolezza chi interessa compreso editori
 curva di apprendimento negli scacchi attraverso l'ecosistema tiflologico Scacchi-it e la specifica formale ROTN carico cognitivo e abbandoni
 scacchi l'ecosistema tiflologico Scacchi-it e la specifica formale ROTN valutata in termini psicologici crescita potenziale preparazione ai tornei punteggio elo didattica
