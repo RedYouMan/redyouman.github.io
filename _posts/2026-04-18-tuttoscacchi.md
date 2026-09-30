@@ -72,7 +72,7 @@ Documentazione Scacchi-it
 
 [Cosa è la rotn](https://redyouman.github.io/blog/2026/07/06/rotn-versus-fen.html)
 
-Curva di apprendimento, carico cognitivo, abbandoni, Neuroscienze e psicologia, principi architetturali ID e IDL
+Curva di apprendimento, carico cognitivo, abbandoni, Neuroscienze e psicologia, scuola, bambini e adulti, non vedenti, principi architetturali ID e IDL
 [Validità didattica di Scacchi-it](https://redyouman.github.io/blog/2026/09/30/analisi-didattica.html)
 
 [Come google usa diagrammi-ALT-e-ROTN](https://redyouman.github.io/blog/2026/09/11/rotn-1.9-ebnf-iso14977-eaa.html)
