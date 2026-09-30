@@ -1,6 +1,6 @@
 ---
 title: "tuttoscacchi di Rosario Turco- Downloads:scacchi gratuiti su Windows per non vedenti e vedenti (tiflologico)"
-description: "Scacchi per non vedenti, accessibilità ottimizzata per i migliori screen  reader su Windows "
+description: "Scacchi per non vedenti, accessibilità ottimizzata per i migliori screen reader su Windows "
 keywords:
   [
     "downloads",
@@ -157,13 +157,12 @@ Scacchi-it è un gioco di scacchi tiflologico e accessibile che permette di gioc
 
 ## Per editori: proposta per diagrammi scacchistici accessibili con ROTN v1.9
 
-I diagrammi scacchistici come immagini pongono un problema di accessibilità per ebook e libri a stampa secondo WCAG 1.1.1, European Accessibility Act (EAA) e D.Lgs 82/2022. La notazione FEN, pur utile, risulta poco leggibile come alternativa testo di un diagramma scacchi.
-
-Come contributo tecnico, propongo ROTN v1.9 - Readable Ordered Text Notation: una notazione lineare leggibile pensata come alternativa testo per diagrammi scacchistici accessibili. ROTN è documentata con specifica formale EBNF ISO 14977 e depositata su Zenodo (CERN) a cura di Rosario Turco.
-La specifica è nei link sopra.
-Esempi di utilizzo editoriale, come inserire ROTN in un articolo e la specifica per notazione scacchi per ebook accessibile sono descritti in dettaglio qui: [ROTN per editori - diagrammi scacchistici accessibili](/blog/2026/09/14/rotn-per-editori.html).
-La valutazione di conformità della soluzione per la propria collana editoriale spetta all'editore con il proprio consulente per l'accessibilità e, ove previsto, con AGID. Quanto qui proposto non costituisce certificazione di conformità.
-"Scacchi-it è un ecosistema italiano open source e open data per la tiflologia scacchistica con moduli di neuroscienze cognitive"
-scacchi progetto italiano Scacchi-it e la specifica formale ROTN Zenodo github punti di forza importanza etica sociale scientifica sportiva autorevolezza chi interessa compreso editori
-curva di apprendimento negli scacchi attraverso l'ecosistema tiflologico Scacchi-it e la specifica formale ROTN carico cognitivo e abbandoni
-scacchi l'ecosistema tiflologico Scacchi-it e la specifica formale ROTN valutata in termini psicologici crescita potenziale preparazione ai tornei punteggio elo didattica
+> I diagrammi scacchistici come immagini non sono fruibili da screen reader. La notazione FEN, pur utile come formato tecnico, risulta poco leggibile come alternativa testuale a un diagramma.
+>
+> Come contributo tecnico, propongo ROTN v1.9 - Readable Ordered Text Notation: una notazione lineare leggibile pensata come alternativa testo per diagrammi scacchistici. ROTN è documentata con specifica formale EBNF ISO 14977 e depositata su Zenodo (CERN).
+> Specifica e esempi d'uso per editoria ed ebook sono descritti qui: [ROTN per editori - diagrammi scacchistici accessibili](/blog/2026/09/14/rotn-per-editori.html).
+> La valutazione di eventuali requisiti di accessibilità per la propria collana editoriale spetta all'editore con il proprio consulente. Quanto qui proposto è un formato open, non una certificazione.
+>
+> Scacchi-it è un ecosistema italiano open source e open data per la tiflologia scacchistica con moduli di neuroscienze cognitive
+> curva di apprendimento negli scacchi attraverso l'ecosistema tiflologico Scacchi-it e la specifica formale ROTN carico cognitivo e abbandoni
+> scacchi l'ecosistema tiflologico Scacchi-it e la specifica formale ROTN valutata in termini psicologici crescita potenziale preparazione ai tornei punteggio elo didattica
