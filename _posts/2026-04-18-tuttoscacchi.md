@@ -72,9 +72,12 @@ Documentazione Scacchi-it
 
 [Cosa è la rotn](https://redyouman.github.io/blog/2026/07/06/rotn-versus-fen.html)
 
+[Validità didattica di Scacchi-it](https://redyouman.github.io/blog/2026/09/30/analisi-didattica.html)
+
 [Come google usa diagrammi-ALT-e-ROTN](https://redyouman.github.io/blog/2026/09/11/rotn-1.9-ebnf-iso14977-eaa.html)
 
 [La ROTN con machine learning e AI](https://redyouman.github.io/blog/2026/09/12/rotn-e-AI.html)
+
 [what is ROTN](https://redyouman.github.io/blog/2026/07/07/what-is-rotn.html)
 
 I problemi dei portali di scacchi
@@ -97,9 +100,8 @@ ad usare uno screen reader innanzitutto e la tastiera, per sapere dove sono i ta
 
 [Software e Documentazione completa scacchi](https://redyouman.github.io/blog/2026/08/19/didattica.html)
 
-## Articoli
+## Altri Articoli
 
-Come si è arrivati a progettare Scacchi-it
 [cosa è un chess engine](https://redyouman.github.io/blog/2026/05/12/chessengine.html)
 
 [Cosa è Scacchi-it](https://redyouman.github.io/blog/2026/05/12/motoregrafico.html)
