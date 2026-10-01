@@ -7,7 +7,7 @@ description: "blog di Rosario Turco con downloads di giochi gratuiti per ciechi 
 
 Rosario Turco
 
-Lista accessibile per screen reader NVDA. Formato una riga per fenpos: `T:tema V:vista; B:pezzi; N:pezzi; M:mossa P:numero;` Tutti i pezzi lunghezza 3.
+Lista accessibile per screen reader NVDA. Formato una riga : `T:tema V:vista; B:pezzi; N:pezzi; M:mossa P:numero;` Tutti i pezzi lunghezza 3.
 
 # | Finale | Mossa | ROTN
 
