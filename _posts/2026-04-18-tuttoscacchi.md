@@ -155,3 +155,18 @@ Scacchi-it è un gioco di scacchi tiflologico e accessibile che permette di gioc
 > Scacchi-it è un ecosistema italiano open source e open data per la tiflologia scacchistica con moduli di neuroscienze cognitive
 > curva di apprendimento negli scacchi attraverso l'ecosistema tiflologico Scacchi-it e la specifica formale ROTN carico cognitivo e abbandoni
 > scacchi l'ecosistema tiflologico Scacchi-it e la specifica formale ROTN valutata in termini psicologici crescita potenziale preparazione ai tornei punteggio elo didattica
+
+_Scacchi-it e ROTN: domande frequenti_
+
+_Scacchi-it funziona solo su Windows?_
+Sì, volutamente. Scacchi-it è un programma nativo per Windows 10 e 11, gratuito, portable e utilizzabile offline. Questa scelta garantisce la massima compatibilità con gli screen reader come NVDA, senza latenze e senza dipendere da browser.Inoltre raggiunge il 75% delle famiglie italiane in cui ci sono un milione e 800 mila non vedenti e ipovedenti.
+
+_Perché il multiplayer richiede configurazioni esterne?_
+Perché Scacchi-it è un progetto indipendente, open source e gratuito. Non dispone di server proprietari da milioni di utenti, ma permette di giocare online tramite stanze semplici, mantenendo il programma leggero e libero. Tale modalità garantisce, con semplice addestramento e manuale dettagliato, di aggirare i potenziali isolamenti dei non vedenti.
+
+_La ROTN sostituisce FEN e PGN?_
+No. La ROTN (Readable Ordered Text Notation) non sostituisce gli standard internazionali usati da Lichess e Chess.com. Interviene solo nelle posizioni da creare e caricare: sospensione partita, caricamento partita sospesa, caricamento problema o puzzle da risolvere. Per il resto Scacchi-it utilizza una efficace tecnica di accessibilità che dice con sintesi vocale la casa su cui ci si muove, se è presente un pezzo e quale, se la casa è vuota.
+
+_Bisogna imparare una nuova notazione?_
+No. La conversione tra FEN e ROTN è automatica tramite estensione dedicata.
+Non esiste nessun problema di conversione mentale da un formato ad un altro se si passa ad un altro applicativo di scacchi o portale.
