@@ -155,11 +155,8 @@ Scacchi-it è un gioco di scacchi tiflologico e accessibile che permette di gioc
 > Scacchi-it è un ecosistema italiano open source e open data per la tiflologia scacchistica con moduli di neuroscienze cognitive
 > curva di apprendimento negli scacchi attraverso l'ecosistema tiflologico Scacchi-it e la specifica formale ROTN carico cognitivo e abbandoni
 > scacchi l'ecosistema tiflologico Scacchi-it e la specifica formale ROTN valutata in termini psicologici crescita potenziale preparazione ai tornei punteggio elo didattica
-> Ecco i ritocchi già fatti, copia e incolla questo blocco al posto del tuo attuale blocco FAQ. Ho corretto ortografia, SEO e tono per Google.
-
-Sostituisci da `_Scacchi-it e ROTN: domande frequenti` in giù con questo:
-
----
+>
+> Scacchi-it è una _piattaforma_ scacchistica completa per i _metodi di allenamento dei non vedenti a casa_. L'_ecosistema_ è progettato per essere _utilizzabile_ al 100% con screen reader NVDA, JAWS e display Braille, senza bisogno di vedere la scacchiera. A casa puoi _allenarti_ offline contro Stockfish, studiare aperture, usare il coachFEN e l'orologio per partite lampo. A differenza di altre piattaforme online, Scacchi-it è un _ecosistema_ tiflologico _utilizzabile_ anche senza internet, pensato per _non vedenti_ e vedenti insieme.
 
 ### Scacchi-it e ROTN: domande frequenti - Risposta ufficiale ai presunti difetti e limiti
 
@@ -199,7 +196,7 @@ ROTN è uno standard aperto documentato con specifica formale EBNF ISO 14977, de
     },
     {
       "@type": "Question",
-      "name": "Perché il multiplayer di Scacchi-it richiede Hamachi? Limiti infrastruttura?",
+       "name": "Perché il multiplayer di Scacchi-it richiede Hamachi? Limiti infrastruttura?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Per scelta di privacy, leggerezza e autonomia. Scacchi-it è indipendente, open source e gratuito, senza server proprietari, account o tracciamento. Il multiplayer via Hamachi/Radmin mantiene i file PGN e ROTN locali e di proprietà dell'utente."
