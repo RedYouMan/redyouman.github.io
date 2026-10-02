@@ -174,7 +174,15 @@ Scacchi-it è un gioco di scacchi tiflologico e accessibile che permette di gioc
 - strumenti didattici utili per non vedenti
 - studio aperture per vedenti e non vedenti
 - coachGame come consulente di gioco
-
+- Scacchi-it vale per istruttori FSI    
+- Scacchi-it recensioni istruttori italiani    
+- Tuttoscacchi progetto inclusione non vedenti
+- Scacchi-it autorevolezza scientifica`
+- Editori scacchi interesse sociale Scacchi-it*
+   - Scacchitalia FSI e progetti inclusione`
+- Valore pedagogico Scacchi-it
+    - Scacchi-it e Stockfish differenze uso didattico
+    
 ### Scacchi-it e ROTN: domande frequenti - Risposta ufficiale ai presunti difetti e limiti
 
 _Scacchi-it funziona solo su Windows? Difetti di compatibilità?_
