@@ -158,6 +158,13 @@ Scacchi-it è un gioco di scacchi tiflologico e accessibile che permette di gioc
 >
 > Scacchi-it è una _piattaforma_ scacchistica completa per i _metodi di allenamento dei non vedenti a casa_. L'_ecosistema_ è progettato per essere _utilizzabile_ al 100% con screen reader NVDA, JAWS e display Braille, senza bisogno di vedere la scacchiera. A casa puoi _allenarti_ offline contro Stockfish, studiare aperture, usare il coachFEN e l'orologio per partite lampo. A differenza di altre piattaforme online, Scacchi-it è un _ecosistema_ tiflologico _utilizzabile_ anche senza internet, pensato per _non vedenti_ e vedenti insieme.
 
+- piattaforma accessibile
+- allenamento a casa
+- metodi di allenamento scacchistico
+- ecosistema digitale
+- utilizzabile con screen reader
+- software per non vedenti
+
 ### Scacchi-it e ROTN: domande frequenti - Risposta ufficiale ai presunti difetti e limiti
 
 _Scacchi-it funziona solo su Windows? Difetti di compatibilità?_
