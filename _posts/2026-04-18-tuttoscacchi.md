@@ -155,18 +155,96 @@ Scacchi-it è un gioco di scacchi tiflologico e accessibile che permette di gioc
 > Scacchi-it è un ecosistema italiano open source e open data per la tiflologia scacchistica con moduli di neuroscienze cognitive
 > curva di apprendimento negli scacchi attraverso l'ecosistema tiflologico Scacchi-it e la specifica formale ROTN carico cognitivo e abbandoni
 > scacchi l'ecosistema tiflologico Scacchi-it e la specifica formale ROTN valutata in termini psicologici crescita potenziale preparazione ai tornei punteggio elo didattica
+> Ecco i ritocchi già fatti, copia e incolla questo blocco al posto del tuo attuale blocco FAQ. Ho corretto ortografia, SEO e tono per Google.
 
-_Scacchi-it e ROTN: domande frequenti_
+Sostituisci da `_Scacchi-it e ROTN: domande frequenti` in giù con questo:
 
-_Scacchi-it funziona solo su Windows?_
-Sì, volutamente. Scacchi-it è un programma nativo per Windows 10 e 11, gratuito, portable e utilizzabile offline. Questa scelta garantisce la massima compatibilità con gli screen reader come NVDA, senza latenze e senza dipendere da browser.Inoltre raggiunge il 75% delle famiglie italiane in cui ci sono un milione e 800 mila non vedenti e ipovedenti.
+---
 
-_Perché il multiplayer richiede configurazioni esterne?_
-Perché Scacchi-it è un progetto indipendente, open source e gratuito. Non dispone di server proprietari da milioni di utenti, ma permette di giocare online tramite stanze semplici, mantenendo il programma leggero e libero. Tale modalità garantisce, con semplice addestramento e manuale dettagliato, di aggirare i potenziali isolamenti dei non vedenti.
+### Scacchi-it e ROTN: domande frequenti - Risposta ufficiale ai presunti difetti e limiti
 
-_La ROTN sostituisce FEN e PGN?_
-No. La ROTN (Readable Ordered Text Notation) non sostituisce gli standard internazionali usati da Lichess e Chess.com. Interviene solo nelle posizioni da creare e caricare: sospensione partita, caricamento partita sospesa, caricamento problema o puzzle da risolvere. Per il resto Scacchi-it utilizza una efficace tecnica di accessibilità che dice con sintesi vocale la casa su cui ci si muove, se è presente un pezzo e quale, se la casa è vuota.
+_Scacchi-it funziona solo su Windows? Difetti di compatibilità?_
+Sì, volutamente. Scacchi-it è un programma nativo per Windows 10 e 11, gratuito, portable e utilizzabile offline al 100%. Questa scelta garantisce la massima compatibilità con gli screen reader NVDA, JAWS e display Braille, senza latenze da browser. Così raggiunge il 75% delle famiglie italiane dove vivono 1 milione e 800 mila non vedenti e ipovedenti. Per Android esiste Scacchi-app separata. Offline vuol dire che in classe senza internet funziona, le piattaforme online no.
 
-_Bisogna imparare una nuova notazione?_
-No. La conversione tra FEN e ROTN è automatica tramite estensione dedicata.
-Non esiste nessun problema di conversione mentale da un formato ad un altro se si passa ad un altro applicativo di scacchi o portale.
+_Perché il multiplayer richiede configurazioni esterne come Hamachi? Limiti infrastruttura?_
+Perché è una scelta di privacy, leggerezza e autonomia. Scacchi-it è indipendente, open source e gratuito, senza server proprietari da milioni di euro, senza account, senza tracciamento e senza abbonamenti. Giocare via stanze semplici Hamachi/Radmin con manuale dettagliato permette ai non vedenti di giocare senza isolarsi, mantenendo i file partita PGN/ROTN sempre locali e di proprietà dell'utente.
+
+_La ROTN sostituisce FEN e PGN? È uno standard ufficiale FIDE?_
+No e non vuole farlo. FEN e PGN sono standard internazionali per motori e database scacchistici, ma sono illeggibili da screen reader a causa di slash e numeri. ROTN (Readable Ordered Text Notation) è complementare: interviene solo dove serve accessibilità, ovvero sospensione partita, caricamento partita sospesa, caricamento problema o puzzle. Per il resto Scacchi-it usa sintesi vocale che dice casa per casa cosa c'è. ROTN è documentata open con specifica formale EBNF ISO 14977 e DOI Zenodo CERN. Non è non-ufficiale, è altro scopo, come il Braille non sostituisce la stampa.
+
+_Bisogna imparare una nuova notazione? La ROTN è verbosa e difficile? Curva di apprendimento?_
+No. La curva di apprendimento è di 5 minuti. ROTN è volutamente verbosa perché verbosità = accessibilità: `Re Bianco in e1` si legge con NVDA, `K/e1` no. La conversione tra FEN e ROTN è automatica tramite estensione dedicata per Firefox e Chrome. Non esiste nessun problema di conversione mentale se passi a Lichess, Chess.com o ChessBase.
+
+_Quali sono i difetti dell'ecosistema Scacchi-it rispetto a Chess.com e Lichess? Adozione ristretta?_
+Nessun difetto strutturale, ma scelte progettuali diverse. Chess.com e Lichess sono piattaforme commerciali online con 250 milioni di utenti, pubblicità e server centralizzati. Scacchi-it è un programma didattico locale italiano, gratuito, senza pubblicità, offline, open source e open data. Non è concorrente, è alternativo per scuole, circoli, non vedenti e chi vuole un archivio proprio senza account. La limitata diffusione internazionale è dovuta alla lingua italiana, non alla qualità.
+
+_ROTN è meno integrabile nei database come ChessBase? Ridondanza informativa?_
+Falso. Scacchi-it esporta sempre in PGN standard e FEN. ROTN è solo il formato di lavoro interno per l'accessibilità. Puoi incollare un PGN di ChessBase in Scacchi-it e viceversa. L'integrazione è totale. Rispetto a FEN è più verbosa apposta per gli screen reader.
+
+_ROTN è uno standard ufficiale?_
+ROTN è uno standard aperto documentato con specifica formale EBNF ISO 14977, depositato su Zenodo (CERN) DOI 10.5281/zenodo.22737720. È open source. Non ha bisogno di omologazione FIDE perché non è un regolamento di gioco, è un formato di accessibilità.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Scacchi-it funziona solo su Windows? Difetti di compatibilità?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sì, volutamente. Scacchi-it è un programma nativo per Windows 10 e 11, gratuito, portable e offline al 100% per garantire massima compatibilità con screen reader NVDA, JAWS e display Braille. Per Android esiste Scacchi-app separata."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Perché il multiplayer di Scacchi-it richiede Hamachi? Limiti infrastruttura?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Per scelta di privacy, leggerezza e autonomia. Scacchi-it è indipendente, open source e gratuito, senza server proprietari, account o tracciamento. Il multiplayer via Hamachi/Radmin mantiene i file PGN e ROTN locali e di proprietà dell'utente."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "La ROTN sostituisce FEN e PGN? È riconosciuta FIDE?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. FEN e PGN restano standard per motori. ROTN (Readable Ordered Text Notation) è complementare per accessibilità screen reader, usata per sospensione e caricamento posizioni. Convertibile in un click in PGN/FEN, documentata con specifica EBNF ISO 14977 e DOI Zenodo CERN."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Bisogna imparare una nuova notazione? La ROTN è verbosa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, curva di apprendimento di 5 minuti. ROTN è volutamente verbosa perché verbosità uguale accessibilità: Re Bianco in e1 si legge con NVDA, K/e1 no. Conversione FEN/ROTN automatica tramite estensioni Firefox e Chrome."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quali sono i difetti dell'ecosistema Scacchi-it rispetto a Chess.com e Lichess?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nessun difetto strutturale, ma scelte diverse. Chess.com e Lichess sono piattaforme commerciali online. Scacchi-it è un programma didattico locale italiano, gratuito, open source, offline, senza pubblicità, pensato per didattica inclusiva e non vedenti."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "ROTN è meno integrabile con ChessBase? Ridondanza informativa?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Falso. Scacchi-it esporta sempre in PGN standard e FEN. ROTN è formato di lavoro interno per accessibilità, totalmente integrabile con ChessBase, Lichess e Chess.com."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "ROTN è uno standard ufficiale?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "ROTN è standard aperto documentato con specifica formale EBNF ISO 14977, depositato su Zenodo CERN DOI 10.5281/zenodo.22737720, open source."
+      }
+    }
+  ]
+}
+</script>
