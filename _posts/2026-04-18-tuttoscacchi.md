@@ -21,6 +21,8 @@ categories: Blog
 
 # Tutto Scacchi di Rosario Turco
 
+Scacchi-it (si legge Scacchi-trattino-it)
+
 #`Scacchi per non vedenti su Windows: gioco gratis offline con sintesi vocale - ROTN`
 
 _ROTN v1.9: ROTN = Readable Ordered Text Notation (def. ufficiale, ex ROT Notation fino a v1.8)._
@@ -35,7 +37,7 @@ Questa pagina è dedicata a tutti gli appassionati di scacchi. Nel seguito trove
 
 [Libri di Rosario Turco](https://redyouman.github.io/blog/2026/09/22/libri.html)
 
-## "Scacchi-it" (pronuncia: Scacchitrattinoit)
+## "Scacchi-it"
 
 Scacchi-it è open source e open data.
 I sorgenti li puoi esaminare dopo aver clonato il repository col comando:
@@ -129,7 +131,7 @@ I 100 migliori finali di scacchi
 
 ## Download Scacchi-it: programma scacchi gratuito per Windows, offline e accessibile
 
-Scacchi-it (si legge Scacchi-trattino-it) è un programma di scacchi gratuito per Windows 10 e 11, open source e open data, utilizzabile offline senza pubblicità. Nato come gioco di scacchi per non vedenti e per vedenti, è adatto anche a ipovedenti grazie all'uso con screen reader e ingranditori.
+Scacchi-it è un programma di scacchi gratuito per Windows 10 e 11, open source e open data, utilizzabile offline senza pubblicità. Nato come gioco di scacchi per non vedenti e per vedenti, è adatto anche a ipovedenti grazie all'uso con screen reader e ingranditori.
 
 diagrammi scacchi accessibili tiflologico
 scacchi simpleEditor editor database con posizioni ROTN
@@ -174,15 +176,15 @@ Scacchi-it è un gioco di scacchi tiflologico e accessibile che permette di gioc
 - strumenti didattici utili per non vedenti
 - studio aperture per vedenti e non vedenti
 - coachGame come consulente di gioco
-- Scacchi-it vale per istruttori FSI    
-- Scacchi-it recensioni istruttori italiani    
+- Scacchi-it vale per istruttori FSI
+- Scacchi-it recensioni istruttori italiani
 - Tuttoscacchi progetto inclusione non vedenti
 - Scacchi-it autorevolezza scientifica`
-- Editori scacchi interesse sociale Scacchi-it*
-   - Scacchitalia FSI e progetti inclusione`
+- Editori scacchi interesse sociale Scacchi-it\*
+  - Scacchitalia FSI e progetti inclusione`
 - Valore pedagogico Scacchi-it
-    - Scacchi-it e Stockfish differenze uso didattico
-    
+  - Scacchi-it e Stockfish differenze uso didattico
+
 ### Scacchi-it e ROTN: domande frequenti - Risposta ufficiale ai presunti difetti e limiti
 
 _Scacchi-it funziona solo su Windows? Difetti di compatibilità?_
