@@ -197,6 +197,7 @@ Scacchi-it è un gioco di scacchi tiflologico e accessibile che permette di gioc
 - giochi NV&V
 - giochi per non vedenti gratis
 - scacchi per non vedenti download
+- neuroscienze e psicologia ROTN = Readable Ordered Text Notation
 
 ### Scacchi-it e ROTN: domande frequenti - Risposta ufficiale ai presunti difetti e limiti
 
