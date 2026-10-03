@@ -186,6 +186,17 @@ Scacchi-it è un gioco di scacchi tiflologico e accessibile che permette di gioc
 - Valore pedagogico Scacchi-it
   - Scacchi-it e Stockfish differenze uso didattico
 - aggiornamenti periodici
+- Scacchi-it
+- scacchi Scacchi-it
+- NV&V
+- gruppo NV&V
+- Gruppo NV&V scacchi
+- Scacchi-it download
+- Scacchi-it gratis
+- Scacchi-it giochi
+- giochi NV&V
+- giochi per non vedenti gratis
+- scacchi per non vedenti download
 
 ### Scacchi-it e ROTN: domande frequenti - Risposta ufficiale ai presunti difetti e limiti
 
