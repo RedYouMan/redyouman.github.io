@@ -1,16 +1,7 @@
 ---
 title: "Semantic Engine for Blinds - Downloader - accessibilità digitale per non vedenti "
 description: "Un semplice e utile downloader per non vedenti "
-keywords:
-  [
-    "downloader",
-    "SE4B",
-    accessibilità"autonomia",
-    "inclusione",
-    "non vedenti",
-    "software",
-  ]
-categories: Blog
+categories: "Blog"
 ---
 
 ## Semantic Engine for Blinds- Downloader
