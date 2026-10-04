@@ -47,33 +47,28 @@ Qui sta la differenza tra un'app di primo livello e un ecosistema. Scacchi-it se
 In questo metodo la ROTN non viene letta in cuffia tutta d'un fiato per fissare il pattern. Il pattern non si fissa ascoltando un elenco.
 Vengono letti in cuffia solo le posizioni dei re, per dare orientamento ai non vedenti.
 
-Riprendiamo il metodo Woodpecker di Axel Smith e Hans Tikkanen e lo adattiamo in versione tiflologica con ROTN e orologio tiflologico. Gli istruttori ti danno 5 posizioni ROTN con stesso tema tattico e te le mettono in cartella `problemi`. Tu carichi con CTRL+P il primo problema ma non senti la ROTN in cuffia, e questo è voluto. Devi navigare sulla scacchiera per capire come sono posti i pezzi. Ti viene detta solo la posizione dei due Re, ed è l'informazione chiave per orientarti subito, senza carico estraneo.
+Riprendiamo il metodo Woodpecker di Axel Smith e Hans Tikkanen e lo adattiamo in versione tiflologica con ROTN e orologio tiflologico. Gli istruttori ti danno 5 posizioni ROTN con stesso tema tattico e un file di testo di soluzioni per ogni file ROTN.
+Gli istruttori o tu stesso metti i file in cartella problemi. Tu carichi con CTRL+P il primo problema ma non senti la ROTN in cuffia, e questo è voluto. Devi navigare sulla scacchiera per capire come sono posti i pezzi. Ti viene detta solo la posizione dei due Re, ed è l'informazione chiave per orientarti subito, senza carico estraneo.
 
 Perché così? Perché il pattern scacchistico nel non vedente si fissa con esplorazione attiva, non con ascolto passivo. Se ti leggessi tutta la ROTN prima di rispondere, torneresti al rumore delle altre applicazioni. Il cervello esperto fa chunking spaziale, non memorizza un elenco verbale. La ROTN qui è il contenitore che permette all'istruttore di costruirti il database omogeneo, non è la lettura del test.
 
 Come fare, passo passo, da solo:
 
-Primo passo. Se devi usare il simpleEditor assicurati che il file ste.cnf sia puntato alla cartella scacchi-it.
-Secondo passo: apri il simpleEditor e crea 5 file ROTN nella cartella problemi, con lo stesso tema tattico. Ad esempio solo forchetta di Cavallo. Non mischiare i temi all'inizio. Salva in cartella `problemi`.
-O magari i cinque file ROTN li hai avuti da un istruttore. In tal caso li metti tu nella cartella problemi e non usi il simpleEditor.
+Primo passo: creati un file di testo con la lista dei file ROTN, accanto ai quali potrai mettere dopo le risposte, una per ogni ciclo.
 
-Terzo passo: apri Scacchi-it e imposta l'orologio tiflologico a 2 minuti x numero delle posizioni ROTN poste in cartella problemi. Hai messo 5 posizioni, imposti 10 minuti. È il tuo primo ciclo lento.
+Secondo passo: apri Scacchi-it e imposta l'orologio tiflologico a 3 minuti x numero delle posizioni ROTN poste in cartella problemi. Hai messo 5 posizioni, imposti 15 minuti. È il tuo primo ciclo lento.
 
-Quarto passo: fai partire il test. carica la prima ROTN su Scacchi-it. Senti solo dove sono i due Re. Ora esplori tu la scacchiera e ricostruisci il pattern con i cursori. Dai una risposta su ognuna con una sola mossa, quella risolutiva. Ti segni la mossa fatta su un file di testo o appunto Braille.
+Terzo passo: fai partire il test. Dall'elenco di file che ti sei creato, segui un ordine casuale e carica con CTRL+P un file su Scacchi-it. Senti solo dove sono i due Re. Ora esplora la scacchiera e ricostruisci il pattern con i cursori. Dai una risposta su ogni posizione con una sola mossa , quella risolutiva ed esci. Ti segni la mossa fatta sul file di testo .
 
-Quinto passo: termini i 5 test. Solo alla fine confronti a mano ogni mossa risposta con un elenco soluzioni scritto su un file txt.
+Quarto passo: termini i 5 test. Solo alla fine confronti a mano ogni mossa risposta e registrata sul file di testo, con un elenco soluzioni che ti era stato dato dagli istruttori.
 
-Sesto passo: resetti l'orologio e imposti un tempo ridotto pari a 2 minuti in meno. Quindi 8minuti per 5 posizioni. Rifai le stesse 5. Poi riduci a 6, 4, fino a che il tempo settato è di 2 minuti totali per tutti e 5. Stai trasformando System 2 lento in System 1 automatico di Kahneman. È deliberate practice di Ericsson. Quando arrivi a 2 minuti totali, quel tema non lo calcoli più, lo vedi.
+Quinto passo: resetti l'orologio e imposti un tempo ridotto pari a 3 minuti in meno. Quindi 12minuti per 5 posizioni. Rifai le stesse 5. Poi riduci a 9, 6, fino a che il tempo settato è di 3 minuti totali per tutti e 5. Stai trasformando System 2 lento in System 1 automatico di Kahneman. È deliberate practice di Ericsson. Quando arrivi a 3 minuti totali, quel tema non lo calcoli più, lo vedi.
 
 #### Test Capablanca - proposta per la valutazione posizionale
 
 Se il Woodpecker allena la tattica, il test Capablanca allena la strategia.
 
-Prendi 10 ROTN di finali didattici di Capablanca dal tuo archivio. Mettili nella tua cartella Database esterna. Caricane una alla volta con incolla-ROTN. Senza muovere nessun pezzo, solo esplorando in cuffia, valuta: chi sta meglio e perché? Re più attivo, struttura pedonale, case deboli. Registra la tua valutazione. Poi fai giocare Stockfish livello 12 e confronta con CoachFEN.
-
-#### Architettura file per istruttori - pensata per durare
-
-simpleEditor se configurato su cartella scacchi-it crea file direttamente in `problemi` o `sospensioni`. Problemi dopo caricamento rimangono, libreria permanente. Sospensioni dopo caricamento vengono cancellati, per esercizi al volo. Per gli istruttori: create una cartella Database fuori da scacchi-it. Popolate il vostro database didattico lì. Quando esce un aggiornamento, cancellate scacchi-it, unzippate scacchigr.7z che ricrea scacchi-it nuova. Il vostro Database esterno resta intatto.
+Prendi 10 ROTN di finali didattici di Capablanca dal tuo archivio. Mettili nella tua cartella problemi. Caricane una alla volta con CTRL+P . Senza muovere nessun pezzo, solo esplorando in cuffia, valuta: chi sta meglio e perché? Re più attivo, struttura pedonale, case deboli. Registra la tua valutazione. Poi fai il confronto con CoachFEN o fai giocare stockfish a livello 12.
 
 #### Conclusione neuro-psicologica
 
