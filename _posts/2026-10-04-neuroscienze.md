@@ -58,6 +58,7 @@ Primo passo: creati un file di testo con la lista dei file ROTN, accanto ai qual
 
 Secondo passo: apri Scacchi-it e imposta l'orologio tiflologico a 3 minuti x numero delle posizioni ROTN poste in cartella problemi. Hai messo 5 posizioni, imposti 15 minuti. È il tuo primo ciclo lento.
 L'orologio lo usi considerando solo la parte del tempo del bianco. Questo significa che quando hai finito un test lo fai passare al nero, mentre se ricarichi un altro test lo rimandi poi sul bianco. Quindi ti basi solo sul tempo trascorso del bianco.
+L'obiettivo è di farcela a rispondere a tutti i test nel tempo assegnato. Se non ce la facciamo, si ricomincia il ciclo daccapo.
 
 Terzo passo: fai partire il test. Dall'elenco di file che ti sei creato, segui un ordine casuale e carica con CTRL+P un file su Scacchi-it. Senti solo dove sono i due Re. Ora esplora la scacchiera e ricostruisci il pattern con i cursori. Dai una risposta su ogni posizione con una sola mossa , quella risolutiva ed esci. Ti segni la mossa fatta sul file di testo .
 
