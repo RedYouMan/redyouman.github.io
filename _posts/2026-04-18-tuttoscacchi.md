@@ -77,6 +77,9 @@ Documentazione Scacchi-it
 Curva di apprendimento, carico cognitivo, abbandoni, Neuroscienze e psicologia, scuola, bambini e adulti, non vedenti, principi architetturali ID e IDL
 [Validità didattica di Scacchi-it](https://redyouman.github.io/blog/2026/09/30/analisi-didattica.html)
 
+neuroscienze e Scacchi-it
+[Neuroscienze e Scacchi-it](https://redyouman.github.io/blog/2026/10/04/neuroscienze.html)
+
 [Come google usa diagrammi-ALT-e-ROTN](https://redyouman.github.io/blog/2026/09/11/rotn-1.9-ebnf-iso14977-eaa.html)
 
 [La ROTN con machine learning e AI](https://redyouman.github.io/blog/2026/09/12/rotn-e-AI.html)
