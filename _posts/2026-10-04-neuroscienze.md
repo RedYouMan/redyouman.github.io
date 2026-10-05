@@ -32,14 +32,15 @@ Durante lo sviluppo di Scacchi-it abbiamo usato un metodo che in neuroscienze si
 
 Un altro dettaglio che sembra piccolo ma cambia tutto è il posizionamento intelligente. Al cambio turno Scacchi-it non ti lascia perso sulla scacchiera a cercare con i cursori. Ti dice: ora sei in casa e7 se sei il Nero, e2 se sei il Bianco. Scacchi-it non fa correre coi cursori nel proprio schieramento. È un principio puro di Universal Design: porta l'utente dove deve agire, senza dargli il suggerimento su cosa fare, e lo posiziona sempre sulla stessa casa che diventa un'ancora stabile per la costruzione della sua mappa mentale.
 La mappa mentale del giocatore non vedente deve essere la scacchiera, una matrice 8x8 e non una stringa lineare.
-Per questo in Scacchi-it il non vedente naviga sulla scacchiera come farebbe con una scacchiera tattiile. Questo aiuta alla creazione della mappa mentale e al riconoscimento dei pattern.
+Per questo in Scacchi-it il non vedente naviga sulla scacchiera come farebbe con una scacchiera tattile. Questo aiuta alla creazione della mappa mentale e al riconoscimento dei pattern.
+
+> Questa necessità di una matrice 8x8 e non di una stringa lineare è la stessa che emerge nelle partite alla cieca: nessun giocatore alla cieca memorizza una FEN come elenco, ma ricostruisce mentalmente la scacchiera con ancore stabili. La differenza è che nel gioco alla cieca la scacchiera è immaginata, in Scacchi-it è esplorata con i cursori, ma in entrambi i casi la mappa mentale resta spaziale, non verbale.
 
 #### Perché Scacchi-it non lo abbandoni dopo 2 mesi? Perché scala
 
 Qui sta la differenza tra un'app di primo livello e un ecosistema. Scacchi-it segue la teoria del Flow di Mihaly Csikszentmihalyi. Il Flow, lo stato di massima prestazione e soddisfazione, nasce quando la sfida è pari alla competenza. Se la sfida è troppo alta ti frustri, se è troppo bassa ti annoi. Scacchi-it ti offre 21 livelli Stockfish offline. Puoi iniziare dal livello 0 e salire di un livello alla volta, in modo graduale. Poi hai il CoachGame che analizza una partita intera che hai registrato e ti insegna dove hai sbagliato, e il CoachFEN che analizza una singola posizione. Hai l'Openings Trainer per costruire il tuo repertorio PGN, parcellizzando la complessità, che è alla base della neuroplasticità mirata di cui parla Ericsson con la deliberate practice. Ti scarichi i file PGN da un sito ufficiale di archivi PGN, quelli delle aperture desiderate, e cresci dentro Scacchi-it senza mai dover cambiare software.
 Il blog fornisce un downloader semantico per non vedenti pensato proprio per questo:
 
-[downloader semantico](https://redyouman.github.io/blog/2026/08/12/downloader4blinds.html)
 [downloader semantico](https://redyouman.github.io/blog/2026/08/12/downloader4blinds.html)
 
 #### La ROTN interviene solo quando serve
@@ -79,7 +80,7 @@ Infine il metodo Scacchi-it: registra la partita con stockfish, poi valutala con
 
 #### Conclusione neuro-psicologica
 
-Scacchi-it segue la filosofia della scacchiera tattile: esplori la scacchiera e ti alleni per i tornei, ma trasforma una curva molto ripida e solo tattile in una curva graduale e multimodale, audio più tattile più Braille più digitale. Il carico estraneo passa da alto a minimo grazie a feedback immediato e ROTN ordinata. L'abbandono passa da alto a basso grazie a 20 livelli scalabili, multiplayer Hamachi alla pari vedenti e non vedenti, inclusione sociale. Permette addestramento autonomo a casa, didattica inclusiva a corsi FSI, didattica duale con facilità di passaggio da Scacchi-it a scacchiera tattile. Avvicina non vedenti agli scacchi e permette lettura facile di dispense con diagrammi e ROTN.
+Scacchi-it segue la filosofia della scacchiera tattile: esplori la scacchiera e ti alleni per i tornei, ma trasforma una curva molto ripida e solo tattile in una curva graduale e multimodale, audio più tattile più Braille più digitale. Il carico estraneo passa da alto a minimo grazie a feedback immediato e ROTN ordinata. L'abbandono passa da alto a basso grazie a 21 livelli scalabili, multiplayer Hamachi alla pari vedenti e non vedenti, inclusione sociale. Permette addestramento autonomo a casa, didattica inclusiva a corsi FSI, didattica duale con facilità di passaggio da Scacchi-it a scacchiera tattile. Avvicina non vedenti agli scacchi e permette lettura facile di dispense con diagrammi e ROTN.
 
 Non è un'app di primo livello. È un ecosistema tiflologico italiano, gratis, portable, con ROTN, che ti porta da principiante a Maestro senza farti cambiare software.
 
