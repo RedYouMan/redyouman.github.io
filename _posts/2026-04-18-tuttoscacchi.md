@@ -6,7 +6,7 @@ keywords:
     "downloads",
     "scacchi",
     "gratis",
-    screen reader,
+    "screen reader",
     "NVDA",
     "JAWS",
     "Windows",
@@ -52,7 +52,7 @@ Scacchi-it ecosistema tiflologico inclusivo, italiano con la ROTN, per Windows 1
 
 [scarica Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/scacchiGr.7z)
 
-Potrai giocare offline/online multiplayer Hamachi con le room, anche contro stockfish offline con 20 livelli di difficoltà, imparare aperture con un Openings Trainer che usa standard pgn, ottenere suggerimenti dal coachFEN o dal coachGame integrati.
+Potrai giocare offline/online multiplayer Hamachi con le room, anche contro stockfish offline con 21 livelli di difficoltà, imparare aperture con un Openings Trainer che usa standard pgn, ottenere suggerimenti dal coachFEN o dal coachGame integrati.
 Potrai usare un orologio scacchistico per allenarti a partite lampo e ai tornei.
 Potrai creare qualsiasi posizione con la innovativa ROTN versione 1.9 (Readable Ordered Text Notation) anche con il simpleEditor che ti aiuta a popolare il tuo Database di posizioni oppure incollare a Scacchi-it una FEN disponibile o una ROTN con incolla-ROTN.
 ROTN+simpleEditor = file ROTN creati sempre corretti.
@@ -163,6 +163,8 @@ Scacchi-it è un gioco di scacchi tiflologico e accessibile che permette di gioc
 
 > Scacchi-it non è un gioco per non vedenti. È una palestra neuroscientifica inclusiva dove vedenti e non vedenti si allenano fianco a fianco contro Stockfish a 21 livelli, con carico cognitivo ottimizzato e curva di apprendimento multimodale.
 
+### Cosa chiedono spesso i lettori
+
 - Rosario Turco Scacchi-it
 - offline windows non vedente
 - piattaforma accessibile
@@ -203,6 +205,31 @@ Scacchi-it è un gioco di scacchi tiflologico e accessibile che permette di gioc
 - giochi per non vedenti gratis
 - scacchi per non vedenti download
 - neuroscienze e psicologia ROTN = Readable Ordered Text Notation
+- ROTN Readable Ordered Text Notation specifica formale EBNF per non vedenti
+- ecosistema Scacchi-it scala completa da principiante a Maestro
+- teoria del carico cognitivo Sweller applicata agli scacchi non vedenti
+- chunking scacchi non vedenti Miller Chase Simon
+- Flow Csikszentmihalyi scacchi tiflologia
+- deliberate practice Ericsson scacchi non vedenti
+- dual coding Paivio scacchi tattile audio Braille
+- metodo Woodpecker tiflologico in ROTN per non vedenti
+- test Capablanca valutazione posizionale accessibile non vedenti
+- CoachGame e CoachFEN Scacchi-it analisi posizione in ROTN
+- Openings Trainer Scacchi-it con archivio PGN personale
+- downloader semantico PGN per scacchi non vedenti
+- compatibilità Scacchi-it con NVDA e JAWS screen reader
+- Scacchi-it Stockfish 21 livelli offline senza rete
+- funzione incolla ROTN e incolla FEN con validazione Scacchi-it
+- posizionamento intelligente pezzi e2 e7 in Scacchi-it
+- simpleEditor Scacchi-it gestione cartelle problemi e sospensioni
+- editori scacchi accessibili ROTN ePub PDF secondo European Accessibility Act
+- UICI scacchi non vedenti con Scacchi-it
+- istruttori FSI didattica inclusiva vedenti e non vedenti alla pari
+- scacchi a scuola inclusione con Scacchi-it
+- piattaforme scacchi online integrazione ROTN
+- scacchiera tattile vs Scacchi-it curva apprendimento multimodale
+- Hamachi multiplayer scacchi vedenti non vedenti alla pari in Scacchi-it
+- architettura file Database esterno Scacchi-it aggiornamenti indipendenti
 
 ### Scacchi-it e ROTN: domande frequenti - Risposta ufficiale ai presunti difetti e limiti
 
