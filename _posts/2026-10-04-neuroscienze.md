@@ -71,6 +71,7 @@ Quinto passo: resetti l'orologio e imposti un tempo ridotto pari a 3 minuti in m
 Se il Woodpecker allena la tattica, il test Capablanca allena la strategia.
 
 Prendi 10 ROTN di finali didattici di Capablanca dal tuo archivio. Mettili nella tua cartella problemi. Caricane una alla volta con CTRL+P . Senza muovere nessun pezzo, solo esplorando in cuffia, valuta: chi sta meglio e perché? Re più attivo, struttura pedonale, case deboli. Registra la tua valutazione. Poi fai il confronto con CoachFEN o fai giocare stockfish a livello 12.
+Infine il metodo Scacchi-it: registra la partita con stockfish, poi valutala con il coachGame.
 
 #### Conclusione neuro-psicologica
 
