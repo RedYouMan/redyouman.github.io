@@ -105,9 +105,14 @@ La FEN troppo posizionale e con informazioni spesso inutili ad uno screen reader
 [Dare voce alla fen con rotn](https://redyouman.github.io/blog/2026/07/18/estensioni-browser.html)
 
 [estensione fen-to-rotn-firefox](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/estensioni/fen-to-rotn-firefox.7z)
+
 [estensione fen-to-rotn-chrome](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/estensioni/fen-to-rotn-chrome.7z)
 
 [manuale estensioni](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/estensioni/manuale-estensioni.txt)
+
+Un downloader semantico per scaricare pgn e altro, qui articolo e programma:
+
+[downloader semantico](https://redyouman.github.io/blog/2026/08/12/downloader4blinds.html)
 
 [Scacchi-it come front-end di stockfish](https://redyouman.github.io/blog/2026/09/15/front-end-stockfish.html)
 
