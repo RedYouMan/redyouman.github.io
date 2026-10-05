@@ -31,6 +31,8 @@ Durante lo sviluppo di Scacchi-it abbiamo usato un metodo che in neuroscienze si
 #### Posizionamento intelligente e2/e7
 
 Un altro dettaglio che sembra piccolo ma cambia tutto è il posizionamento intelligente. Al cambio turno Scacchi-it non ti lascia perso sulla scacchiera a cercare con i cursori. Ti dice: ora sei in casa e7 se sei il Nero, e2 se sei il Bianco. Scacchi-it non fa correre coi cursori nel proprio schieramento. È un principio puro di Universal Design: porta l'utente dove deve agire, senza dargli il suggerimento su cosa fare, e lo posiziona sempre sulla stessa casa che diventa un'ancora stabile per la costruzione della sua mappa mentale.
+La mappa mentale del giocatore non vedente deve essere la scacchiera, una matrice 8x8 e non una stringa lineare.
+Per questo in Scacchi-it il non vedente naviga sulla scacchiera come farebbe con una scacchiera tattiile. Questo aiuta alla creazione della mappa mentale e al riconoscimento dei pattern.
 
 #### Perché Scacchi-it non lo abbandoni dopo 2 mesi? Perché scala
 
