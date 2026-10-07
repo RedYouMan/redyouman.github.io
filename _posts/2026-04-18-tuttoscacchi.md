@@ -110,7 +110,8 @@ La FEN troppo posizionale e con informazioni spesso inutili ad uno screen reader
 
 [manuale estensioni](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/estensioni/manuale-estensioni.txt)
 
-Un downloader semantico per scaricare pgn e altro, qui articolo e programma:
+Un downloader semantico per scaricare pgn e altro per l'accessibilità.
+Qui troverete articolo,programma e manuale:
 [downloader semantico](https://redyouman.github.io/blog/2026/08/12/downloader4blinds.html)
 
 [Scacchi-it come front-end di stockfish](https://redyouman.github.io/blog/2026/09/15/front-end-stockfish.html)
