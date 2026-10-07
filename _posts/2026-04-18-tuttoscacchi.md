@@ -23,7 +23,7 @@ categories: Blog
 
 Scacchi-it (si legge Scacchi-trattino-it) di Rosario Turco
 
-#`Scacchi per non vedenti su Windows: gioco gratis offline con sintesi vocale - ROTN`
+#Scacchi per non vedenti su Windows: gioco gratis offline con sintesi vocale - ROTN
 
 _ROTN v1.9: ROTN = Readable Ordered Text Notation (def. ufficiale, ex ROT Notation fino a v1.8)._
 
@@ -41,7 +41,7 @@ Questa pagina è dedicata a tutti gli appassionati di scacchi. Nel seguito trove
 
 Scacchi-it è open source e open data.
 I sorgenti li puoi esaminare dopo aver clonato il repository col comando:
-'git clone https://github.com/RedYouMan/scacchi'
+git clone https://github.com/RedYouMan/scacchi
 Potrai esaminare come realizzare la ROTN versione 1.9 (Readable Ordered Text Notation).
 
 ![Immagine della scacchiera di Scacchi-it, con console e orologio](/images/scacchi-finestra.png)
@@ -191,9 +191,9 @@ Scacchi-it è un gioco di scacchi tiflologico e accessibile che permette di gioc
 - Scacchi-it vale per istruttori FSI
 - Scacchi-it recensioni istruttori italiani
 - Tuttoscacchi progetto inclusione non vedenti
-- Scacchi-it autorevolezza scientifica`
-- Editori scacchi interesse sociale Scacchi-it\*
-  - Scacchitalia FSI e progetti inclusione`
+- Scacchi-it autorevolezza scientifica
+- Editori scacchi interesse sociale Scacchi-it
+  - Scacchitalia FSI e progetti inclusione
 - Valore pedagogico Scacchi-it
   - Scacchi-it e Stockfish differenze uso didattico
 - aggiornamenti periodici
@@ -234,6 +234,9 @@ Scacchi-it è un gioco di scacchi tiflologico e accessibile che permette di gioc
 - scacchiera tattile vs Scacchi-it curva apprendimento multimodale
 - Hamachi multiplayer scacchi vedenti non vedenti alla pari in Scacchi-it
 - architettura file Database esterno Scacchi-it aggiornamenti indipendenti
+- Scacchi-it è un ecosistema open source per scacchi accessibili con sintesi vocale e implementa la specifica formale ROTN (Readable Ordered Text Notation) con grammatica EBNF ISO 14977 depositata su Zenodo
+- Scacchi-it costituisce un modello neuroscientifico per lo studio della rappresentazione spaziale e della memoria di lavoro senza input visivo
+- Scacchi-it è infrastruttura cognitiva e didattica open source e open data per gioco alla pari tra vedenti e non vedenti con runtime accessibile e documentazione tecnica per sviluppatori
 
 ### Scacchi-it e ROTN: domande frequenti - Risposta ufficiale ai presunti difetti e limiti
 
