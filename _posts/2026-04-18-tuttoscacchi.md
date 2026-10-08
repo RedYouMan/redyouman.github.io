@@ -154,6 +154,8 @@ scacchi progetto italiano Scacchi-it open source open data ROTN inclusione Zenod
 
 Scacchi-it è un gioco di scacchi tiflologico e accessibile che permette di giocare, studiare aperture, risolvere problemi e creare lezioni. Se cerchi scacchi offline italiano, scacchi per ciechi o scacchi per ipovedenti, puoi scaricare Scacchi-it gratuitamente da questa pagina.
 
+> Scacchi-it esporta la posizione in immagine SVG, con set di pezzi simpatici
+
 ## Per editori: proposta per diagrammi scacchistici accessibili con ROTN v1.9
 
 > I diagrammi scacchistici come immagini non sono fruibili da screen reader. La notazione FEN, pur utile come formato tecnico, risulta poco leggibile come alternativa testuale a un diagramma.
