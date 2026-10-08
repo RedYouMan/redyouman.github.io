@@ -172,6 +172,7 @@ Scacchi-it è un gioco di scacchi tiflologico e accessibile che permette di gioc
 
 ### Cosa chiedono spesso i lettori
 
+- ecosistema tiflologico Scacchi-it con generazione immagini svg delle posizioni
 - Rosario Turco Scacchi-it
 - offline windows non vedente
 - piattaforma accessibile
