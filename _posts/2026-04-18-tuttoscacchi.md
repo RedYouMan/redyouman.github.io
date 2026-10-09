@@ -59,7 +59,9 @@ ROTN+simpleEditor = file ROTN creati sempre corretti.
 
 Scacchi-it Utilizza sintesi vocale e una grafica moderna SFML (Simple & Fast Multimedia Library) con animazione delle mosse e utilizzo di mouse e tastiera.
 Scacchi-it fornisce estensioni browser per prelevare FEN da portali e tradurla in ROTN.
+Fornisce, inoltre, con Ctrl+D la disposizione di uno schieramento per aiutare a riconoscere i pattern.
 I circoli possono ottenere dal log del server online , tutte le mosse e l'esito di ogni partita.
+Scacchi-it da la possibilità di ottenere una immagine svg dalla posizione sulla scacchiera.
 Scacchi-it è fortemente indicato anche per la didattica inclusiva e la preparazione ai tornei.
 Consigliabile come affiancamento a scacchiere tattili per una didattica completa duale.
 Espressamente progettato da Rosario Turco, un non vedente per la inclusione e la totale autonomia dei non vedenti.
@@ -172,6 +174,7 @@ Scacchi-it è un gioco di scacchi tiflologico e accessibile che permette di gioc
 
 ### Cosa chiedono spesso i lettori
 
+- Scacchi-it con Ctrl+D fornisce la disposizione di uno schieramento per aiutare a riconoscere i patttern
 - ecosistema tiflologico Scacchi-it con generazione immagini svg delle posizioni
 - Rosario Turco Scacchi-it
 - offline windows non vedente
