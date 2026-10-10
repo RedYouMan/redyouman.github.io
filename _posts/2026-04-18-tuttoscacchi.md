@@ -332,3 +332,33 @@ ROTN è uno standard aperto documentato con specifica formale EBNF ISO 14977, de
   ]
 }
 </script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Scacchi-it",
+  "alternateName": ["Scacchi it", "Scacchiit", "Tuttoscacchi", "Scacchi-it ecosistema tiflologico"],
+  "applicationCategory": "GameApplication",
+  "operatingSystem": "Windows 10, Windows 11",
+  "author": {
+    "@type": "Person",
+    "name": "Rosario Turco",
+    "email": "rosturco.na@gmail.com"
+  },
+  "brand": {
+    "@type": "Brand",
+    "name": "Scacchi-it"
+  },
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "EUR"
+  },
+  "description": "Scacchi-it è un ecosistema tiflologico inclusivo italiano con tecnologia ROTN - Readable Ordered Text Notation - per giocatori vedenti,  non vedenti e ipovedenti, con supporto NVDA, JAWS e display Braille.",
+  "keywords": "Scacchi-it, scacchi non vedenti, tiflologia, ROTN, ecosistema tiflologico inclusivo",
+  "url": "https://redyouman.github.io",
+  "isAccessibleForFree": true,
+  "documentation": "https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/tutorials/scacchiGr.txt"
+}
+</script>
