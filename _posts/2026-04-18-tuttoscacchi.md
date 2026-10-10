@@ -19,7 +19,7 @@ keywords:
 categories: Blog
 ---
 
-# Tutto Scacchi di Rosario Turco
+# Tutto Scacchi e Scacchi-it di Rosario Turco
 
 Scacchi-it (si legge Scacchi-trattino-it) di Rosario Turco
 
