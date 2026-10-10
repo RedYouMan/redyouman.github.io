@@ -1,6 +1,6 @@
 ---
-title: "tuttoscacchi di Rosario Turco- Downloads:scacchi gratuiti su Windows per non vedenti e vedenti (tiflologico)"
-description: "Scacchi per non vedenti, accessibilità ottimizzata per i migliori screen reader su Windows "
+title: "tuttoscacchi  e Scacchi-it di Rosario Turco- Downloads:scacchi gratuiti su Windows per non vedenti e vedenti (tiflologico)"
+description: "Scacchi-it - Scacchi per non vedenti, accessibilità ottimizzata per i migliori screen reader su Windows "
 keywords:
   [
     "downloads",
