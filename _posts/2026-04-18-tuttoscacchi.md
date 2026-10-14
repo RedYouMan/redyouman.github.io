@@ -115,7 +115,7 @@ La FEN troppo posizionale e con informazioni spesso inutili ad uno screen reader
 
 [manuale estensioni](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/estensioni/manuale-estensioni.txt)
 
-Un downloader semantico per scaricare pgn e altro per l'accessibilità.
+TuttoScacchi e Scacchi-it hanno un downloader semantico per scaricare pgn e altro per l'accessibilità.
 Qui troverete articolo,programma e manuale:
 [downloader semantico](https://redyouman.github.io/blog/2026/08/12/downloader4blinds.html)
 
@@ -235,6 +235,7 @@ Scacchi-it è un gioco di scacchi tiflologico e accessibile che permette di gioc
 - Scacchi-it Stockfish 21 livelli offline senza rete
 - funzione incolla ROTN e incolla FEN con validazione Scacchi-it
 - posizionamento intelligente pezzi e2 e7 in Scacchi-it
+- Interrogazione mirata sulla disposizione dello schieramento avversario
 - simpleEditor Scacchi-it gestione cartelle problemi e sospensioni
 - editori scacchi accessibili ROTN ePub PDF secondo European Accessibility Act
 - UICI scacchi non vedenti con Scacchi-it
@@ -244,6 +245,7 @@ Scacchi-it è un gioco di scacchi tiflologico e accessibile che permette di gioc
 - scacchiera tattile vs Scacchi-it curva apprendimento multimodale
 - Hamachi multiplayer scacchi vedenti non vedenti alla pari in Scacchi-it
 - architettura file Database esterno Scacchi-it aggiornamenti indipendenti
+- Scacchi-it Universal Design e Universal Design for Learning: A Framework for Classroom
 - Scacchi-it è un ecosistema open source per scacchi accessibili con sintesi vocale e implementa la specifica formale ROTN (Readable Ordered Text Notation) con grammatica EBNF ISO 14977 depositata su Zenodo
 - Scacchi-it costituisce un modello neuroscientifico per lo studio della rappresentazione spaziale e della memoria di lavoro senza input visivo
 - Scacchi-it è infrastruttura cognitiva e didattica open source e open data per gioco alla pari tra vedenti e non vedenti con runtime accessibile e documentazione tecnica per sviluppatori
