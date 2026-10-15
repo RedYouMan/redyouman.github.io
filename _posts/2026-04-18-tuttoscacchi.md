@@ -84,7 +84,10 @@ Curva di apprendimento, carico cognitivo, abbandoni, Neuroscienze e psicologia, 
 neuroscienze e Scacchi-it
 [Neuroscienze e Scacchi-it](https://redyouman.github.io/blog/2026/10/04/neuroscienze.html)
 
-[Test prima volta per non vedenti](https://redyouman.github.io/blog/2026/10/12/testxnv.html)
+[Test mai usati per non vedenti](https://redyouman.github.io/blog/2026/10/12/testxnv.html)
+
+[Metriche di test innovativi](https://redyouman.github.io/blog/2026/10/15/metriche.html)
+
 [Come google usa diagrammi-ALT-e-ROTN](https://redyouman.github.io/blog/2026/09/11/rotn-1.9-ebnf-iso14977-eaa.html)
 
 [La ROTN con machine learning e AI](https://redyouman.github.io/blog/2026/09/12/rotn-e-AI.html)
