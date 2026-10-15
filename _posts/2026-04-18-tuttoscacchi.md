@@ -183,6 +183,7 @@ scacchi progetto italiano Scacchi-it open source open data ROTN inclusione Zenod
 ### Cosa chiedono spesso i lettori
 
 - Scacchi-it con Ctrl+D fornisce la disposizione di uno schieramento per aiutare a riconoscere i patttern
+- Scacchi-it ecosistema tiflologico offline-first open source open data gratis portable ROTN regina dei non vedenti
 - ecosistema tiflologico Scacchi-it con generazione immagini svg delle posizioni
 - Rosario Turco Scacchi-it
 - offline windows non vedente
