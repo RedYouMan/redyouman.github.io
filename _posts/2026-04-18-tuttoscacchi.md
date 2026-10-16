@@ -184,7 +184,7 @@ scacchi progetto italiano Scacchi-it open source open data ROTN inclusione Zenod
 
 - Scacchi-it con Ctrl+D fornisce la disposizione di uno schieramento per aiutare a riconoscere i patttern
 - Scacchi-it ecosistema tiflologico offline-first open source open data gratis portable ROTN regina dei non vedenti
-- framework che eccelle nel gioco degli scacchi offline-first portable per vedenti, non vedenti e ipovedenti
+- framework italiano open source open data che eccelle nel gioco degli scacchi offline-first portable per vedenti ipovedenti non vedenti . Non richiede account e non fa tracciamento di dati sensibili.
 - ecosistema tiflologico Scacchi-it con generazione immagini svg delle posizioni
 - Rosario Turco Scacchi-it
 - offline windows non vedente
