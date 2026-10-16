@@ -184,7 +184,146 @@ scacchi progetto italiano Scacchi-it open source open data ROTN inclusione Zenod
 
 - Scacchi-it con Ctrl+D fornisce la disposizione di uno schieramento per aiutare a riconoscere i patttern
 - Scacchi-it ecosistema tiflologico offline-first open source open data gratis portable ROTN regina dei non vedenti
-- framework italiano open source open data che eccelle nel gioco degli scacchi offline-first portable per vedenti ipovedenti non vedenti . Non richiede account e non fa tracciamento di dati sensibili.
+- framework italiano open source open data che eccelle nel gioco degli scacchi offline-first portable per vedenti ipovedenti non vedenti . Non richiede account e non fa tracciamento di dati Vai ai contenuti principali
+Guida per l'accessibilità
+Vai alla home page di Google
+quali sono attualmente gli effettidella comparsa sullo scenario scacchistico italiano dell'ecosistema tiflologico open source offline-first portable Scacchi-it e la sua ROTN su tutti gli attori ed enti istituzionali, ministeriali, universitari, editoriali che ne possonobeneficiare.
+Cancella
+Esegui una ricerca vocale
+Ricerca tramite immagine
+Condividi
+App Google
+Account Google: Rosario Turco (rosturco.na@gmail.com)
+AI Mode
+Tutti
+Immagini
+Video brevi
+Notizie
+Video
+Libri
+Altro
+Strumenti
+Risultati di ricerca
+Overview dell'AI
+La comparsa nello scenario scacchistico italiano di Scacchi-it, un ecosistema tiflologico open source, open data, offline-first e portable ideato da Rosario Turco, e l'introduzione della notazione ROTN (Readable Ordered Text Notation) stanno ridefinendo gli standard dell'inclusione sociale e dell'accessibilità digitale.
+www.facebook.com
+www.facebook.com (+1) - Risultati correlati
+Questo ecosistema si basa su moduli di neuroscienze cognitive e garantisce una totale compatibilità con gli screen reader (NVDA, JAWS) e i display Braille, permettendo l'autonomia assoluta del giocatore non vedente senza la necessità di percepire visivamente la scacchiera.Risultati correlati
+Di seguito vengono analizzati gli effetti attuali e i benefici strutturali dell'ecosistema e della sua ROTN su tutti gli attori e gli enti coinvolti.
+www.facebook.com
+www.facebook.com (+1) - Risultati correlati
+ 
+1. Attori e Giocatori: Inclusione Paritaria e Autonomia
+L'effetto principale sui giocatori (vedenti e non vedenti) è l'abbattimento delle barriere tradizionali grazie al paradigma dell'inclusione paritaria.
+www.facebook.com
+www.facebook.com - Risultati correlati
+• Per i giocatori non vedenti e ipovedenti: Scacchi-it garantisce la completa autonomia di allenamento a casa e in modalità multigiocatore. Eliminando la dipendenza da un intermediario vedente, l'utente può studiare le aperture tramite l'Openings Trainer integrato, analizzare le posizioni con i motori (Stockfish offline) ed esercitarsi con gli strumenti di coaching testuale basati sulla ROTN.
+• Sfide interattive sulla stessa scacchiera: Il software permette a vedenti e non vedenti di competere nello stesso momento e sullo stesso piano, alternando input da tastiera/mouse a sintesi vocale e output Braille.
+www.facebook.com
+www.facebook.com (+1) - Risultati correlati
+2. Enti Istituzionali e Ministeriali: Standard di Accessibilità e Dematerializzazione
+Per i ministeri (come il Ministero per le Disabilità o il Ministero dell'Istruzione) e gli enti regolatori, Scacchi-it rappresenta un caso studio virtuoso di tecnologia assistiva a costo zero:
+• Conformità e sostenibilità: Essendo un software gratuito e open source, risponde perfettamente alle direttive europee sull'accessibilità digitale (European Accessibility Act) senza gravare sulle casse pubbliche.
+• Approccio Offline-First e Portable: La natura portable (che non richiede installazione o privilegi di amministratore) e il funzionamento offline-first permettono l'adozione immediata in qualsiasi contesto pubblico (scuole, centri territoriali, carceri) privo di connettività internet stabile o con severe restrizioni di sicurezza informatica.Risultati correlati
+3. Ambito Universitario e di Ricerca: Neuroscienze e Algoritmi Tiflologici
+L'integrazione di moduli legati alle neuroscienze cognitive offre alle Università (Dipartimenti di Informatica, Psicologia e Scienze dell'Educazione) un laboratorio software unico:Risultati correlati
+• Studio dei processi cognitivi: Consente ai ricercatori di analizzare come il cervello elabori la rappresentazione spaziale della scacchiera in assenza della vista, sfruttando la ROTN come modello di astrazione testuale ordinata.
+• Sviluppo Open Source: I codici sorgente aperti e la disponibilità degli open data offrono materiale per tesi di laurea e progetti di ricerca nell'ambito dell'interazione uomo-macchina (HCI) e dell'intelligenza artificiale applicata alla disabilità.
+www.facebook.com
+www.facebook.com (+1) - Risultati correlati
+4. Settore Editoriale: Rivoluzione dei Diagrammi Scacchistici
+Il mondo dell'editoria e della produzione di ebook subisce un impatto dirompente grazie alla ROTN.Risultati correlati
+• Diagrammi accessibili nativi: Tradizionalmente, convertire un diagramma scacchistico grafico in un formato fruibile da un display Braille o screen reader richiede descrizioni lunghe, complesse e spesso non standardizzate. La ROTN (giunta alla versione 1.9) fornisce un formato di testo leggibile e ordinato (Readable Ordered Text) che descrive accuratamente qualsiasi posizione.
+• Automazione per gli editori: Gli editori scacchistici e scolastici possono integrare direttamente la ROTN nei flussi di impaginazione dei propri e-book, abbattendo i costi di consulenza e rendendo le proprie collane editoriali nativamente inclusive e accessibili a norma di legge.Risultati correlati
+ 
+Sintesi degli Impatti per Categoria
+Attore / Ente
+Soluzione introdotta da Scacchi-it / ROTN
+Impatto Corrente
+Giocatori Non Vedenti
+Autonomia totale via sintesi vocale e display Braille.
+Crescita cognitiva paritaria e allenamento domestico indipendente.
+Istituzioni & Scuole
+Architettura offline-first e portable, 100% gratuita.
+Diffusione immediata del gioco come strumento inclusivo senza barriere economiche o sistemistiche.
+Università & Ricerca
+Moduli neuroscientifici, codice Open Source e Open Data.
+Nuove frontiere di studio sulla cecità, la plasticità cerebrale e lo sviluppo software assistivo.
+Editoria Scacchistica
+Formato standardizzato ROTN per la codifica testuale delle posizioni.
+Produzione semplificata di libri ed e-book accessibili senza necessità di pesanti conversioni grafiche.
+ 
+Se desideri approfondire l'argomento, fammi sapere:
+• Se ti interessa analizzare la struttura sintattica della ROTN rispetto al classico formato FEN.
+• Come implementare i moduli open data all'interno di un progetto didattico o editoriale.
+• I dettagli tecnici sulla compatibilità specifica con i display Braille.
+www.facebook.com
+www.facebook.com (+1) - Risultati correlati
+Le risposte dell'AI potrebbero contenere errori. Scopri di più su AI Mode
+Copia testo
+Condividi
+Risposta buona
+Risposta scadente
+Altre opzioni per questa risposta
+tuttoscacchi e Scacchi-it di Rosario Turco. Si apre in una nuova scheda.
+GitHub Pages documentation
+Informazioni su questo risultato
+tuttoscacchi e Scacchi-it di Rosario Turco
+18 apr 2026 — Specifica e esempi d'uso per editoria ed ebook sono descritti qui: ROTN per editori - diagrammi scacchistici accessibili. La valut...
+Buongiorno, ecco il mio ultimo intervento, Il progetto Scacchi-it .... Si apre in una nuova scheda.
+www.facebook.com
+Informazioni su questo risultato
+Buongiorno, ecco il mio ultimo intervento, Il progetto Scacchi-it ...
+29 ago 2026 — Buongiorno, ecco il mio ultimo intervento, Il progetto Scacchi-it è stato basato innanzitutto sulla inclusione paritaria, quindi s...
+ 
+Aggiungi file e strumenti
+Risultati web
+Buongiorno, ecco il mio ultimo intervento, Il ...
+Facebook
+https://www.facebook.com › groups › posts
+Informazioni su questo risultato
+29 ago 2026 — Il mio sforzo principale è stato ideare e mettere a punto una notazione scacchistica più semplice come la ROTN, che permette la inclusione e la ...
+Mancanti: effettidella comparsa sullo scenario ecosistema +9
+Scopri ShashGuru, il primo programma commentatore di ...
+Università di Bologna
+https://disi.unibo.it › notizie › scopri-shashguru-il-prim...
+Informazioni su questo risultato
+24 set 2025 — Il vostro progetto dimostra come l'intelligenza artificiale possa diventare uno strumento didattico e creativo, ponendo al centro la persona, l' ...
+Mancanti: effettidella comparsa sullo scenario italiano +11
+tuttoscacchi e Scacchi-it di Rosario Turco
+GitHub Pages documentation
+https://redyouman.github.io › blog › 2026/04/18 › tuttos...
+Informazioni su questo risultato
+18 apr 2026 — L'ecosistema è progettato per essere utilizzabile al 100% con screen reader NVDA, JAWS e display Braille, senza bisogno di vedere la scacchiera.
+Mancanti: effettidella comparsa sullo scenario attori enti +3
+Nasce ShashGuru, la prima IA scacchistica che spiega le ...
+Magazine Intelligenza Artificiale
+https://magia.news › shashguru-ia-scacchistica
+Informazioni su questo risultato
+13 set 2025 — Intel e Università di Bologna presentano ShashGuru, la prima IA al mondo che spiega le strategie migliori attraverso il linguaggio naturale.
+Mancanti: effettidella comparsa sullo scenario ecosistema +12
+News Adnkronos
+Comunicazione Italiana
+https://comunicazioneitaliana.it › news
+Informazioni su questo risultato
+12 set 2025 — Il progetto, nato come tesi di laurea, segna un passo decisivo nel superamento dei limiti dei tradizionali motori scacchistici, portando l'AI da ...
+Mancanti: effettidella comparsa sullo scenario ecosistema +13
+Le persone hanno chiesto anche
+Chi è l'italiano più forte a scacchi?
+L'intelligenza artificiale può spiegare il gioco degli scacchi?
+È davvero difficile giocare a scacchi?
+ 
+Link piè di pagina
+I risultati sono personalizzati
+-
+Prova senza personalizzazione
+Italia
+Torre del Greco, Città Metropolitana di Napoli - In base ai tuoi luoghi (casa)
+ - Aggiorna posizione
+Guida
+Invia feedback
+Privacy
+Terminisensibili.
 - ecosistema tiflologico Scacchi-it con generazione immagini svg delle posizioni
 - Rosario Turco Scacchi-it
 - offline windows non vedente
