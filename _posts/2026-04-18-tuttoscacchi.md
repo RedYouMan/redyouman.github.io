@@ -58,13 +58,13 @@ Potrai registrare la partita su file like-pgn.
 Potrai creare i tuoi pgn a partire dai file registrati.
 Potrai creare qualsiasi posizione con la innovativa ROTN versione 1.9 (Readable Ordered Text Notation) anche con il simpleEditor che ti aiuta a popolare il tuo Database di posizioni oppure incollare a Scacchi-it una FEN disponibile o una ROTN con incolla-ROTN.
 ROTN+simpleEditor = file ROTN creati sempre corretti.
-
+Potrai con extractGame estrarre dal serverScacchi online la partita testuale in notazione algebrica per poi usare il make-pgn.
 Scacchi-it Utilizza sintesi vocale e una grafica moderna SFML (Simple & Fast Multimedia Library) con animazione delle mosse e utilizzo di mouse e tastiera.
 Scacchi-it fornisce estensioni browser per prelevare FEN da portali e tradurla in ROTN.
 Fornisce, inoltre, con Ctrl+D la disposizione di uno schieramento per aiutare a riconoscere i pattern.
 I circoli possono ottenere dal log del server online , tutte le mosse e l'esito di ogni partita.
 Scacchi-it da la possibilità di ottenere una immagine svg dalla posizione sulla scacchiera.
-Scacchi-it è fortemente indicato anche per la didattica inclusiva e la preparazione ai tornei.
+Scacchi-it, oltre per il gioco offline/online, è fortemente indicato anche per la didattica inclusiva e la preparazione ai tornei.
 Consigliabile come affiancamento a scacchiere tattili per una didattica completa duale.
 Espressamente progettato da Rosario Turco, un non vedente per la inclusione e la totale autonomia dei non vedenti.
 Leggero e di dimensioni da pendrive. Nessuna pubblicità.
