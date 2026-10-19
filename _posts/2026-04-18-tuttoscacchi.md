@@ -50,12 +50,12 @@ Potrai esaminare come realizzare la ROTN versione 1.9 (Readable Ordered Text Not
 
 Scacchi-it ecosistema tiflologico inclusivo, italiano con la ROTN, per Windows 10 o 11, gratis, portable, compatibile con screen reader NVDA, JAWS e display Braille.
 
+Scacchi-it versione 14.1 stabile
 [scarica Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/scacchiGr.7z)
 
 Potrai giocare offline/online multiplayer Hamachi con le room, anche contro stockfish offline con 21 livelli di difficoltà, imparare aperture con un Openings Trainer che usa standard pgn, ottenere suggerimenti dal coachFEN o dal coachGame integrati.
 Potrai usare un orologio scacchistico per allenarti a partite lampo e ai tornei.
-Potrai registrare la partita su file like-pgn.
-Potrai creare i tuoi pgn a partire dai file registrati.
+Potrai registrare la partita su file con notazione algebrica e creare i tuoi file pgn .
 Potrai creare qualsiasi posizione con la innovativa ROTN versione 1.9 (Readable Ordered Text Notation) anche con il simpleEditor che ti aiuta a popolare il tuo Database di posizioni oppure incollare a Scacchi-it una FEN disponibile o una ROTN con incolla-ROTN.
 ROTN+simpleEditor = file ROTN creati sempre corretti.
 Potrai con extractGame estrarre dal serverScacchi online la partita testuale in notazione algebrica per poi usare il make-pgn.
