@@ -24,6 +24,8 @@ Finché hai i piolini, sei al sicuro. Ma sei anche inchiodato a quel tavolo, a q
 
 Scacchi-it rompe il peluche. La ROTN non si tocca. Si legge con NVDA. È dentro la testa, non sul tavolo. Fa male all'inizio, come togliere il peluche. Poi arriva l'autonomia.
 
+Non stiamo dicendo che dobbiamo buttare la scacchiera tattile: tutt'altro! Una didattica duale ci permetterà di lavorare sul miglioramento della mappa mentale 8x8 con Scacchi-it, aumentando la autonomia con esercitazione anche a casa e da soli.
+
 ### 2. Dal locus esterno al locus interno
 
 In psicologia si chiama locus of control.
@@ -35,8 +37,9 @@ _Locus esterno (prima di Scacchi-it):_
 
 _Locus interno (dopo Scacchi-it):_
 "Ho il FEN, lo incollo, ho la ROTN."
-"Ho la registrazione della partita, rivedo dove ho sbagliato."
-"Ho Ctrl+D, verifico da solo lo schieramento avversario
+Ho la registrazione della partita, rivedo dove ho sbagliato.
+Ho Ctrl+D, verifico da solo lo schieramento avversario e capisco i pattern della posizione.
+Ho stockfish per continuare da una apertura. Posso allenarmi contro stockfish con 21 livelli di difficoltà.
 
 Non abbiamo cambiato gli scacchi. Abbiamo spostato il locus. Da fuori a dentro. Questa è la vera inclusione: non è tecnica, è psicologica. È passare da "mi includono" a "mi includo".
 
@@ -56,7 +59,7 @@ Questo vale più di 100 ELO.
 
 Il Re sulla scacchiera non ha occhi. Ha case intorno. Se è accerchiato, è matto. Che ci veda o no.
 
-Abbiamo insegnato per 50 anni al non vedente ad avere paura del buio della scacchiera. Dovevamo insegnargli che il buio è la sua casa. E che dentro quel buio, la geometria è più nitida, perché non c'è rumore visivo.
+Abbiamo insegnato per 50 anni al non vedente ad avere paura del buio della scacchiera. Dovevamo insegnargli che il buio è la sua casa. E che dentro quel buio, la geometria mentale è più nitida, perché non c'è rumore visivo.
 
 Scacchi-it non è solo un software accessibile. È un software che restituisce il locus.
 
