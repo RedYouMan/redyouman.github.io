@@ -36,12 +36,10 @@ _Locus esterno (prima di Scacchi-it):_
 "Se mi sbaglio a contare le case col tatto, è colpa delle mie dita."
 
 _Locus interno (dopo Scacchi-it):_
-"Ho il FEN, lo incollo, ho la ROTN."
-Ho la registrazione della partita, rivedo dove ho sbagliato.
-Ho Ctrl+D, verifico da solo lo schieramento avversario e capisco i pattern della posizione.
-Ho stockfish per continuare da una apertura. Posso allenarmi contro stockfish con 21 livelli di difficoltà.
+Ho il FEN, lo incollo, ho la ROTN. Ho la registrazione della partita, rivedo dove ho sbagliato con il coachGame. Ho Ctrl+D, verifico da solo lo schieramento avversario e capisco il pattern della posizione.
+Ho stockfish per continuare da una apertura dell'Openings Trainer. Posso allenarmi contro stockfish con 21 livelli di difficoltà. Posso studiare una nuova apertura con l'Openings Trainer. Posso usare il coachFEN per farmi consigliare una mossa.
 
-Non abbiamo cambiato gli scacchi. Abbiamo spostato il locus. Da fuori a dentro. Questa è la vera inclusione: non è tecnica, è psicologica. È passare da "mi includono" a "mi includo".
+Non abbiamo cambiato gli scacchi. Abbiamo spostato il locus. Da fuori a dentro. Questa è la vera inclusione: non è tecnica, è psicologica. È passare da "mi includono" a "mi includo". Non è più un gioco che mi prestano. E' un gioco che possiedo.
 
 ### 3. La vergogna dell'errore dettato
 
