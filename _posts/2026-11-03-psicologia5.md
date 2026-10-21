@@ -33,9 +33,15 @@ Ora ascoltate la FEN:
 
 NVDA la legge come: "r uno b q k b uno r slash p p p p uno p p p slash..." È rumore. È brutta. È funzionale per Stockfish, è tortura per un umano.
 
-Solo sperimentando si comprende. La FEN è un formato per i motori e viola i principi di interfacciamento umano.
+Solo sperimentando si comprende. La FEN è un formato per i motori e viola i principi di interfacciamento umano (HMI).
+La FEN, infatti, è unformato che è utile ma "sotto cofano", per interagire con motori come stockfish.
+Gli utenti non dovrebbero avere conoscenza di tali formati che sono, invece, competenza degli sviluppatori, il che aggiunge ulteriore carico cognitivo rispetto all'obettivo di giocare a scacchi bene.
 
-La teoria estetica ci dice: la bellezza è quando forma e funzione coincidono. La FEN è funzione pura per macchine. La ROTN è forma umana per menti.
+Scacchi-it segue i principi di progettazione della Universal Design (UD) e della Universal Design for Learning (UDL).
+
+Per questo Scacchi-it scala di un livello logico sia fen che pgn,rendendo trasparente il loro uso. L'utilizzo della FEN in incolla-FEN è solo di "transito dati" e non provoca carico della memoria cognitiva del giocatore.
+
+Inoltre la teoria estetica ci dice: la bellezza è quando forma e funzione coincidono. La FEN è funzione pura per macchine. La ROTN è forma umana per menti.
 
 Bauhaus lo insegnava nel 1919: la forma segue la funzione, ma la funzione deve essere umana. Se la funzione è "una persona deve ricostruire una posizione in testa", la forma FEN è sbagliata. La forma ROTN è bella perché è giusta per l'udito e la mente.
 
