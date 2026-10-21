@@ -59,7 +59,15 @@ Oltre al pacchetto di Scacchi-it (scacchiGr.7z), scarica anche Scacchi-it-Net.7z
 
 [Scarica Scacchi-it-Net](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/Scacchi-it-Net.7z)
 
-Potrai giocare offline/online multiplayer Hamachi con le room, anche contro stockfish offline con 21 livelli di difficoltà, imparare aperture con un Openings Trainer che usa standard pgn, ottenere suggerimenti dal coachFEN o dal coachGame integrati.
+Fornisce:
+
+- orologio su rete
+- richiesta patta
+- annuncio tipo di promozione del pedone
+
+---
+
+Con Scacchi-it potrai giocare offline/online multiplayer Hamachi con le room, anche contro stockfish offline con 21 livelli di difficoltà, imparare aperture con un Openings Trainer che usa standard pgn, ottenere suggerimenti dal coachFEN o dal coachGame integrati.
 Potrai usare un orologio scacchistico per allenarti a partite lampo e ai tornei.
 Potrai registrare la partita su file con notazione algebrica e creare i tuoi file pgn .
 Potrai creare qualsiasi posizione con la innovativa ROTN versione 1.9 (Readable Ordered Text Notation) anche con il simpleEditor che ti aiuta a popolare il tuo Database di posizioni oppure incollare a Scacchi-it una FEN disponibile o una ROTN con incolla-ROTN.
