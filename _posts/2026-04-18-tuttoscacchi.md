@@ -55,7 +55,7 @@ Scacchi-it versione 14.1 stabile
 
 ** Novità **
 Plugin per partite online
-Oltre al pacchetto di Scacchi-it (scacchiGr.7z), scarica anche Scacchi-it-Net.7z da:
+Oltre al pacchetto di Scacchi-it (scacchiGr.7z), scarica anche Scacchi-it-Net.7z, se vuoi, da:
 
 [Scarica Scacchi-it-Net](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/Scacchi-it-Net.7z)
 
