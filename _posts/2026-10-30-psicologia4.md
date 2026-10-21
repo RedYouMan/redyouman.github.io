@@ -46,9 +46,9 @@ Quando un ragazzo vedente Under 16 e un coetaneo non vedente si allenano sulla s
 
 Un progetto collettivo che vuole durare ha 3 principi: Identità, Opposizione, Totalità.
 
-\_Identitàdella nuova visione: Siamo quelli della ROTN". Non un'etichetta di disabilità. Siamo quelli che pensano che la scacchiera possa essere testo, non solo immagine. In questa identità ci stanno maestri di scuola, istruttori federali, giocatori non vedenti, genitori.
+\_Identitàdella nuova visione: Siamo quelli della ROTN". Non un'etichetta di disabilità. Siamo quelli che pensano che la scacchiera possa essere testo, non solo immagine. In questa identità ci stanno maestri di scuola, istruttori federali, giocatori non vedenti sostenuti da giocatori vedenti, genitori, università, professionisti tiflologici delle neuroscienze e della psicologia.
 
-\_Opposizione della nuova visione: Ci opponiamo all'idea che l'accessibilità debba costare di più e valere di meno. Software chiuso, costoso, didattica separata. La nostra risposta è open source e didattica aperta.
+\_Opposizione della nuova visione: Ci opponiamo all'idea che l'accessibilità debba costare di più e valere di meno. Software chiuso, costoso, didattica separata. La nostra risposta è open source e didattica nuova e aperta.
 
 \_Totalità della nuova visione: Vogliamo aggiungere un'idea: una posizione scacchistica può essere descritta come "relazioni logiche tra entità". Non sostituiamo la scacchiera visiva. Aggiungiamo un altro modo di pensarla, utile a tutti.
 
@@ -58,7 +58,7 @@ Robert Putnam, _Bowling Alone_, 2000. Capitale sociale: le reti di fiducia che t
 
 Le storie eccellenti del passato avevano un capitale sociale verticale: un dirigente, un volontario, un maestro che rendeva possibile l'esperienza. Prezioso, ma fragile: se quella persona andava via, l'esperienza si spegneva.
 
-Con una comunità aperta basata su ROTN, Scacchi-it il capitale sociale diventa orizzontale e resiliente:
+Con una comunità aperta basata su ROTN, Scacchi-it, l'open source e l'open data il capitale sociale diventa orizzontale e resiliente:
 
 Io condivido una mia partita analizzata con CoachGame (result.txt con mossa, FEN, valutazione prima e dopo, best move, giudizio "sbagliata / troppo sbagliata").
 Tu condividi la tua.
@@ -70,9 +70,11 @@ Questo è mutuo aiuto che non dipende da una singola persona. Si auto-alimenta. 
 
 ### Conclusione
 
-Abbiamo già tutto: le storie eccellenti passate che ci hanno insegnato, le storie recenti nelle scuole e nei circoli che stanno funzionando, e ora un linguaggio comune (ROTN) e Scacchi-it, con possibilità concrete per i prossimi anni: che in un bando scolastico o federale si legga "formato ROTN ammesso".
+Abbiamo già tutto. Le storie eccellenti passate che ci hanno insegnato, le storie recenti nelle scuole e nei circoli che stanno funzionando, e ora un linguaggio comune (ROTN) e Scacchi-it, con possibilità concrete per i prossimi anni, che in un bando scolastico o federale si legga un giorno "formato ROTN ammesso", oppure quando in un manuale o una dispensa, oltre ai diagrammi, appare la ROTN che viene letta dagli screen reader e può essere copiata e incollata sullo strumento di gioco. La speranza è che in campo editoriale si possa seguire tale esempio per i libri, a vantaggio di vedenti e non vedenti.
 
-Non per includere. Per usare uno strumento che funziona meglio per tutti.
+La nuova visione in questo modo tenderà ad incrementare, pian piano, le persone che possono contribuire e rafforzare la comunità stessa.
+
+Non per includere. Per usare uno strumento che funziona meglio per tutti e rafforzare l'identità della comunità.
 
 > Le comunità vincono quando il loro linguaggio diventa il linguaggio di tutti.
 
