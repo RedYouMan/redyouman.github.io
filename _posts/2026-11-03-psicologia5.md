@@ -22,7 +22,9 @@ Prendete questa parte di ROTN:
 
 Una ROTN vi ricordo che potete scriverla mettendo prima i pezzi di maggiore importanza e, infine, i pedoni.
 
-Ascoltatela con NVDA. Ha un ritmo. Ha una metrica. Bianchi prima, Neri poi. Re, Donna, Torri, Alfieri, Cavalli, pedoni. È ordinata.
+Sia Il file scritto in questo modo lo potete ascoltare chiaramente con NVDA, sia se sulla scacchiera fate Ctrl+D per leggere la posizione dello schieramento avversario (ma anche il proprio).
+
+Se la ascoltate con NVDA, sia su file, sia con Ctrl+D: ha un ritmo. Ha una metrica. Bianchi prima, Neri poi. Re, Donna, Torri, Alfieri, Cavalli, pedoni. È ordinata.
 
 Ora facciamo un esperimento. Mettete la cuffia e attivate NVDA.
 Ora ascoltate la FEN:
