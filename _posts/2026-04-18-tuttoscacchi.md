@@ -52,9 +52,11 @@ Scacchi-it ecosistema tiflologico inclusivo, italiano con la ROTN, per Windows 1
 
 Scacchi-it versione 14.1 stabile
 [scarica Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/scacchiGr.7z)
+
 ** Novità **
 Plugin per partite online
 Oltre al pacchetto di Scacchi-it (scacchiGr.7z), scarica anche Scacchi-it-Net.7z da:
+
 [Scarica Scacchi-it-Net](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/Scacchi-it-Net.7z)
 
 Potrai giocare offline/online multiplayer Hamachi con le room, anche contro stockfish offline con 21 livelli di difficoltà, imparare aperture con un Openings Trainer che usa standard pgn, ottenere suggerimenti dal coachFEN o dal coachGame integrati.
