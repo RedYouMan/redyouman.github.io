@@ -34,17 +34,20 @@ Questa è la definizione esatta di scaffolding di Bruner. Solo che Bruner nel 19
 
 Bruner diceva: lo stesso concetto va rivisto più volte, a livelli di rappresentazione diversi. Enattivo (faccio), Iconico (vedo), Simbolico (penso).
 
-Scacchi-it è l'unico software scacchistico italiano che fa esattamente la spirale bruneriana:
+Scacchi-it è l'unico software scacchistico italiano che fa esattamente la spirale bruneriana, completa per i vedenti e mentale per i non vedenti:
 
-_Giro 1 - Iconico:_ vedi la posizione in SVG, colorata, con rotazione dal tuo lato. Capisci visivamente.
+_Giro 1 - Iconico:_ vedi la posizione in SVG ottenuta da una FEN. Capisci visivamente.
+Oppure per i non vedenti con la ROTN ottenuta facendo una sospensione e leggendo il file nella cartella sospensioni.
 
-_Giro 2 - Simbolico:_ la stessa posizione la leggi in ROTN con NVDA. Non la vedi più, la decodifichi. "Bianchi: Re g1, Donna d4..." Devi ricostruirla mentalmente.
+_Giro 2 - Simbolico:_ la stessa posizione la leggi in ROTN con NVDA dalla scacchiera. Non la vedi più, la decodifichi. "Senti dalla cuffia:Re casa g1, Donna d4...". Devi solo ricostruirla mentalmente.
 
 _Giro 3 - Simbolico puro:_ chiudi gli occhi (o spegni lo screen) e giochi dalla ROTN in memoria. Ctrl+D per verificare una relazione, ma senza SVG.
 
 Stessa posizione, tre cervelli diversi. È così che si impara per davvero. Non ripetendo la mossa, ma cambiando rappresentazione.
 
 Il vedente e il non vedente fanno la stessa spirale. Nessuno è escluso, perché la spirale è già inclusiva per costruzione.
+
+Provate a fare i tre esercizi su almeno 5 posizioni molte volte, sia che siate vedenti che non vedenti.
 
 ### 3. Sweller: l'accessibilità come riduzione del carico estraneo
 
@@ -62,15 +65,17 @@ Ecco perché gli allievi non vedenti, dopo 2 mesi di ROTN, calcolano meglio di m
 
 > L'accessibilità non è aggiungere qualcosa per chi non vede. È togliere il rumore per chi deve pensare.
 
+La navigazione e Ctrl+D, il posizionamento nel proprio schieramento quando hai il tratto, la posizione dei soli re per fornire l'orientamento durante il caricamento della posizione aiutano molto in questo. La FEN no.
+
 ### Conclusione: perché è una protesi psicologica
 
 Una protesi non ti fa diventare più forte di un umano. Ti restituisce la funzione che l'ambiente ti aveva tolto.
 
-Le gambe del non vedente funzionano. Gli scacchi no, perché l'ambiente li aveva costruiti solo per occhi.
+Le gambe del non vedente funzionano. Gli scacchi no, perché l'ambiente li aveva costruiti solo per gli occhi.
 
 Scacchi-it è la protesi che restituisce la funzione di pensare scacchisticamente senza dipendere dagli occhi o dalla plastica.
 
-E come tutte le protesi ben fatte, dopo un po' non la senti più. Senti solo che pensi meglio.
+E come tutte le protesi ben fatte, dopo un po' non la senti più. Senti solo che pensi meglio e ti concentri sull'essenza del gioco, la strategia e la tattica. E diventa inenarrabile e sublime assaporare, poi, la bellezza di una combinazione travolgente.
 
 ### Bibliografia essenziale
 
