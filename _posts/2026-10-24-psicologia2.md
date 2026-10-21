@@ -42,12 +42,18 @@ Il vedente e il non vedente qui sono identici. Il tilt non ha occhi.
 
 _Esercizio 3 - Span:_ quanti pezzi tieni davvero in testa contemporaneamente? Non quanti ne vedi, quanti ne usi. Se la posizione ne richiede 7 e tu ne trattieni 5, il finale diventa difficile. Non è questione di vista, è Baddeley.
 
-_Esercizio 4 - Rotazione:_ riesci a girare la scacchiera di 90 gradi e vedere che a1 diventa h1? Shepard e Metzler nel 1971 misuravano il tempo per ruotare un oggetto mentale. Scacchi-it con Ctrl+R lo rende un esercizio quotidiano.
+E' un esercizio facile. Fate caricare una posizione, dite al discente di fare Ctrl+D sullo schieramento avversario, ascoltare e di ripetervi subito tutti i pezzi che ricorda. Annotare il numero.
+Ripetere l'esercizio un'altra volta e annotare il numero. Di sicuro sale.
+Ripetere la terza volta. Il numero è uguale o sale ancora.
+L'istruttore dirà: "Guarda come migliora la tua memoria visiva se fai due-tre volte Ctrl+D a casa. Se fai questo esercizio su varie posizioni con attenzione, quando giochi sarai più ricettivo e sprecherai meno tempo".
+
+_Esercizio 4 - Rotazione:_ riesci a girare la scacchiera di 180gradi e vedere nella mente che a1 va in quello che era h8? Shepard e Metzler nel 1971 misuravano il tempo per ruotare un oggetto mentale. Scacchi-it con Ctrl+G può renderlo un esercizio quotidiano .
+
+Interessanti sono però gli esercizi delle rotazioni orarie e antiorarie di 90 gradi.
 
 ### Conclusione: la psicologia è didattica condivisa
 
 Per la prima volta possiamo dire a un allievo, vedente o non vedente:
-
 "Guarda, non hai perso perché sei scarso. Hai perso perché al minuto 12 il tempo di scelta è salito, due pezzi sono usciti dalla memoria, e la lucidità è scesa. Eri in tilt. La prossima volta, quando senti quel momento arrivare, fermati 20 secondi."
 
 Questa è psicologia applicata. Non motivazionale. Condivisa.
