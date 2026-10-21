@@ -28,7 +28,7 @@ Non stiamo dicendo che dobbiamo buttare la scacchiera tattile: tutt'altro! Una d
 
 ### 2. Dal locus esterno al locus interno
 
-In psicologia si chiama locus of control.
+In psicologia si chiama locus of control. Esso indica la misura in cui una persona ritiene di poter controllare gli eventi che influenzano la propria vita.
 
 _Locus esterno (prima di Scacchi-it):_
 "Se il volontario non mi trascrive la dispensa, non studio."
