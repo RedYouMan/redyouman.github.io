@@ -20,19 +20,26 @@ Prendete questa parte di ROTN:
 
 `Bianchi: Re g1, Donna e2, Torri a1 f1, Cavalli c3 f3, Alfieri c1 g2, pedoni a2 b2 c2 d4 e5 f2 g3 h2 | Neri: Re g8...`
 
+Una ROTN vi ricordo che potete scriverla mettendo prima i pezzi di maggiore importanza e, infine, i pedoni.
+
 Ascoltatela con NVDA. Ha un ritmo. Ha una metrica. Bianchi prima, Neri poi. Re, Donna, Torri, Alfieri, Cavalli, pedoni. È ordinata.
 
+Ora facciamo un esperimento. Mettete la cuffia e attivate NVDA.
 Ora ascoltate la FEN:
 
 `r1bqkb1r/pppp1ppp/2n2n2/4p3/2P5/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 0 4`
 
 NVDA la legge come: "r uno b q k b uno r slash p p p p uno p p p slash..." È rumore. È brutta. È funzionale per Stockfish, è tortura per un umano.
 
+Solo sperimentando si comprende. La FEN è un formato per i motori e viola i principi di interfacciamento umano.
+
 La teoria estetica ci dice: la bellezza è quando forma e funzione coincidono. La FEN è funzione pura per macchine. La ROTN è forma umana per menti.
 
-Bauhaus lo insegnava nel 1919: la forma segue la funzione, ma la funzione deve essere umana. Se la funzione è "una persona deve ricostruire una posizione in testa", la forma FEN è sbagliata. La forma ROTN è bella perché è giusta.
+Bauhaus lo insegnava nel 1919: la forma segue la funzione, ma la funzione deve essere umana. Se la funzione è "una persona deve ricostruire una posizione in testa", la forma FEN è sbagliata. La forma ROTN è bella perché è giusta per l'udito e la mente.
 
-> Non abbiamo fatto la ROTN solo per essere accessibili. L'abbiamo fatta perché l'accessibilità richiede implicitamente un criterio di bellezza di esposizione delle informazioni.
+> Non abbiamo fatto la ROTN solo per essere accessibili. L'abbiamo fatta perché l'accessibilità richiede implicitamente un criterio di bellezza di esposizione delle informazioni e il ritmo giusto per l'udito per aumentare l'intellegibilità e la chiarezza del dato, in modo da aumentare l'attenzione della mente.
+
+Fate un altro esperimento. Mettete un video di una persona molto alterata che vi strilla le sue idee: dopo 5 secondi il cervello stacca l'attenzione e pensa ad altro.
 
 Un software che suona bene con NVDA è più accessibile di uno che rispetta le WCAG ma suona come un modem del 1995.
 
@@ -74,7 +81,7 @@ E quando gli scacchi diventano informazione, chi non vede non è più in diffico
 
 ### Conclusione: la tombola della Nuova Visione
 
-Ricapitoliamo tutta la serie, in ordine:
+Ricapitoliamo fin qui un attimo gli articoli finora visti, per proseguire poi con ulteriori approfondimenti:
 
 1.  _Neuroscienze e carico cognitivo:_ come il cervello codifica senza vedere. Legge di Hick, Span di Baddeley, Oblio, Rotazione e la curva di apprendimento. Perché la ROTN abbassa il carico cognitivo (Sweller).
 2.  _Epistemologia:_ Kant seduto accanto al non vedente. Lo spazio scacchistico non è visto, è costruito.
@@ -84,8 +91,8 @@ Ricapitoliamo tutta la serie, in ordine:
 6.  _Sociologia della comunità:_ ti tolgo lo stigma e ti do una comunità di pratica (Goffman, Touraine, Putnam). Niente etichette politiche, solo pratica condivisa.
 7.  _Estetica ed etica:_ ti do bellezza e libertà (Bauhaus, Stallman, Heidegger, Floridi) - questo articolo.
 
-Se manca uno, sei un tecnico.
-Se li hai tutti e sette, fai parte o hai appreso la Nuova Visione.
+Se manca uno, guarda il mio blog https://redyouman.github.iio
+Se li hai tutti , fai parte o hai appreso la Nuova Visione.
 
 > Non stiamo facendo un software per non vedenti che gioca a scacchi.
 > Stiamo facendo la dimostrazione che gli scacchi, da sempre, erano un gioco che si può pensare senza vederlo, solo che eravamo distratti dal legno.
