@@ -34,10 +34,12 @@ _Locus esterno (prima di Scacchi-it):_
 "Se il volontario non mi trascrive la dispensa, non studio."
 "Se l'arbitro non ha la scacchiera adattata, non gioco."
 "Se mi sbaglio a contare le case col tatto, è colpa delle mie dita."
+Questo non è un gioco che posseggo, me lo prestano quando vogliono loro.
 
 _Locus interno (dopo Scacchi-it):_
 Ho il FEN, lo incollo, ho la ROTN. Ho la registrazione della partita, rivedo dove ho sbagliato con il coachGame. Ho Ctrl+D, verifico da solo lo schieramento avversario e capisco il pattern della posizione.
-Ho stockfish per continuare da una apertura dell'Openings Trainer. Posso allenarmi contro stockfish con 21 livelli di difficoltà. Posso studiare una nuova apertura con l'Openings Trainer. Posso usare il coachFEN per farmi consigliare una mossa.
+Ho stockfish per continuare da una apertura dell'Openings Trainer. Posso allenarmi contro stockfish con 21 livelli di difficoltà. Posso studiare una nuova apertura con l'Openings Trainer. Ho le estensioni browser per avventurarmi sui portali per prendere la FEN di un puzzle proposto.
+Posso usare il coachFEN per farmi consigliare una mossa.
 
 Non abbiamo cambiato gli scacchi. Abbiamo spostato il locus. Da fuori a dentro. Questa è la vera inclusione: non è tecnica, è psicologica. È passare da "mi includono" a "mi includo". Non è più un gioco che mi prestano. E' un gioco che possiedo.
 
