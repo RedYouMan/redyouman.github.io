@@ -65,7 +65,7 @@ Ecco perché gli allievi non vedenti, dopo 2 mesi di ROTN, calcolano meglio di m
 
 > L'accessibilità non è aggiungere qualcosa per chi non vede. È togliere il rumore per chi deve pensare.
 
-La navigazione e Ctrl+D, il posizionamento nel proprio schieramento quando hai il tratto, la posizione dei soli re per fornire l'orientamento durante il caricamento della posizione aiutano molto in questo. La FEN no.
+La navigazione e il Ctrl+D, il posizionamento nel proprio schieramento quando hai il tratto, la posizione dei soli re per fornire l'orientamento durante il caricamento della posizione aiutano molto in questo. La FEN no.
 
 ### Conclusione: perché è una protesi psicologica
 
