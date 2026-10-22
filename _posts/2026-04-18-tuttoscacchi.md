@@ -65,7 +65,7 @@ Scacchi-it versione 14.1 stabile
 > - comunicazione richiesta di patta
 > - comunicazione tipo di promozione del pedone
 >
-> Il serverScacchi mantiene il log di mosse ed esito. Come da manuale, in caso di patta concordata è previsto avviso via email da parte dei giocatori al circolo / responsabile punteggi.
+> Il serverScacchi mantiene il log di mosse ed esito. Come da manuale, in caso di patta concordata è previsto avviso via email non automatica ma da parte dei giocatori al circolo / responsabile punteggi.
 
 Con Scacchi-it potrai giocare offline/online multiplayer Hamachi con le room, anche contro stockfish offline con 21 livelli di difficoltà, imparare aperture con un Openings Trainer che usa standard pgn, ottenere suggerimenti dal coachFEN o dal coachGame integrati.
 Potrai usare un orologio scacchistico per allenarti a partite lampo e ai tornei.
