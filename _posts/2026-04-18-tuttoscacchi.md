@@ -53,19 +53,19 @@ Scacchi-it ecosistema tiflologico inclusivo, italiano con la ROTN, per Windows 1
 Scacchi-it versione 14.1 stabile
 [scarica Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/scacchiGr.7z)
 
-** Novità **
-Plugin per partite online
-Oltre al pacchetto di Scacchi-it (scacchiGr.7z), scarica anche Scacchi-it-Net.7z, se vuoi, :
-
-[Scarica Scacchi-it-Net](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/Scacchi-it-Net.7z)
-
-Fornisce:
-
-- orologio su rete
-- richiesta patta
-- annuncio tipo di promozione del pedone
-
----
+> - Novità \*
+>   Plugin per partite online
+>   Oltre al pacchetto di Scacchi-it (scacchiGr.7z), scarica anche Scacchi-it-Net.7z, se vuoi:
+>
+> [Scarica Scacchi-it-Net](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/Scacchi-it-Net.7z)
+>
+> Il plugin gestisce la comunicazione di gioco in rete:
+>
+> - orologio condiviso tra i giocatori
+> - comunicazione richiesta di patta
+> - comunicazione tipo di promozione del pedone
+>
+> Il serverScacchi mantiene il log di mosse ed esito. Come da manuale, in caso di patta concordata è previsto avviso via email al circolo / responsabile punteggi.
 
 Con Scacchi-it potrai giocare offline/online multiplayer Hamachi con le room, anche contro stockfish offline con 21 livelli di difficoltà, imparare aperture con un Openings Trainer che usa standard pgn, ottenere suggerimenti dal coachFEN o dal coachGame integrati.
 Potrai usare un orologio scacchistico per allenarti a partite lampo e ai tornei.
