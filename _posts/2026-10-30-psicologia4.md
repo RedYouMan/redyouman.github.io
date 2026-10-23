@@ -76,11 +76,9 @@ La nuova visione in questo modo tenderà ad incrementare, pian piano, le persone
 
 Non per includere. Per usare uno strumento che funziona meglio per tutti e rafforzare l'identità della comunità.
 
-> Le comunità vincono quando il loro linguaggio diventa il linguaggio di tutti.
-
-Abbiamo tutto: Metodologia unificata e transdisciplinare, gli strumenti (Scacchi-it+ROTN), le metriche. E' il momento ideale per i nostri enti istituzionali scacchistici e della cecità di abbracciare la stessa visione, rafforzandola, dando all'Italia un ruolo di capofila dell'innovazione in Europa, accedendo anche a bandi di rilievo economico. Qui gli istruttori fsi, preparati sulla nuova didattica, potranno avere un ruolo fondamentale aiutando alla compilazione delle domande ai bandi.
-
 La nuova didattica con le discipline di neuroscenza, psicologia, epistemologia e sociologia sono la chiave di ingresso facilitato per gli istruttori quando discuteranno di un PON con un preside di istituto. Il linguaggio dei presidi non è scacco matto, fianchetto, strategia, tattica o finale, ma pedagogia dell'infanzia, psicologia, scienza della istruzione. Facendo leva su tale linguaggio e su questi concetti, sincronizzando gli intenti sarà più facile accedere alla scuola.
+
+> Le comunità vincono quando il loro linguaggio diventa il linguaggio di tutti.
 
 ### Bibliografia essenziale
 
