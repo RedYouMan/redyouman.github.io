@@ -26,9 +26,11 @@ Con Scacchi-it, la ZSP è diventata autonoma e replicabile:
 - _ROTN_ è il linguaggio comune tra allievo e istruttore. Una volta avuta la mossa da CoachFEN, la leggi in ROTN con NVDA e ci ragioni sopra: "Perché Re g1 e non Re h1?".
 - _Scacchi-it_ ti permette di rigiocarla e interiorizzarla.
 
+Si può anche giocare la posizione per più mosse con stockfish forzandolo con Ctrl+A.
+
 L'allievo non dipende più dal Maestro come persona. Ha un mediatore che gli dà la risposta corretta quando è bloccato e gli restituisce la possibilità di pensare da solo.
 
-Questa è la definizione esatta di scaffolding di Bruner. Solo che Bruner nel 1966 non aveva un open source.
+Questa è la definizione esatta di scaffolding di Bruner. Solo che Bruner nel 1966 non aveva un open source per sperimentare e ottenere dati.
 
 ### 2. Bruner: apprendimento a spirale con SVG -> ROTN -> Bendato
 
@@ -37,13 +39,13 @@ Bruner diceva: lo stesso concetto va rivisto più volte, a livelli di rappresent
 Scacchi-it è l'unico software scacchistico italiano che fa esattamente la spirale bruneriana, completa per i vedenti e mentale per i non vedenti:
 
 _Giro 1 - Iconico:_ vedi la posizione in SVG ottenuta da una FEN. Capisci visivamente.
-Oppure per i non vedenti con la ROTN ottenuta facendo una sospensione e leggendo il file nella cartella sospensioni.
+Oppure per i non vedenti l'Iconico si può avere con la ROTN ottenuta facendo una sospensione e leggendo il file nella cartella sospensioni.
 
-_Giro 2 - Simbolico:_ la stessa posizione la leggi in ROTN con NVDA dalla scacchiera. Non la vedi più, la decodifichi. "Senti dalla cuffia:Re casa g1, Donna d4...". Devi solo ricostruirla mentalmente.
+_Giro 2 - Simbolico:_ la stessa posizione la leggi in ROTN con NVDA dalla scacchiera. Non la vedi più, la decodifichi (pensi). "Senti dalla cuffia:Re casa g1, Donna d4...". Devi solo ricostruirla mentalmente.
 
 _Giro 3 - Simbolico puro:_ chiudi gli occhi (o spegni lo screen) e giochi dalla ROTN in memoria. Ctrl+D per verificare una relazione, ma senza SVG.
 
-Stessa posizione, tre cervelli diversi. È così che si impara per davvero. Non ripetendo la mossa, ma cambiando rappresentazione.
+Stessa posizione, tre cervelli diversi. È così che si impara per davvero. Non ripetendo la mossa, ma cambiando rappresentazione. Questo rafforza il concetto e la memoria di esso.
 
 Il vedente e il non vedente fanno la stessa spirale. Nessuno è escluso, perché la spirale è già inclusiva per costruzione.
 
@@ -63,9 +65,11 @@ Non semplifica gli scacchi. Li purifica. Ti lascia solo la geometria, le relazio
 
 Ecco perché gli allievi non vedenti, dopo 2 mesi di ROTN, calcolano meglio di molti vedenti di pari ELO: perché non sprecano RAM a gestire la vista.
 
+Tenere una scheda dell'allievo sulle sue capacità di calcolare e ricordare permette di vedere questi progressi nel tempo.
+
 > L'accessibilità non è aggiungere qualcosa per chi non vede. È togliere il rumore per chi deve pensare.
 
-La navigazione e il Ctrl+D, il posizionamento nel proprio schieramento quando hai il tratto, la posizione dei soli re per fornire l'orientamento durante il caricamento della posizione aiutano molto in questo. La FEN no.
+La navigazione e il Ctrl+D, il posizionamento nel proprio schieramento quando hai il tratto, la posizione dei soli re per fornire l'orientamento iniziale durante il caricamento della posizione aiutano molto in questo. La FEN no.
 
 ### Conclusione: perché è una protesi psicologica
 
@@ -73,7 +77,7 @@ Una protesi non ti fa diventare più forte di un umano. Ti restituisce la funzio
 
 Le gambe del non vedente funzionano. Gli scacchi no, perché l'ambiente li aveva costruiti solo per gli occhi.
 
-Scacchi-it è la protesi che restituisce la funzione di pensare scacchisticamente senza dipendere dagli occhi o dalla plastica.
+Scacchi-it è la protesi che restituisce la funzione di pensare scacchisticamente senza dipendere dagli occhi, dalla plastica, da un vedente.
 
 E come tutte le protesi ben fatte, dopo un po' non la senti più. Senti solo che pensi meglio e ti concentri sull'essenza del gioco, la strategia e la tattica. E diventa inenarrabile e sublime assaporare, poi, la bellezza di una combinazione travolgente.
 

@@ -22,9 +22,9 @@ Prendete questa parte di ROTN:
 
 Una ROTN vi ricordo che potete scriverla mettendo prima i pezzi di maggiore importanza e, infine, i pedoni.
 
-Sia Il file scritto in questo modo lo potete ascoltare chiaramente con NVDA, sia se sulla scacchiera fate Ctrl+D per leggere la posizione dello schieramento avversario (ma anche il proprio).
+Sia Il file scritto in questo modo , sia se sulla scacchiera fate Ctrl+D per leggere la posizione dello schieramento avversario (ma anche il proprio),la posizione la potrete ascoltare chiaramente con NVDA.
 
-Se la ascoltate con NVDA, sia su file, sia con Ctrl+D: ha un ritmo. Ha una metrica. Bianchi prima, Neri poi. Re, Donna, Torri, Alfieri, Cavalli, pedoni. È ordinata.
+E notate una cosa. Se la ascoltate con NVDA, sia su file, sia con Ctrl+D: ha un ritmo. Ha una metrica. Bianchi prima, Neri poi. Re, Donna, Torri, Alfieri, Cavalli, pedoni. È ordinata.
 
 Ora facciamo un esperimento. Mettete la cuffia e attivate NVDA.
 Ora ascoltate la FEN:
@@ -37,9 +37,13 @@ Solo sperimentando si comprende. La FEN è un formato per i motori e viola i pri
 La FEN, infatti, è unformato che è utile ma "sotto cofano", per interagire con motori come stockfish.
 Gli utenti non dovrebbero avere conoscenza di tali formati che sono, invece, competenza degli sviluppatori, il che aggiunge ulteriore carico cognitivo rispetto all'obettivo di giocare a scacchi bene.
 
+Non abbiamo bisogno di guidare un'auto mettendoci nel motore, ma vogliamo stare comodamente sul sedile.
+
 Scacchi-it segue i principi di progettazione della Universal Design (UD) e della Universal Design for Learning (UDL).
 
 Per questo Scacchi-it scala di un livello logico sia fen che pgn,rendendo trasparente il loro uso. L'utilizzo della FEN in incolla-FEN è solo di "transito dati" e non provoca carico della memoria cognitiva del giocatore.
+
+Non è in discussione lo standardFEN o protocollo, è corretto. E' in discussione il livello logico architetturale dove deve essere posizionato per essere il più efficace ed efficiente possibile per l'utilizzo.
 
 Inoltre la teoria estetica ci dice: la bellezza è quando forma e funzione coincidono. La FEN è funzione pura per macchine. La ROTN è forma umana per menti.
 
@@ -47,7 +51,7 @@ Bauhaus lo insegnava nel 1919: la forma segue la funzione, ma la funzione deve e
 
 > Non abbiamo fatto la ROTN solo per essere accessibili. L'abbiamo fatta perché l'accessibilità richiede implicitamente un criterio di bellezza di esposizione delle informazioni e il ritmo giusto per l'udito per aumentare l'intellegibilità e la chiarezza del dato, in modo da aumentare l'attenzione della mente.
 
-Fate un altro esperimento. Mettete un video di una persona molto alterata che vi strilla le sue idee: dopo 5 secondi il cervello stacca l'attenzione e pensa ad altro.
+Fate un altro esperimento. Mettete un video di una persona molto alterata che vi strilla le sue idee: dopo 5 secondi il vostro cervello stacca l'attenzione e pensa ad altro.
 
 Un software che suona bene con NVDA è più accessibile di uno che rispetta le WCAG ma suona come un modem del 1995.
 
