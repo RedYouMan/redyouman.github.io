@@ -27,7 +27,10 @@ Con Scacchi-it, la ZSP è diventata autonoma e replicabile:
 
 Si può anche giocare la posizione per più mosse con stockfish forzandolo con Ctrl+A.
 
-L'allievo non dipende più dal Maestro come persona. Ha un mediatore che gli dà la risposta corretta quando è bloccato e gli restituisce la possibilità di pensare da solo.
+Oppure se la partita era registrata,l'allievo se la può analizzare con coachGame ottenendo il report.txt. E di tale file, che rappresenta i suggerimenti di stockfish sulle mosse sotto tono, se ne può copiare il contenuto e incollare ad una AI esterna come Chat GPT o Gemini o Meta-AI.
+All'AI l'allievo potrà chiedere: "perchè ho perso?"e la AI, facendo una analisi strategico-tattica, gli insegnerà in italiano il tutto.
+
+L'allievo non dipende più dal Maestro come persona. Ha un mediatore che gli dà la risposta corretta quando è bloccato o l'analisi di una partita e gli restituisce la possibilità di pensare da solo.
 
 Questa è la definizione esatta di scaffolding di Bruner. Solo che Bruner nel 1966 non aveva un open source per sperimentare e ottenere dati.
 
