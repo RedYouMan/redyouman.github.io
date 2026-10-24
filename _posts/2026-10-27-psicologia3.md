@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Scacchi-it come protesi psicologica: non insegna scacchi, insegna a pensare"
 description: "Vygotskij, Bruner e Sweller spiegati con CoachFEN e ROTN. Perché Scacchi-it è una zona di sviluppo prossimale, non un software."
 keywords: "psicologia didattica scacchi, Vygotskij zona sviluppo prossimale, Bruner scaffolding, Sweller cognitive load, Scacchi-it, ROTN, didattica inclusiva"
