@@ -83,7 +83,7 @@ Consigliabile come affiancamento a scacchiere tattili per una didattica completa
 Espressamente progettato da Rosario Turco, un non vedente per la inclusione e la totale autonomia dei non vedenti.
 Leggero e di dimensioni da pendrive. Nessuna pubblicità.
 
-### 🤖 NOVITÀ: report.txt lletto da una AI (per scherzo soprannominata AlexAI)
+### 🤖 NOVITÀ: report.txt del coachGame lletto da una AI
 
 Copi `report.txt` di CoachGame, lo incolli su Gemini o ChatGPT o Meta AI e chiedi: _"Perché ho perso?"_
 
