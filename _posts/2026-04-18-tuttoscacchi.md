@@ -83,6 +83,12 @@ Consigliabile come affiancamento a scacchiere tattili per una didattica completa
 Espressamente progettato da Rosario Turco, un non vedente per la inclusione e la totale autonomia dei non vedenti.
 Leggero e di dimensioni da pendrive. Nessuna pubblicità.
 
+### 🤖 NOVITÀ: report.txt diventa AlexAI
+
+Copi `report.txt` di CoachGame, lo incolli su Gemini o ChatGPT o Meta AI e chiedi: _"Perché ho perso?"_
+
+Ti risponde in italiano, mossa per mossa. Il tuo coach personale, gratis.
+
 [diagrammi scacchi con la ROTN](https://redyouman.github.io/2026/09/14/rotn-per-editori.html)
 
 Documentazione Scacchi-it
