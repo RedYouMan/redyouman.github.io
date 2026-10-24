@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Tilt, Bluff e Oblio: cosa misurare"
 description: "Hick-Hyman, Oblio e Span non sono numeri. Sono emozioni misurate. La psicologia del gioco trasformata in didattica."
 keywords: "psicologia scacchi, tilt scacchi, Hick-Hyman, memoria lavoro, Scacchi-it metriche, ansia prestazione, FSI"
