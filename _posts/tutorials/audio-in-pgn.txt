@@ -60,7 +60,7 @@ Devi trasformare il file audio che ti darò dopo questo messaggio con queste reg
 2. Traduci così:
 cattura con x
 Patta con 1/2-1/2
-Abbandona: se sento Abbandona detto da chi registra, è 1-0 se il nero abbandona è 0-1 se il bianco abbandona devi chiedere. Se non sai, non mettere nulla alla fine.
+Abbandona: se sento Abbandona detto da chi registra, è 1-0 se il nero abbandona è 0-1 se il bianco abbandona Se non sai, non mettere nulla alla fine.
 matto con simbolo #
 scacco con simbolo +
 
