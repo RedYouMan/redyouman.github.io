@@ -89,6 +89,13 @@ Copi `report.txt` di CoachGame, lo incolli su Gemini o ChatGPT o Meta AI e chied
 
 Ti risponde in italiano, mossa per mossa. Il tuo coach personale, gratis.
 
+Novità - Audio partita per PGN da solo, senza software
+
+Da oggi puoi registrare la tua partita al torneo con la voce, una mossa alla volta, e ottenere il PGN a casa da solo.
+
+Vedi link:
+[Manuale audio partita in pgn](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/tutorials/audio-in-pgn.txt)
+
 [diagrammi scacchi con la ROTN](https://redyouman.github.io/2026/09/14/rotn-per-editori.html)
 
 Documentazione Scacchi-it

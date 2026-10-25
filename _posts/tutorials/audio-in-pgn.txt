@@ -1,0 +1,86 @@
+
+== Audio partita per pgn - Metodo autonomo senza software aggiuntivo ==
+
+Questo metodo ti permette di ottenere il PGN da solo, registrando la voce durante la partita, senza bisogno di installare nulla sul PC oltre a quello che hai già. Allenati almeno 5-6 volte a casa prima di usarlo in torneo.
+
+IMPORTANTE REGOLAMENTO: non in tutti i tornei è permesso registrare audio. Chiedi sempre prima all'arbitro. Se non ti permette l'audio, puoi usare lo stesso metodo scrivendo su un foglietto le parole dette sotto, una per riga, e poi dettandole all'AI.
+
+1. Il registratore giusto
+Se hai un Samsung, il registratore di sistema spesso non va bene perché alla pausa ricomincia da capo e perdi tutto.
+Scarica dal Play Store una di queste due app gratuite, hanno il tasto Pausa grande e vero:
+Audio Recorder
+oppure
+Voice Recorder
+Se il tuo registratore ha già pausa e ripresa reali, puoi tenere quello.
+
+2. Come devi parlare - la regola d'oro
+Parla sempre così: Registra, dici UNA mossa, Pausa.
+Aspetti la risposta dell'avversario, poi Registra, dici UNA mossa, Pausa.
+Non fare mai frasi lunghe.
+
+Devi dire le mosse così, in italiano:
+Pezzi: Re, Donna, Torre, Alfiere, Cavallo, Pedone si dice solo la casa, esempio e4
+Cattura: si dice cattura, esempio Donna cattura f7 oppure Cavallo cattura e5
+Arrocco: Arrocco corto oppure Arrocco lungo
+Scacco: dici solo scacco dopo la mossa, esempio Donna f7 scacco
+Scacco matto: dici solo matto dopo la mossa, esempio Donna f7 matto
+Patta: dici Patta
+Abbandono: dici Abbandona, e ricorda chi abbandona
+
+Esempio di registrazione corretta:
+Tu: e4 - pausa
+Avversario muove
+Tu: e5 - pausa
+Tu: Cavallo f3 - pausa
+e così via.
+
+3. Dove trovo il file audio sul telefono
+Ogni telefono salva in un posto diverso. Cerca su Google questa frase:
+dove salva i file Audio Recorder su marca del mio telefono
+Sostituisci marca con Samsung, Xiaomi, Motorola ecc.
+Google ti dirà il percorso, di solito cartella Recordings oppure Voice Recorder.
+
+4. Come lo porti sul PC
+Hai due modi semplici, scegli tu:
+Metodo A - Cavo USB: collega il telefono al PC con il cavetto, sul telefono accetta Trasferimento file, sul PC apri Esplora file, vai nella cartella che ti ha detto Google, copia il file e incollalo sul Desktop.
+Metodo B - WhatsApp Web: apri WhatsApp Web sul PC, invia a te stesso il file dalla cartella del telefono usando Condividi, poi scaricalo dal PC.
+
+Il file può chiamarsi .m4a .mp3 .ogg .wav va bene lo stesso.
+
+5. Trasformi l'audio in stringa con l'AI
+Ora apri ChatGPT o Gemini dal PC con NVDA, è più comodo per allegare.
+
+Prima di dare l'audio, copia e incolla all'AI questo testo esatto, compreso tra le due righe di trattini:
+
+---
+Devi trasformare il file audio che ti darò dopo questo messaggio con queste regole ferree:
+
+1. Devi produrre una sola riga di testo, solo mosse in notazione algebrica italiana. Usa R per Re, D per Donna, T per Torre, A per Alfiere, C per Cavallo. Il pedone senza lettera.
+
+2. Traduci così:
+cattura con x
+Patta con 1/2-1/2
+Abbandona: se sento Abbandona detto da chi registra, è 1-0 se il nero abbandona è 0-1 se il bianco abbandona devi chiedere. Se non sai, non mettere nulla alla fine.
+matto con simbolo #
+scacco con simbolo +
+
+3. Formato finale come questo esempio:
+1.e4 e5 2.Ac4 Ac5 3.Dh5 Cf6 4.Dxf7#
+
+4. Non aggiungere commenti, non spiegare, dammi solo la riga finale. Prima aspetta che ti carichi il file audio, poi elabora.
+
+---
+
+Dopo aver incollato queste regole, allega il file audio e invia.
+
+6. Da stringa a PGN vero
+L'AI ti risponde con una riga tipo 1.e4 e5 2.Cf3 Cc6 ecc.
+
+Fai così:
+Apri Blocco Note, incolla la riga, salva il file come partita.txt sul Desktop.
+Sposta partita.txt nella cartella make-pgn poi dentro elenco.
+Entra in elenco, cancella eventuali vecchi pgn che ci sono.
+Torna indietro di una cartella, lancia make-pgn.exe, rispondi alle domande, lui ti crea il pgn.
+Apri il pgn con Blocco Note e controlla.
+
+Spero di esserti stato utile.
