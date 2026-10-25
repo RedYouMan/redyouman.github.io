@@ -27,6 +27,8 @@ Scacco matto: dici solo matto dopo la mossa, esempio Donna f7 matto
 Patta: dici Patta
 Abbandono: dici Abbandona, e ricorda chi abbandona
 
+Fai attenzione di dire cattura quando si mangia un pedone o un pezzo.
+
 Esempio di registrazione corretta:
 Tu: e4 - pausa
 Avversario muove
@@ -77,10 +79,10 @@ Dopo aver incollato queste regole, allega il file audio e invia.
 L'AI ti risponde con una riga tipo 1.e4 e5 2.Cf3 Cc6 ecc.
 
 Fai così:
-Apri Blocco Note, incolla la riga, salva il file come partita.txt sul Desktop.
+Apri Blocco Note, incolla la riga, salva il file come partita.txt sul Desktop. Apri di nuovo il file con Notepad e controlla se tutto torna come le catture, gli scacchi, il matto, l'Abbandona, la Patta etc. Questo controllo ti serve per verificare se l'audio di partenza era corretto e qui sei ancora a tempo a correggere a mano.
+
 Sposta partita.txt nella cartella make-pgn poi dentro elenco.
 Entra in elenco, cancella eventuali vecchi pgn che ci sono.
-Torna indietro di una cartella, lancia make-pgn.exe, rispondi alle domande, lui ti crea il pgn.
-Apri il pgn con Blocco Note e controlla.
+Torna indietro di una cartella, lancia make-pgn.exe, rispondi alle domande, lui ti crea il pgn nella cartella elenco.
 
 Spero di esserti stato utile.
