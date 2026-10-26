@@ -91,6 +91,7 @@ Ti risponde in italiano, mossa per mossa. Il tuo coach personale, gratis.
 
 Novità: analisi mosse sospette (sperimentale)
 [Scarica analisiMosseSospette](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/analisiMosseSospette.7z)
+Vedi il manuale per le avvertenze
 
 Novità: Metodo per trasformare audio partita in pgn
 [Manuale audio in pgn](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/tutorials/audio-in-pgn.txt)
