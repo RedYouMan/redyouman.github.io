@@ -185,7 +185,7 @@ scacchi offline windows italiano tiflologico open source open data Nessun accoun
 scacchi gratis windows italiano offline open source open data didatticainclusione
 scacchi progetto italiano Scacchi-it open source open data ROTN inclusione Zenodo.org
 
-> Scacchi-it è portable, gratuito e senza complessa installazione, perfetto per i laboratori delle scuole
+> Scacchi-it è portable, gratuito e senza complessa installazione, senza account e tracciamento, perfetto per i laboratori delle scuole
 >
 > Scacchi-it è un gioco di scacchi tiflologico e accessibile che permette di giocare, studiare aperture, risolvere problemi e creare lezioni. Se cerchi scacchi offline italiano, scacchi per ciechi o scacchi per ipovedenti, puoi scaricare Scacchi-it gratuitamente da questa pagina.
 >
