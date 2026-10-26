@@ -3,6 +3,11 @@
 
 Obiettivo: rendere Thunderbird usabile solo da tastiera, con pochi pannelli, posizionato su "Tutti i messaggi" per non perdersi tra le cartelle.
 
+Premessa: 
+- devi avere un account gmail. Crea un account su gmail.com
+- poi scarica e installa MozillaThunderbird.
+ 
+Mozilla Thunderbird
 1. PRIMA CONFIGURAZIONE E SEMPLIFICAZIONE INTERFACCIA
 
 a) Al primo avvio inserisci Nome, Email e Password. Usa TAB per spostarti tra i campi e INVIO su Fatto. Thunderbird configura da solo Gmail, Libero, Aruba.
