@@ -1,0 +1,48 @@
+
+=== Configurare Mozilla Thunderbird per screen reader NVDA e JAWS - Guida semplificata tiflologica ===
+
+Obiettivo: rendere Thunderbird usabile solo da tastiera, con pochi pannelli, posizionato su "Tutti i messaggi" per non perdersi tra le cartelle.
+
+1. PRIMA CONFIGURAZIONE E SEMPLIFICAZIONE INTERFACCIA
+
+a) Al primo avvio inserisci Nome, Email e Password. Usa TAB per spostarti tra i campi e INVIO su Fatto. Thunderbird configura da solo Gmail, Libero, Aruba.
+
+b) Semplifica la vista (fondamentale per NVDA):
+- Premi ALT + V per menu Visualizza.
+- Vai su Aspetto -> Nascondi Barra dei menu, Barra dei preferiti se non serve.
+- Sempre in Visualizza -> Cartelle -> Seleziona "Unificate" o "Tutte". Questo ti mette TUTTO in un solo albero.
+- Visualizza -> Layout -> Verticale. Così hai: a sinistra cartelle, al centro lista messaggi, a destra corpo.
+
+c) Il trucco per stare sempre su "Tutti i messaggi":
+- Al primo avvio Thunderbird si posiziona su Posta in Arrivo. Tu premi F6 fino a sentire "Albero cartelle".
+- Freccia giù fino a "Posta Unificata" o "Tutti i messaggi" / "Posta in arrivo unificata".
+- Questo è il punto comodo. Una volta posizionato qui, Thunderbird ci resta. Non devi più cercare le cartelle dei singoli account.
+
+2. NAVIGAZIONE DA TASTIERA - I TASTI CHE SERVONO DAVVERO
+
+Navigazione pannelli:
+- F6: Salta tra i 3 pannelli principali: Albero Cartelle -> Elenco Messaggi -> Anteprima Messaggio. E' il tasto più importante.
+- TAB / SHIFT+TAB: Spostamento fine dentro lo stesso pannello, tra bottoni e campi.
+- FRECCE SU/GIU': Scorrere l'elenco delle email quando sei nella tabella messaggi.
+- INVIO: Aprire una email. CTRL + F4 o ESC o CTRL+W per chiuderla e tornare alla lista.
+
+Scaricare e cercare:
+- F5: Scarica messaggi dell'account selezionato.
+- MAIUSC + F5: Scarica tutti gli account.
+- CTRL + MAIUSC + F: Cerca messaggi.
+- CTRL + K: Cerca rapida nella lista corrente.
+
+3. SCRIVERE E RISPONDERE (per la partita Scacchi-it)
+
+- CTRL + N: Nuovo messaggio. Poi TAB per Destinatario, Oggetto, Corpo. CTRL+INVIO per inviare.
+- CTRL + R: Rispondi al mittente.
+- CTRL + MAIUSC + R: Rispondi a tutti.
+- CTRL + L: Inoltra.
+- Per allegare il file PGN della partita: in scrittura messaggio, ALT + I, poi Allegati, o semplicemente CTRL + MAIUSC + A e seleziona il file .pgn.
+
+4. IMPOSTAZIONI CONSIGLIATE PER NVDA/JAWS
+
+- In Impostazioni -> Generale -> Scorri in basso e disattiva "Mostra anteprima messaggio" se ti disturba la lettura doppia di NVDA. Oppure lasciala ma impara che F6 ti porta al corpo.
+- Disattiva riquadro Oggi / Calendario / Attività se non lo usi: ALT+V -> Disattiva Calendario.
+- Disattiva notifiche sonore doppie: Impostazioni -> Generale -> Togli suono notifica, tanto NVDA già dice "1 nuovo messaggio".
+

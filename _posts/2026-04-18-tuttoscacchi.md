@@ -92,6 +92,9 @@ Ti risponde in italiano, mossa per mossa. Il tuo coach personale, gratis.
 Novità: Metodo per trasformare audio partita in pgn
 [Manuale audio in pgn](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/tutorials/audio-in-pgn.txt)
 
+Novità:Come configurare il client di posta in modo semplificato con Mozilla Thunderbird
+[Manuale client-di-posta-Thunderbird](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/tutorials/client-di-posta-thunderbird.txt)
+
 > _Scacchi-it è un software scacchistico offline gratuito, progettato by design per la conformità alla Legge 82/2022 (European Accessibility Act - EN 301 549 / WCAG 2.1), usabile da vedenti e non vedenti con screen reader NVDA senza account né pubblicità._
 
 [diagrammi scacchi con la ROTN](https://redyouman.github.io/2026/09/14/rotn-per-editori.html)
