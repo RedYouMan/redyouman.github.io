@@ -55,11 +55,13 @@ Scacchi-it ultima versione 14.2 stabile
 
 [Manuale Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/tutorials/scacchiGr.txt)
 
+Scarica anche i due seguenti plugin e poi leggi il Manuale:
+[Scarica Scacchi-it-Net](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/Scacchi-it-Net.7z)
+
+[Scarica analisiMosseSospette](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/analisiMosseSospette.7z)
+
 > - Novità \*
->   Plugin per partite online
->   Oltre al pacchetto di Scacchi-it (scacchiGr.7z), scarica anche Scacchi-it-Net.7z, se vuoi:
->
-> [Scarica Scacchi-it-Net](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/Scacchi-it-Net.7z)
+>   Plugin Scacchi-it-Netper partite online
 >
 > Il plugin gestisce la comunicazione di gioco in rete:
 >
@@ -90,10 +92,6 @@ Leggero e di dimensioni da pendrive. Nessuna pubblicità.
 Copi `report.txt` di CoachGame, lo incolli su Gemini o ChatGPT o Meta AI e chiedi: _"Perché ho perso?"_
 
 Ti risponde in italiano, mossa per mossa. Il tuo coach personale, gratis.
-
-Novità: analisi mosse sospette (sperimentale)
-[Scarica analisiMosseSospette](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/analisiMosseSospette.7z)
-Vedi il manuale per le avvertenze
 
 Novità: Metodo per trasformare audio partita in pgn
 [Manuale audio in pgn](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/tutorials/audio-in-pgn.txt)
