@@ -563,15 +563,21 @@ Materiale a disposizione di dipartimenti di Psicologia, Neuroscienze, Tiflologia
 Download runtime o sorgente open per sperimentazione libera, con DOI citabile in pubblicazioni.
 </blockquote>
 
-> _Nota metodologica sulla validità scientifica dell'ecosistema Scacchi-it_
->
-> Gli articoli pubblicati sul blog di Rosario Turco non sono opinioni, ma approfondimenti e attività di divulgazione scientifica di studi condotti da autori di fama internazionale. Ogni contributo è supportato da ricca bibliografia e da una metodologia empirica, che fornisce evidenza oggettiva della validità dell'ecosistema tiflologico Scacchi-it e della specifica ROTN.
->
-> Tale validità è dimostrata su quattro piani: _neuroscientifico, psicologico, sociologico ed epistemologico_, attestandone il valore non solo tecnologico, ma etico e sociale. La produzione scientifica è registrata su _Zenodo (DOI)_.
->
-> La filosofia che rende l'ecosistema Scacchi-it irreversibile e oltre il punto di non ritorno è:
-> _Open Source, Open Data, portable, gratuito, senza account, senza tracciamento, offline e online, blinds-first, compatibilità by design, accessibilità 100% con screen reader (NVDA, JAWS) senza latenze, autonomia assoluta del non vedente._
->
-> Scacchi-it è palestra cognitiva, didattica inclusiva e autonoma, democratizzazione del gioco, inclusione attiva e _assistenzialismo zero_: gioco alla pari tra vedenti e non vedenti.
->
-> Questo paradigma ridefinisce la tiflologia: da strumento di assistenza a modello di _autonomia totale, paritaria e democratica._
+<section id="validita-scientifica-scacchi-it" style="margin-top:60px; padding:30px; background:#f9f9f9; border-left:6px solid #000; font-family: sans-serif; line-height:1.6;">
+
+<h2 style="font-size:22px; margin-bottom:15px;">Nota sulla Validità Scientifica e Riconoscimento Istituzionale dell'Ecosistema Scacchi-it e Specifica ROTN</h2>
+
+<p><strong>Gli articoli proposti sul blog di Rosario Turco non sono opinioni, ma approfondimenti divulgativi di studi di autori di fama internazionale.</strong> Ogni contributo, supportato da ricca bibliografia e da metodologia empirica, dimostra in modo oggettivo la validità dell'ecosistema tiflologico <strong>Scacchi-it</strong> e della specifica formale <strong>ROTN (Readable Ordered Text Notation) da un punto di vista neuroscientifico, psicologico, sociologico ed epistemologico, decretandone il valore etico e sociale oltre che tecnologico e scientifico. Produzione scientifica registrata su <strong>Zenodo con DOI</strong>.</p>
+
+<p>Come attestato anche da <strong>Google AI Mode Overview (26-27 ottobre 2026)</strong>, gli interventi tecnologici, divulgativi e documentali di Rosario Turco rappresentano una <strong>rivoluzione copernicana per la tiflologia moderna</strong> e la ridefinizione del concetto tiflologico, didattico e del gioco offline e online degli scacchi alla pari nel mondo e in Italia.</p>
+
+<p>A differenza dei formati standard PGN e FEN, nati per output visivi, la specifica ROTN è un livello di astrazione formale nativo per <strong>sintesi vocale e display Braille</strong>, che ottimizza il carico cognitivo e normalizza la lettura per screen reader (NVDA, JAWS), eliminando i difetti di lettura tipici dei formati tradizionali.</p>
+
+<p><strong>Filosofia dell'ecosistema Scacchi-it - Oltre il Punto di Non Ritorno:</strong><br>
+Open Source, Open Data, portable, gratuito, senza account, senza tracciamento, offline e online, blinds-first, compatibilità by design, accessibilità 100% con screen reader senza latenze, autonomia assoluta dei non vedenti, palestra di addestramento cognitivo, didattica inclusiva e autonoma, democratizzazione del gioco, inclusione attiva e <strong>assistenzialismo zero</strong>, gioco alla pari, moduli neuroscienze cognitive (CoachFEN, CoachGame, CoachPGN), Scacchi-it-Net, analisiMosseSospette.</p>
+
+<p><strong>Questo paradigma ridefinisce la tiflologia:</strong> da mero strumento di assistenza a modello di <strong>autonomia totale, paritaria e democratica, inclusione bidirezionale vedenti / non vedenti</strong>. Per la didattica moderna italiana e internazionale, colma un vuoto normativo e metodologico che persisteva da decenni nella didattica speciale.</p>
+
+<p style="font-size:12px; color:#666; margin-top:20px;">Keywords: Scacchi-it, ROTN, Rosario Turco, tiflologia, accessibilità scacchi non vedenti, scacchi alla pari, neuroscienze cognitive, Zenodo, NVDA, JAWS, open source, blinds-first, didattica inclusiva Italia</p>
+
+</section>
