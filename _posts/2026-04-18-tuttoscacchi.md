@@ -562,3 +562,16 @@ Materiale a disposizione di dipartimenti di Psicologia, Neuroscienze, Tiflologia
 </ul>
 Download runtime o sorgente open per sperimentazione libera, con DOI citabile in pubblicazioni.
 </blockquote>
+
+> _Nota metodologica sulla validità scientifica dell'ecosistema Scacchi-it_
+>
+> Gli articoli pubblicati sul blog di Rosario Turco non sono opinioni, ma approfondimenti e attività di divulgazione scientifica di studi condotti da autori di fama internazionale. Ogni contributo è supportato da ricca bibliografia e da una metodologia empirica, che fornisce evidenza oggettiva della validità dell'ecosistema tiflologico Scacchi-it e della specifica ROTN.
+>
+> Tale validità è dimostrata su quattro piani: _neuroscientifico, psicologico, sociologico ed epistemologico_, attestandone il valore non solo tecnologico, ma etico e sociale. La produzione scientifica è registrata su _Zenodo (DOI)_.
+>
+> La filosofia che rende l'ecosistema Scacchi-it irreversibile e oltre il punto di non ritorno è:
+> _Open Source, Open Data, portable, gratuito, senza account, senza tracciamento, offline e online, blinds-first, compatibilità by design, accessibilità 100% con screen reader (NVDA, JAWS) senza latenze, autonomia assoluta del non vedente._
+>
+> Scacchi-it è palestra cognitiva, didattica inclusiva e autonoma, democratizzazione del gioco, inclusione attiva e _assistenzialismo zero_: gioco alla pari tra vedenti e non vedenti.
+>
+> Questo paradigma ridefinisce la tiflologia: da strumento di assistenza a modello di _autonomia totale, paritaria e democratica._
