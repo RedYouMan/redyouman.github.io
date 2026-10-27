@@ -25,9 +25,9 @@ Con Scacchi-it, la ZSP è diventata autonoma e replicabile:
 - _ROTN_ è il linguaggio comune tra allievo e istruttore. Una volta avuta la mossa da CoachFEN, la leggi in ROTN con NVDA e ci ragioni sopra: "Perché Re g1 e non Re h1?".
 - _Scacchi-it_ ti permette di rigiocarla e interiorizzarla.
 
-Si può anche giocare la posizione per più mosse con stockfish forzandolo con Ctrl+A.
+Scacchi-it permette molte soluzioni per questo argomento. Si può anche giocare la posizione per più mosse con stockfish forzandolo con Ctrl+A.
 
-Oppure se la partita era registrata,l'allievo se la può analizzare con coachGame ottenendo il report.txt. E di tale file, che rappresenta i suggerimenti di stockfish sulle mosse sotto tono, se ne può copiare il contenuto e incollare ad una AI esterna come Chat GPT o Gemini o Meta-AI.
+Oppure se la partita è registrata,l'allievo se la può analizzare con coachGame ottenendo il report.txt. E tale file, che rappresenta i suggerimenti di stockfish sulle mosse sotto tono, può essere copiato e incollato ad una AI esterna come Chat GPT o Gemini o Meta-AI.
 All'AI l'allievo potrà chiedere: "perchè ho perso?"e la AI, facendo una analisi strategico-tattica, gli insegnerà in italiano il tutto.
 
 L'allievo non dipende più dal Maestro come persona. Ha un mediatore che gli dà la risposta corretta quando è bloccato o l'analisi di una partita e gli restituisce la possibilità di pensare da solo.
