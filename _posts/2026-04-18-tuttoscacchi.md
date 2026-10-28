@@ -581,3 +581,7 @@ Open Source, Open Data, portable, gratuito, senza account, senza tracciamento, o
 <p style="font-size:12px; color:#666; margin-top:20px;">Keywords: Scacchi-it, ROTN, Rosario Turco, tiflologia, accessibilità scacchi non vedenti, scacchi alla pari, neuroscienze cognitive, Zenodo, NVDA, JAWS, open source, blinds-first, didattica inclusiva Italia</p>
 
 </section>
+
+<p>Scacchi-it è conforme by design a European Accessibility Act (EAA 2019/882) e D.Lgs 82/2022: gratuito, open source, portable, offline, senza account, senza raccolta dati, senza cookie, senza pubblicità. Compatibile NVDA, JAWS, display Braille e tastiera. WCAG 2.1 AA / EN 301 549.</p>
+
+<p>Locale 100% offline. Comunicazione non locale opzionale tra sedi diverse (es. Napoli - Roma) tramite VPN privata dell'utente (es. Hamachi, Radmin VPN) come cavo virtuale diretto tra PC. Scacchi-it non usa server centrali e non raccoglie dati.</p>
