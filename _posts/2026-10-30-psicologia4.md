@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Dal gruppo alla comunità: sociologia della Nuova Visione"
 description: "Perché Scacchi-it non è un software ma una comunità di pratica. Goffman, Touraine e Putnam spiegati con la ROTN."
 keywords: "Nuova Visione scacchi, sociologia scacchi, comunità pratica, Goffman stigma, capitale sociale, inclusione"

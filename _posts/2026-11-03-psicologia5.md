@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "La bellezza di una ROTN ben scritta: estetica ed etica della Nuova Visione"
 description: "Perché l'accessibilità vera è bella. Heidegger, Floridi e l'etica hacker open source spiegati con una riga di ROTN."
 keywords: "estetica accessibilità, etica open source scacchi, ROTN bellezza, filosofia tecnologia, Nuova Visione, Heidegger, Floridi"
@@ -90,6 +89,9 @@ Floridi, 2014, _The Fourth Revolution_: viviamo nell'infosfera. La realtà è in
 La NV è una rivoluzione filosofica: spostiamo gli scacchi dall'essere utensile all'essere informazione (testo, relazione).
 
 E quando gli scacchi diventano informazione, chi non vede non è più in difficoltà. È nativo dell'infosfera scacchistica.
+
+Ora vi chiedo: "Quando aprite la scacchiera di Scacchi-it, dove vedete la ROTN o la FEN?".
+Ci giocate, ascoltate ma non sentite nessuno che vi dice ROTN, sapete solo che sentite dallo screen reader tutto in modo fluido. Con CtrlD ascoltate la disposizione dei pezzi avversari (o propri), quando scrivete una posizione col simpleEditor lui vi chiede cosa deve avere la posizione e ve lo scrive. Se prelevate una FEN da qualche parte potete usare incollaFEN, se dalle estenzioni browser vi fa piacere prendere la rotn, la incollate con incollaROTN. Se sospendete unapartita e la riprendete, oppure chiedete di girare la scacchiera Scacchi-it ve lo fa da solo usando la ROTN come meccanismo interno. Il vostro intervento sulla ROTN è quasi nullo, potreste anche non conoscerla: è un formato reso trasparente da Scacchi-it.
 
 ### Conclusione: la tombola della Nuova Visione
 
