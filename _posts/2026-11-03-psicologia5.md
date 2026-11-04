@@ -94,6 +94,8 @@ Ora vi chiedo: "Quando aprite la scacchiera di Scacchi-it, dove vedete la ROTN o
 Ci giocate, ascoltate ma non sentite nessuno che vi dice ROTN, sapete solo che sentite dallo screen reader tutto in modo fluido. Con CtrlD ascoltate la disposizione dei pezzi avversari (o propri), quando scrivete una posizione col simpleEditor lui vi chiede cosa deve avere la posizione e ve lo scrive. Se prelevate una FEN da qualche parte potete usare incollaFEN, se dalle estenzioni browser vi fa piacere prendere la rotn, la incollate con incollaROTN. Se sospendete unapartita e la riprendete, oppure chiedete di girare la scacchiera Scacchi-it ve lo fa da solo usando la ROTN come meccanismo interno della scacchiera. Il vostro intervento sulla ROTN è quasi nullo, potreste anche non conoscerla: è un formato reso trasparente da Scacchi-it.
 Il gioco è sempre quello da millenni.
 
+Scacchi-it non è solo per non vedenti. E' molto utile anche ai giocatori normodotati, migliora la costruzione di immagini mentali aumentando la forza nel gioco alla cieca e non solo.
+
 ### Conclusione: la tombola della Nuova Visione
 
 Ricapitoliamo fin qui un attimo gli articoli finora visti, per proseguire poi con ulteriori approfondimenti:
