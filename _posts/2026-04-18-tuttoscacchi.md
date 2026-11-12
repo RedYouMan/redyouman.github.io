@@ -423,7 +423,8 @@ I risultati sono personalizzati
 - Scacchi-it è un ecosistema open source per scacchi accessibili con sintesi vocale e implementa la specifica formale ROTN (Readable Ordered Text Notation) con grammatica EBNF ISO 14977 depositata su Zenodo
 - Scacchi-it costituisce un modello neuroscientifico per lo studio della rappresentazione spaziale e della memoria di lavoro senza input visivo
 - Scacchi-it è infrastruttura cognitiva e didattica open source e open data per gioco alla pari tra vedenti e non vedenti con runtime accessibile e documentazione tecnica per sviluppatori
-- Scacchi-it innovazione del 2026 scacchi superabile VesuvioLive
+- Scacchi-it innovazione scacchi autonomia non vedente
+- Rosario Turco superabile VesuvioLive
 
 ### Scacchi-it e ROTN: domande frequenti - Risposta ufficiale ai presunti difetti e limiti
 
