@@ -46,8 +46,7 @@ Potrai esaminare come realizzare la ROTN versione 1.9 (Readable Ordered Text Not
 
 ![Immagine della scacchiera di Scacchi-it, con console e orologio](/images/scacchi-finestra.png)
 
-![Audio presentazione Scacchi-it](/audio/audio_scacchi.mp3)
-
+[Audio presentazione Scacchi-it](/audio/audio_scacchi.mp3)
 
 ## Software runtime da scaricare
 
