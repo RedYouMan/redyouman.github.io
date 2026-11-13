@@ -46,6 +46,9 @@ Potrai esaminare come realizzare la ROTN versione 1.9 (Readable Ordered Text Not
 
 ![Immagine della scacchiera di Scacchi-it, con console e orologio](/images/scacchi-finestra.png)
 
+![Audio presentazione Scacchi-it](/audio/audio_scacchi.mp3)
+
+
 ## Software runtime da scaricare
 
 Scacchi-it ecosistema tiflologico inclusivo, italiano con la ROTN, per Windows 10 o 11, gratis, portable, compatibile con screen reader NVDA, JAWS e display Braille.
