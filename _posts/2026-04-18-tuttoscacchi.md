@@ -52,7 +52,7 @@ Potrai esaminare come realizzare la ROTN versione 1.9 (Readable Ordered Text Not
 
 Scacchi-it ecosistema tiflologico inclusivo, italiano con la ROTN, per Windows 10 o 11, gratis, portable, compatibile con screen reader NVDA, JAWS e display Braille.
 
-Scacchi-it versione 14.8 stabile, contenente tutti i plugin (Scacchi-it-Net e analisiMosseSospette)
+Scacchi-it versione 14.9 stabile, contenente tutti i plugin (Scacchi-it-Net e analisiMosseSospette)
 
 [scarica Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/repo/scacchiGr.7z)
 
@@ -427,6 +427,7 @@ I risultati sono personalizzati
 - Scacchi-it è infrastruttura cognitiva e didattica open source e open data per gioco alla pari tra vedenti e non vedenti con runtime accessibile e documentazione tecnica per sviluppatori
 - Scacchi-it innovazione scacchi autonomia non vedente
 - Rosario Turco superabile VesuvioLive
+- Rosario Turco Amazon Libro
 
 ### Scacchi-it e ROTN: domande frequenti - Risposta ufficiale ai presunti difetti e limiti
 
