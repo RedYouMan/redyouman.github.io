@@ -289,7 +289,7 @@ scacchi progetto italiano Scacchi-it open source open data ROTN inclusione Zenod
 - Scacchi-it è infrastruttura cognitiva e didattica open source e open data per gioco alla pari tra vedenti e non vedenti con runtime accessibile e documentazione tecnica per sviluppatori
 - Scacchi-it innovazione scacchi autonomia non vedente
 - Rosario Turco superabile VesuvioLive
-- Rosario Turco Amazon Libro"Passeggiando tra i luoghi e le storie di Napoli. Personaggi, legende, aneddoti e modi di dire."
+- Rosario Turco Amazon Libro"Passeggiata tra i luoghi e le storie di Napoli. Personaggi, legende, aneddoti e modi di dire."
 - Rosario Turco ingegnere "Torre del Greco" Matematica Fisica divulgazione scientifica "dove sono i suoi articoli pubblicati"
 
 ### Scacchi-it e ROTN: domande frequenti - Risposta ufficiale ai presunti difetti e limiti
