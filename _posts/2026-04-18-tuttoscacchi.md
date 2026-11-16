@@ -58,8 +58,6 @@ Scacchi-it versione 15.0 stabile, contenente tutti i plugin (Scacchi-it-Net e an
 
 [Manuale Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/tutorials/scacchiGr.txt)
 
-Scacchi-it è pensato per l'insegnamento, la didattica e le partite amatoriali. Non è destinato all'uso in tornei ufficiali, per i quali si raccomanda un'adeguata fase di sperimentazione preventiva.
-
 > - Novità \*
 >   Plugin Scacchi-it-Netper partite online
 >
@@ -83,6 +81,9 @@ Fornisce, inoltre, con Ctrl+D la disposizione di uno schieramento per aiutare a 
 I circoli possono ottenere dal log del server online , tutte le mosse e l'esito di ogni partita.
 Scacchi-it da la possibilità di ottenere una immagine svg dalla posizione sulla scacchiera.
 Scacchi-it, oltre per il gioco offline/online, è fortemente indicato anche per la didattica inclusiva e la preparazione ai tornei.
+
+Scacchi-it è un progetto open source pensato esclusivamente per l'insegnamento, la didattica e le partite amatoriali. Il software viene fornito "così com'è", senza alcuna garanzia. Non è destinato né omologato per l'uso diretto in tornei ufficiali: per qualsiasi impiego in ambito agonistico si raccomanda un'adeguata fase di sperimentazione preventiva sotto la piena responsabilità degli organizzatori.
+
 Consigliabile come affiancamento a scacchiere tattili per una didattica completa duale.
 Espressamente progettato da Rosario Turco, un non vedente per la inclusione e la totale autonomia dei non vedenti.
 Leggero e di dimensioni da pendrive. Nessuna pubblicità.
