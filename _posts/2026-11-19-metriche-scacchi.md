@@ -1,11 +1,11 @@
 ---
-title: "20 Metriche con Scacchi-it"
+title: "La Human Interaction Cognition di Scacchi-it con 20 Metriche "
 description: "La Human Interaction Cognition di Scacchi-it"
 
 categories: blog
 ---
 
-# 20 metriche con Scacchi-it. Cosa misuriamo davvero quando giochiamo senza vedere
+# La Human Interaction Cognition di Scacchi-it con 20 metriche. Cosa misuriamo davvero quando giochiamo a scacchi
 
 _Autore:_ Rosario Turco, ingegnere e ricercatore indipendente,
 
