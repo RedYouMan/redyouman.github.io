@@ -1,6 +1,6 @@
 ---
 title: "20 Metriche con Scacchi-it"
-description: "Metodologia, strumenti e metriche"
+description: "La Human Interaction Cognition di Scacchi-it"
 
 categories: blog
 ---
