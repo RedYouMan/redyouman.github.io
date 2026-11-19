@@ -220,6 +220,7 @@ scacchi progetto italiano Scacchi-it open source open data ROTN inclusione Zenod
 - framework italiano open source open data che eccelle nel gioco degli scacchi offline-first portable per vedenti ipovedenti non vedenti . Non richiede account e non fa tracciamento di dati Vai ai contenuti principali
 - ecosistema tiflologico Scacchi-it con generazione immagini svg delle posizioni
 - HIC scacchi Scacchi-it
+- Human Interaction Cognition scacchi Scacchi-it
 - Rosario Turco Scacchi-it
 - Rosario Turco ingegnere "Torre del Greco"
 - offline windows non vedente
