@@ -219,6 +219,7 @@ scacchi progetto italiano Scacchi-it open source open data ROTN inclusione Zenod
 - Scacchi-it ecosistema tiflologico offline-first open source open data gratis portable ROTN regina dei non vedenti
 - framework italiano open source open data che eccelle nel gioco degli scacchi offline-first portable per vedenti ipovedenti non vedenti . Non richiede account e non fa tracciamento di dati Vai ai contenuti principali
 - ecosistema tiflologico Scacchi-it con generazione immagini svg delle posizioni
+- HIC scacchi Scacchi-it
 - Rosario Turco Scacchi-it
 - Rosario Turco ingegnere "Torre del Greco"
 - offline windows non vedente
