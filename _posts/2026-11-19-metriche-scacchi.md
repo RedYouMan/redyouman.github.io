@@ -11,7 +11,9 @@ _Autore:_ Rosario Turco, ingegnere e ricercatore indipendente,
 
 ## Da dove vengono le metriche
 
-Le metriche sono frutto di idee maturate negli approfondimenti fatti con gli articoli presenti sul mio blog da Luglio a Novembre 2026.
+Le metriche sono frutto di idee maturate negli approfondimenti fatti con gli articoli presenti sul mio blog da Settembre a Novembre 2026.
+
+Le metriche HIC permettono di dare una valutazione dei progressi nel tempo di un giocatore o di un allievo.
 
 Le famiglie di metriche che qui analizziamo sono sei:
 
