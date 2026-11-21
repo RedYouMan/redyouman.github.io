@@ -1,10 +1,11 @@
 ---
-title: "tuttoScacchi: Scacchi-it - imparare gli scacchi a casa per non vedenti - didattica"
-description: "Scacchi-it è il programma gratuito per imparare gli scacchi a casa per non vedenti, ciechi e ipovedenti. Didattica scacchi a casa, da soli o in rete, con NVDA e JAWS."
+title: "Scacchi-it di Rosario Turco: scacchi a scuola con metriche HIC, inclusione vedenti e non vedenti - offline e online"
+
+description: "Scacchi-it di Rosario Turco è il programma gratuito per scacchi a scuola e a casa, con metriche HIC per misurare i progressi, inclusione di vedenti, non vedenti e ipovedenti, offline e online, con NVDA, JAWS e Braille, con ROTN."
 categories: blog
 ---
 
-# Tutto Scacchi e Scacchi-it di Rosario Turco - Human Interaction Cognition (HIC)
+# Scacchi-it di Rosario Turco - Human Interaction Cognition (HIC)
 
 Scacchi-it (si legge Scacchi-trattino-it) di Rosario Turco
 
@@ -312,7 +313,7 @@ _Scacchi-it: la palestra di gioco e cognitiva di Scacchi-it, con metriche HIC, p
   "@context": "https://schema.org",
   "@type": "SoftwareApplication",
   "name": "Scacchi-it",
-  "alternateName": ["Scacchi it", "Tuttoscacchi"],
+  "alternateName": ["Scacchi it"],
   "applicationCategory": "GameApplication",
   "operatingSystem": "Windows 10, Windows 11",
   "author": {
