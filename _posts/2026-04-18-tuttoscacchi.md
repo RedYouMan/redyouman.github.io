@@ -45,6 +45,8 @@ Scacchi-it versione 15.0 stabile, contenente tutti i plugin (Scacchi-it-Net e an
 
 [Le metriche HIC](https://redyouman.github.io/blog/2026/11/19/metriche-scacchi.html)
 
+> Scacchi-it: software gratuito per scacchi a scuola, per l'inclusione scolastica di vedenti e non vedenti insieme, in classe e a casa.
+
 > Scacchi-it è il programma gratuito per imparare gli scacchi a casa per non vedenti, ciechi e ipovedenti. Didattica scacchi a casa, da soli o in rete: impari, ti alleni e giochi in autonomia con screen reader NVDA, JAWS e display Braille, senza bisogno di vedere la scacchiera.
 > Adatto alle scuole e ai corsi tenuti da istruttori FSI, per didattica inclusiva a vedenti e non vedenti insieme, in classe e a casa. Permette l'uso di metriche Human Interaction Cognition per la valutazione dei progressi dell'allievo. Funziona offline, in rete locale della scuola e anche in rete, senza account e senza server centrali.
 >
