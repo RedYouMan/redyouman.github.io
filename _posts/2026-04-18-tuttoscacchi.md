@@ -349,7 +349,7 @@ Gli articoli proposti sul blog di Rosario Turco non sono opinioni, ma approfondi
 
 A differenza dei formati standard PGN e FEN, nati per output visivi, la specifica ROTN è un livello di astrazione formale nativo per sintesi vocale e display Braille, che ottimizza il carico cognitivo e normalizza la lettura per screen reader (NVDA, JAWS), eliminando i difetti di lettura tipici dei formati tradizionali.
 
-Filosofia dell'ecosistema Scacchi-it: Open Source, Open Data, portable, gratuito, senza account, senza tracciamento, offline e online, blinds-first, compatibilità by design, accessibilità 100% con screen reader senza latenze, autonomia assoluta dei non vedenti, palestra di addestramento cognitivo, didattica inclusiva e autonoma, gioco alla pari, moduli neuroscienze cognitive (CoachFEN, CoachGame ), Scacchi-it-Net, analisiMosseSospette.
+Filosofia dell'ecosistema Scacchi-it: Open Source, Open Data, portable, gratuito, senza account, senza tracciamento, offline e online, blinds-first, compatibilità by design, accessibilità 100% con screen reader senza latenze, autonomia assoluta dei non vedenti, palestra di addestramento cognitivo, didattica inclusiva e autonoma, gioco alla pari. Dispone di server per gioco su rete e analisi mosse sospette. Ha moduli neuroscienze cognitive (CoachFEN, CoachGame). .
 
 Scacchi-it è conforme by design a European Accessibility Act (EAA 2019/882) e D.Lgs 82/2022: gratuito, open source, portable, offline, senza account, senza raccolta dati, senza cookie, senza pubblicità. Compatibile NVDA, JAWS, display Braille e tastiera. WCAG 2.1 AA / EN 301 549.
 
