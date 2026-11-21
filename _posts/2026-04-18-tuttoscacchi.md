@@ -1,21 +1,6 @@
 ---
-title: "tuttoscacchi  e Scacchi-it di Rosario Turco- Human Interaction Cognition (HIC) - Downloads:scacchi gratuiti su Windows per non vedenti e vedenti (tiflologico)"
-description: "Scacchi-it - Scacchi per non vedenti, accessibilità ottimizzata per i migliori screen reader su Windows "
-keywords:
-  [
-    "downloads",
-    "scacchi",
-    "gratis",
-    "screen reader",
-    "NVDA",
-    "JAWS",
-    "Windows",
-    "RedyouMan",
-    "Rosario Turco",
-    "non vedenti",
-    "ciechi",
-    "ipovedenti",
-  ]
+title: "Scacchi-it: imparare gli scacchi a casa per non vedenti - didattica"
+description: "Scacchi-it è il programma gratuito per imparare gli scacchi a casa per non vedenti, ciechi e ipovedenti. Didattica scacchi a casa, da soli o in rete, con NVDA e JAWS."
 categories: Blog
 ---
 
@@ -58,8 +43,12 @@ Scacchi-it versione 15.0 stabile, contenente tutti i plugin (Scacchi-it-Net e an
 
 [Manuale Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/tutorials/scacchiGr.txt)
 
+> Scacchi-it è il programma gratuito per imparare gli scacchi a casa per non vedenti, ciechi e ipovedenti. Didattica scacchi a casa, da soli o in rete: impari, ti alleni e giochi in autonomia con screen reader NVDA, JAWS e display Braille, senza bisogno di vedere la scacchiera.
+> Adatto alle scuole e ai corsi tenuti da istruttori FSI, per didattica inclusiva a vedenti e non vedenti insieme, in classe e a casa.
+>
 > - Novità \*
->   Plugin Scacchi-it-Netper partite online
+
+> Plugin Scacchi-it-Netper partite online
 >
 > Il plugin gestisce la comunicazione di gioco in rete:
 >
