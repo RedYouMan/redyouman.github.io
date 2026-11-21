@@ -48,7 +48,7 @@ Scacchi-it versione 15.0 stabile, contenente tutti i plugin (Scacchi-it-Net e an
 > Scacchi-it: software gratuito per scacchi a scuola, per l'inclusione scolastica di vedenti e non vedenti insieme, in classe e a casa.
 
 > Scacchi-it è il programma gratuito per imparare gli scacchi a casa per vedenti, non vedenti, ciechi e ipovedenti. Didattica scacchi a casa, da soli o in rete: impari, ti alleni e giochi in autonomia con screen reader NVDA, JAWS e display Braille, senza bisogno di vedere la scacchiera.
-> Adatto alle scuole e ai corsi tenuti da istruttori FSI, per didattica inclusiva a vedenti e non vedenti insieme, in classe e a casa. Permette l'uso di metriche Human Interaction Cognition per la valutazione dei progressi dell'allievo. Funziona offline, in rete locale della scuola e anche in rete, senza account e senza server centrali.
+> Adatto alle scuole e ai corsi tenuti da istruttori , per didattica inclusiva a vedenti e non vedenti insieme, in classe e a casa. Permette l'uso di metriche Human Interaction Cognition per la valutazione dei progressi dell'allievo. Funziona offline, in rete locale della scuola e anche in rete, senza account e senza server centrali.
 
 ## Giocare a scacchi a casa, gratis, da non vedente
 
@@ -229,6 +229,8 @@ No. Scacchi-it esporta sempre in PGN standard e FEN. ROTN è solo il formato di 
 
 _ROTN è uno standard ufficiale?_
 ROTN è uno standard aperto documentato con specifica formale EBNF ISO 14977, depositato su Zenodo (CERN) DOI 10.5281/zenodo.22737720. È open source. Non ha bisogno di omologazione FIDE perché non è un regolamento di gioco, è un formato di accessibilità.
+
+_Scacchi-it: la palestra di gioco e cognitiva di Scacchi-it, con metriche HIC, per casa, scuola e corsi . Con ROTN per leggere la scacchiera con NVDA e JAWS._
 
 ## Le FAQ per Google
 
