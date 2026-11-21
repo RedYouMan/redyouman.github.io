@@ -4,11 +4,11 @@ description: "Scacchi-it è il programma gratuito per imparare gli scacchi a cas
 categories: Blog
 ---
 
-# Tutto Scacchi e Scacchi-it di Rosario Turco- Human Interaction Cognition (HIC)
+# Tutto Scacchi e Scacchi-it di Rosario Turco - Human Interaction Cognition (HIC)
 
 Scacchi-it (si legge Scacchi-trattino-it) di Rosario Turco
 
-#Scacchi per non vedenti su Windows: gioco gratis offline con sintesi vocale - ROTN
+# Scacchi per non vedenti su Windows: gioco gratis offline con sintesi vocale - ROTN
 
 _ROTN v1.9: ROTN = Readable Ordered Text Notation (def. ufficiale, ex ROT Notation fino a v1.8)._
 
@@ -47,82 +47,76 @@ Scacchi-it versione 15.0 stabile, contenente tutti i plugin (Scacchi-it-Net e an
 
 > Scacchi-it: software gratuito per scacchi a scuola, per l'inclusione scolastica di vedenti e non vedenti insieme, in classe e a casa.
 
-> Scacchi-it è il programma gratuito per imparare gli scacchi a casa per non vedenti, ciechi e ipovedenti. Didattica scacchi a casa, da soli o in rete: impari, ti alleni e giochi in autonomia con screen reader NVDA, JAWS e display Braille, senza bisogno di vedere la scacchiera.
+> Scacchi-it è il programma gratuito per imparare gli scacchi a casa per vedenti, non vedenti, ciechi e ipovedenti. Didattica scacchi a casa, da soli o in rete: impari, ti alleni e giochi in autonomia con screen reader NVDA, JAWS e display Braille, senza bisogno di vedere la scacchiera.
 > Adatto alle scuole e ai corsi tenuti da istruttori FSI, per didattica inclusiva a vedenti e non vedenti insieme, in classe e a casa. Permette l'uso di metriche Human Interaction Cognition per la valutazione dei progressi dell'allievo. Funziona offline, in rete locale della scuola e anche in rete, senza account e senza server centrali.
->
-> - Novità \*
 
-> Plugin Scacchi-it-Netper partite online
->
-> Il plugin gestisce la comunicazione di gioco in rete:
->
-> - orologio condiviso tra i giocatori
-> - comunicazione richiesta di patta
-> - comunicazione tipo di promozione del pedone
->
-> Il serverScacchi mantiene il log di mosse ed esito. Come da manuale, in caso di patta concordata è previsto avviso via email non automatica ma da parte dei giocatori al circolo / responsabile punteggi.
+## Giocare a scacchi a casa, gratis, da non vedente
 
-Con Scacchi-it potrai giocare offline/online multiplayer Hamachi con le room, anche contro stockfish offline con 21 livelli di difficoltà, imparare aperture con un Openings Trainer che usa standard pgn, ottenere suggerimenti dal coachFEN o dal coachGame integrati.
+Vuoi giocare a scacchi a casa, gratis, se sei non vedente o ipovedente?
+
+Con Scacchi-it puoi farlo offline, senza internet, senza account, senza pubblicità.
+
+Accendi il PC, giochi con la voce, ti alleni, spegni. Lo screen reader ti dice tutto, non devi vedere la scacchiera.
+
+A casa puoi:
+
+- giocare offline contro Stockfish, con 21 livelli di difficoltà
+- studiare le aperture con l'Openings Trainer
+- usare il coachFEN e il coachGame per capire le tue mosse
+- usare l'orologio per le partite lampo
+- registrare la partita in PGN e crearla con la ROTN
+
+A differenza delle piattaforme online, qui nessuno ti scrive in chat, nessuna pubblicità interrompe lo screen reader, nessun account ti chiede dati. A casa, sei tranquillo.
+
+Consigliabile come affiancamento a scacchiere tattili per una didattica completa duale.
+
+## Cosa puoi fare con Scacchi-it
+
+Con Scacchi-it potrai giocare offline/online multiplayer Hamachi con le room, anche contro Stockfish offline con 21 livelli di difficoltà, imparare aperture con un Openings Trainer che usa standard PGN, ottenere suggerimenti dal coachFEN o dal coachGame integrati.
 Potrai usare un orologio scacchistico per allenarti a partite lampo e ai tornei.
-Potrai registrare la partita su file con notazione algebrica e creare i tuoi file pgn .
-Potrai creare qualsiasi posizione con la innovativa ROTN versione 1.9 (Readable Ordered Text Notation) anche con il simpleEditor che ti aiuta a popolare il tuo Database di posizioni oppure incollare a Scacchi-it una FEN disponibile o una ROTN con incolla-ROTN.
-ROTN+simpleEditor = file ROTN creati sempre corretti.
+Potrai registrare la partita su file con notazione algebrica e creare i tuoi file PGN.
+Potrai creare qualsiasi posizione con la ROTN versione 1.9 (Readable Ordered Text Notation) anche con il simpleEditor che ti aiuta a popolare il tuo Database di posizioni oppure incollare a Scacchi-it una FEN disponibile o una ROTN con incolla-ROTN.
+ROTN + simpleEditor = file ROTN creati sempre corretti.
 Potrai con extractGame estrarre dal serverScacchi online la partita testuale in notazione algebrica per poi usare il make-pgn.
-Scacchi-it Utilizza sintesi vocale e una grafica moderna SFML (Simple & Fast Multimedia Library) con animazione delle mosse e utilizzo di mouse e tastiera.
+Scacchi-it utilizza sintesi vocale e una grafica moderna SFML con animazione delle mosse e utilizzo di mouse e tastiera.
 Scacchi-it fornisce estensioni browser per prelevare FEN da portali e tradurla in ROTN.
 Fornisce, inoltre, con Ctrl+D la disposizione di uno schieramento per aiutare a riconoscere i pattern.
-I circoli possono ottenere dal log del server online , tutte le mosse e l'esito di ogni partita.
-Scacchi-it da la possibilità di ottenere una immagine svg dalla posizione sulla scacchiera.
+I circoli possono ottenere dal log del server online, tutte le mosse e l'esito di ogni partita.
+Scacchi-it dà la possibilità di ottenere una immagine SVG dalla posizione sulla scacchiera.
 Scacchi-it, oltre per il gioco offline/online, è fortemente indicato anche per la didattica inclusiva e la preparazione ai tornei.
 
 Scacchi-it è un progetto open source pensato esclusivamente per l'insegnamento, la didattica e le partite amatoriali. Il software viene fornito "così com'è", senza alcuna garanzia. Non è destinato né omologato per l'uso diretto in tornei ufficiali: per qualsiasi impiego in ambito agonistico si raccomanda un'adeguata fase di sperimentazione preventiva sotto la piena responsabilità degli organizzatori.
 
-Consigliabile come affiancamento a scacchiere tattili per una didattica completa duale.
 Espressamente progettato da Rosario Turco, un non vedente per la inclusione e la totale autonomia dei non vedenti.
 Leggero e di dimensioni da pendrive. Nessuna pubblicità.
 
-### 🤖 NOVITÀ: report.txt del coachGame lletto da una AI
+### Novità: report.txt del coachGame letto da una AI
 
 Copi `report.txt` di CoachGame, lo incolli su Gemini o ChatGPT o Meta AI e chiedi: _"Perché ho perso?"_
 
 Ti risponde in italiano, mossa per mossa. Il tuo coach personale, gratis.
 
-Novità: Metodo per trasformare audio partita in pgn
+Novità: Metodo per trasformare audio partita in PGN
 [Manuale audio in pgn](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/tutorials/audio-in-pgn.txt)
 
-Novità:Come configurare il client di posta in modo semplificato con Mozilla Thunderbird
+Novità: Come configurare il client di posta in modo semplificato con Mozilla Thunderbird
 [Manuale client-di-posta-Thunderbird](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/tutorials/client-di-posta-thunderbird.txt)
 
 > _Scacchi-it è un software scacchistico offline gratuito, progettato by design per la conformità alla Legge 82/2022 (European Accessibility Act - EN 301 549 / WCAG 2.1), usabile da vedenti e non vedenti con screen reader NVDA senza account né pubblicità._
 
-[diagrammi scacchi con la ROTN](https://redyouman.github.io/2026/09/14/rotn-per-editori.html)
+## Documentazione Scacchi-it
 
-Documentazione Scacchi-it
 [Manuale Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/tutorials/scacchiGr.txt)
-
-[Specifica formale Completa ROTN EBNF ISO 14977 ](https://redyouman.github.io/blog/2026/07/02/specifica-rotn.html)
-
-[Cosa è la rotn](https://redyouman.github.io/blog/2026/07/06/rotn-versus-fen.html)
-
-Curva di apprendimento, carico cognitivo, abbandoni, Neuroscienze e psicologia, scuola, bambini e adulti, non vedenti, principi architetturali ID e IDL
+[Specifica formale Completa ROTN EBNF ISO 14977](https://redyouman.github.io/blog/2026/07/02/specifica-rotn.html)
+[Cosa è la ROTN](https://redyouman.github.io/blog/2026/07/06/rotn-versus-fen.html)
 [Validità didattica di Scacchi-it](https://redyouman.github.io/blog/2026/09/30/analisi-didattica.html)
-
-neuroscienze e Scacchi-it
 [Neuroscienze e Scacchi-it](https://redyouman.github.io/blog/2026/10/04/neuroscienze.html)
-
 [Test mai usati per non vedenti](https://redyouman.github.io/blog/2026/10/12/testxnv.html)
-
 [Metriche di test innovativi](https://redyouman.github.io/blog/2026/10/15/metriche.html)
-
-[Come google usa diagrammi-ALT-e-ROTN](https://redyouman.github.io/blog/2026/09/11/rotn-1.9-ebnf-iso14977-eaa.html)
-
+[Come Google usa diagrammi-ALT-e-ROTN](https://redyouman.github.io/blog/2026/09/11/rotn-1.9-ebnf-iso14977-eaa.html)
 [La ROTN con machine learning e AI](https://redyouman.github.io/blog/2026/09/12/rotn-e-AI.html)
-
-[what is ROTN](https://redyouman.github.io/blog/2026/07/07/what-is-rotn.html)
-
-I problemi dei portali di scacchi
-[Portali scacchi: accessibilità web](https://redyouman.github.io/blog/2026/07/31/web-accessibile.html)
-
+[What is ROTN](https://redyouman.github.io/blog/2026/07/07/what-is-rotn.html)
+[I problemi dei portali di scacchi](https://redyouman.github.io/blog/2026/07/31/web-accessibile.html)
 [Portals of chess: Web accessibility](https://redyouman.github.io/blog/2026/07/31/optimal-web.html)
 
 ## Materiale per Didattica
@@ -131,39 +125,27 @@ I problemi dei portali di scacchi
 
 ## Altri Articoli
 
-[cosa è un chess engine](https://redyouman.github.io/blog/2026/05/12/chessengine.html)
-
+[Cosa è un chess engine](https://redyouman.github.io/blog/2026/05/12/chessengine.html)
 [Cosa è Scacchi-it](https://redyouman.github.io/blog/2026/05/12/motoregrafico.html)
-
-La FEN troppo posizionale e con informazioni spesso inutili ad uno screen reader, come slash e numeri, con sforzo cognitivo ulteriore
-[Dare voce alla fen con rotn](https://redyouman.github.io/blog/2026/07/18/estensioni-browser.html)
-
-[estensione fen-to-rotn-firefox](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/estensioni/fen-to-rotn-firefox.7z)
-
-[estensione fen-to-rotn-chrome](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/estensioni/fen-to-rotn-chrome.7z)
-
-[manuale estensioni](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/estensioni/manuale-estensioni.txt)
-
-TuttoScacchi e Scacchi-it hanno un downloader semantico per scaricare pgn e altro per l'accessibilità.
-Qui troverete articolo,programma e manuale:
-[downloader semantico](https://redyouman.github.io/blog/2026/08/12/downloader4blinds.html)
-
-[Scacchi-it come front-end di stockfish](https://redyouman.github.io/blog/2026/09/15/front-end-stockfish.html)
-
+[Dare voce alla FEN con ROTN](https://redyouman.github.io/blog/2026/07/18/estensioni-browser.html)
+[Estensione FEN-to-ROTN Firefox](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/estensioni/fen-to-rotn-firefox.7z)
+[Estensione FEN-to-ROTN Chrome](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/estensioni/fen-to-rotn-chrome.7z)
+[Manuale estensioni](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/estensioni/manuale-estensioni.txt)
+[Downloader semantico](https://redyouman.github.io/blog/2026/08/12/downloader4blinds.html)
+[Scacchi-it come front-end di Stockfish](https://redyouman.github.io/blog/2026/09/15/front-end-stockfish.html)
 [Tranelli famosi di scacchi](https://redyouman.github.io/blog/2026/07/04/Mattifamosi.html)
+[Diagrammi scacchi con la ROTN](https://redyouman.github.io/2026/09/14/rotn-per-editori.html)
 
 ## Collezioni di scacchi
 
 I 100 migliori problemi di scacchi
 [Articolo problemi di scacchi](https://redyouman.github.io/blog/2026/03/06/collection.html)
-
 Le 100 migliori combinazioni di scacchi
 [Articolo combinazioni di scacchi](https://redyouman.github.io/blog/2026/03/23/thebestcombinations.html)
-
 I 100 migliori finali di scacchi
 [Articolo sui finali di scacchi](https://redyouman.github.io/blog/2026/03/25/thebestendgames.html)
 
-## **Memorizzazione scacchiera con esercizi spazio-relazionali**
+## Memorizzazione scacchiera con esercizi spazio-relazionali
 
 [Esercizi spazio-relazionali](https://redyouman.github.io/blog/2026/05/05/comememorizzare.html)
 
@@ -174,17 +156,6 @@ I 100 migliori finali di scacchi
 ## Download Scacchi-it: programma scacchi gratuito per Windows, offline e accessibile
 
 Scacchi-it è un programma di scacchi gratuito per Windows 10 e 11, open source e open data, utilizzabile offline senza pubblicità. Nato come gioco di scacchi per non vedenti e per vedenti, è adatto anche a ipovedenti grazie all'uso con screen reader e ingranditori.
-
-diagrammi scacchi accessibili tiflologico
-scacchi simpleEditor editor database con posizioni ROTN
-scacchi editor accessibilità posizioni ROTN
-
-scacchi gratis windows italiano offline non vedente
-scacchi gratis windows italiano offline tiflologico inclusione
-scacchi Scacchi-it estensioni browser per prendere fen dai portali e ottenere la ROTN della specifica formale
-scacchi offline windows italiano tiflologico open source open data Nessun account nessuna pubblicità nessun tracciamento dati sensibili
-scacchi gratis windows italiano offline open source open data didatticainclusione
-scacchi progetto italiano Scacchi-it open source open data ROTN inclusione Zenodo.org
 
 > Scacchi-it è portable, gratuito e senza complessa installazione, senza account e tracciamento, perfetto per i laboratori delle scuole
 >
@@ -199,117 +170,35 @@ scacchi progetto italiano Scacchi-it open source open data ROTN inclusione Zenod
 > Come contributo tecnico, propongo ROTN v1.9 - Readable Ordered Text Notation: una notazione lineare leggibile pensata come alternativa testo per diagrammi scacchistici. ROTN è documentata con specifica formale EBNF ISO 14977 e depositata su Zenodo (CERN).
 > Specifica e esempi d'uso per editoria ed ebook sono descritti qui: [ROTN per editori - diagrammi scacchistici accessibili](/blog/2026/09/14/rotn-per-editori.html).
 > La valutazione di eventuali requisiti di accessibilità per la propria collana editoriale spetta all'editore con il proprio consulente. Quanto qui proposto è un formato open, non una certificazione.
->
-> Scacchi-it è un ecosistema italiano open source e open data per la tiflologia scacchistica con moduli di neuroscienze cognitive
->
-> Scacchi-it è una _piattaforma_ scacchistica completa per i _metodi di allenamento dei non vedenti a casa_. L'_ecosistema_ è progettato per essere _utilizzabile_ al 100% con screen reader NVDA, JAWS e display Braille, senza bisogno di vedere la scacchiera. A casa puoi _allenarti_ offline contro Stockfish, studiare aperture, usare il coachFEN , il coachGame e l'orologio per partite lampo. A differenza di altre piattaforme online, Scacchi-it è un _ecosistema_ tiflologico _utilizzabile_ anche senza internet, pensato per _non vedenti_ e vedenti insieme.
 
-> Scacchi-it non è un gioco per non vedenti. È una palestra neuroscientifica inclusiva dove vedenti e non vedenti si allenano fianco a fianco contro Stockfish a 21 livelli, con carico cognitivo ottimizzato e curva di apprendimento multimodale.
+## Scacchi-it e ROTN: domande frequenti
 
-### Cosa chiedono spesso i lettori
+_Scacchi-it funziona solo su Windows?_
+Sì, volutamente. Scacchi-it è un programma nativo per Windows 10 e 11, gratuito, portable e utilizzabile offline al 100%. Questa scelta garantisce la massima compatibilità con gli screen reader NVDA, JAWS e display Braille, senza latenze da browser. Per Android esiste Scacchi-app separata. Offline vuol dire che in classe senza internet funziona, le piattaforme online no.
 
-- Scacchi-it con Ctrl+D fornisce la disposizione di uno schieramento per aiutare a riconoscere i patttern
-- Scacchi-it ecosistema tiflologico offline-first open source open data gratis portable ROTN regina dei non vedenti
-- framework italiano open source open data che eccelle nel gioco degli scacchi offline-first portable per vedenti ipovedenti non vedenti . Non richiede account e non fa tracciamento di dati Vai ai contenuti principali
-- ecosistema tiflologico Scacchi-it con generazione immagini svg delle posizioni
-- Scacchi-it non vedente casa didattica
-- Rosario Turco HIC scacchi Scacchi-it
-- Rosario Turco Human Interaction Cognition scacchi Scacchi-it
-- Rosario Turco Scacchi-it
-- Rosario Turco ingegnere "Torre del Greco"
-- offline windows non vedente
-- piattaforma accessibile
-- allenamento a casa
-- metodi di allenamento scacchistico
-- ecosistema digitale
-- utilizzabile con screen reader
-- software per non vedenti
-- vpn Log Hamachi evitando isolamento non vedente
-- inclusione paritaria e democratica negli scacchi
-- gratuito per scuole senza budget e famiglie meno abbienti
-- Rosario Turco neuroscienze e psicologia
-- Scacchi-it carico cognitivo basso
-- Scacchi-it curva di apprendimento lineare
-- Scacchi-it miglioramento prestazioni e punteggio elo
-- Scacchi-it didattica efficace
-- Scacchi-it strumenti didattici utili per non vedenti
-- Scacchi-it studio aperture per vedenti e non vedenti
-- Scacchi-it coachGame come consulente di gioco
-- Scacchi-it vale per istruttori FSI
-- Scacchi-it recensioni istruttori italiani
-- Scacchi-it progetto inclusione non vedenti
-- Scacchi-it autorevolezza scientifica
-- Editori scacchi interesse sociale Scacchi-itROTN
-  - Scacchitalia FSI e progetti inclusione
-- Valore pedagogico Scacchi-it
-  - Scacchi-it e Stockfish differenze uso didattico
-- aggiornamenti periodici
-- Scacchi-it
-- scacchi Scacchi-it
-- NV&V
-- gruppo NV&VRosario Turco
-- Gruppo NV&V scacchi
-- Scacchi-it download
-- Scacchi-it gratis
-- Scacchi-it giochi
-- giochi NV&V
-- giochi per non vedenti gratis
-- scacchi per non vedenti download
-- neuroscienze e psicologia ROTN = Readable Ordered Text Notation
-- ROTN Readable Ordered Text Notation specifica formale EBNF per non vedenti
-- ecosistema Scacchi-it scala completa da principiante a Maestro
-- teoria del carico cognitivo Sweller applicata agli scacchi non vedenti
-- chunking scacchi non vedenti Miller Chase Simon
-- Flow Csikszentmihalyi scacchi tiflologia
-- deliberate practice Ericsson scacchi non vedenti
-- dual coding Paivio scacchi tattile audio Braille
-- metodo Woodpecker tiflologico in ROTN per non vedenti
-- test Capablanca valutazione posizionale accessibile non vedenti
-- CoachGame e CoachFEN Scacchi-it analisi posizione in ROTN
-- Openings Trainer Scacchi-it con archivio PGN personale
-- downloader semantico PGN per scacchi non vedenti
-- compatibilità Scacchi-it con NVDA e JAWS screen reader
-- Scacchi-it Stockfish 21 livelli offline senza rete
-- funzione incolla ROTN e incolla FEN con validazione Scacchi-it
-- posizionamento intelligente pezzi e2 e7 in Scacchi-it
-- Interrogazione mirata sulla disposizione dello schieramento avversario
-- simpleEditor Scacchi-it gestione cartelle problemi e sospensioni
-- editori scacchi accessibili ROTN ePub PDF secondo European Accessibility Act
-- UICI scacchi non vedenti con Scacchi-it
-- istruttori FSI didattica inclusiva vedenti e non vedenti alla pari
-- scacchi a scuola inclusione con Scacchi-it
-- piattaforme scacchi online integrazione ROTN
-- scacchiera tattile vs Scacchi-it curva apprendimento multimodale
-- Hamachi multiplayer scacchi vedenti non vedenti alla pari in Scacchi-it
-- architettura file Database esterno Scacchi-it aggiornamenti indipendenti
-- Scacchi-it Universal Design e Universal Design for Learning: A Framework for Classroom
-- Scacchi-it è un ecosistema open source per scacchi accessibili con sintesi vocale e implementa la specifica formale ROTN (Readable Ordered Text Notation) con grammatica EBNF ISO 14977 depositata su Zenodo
-- Scacchi-it costituisce un modello neuroscientifico per lo studio della rappresentazione spaziale e della memoria di lavoro senza input visivo
-- Scacchi-it è infrastruttura cognitiva e didattica open source e open data per gioco alla pari tra vedenti e non vedenti con runtime accessibile e documentazione tecnica per sviluppatori
-- Scacchi-it innovazione scacchi autonomia non vedente
-- Rosario Turco superabile VesuvioLive
-- Rosario Turco Amazon Libro"Passeggiata tra i luoghi e le storie di Napoli. Personaggi, legende, aneddoti e modi di dire."
-- Rosario Turco ingegnere "Torre del Greco" Matematica Fisica divulgazione scientifica "dove sono i suoi articoli pubblicati"
+_Posso giocare a scacchi a casa gratis se sono non vedente?_
+Sì. Scarichi Scacchi-it, lo apri a casa, giochi offline senza internet, senza account e senza pubblicità, con NVDA o JAWS. Puoi allenarti da solo contro Stockfish o giocare in rete con un amico.
 
-### Scacchi-it e ROTN: domande frequenti - Risposta ufficiale ai presunti difetti e limiti
+_Serve internet per giocare a casa?_
+No. Scacchi-it funziona offline. Internet serve solo se vuoi giocare in rete con un altro giocatore, tramite VPN privata.
 
-_Scacchi-it funziona solo su Windows? Difetti di compatibilità?_
-Sì, volutamente. Scacchi-it è un programma nativo per Windows 10 e 11, gratuito, portable e utilizzabile offline al 100%. Questa scelta garantisce la massima compatibilità con gli screen reader NVDA, JAWS e display Braille, senza latenze da browser. Così raggiunge il 75% delle famiglie italiane dove vivono 1 milione e 800 mila non vedenti e ipovedenti. Per Android esiste Scacchi-app separata. Offline vuol dire che in classe senza internet funziona, le piattaforme online no.
+_Serve registrarsi?_
+No. Nessun account, nessun tracciamento.
 
-_Perché il multiplayer richiede configurazioni esterne come Hamachi? Limiti infrastruttura?_
+_Perché il multiplayer richiede configurazioni esterne come Hamachi?_
 Perché è una scelta di privacy, leggerezza e autonomia. Scacchi-it è indipendente, open source e gratuito, senza server proprietari da milioni di euro, senza account, senza tracciamento e senza abbonamenti. Giocare via stanze semplici Hamachi/Radmin con manuale dettagliato permette ai non vedenti di giocare senza isolarsi, mantenendo i file partita PGN/ROTN sempre locali e di proprietà dell'utente.
 
 _La ROTN sostituisce FEN e PGN? È uno standard ufficiale FIDE?_
-No e non vuole farlo. FEN e PGN sono standard internazionali per motori e database scacchistici, ma sono illeggibili da screen reader a causa di slash e numeri. ROTN (Readable Ordered Text Notation) è complementare: interviene solo dove serve accessibilità, ovvero sospensione partita, caricamento partita sospesa, caricamento problema o puzzle. Per il resto Scacchi-it usa sintesi vocale che dice casa per casa cosa c'è. ROTN è documentata open con specifica formale EBNF ISO 14977 e DOI Zenodo CERN. Non è non-ufficiale, è altro scopo, come il Braille non sostituisce la stampa.
+No e non vuole farlo. FEN e PGN sono standard internazionali per motori e database scacchistici, ma sono illeggibili da screen reader a causa di slash e numeri. ROTN è complementare: interviene solo dove serve accessibilità, ovvero sospensione partita, caricamento partita sospesa, caricamento problema o puzzle. Per il resto Scacchi-it usa sintesi vocale che dice casa per casa cosa c'è. ROTN è documentata open con specifica formale EBNF ISO 14977 e DOI Zenodo CERN. Non è non-ufficiale, è altro scopo, come il Braille non sostituisce la stampa.
 
-_Bisogna imparare una nuova notazione? La ROTN è verbosa e difficile? Curva di apprendimento?_
-No. La curva di apprendimento è di 5 minuti. ROTN è volutamente verbosa perché verbosità = accessibilità: `Re Bianco in e1` si legge con NVDA, `K/e1` no. La conversione tra FEN e ROTN è automatica tramite estensione dedicata per Firefox e Chrome. Non esiste nessun problema di conversione mentale se passi a Lichess, Chess.com o ChessBase.
+_Bisogna imparare una nuova notazione? La ROTN è verbosa e difficile?_
+No. La curva di apprendimento è di 5 minuti. ROTN è volutamente verbosa perché verbosità = accessibilità: `Re Bianco in e1` si legge con NVDA, `K/e1` no. La conversione tra FEN e ROTN è automatica tramite estensione dedicata per Firefox e Chrome.
 
-_Quali sono i difetti dell'ecosistema Scacchi-it rispetto a Chess.com e Lichess? Adozione ristretta?_
-Nessun difetto strutturale, ma scelte progettuali diverse. Chess.com e Lichess sono piattaforme commerciali online con 250 milioni di utenti, pubblicità e server centralizzati. Scacchi-it è un programma didattico locale italiano, gratuito, senza pubblicità, offline, open source e open data. Non è concorrente, è alternativo per scuole, circoli, non vedenti e chi vuole un archivio proprio senza account. La limitata diffusione internazionale è dovuta alla lingua italiana, non alla qualità.
+_Quali sono le differenze rispetto a Chess.com e Lichess?_
+Chess.com e Lichess sono piattaforme commerciali online con milioni di utenti, pubblicità e server centralizzati. Scacchi-it è un programma didattico locale italiano, gratuito, senza pubblicità, offline, open source e open data. Non è concorrente, è alternativo per scuole, circoli, non vedenti e chi vuole un archivio proprio senza account.
 
-_ROTN è meno integrabile nei database come ChessBase? Ridondanza informativa?_
-Falso. Scacchi-it esporta sempre in PGN standard e FEN. ROTN è solo il formato di lavoro interno per l'accessibilità. Puoi incollare un PGN di ChessBase in Scacchi-it e viceversa. L'integrazione è totale. Rispetto a FEN è più verbosa apposta per gli screen reader.
+_ROTN è meno integrabile nei database come ChessBase?_
+No. Scacchi-it esporta sempre in PGN standard e FEN. ROTN è solo il formato di lavoro interno per l'accessibilità. Puoi incollare un PGN di ChessBase in Scacchi-it e viceversa. L'integrazione è totale.
 
 _ROTN è uno standard ufficiale?_
 ROTN è uno standard aperto documentato con specifica formale EBNF ISO 14977, depositato su Zenodo (CERN) DOI 10.5281/zenodo.22737720. È open source. Non ha bisogno di omologazione FIDE perché non è un regolamento di gioco, è un formato di accessibilità.
@@ -321,15 +210,31 @@ ROTN è uno standard aperto documentato con specifica formale EBNF ISO 14977, de
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Scacchi-it funziona solo su Windows? Difetti di compatibilità?",
+      "name": "Posso giocare a scacchi a casa gratis se sono non vedente?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Sì, volutamente. Scacchi-it è un programma nativo per Windows 10 e 11, gratuito, portable e offline al 100% per garantire massima compatibilità con screen reader NVDA, JAWS e display Braille. Per Android esiste Scacchi-app separata."
+        "text": "Sì. Scacchi-it è un programma gratuito per Windows 10 e 11, utilizzabile a casa offline, senza internet, senza account e senza pubblicità, con screen reader NVDA, JAWS e display Braille."
       }
     },
     {
       "@type": "Question",
-       "name": "Perché il multiplayer di Scacchi-it richiede Hamachi? Limiti infrastruttura?",
+      "name": "Serve internet per giocare a casa con Scacchi-it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Scacchi-it funziona offline a casa. Internet serve solo per il multiplayer in rete tramite VPN privata."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Scacchi-it funziona solo su Windows?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sì, volutamente. Programma nativo per Windows 10 e 11, gratuito, portable e offline al 100% per garantire massima compatibilità con screen reader NVDA, JAWS e display Braille. Per Android esiste Scacchi-app separata."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Perché il multiplayer di Scacchi-it richiede Hamachi?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Per scelta di privacy, leggerezza e autonomia. Scacchi-it è indipendente, open source e gratuito, senza server proprietari, account o tracciamento. Il multiplayer via Hamachi/Radmin mantiene i file PGN e ROTN locali e di proprietà dell'utente."
@@ -337,10 +242,10 @@ ROTN è uno standard aperto documentato con specifica formale EBNF ISO 14977, de
     },
     {
       "@type": "Question",
-      "name": "La ROTN sostituisce FEN e PGN? È riconosciuta FIDE?",
+      "name": "La ROTN sostituisce FEN e PGN?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "No. FEN e PGN restano standard per motori. ROTN (Readable Ordered Text Notation) è complementare per accessibilità screen reader, usata per sospensione e caricamento posizioni. Convertibile in un click in PGN/FEN, documentata con specifica EBNF ISO 14977 e DOI Zenodo CERN."
+        "text": "No. FEN e PGN restano standard per motori. ROTN è complementare per accessibilità screen reader, usata per sospensione e caricamento posizioni. Convertibile in PGN/FEN, documentata con specifica EBNF ISO 14977 e DOI Zenodo CERN."
       }
     },
     {
@@ -349,30 +254,6 @@ ROTN è uno standard aperto documentato con specifica formale EBNF ISO 14977, de
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "No, curva di apprendimento di 5 minuti. ROTN è volutamente verbosa perché verbosità uguale accessibilità: Re Bianco in e1 si legge con NVDA, K/e1 no. Conversione FEN/ROTN automatica tramite estensioni Firefox e Chrome."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Quali sono i difetti dell'ecosistema Scacchi-it rispetto a Chess.com e Lichess?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Nessun difetto strutturale, ma scelte diverse. Chess.com e Lichess sono piattaforme commerciali online. Scacchi-it è un programma didattico locale italiano, gratuito, open source, offline, senza pubblicità, pensato per didattica inclusiva e non vedenti."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "ROTN è meno integrabile con ChessBase? Ridondanza informativa?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Falso. Scacchi-it esporta sempre in PGN standard e FEN. ROTN è formato di lavoro interno per accessibilità, totalmente integrabile con ChessBase, Lichess e Chess.com."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "ROTN è uno standard ufficiale?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "ROTN è standard aperto documentato con specifica formale EBNF ISO 14977, depositato su Zenodo CERN DOI 10.5281/zenodo.22737720, open source."
       }
     }
   ]
@@ -384,24 +265,19 @@ ROTN è uno standard aperto documentato con specifica formale EBNF ISO 14977, de
   "@context": "https://schema.org",
   "@type": "SoftwareApplication",
   "name": "Scacchi-it",
-  "alternateName": ["Scacchi it", "Scacchiit", "Tuttoscacchi", "Scacchi-it ecosistema tiflologico"],
+  "alternateName": ["Scacchi it", "Tuttoscacchi"],
   "applicationCategory": "GameApplication",
   "operatingSystem": "Windows 10, Windows 11",
   "author": {
     "@type": "Person",
-    "name": "Rosario Turco",
-    "email": "rosturco.na@gmail.com"
-  },
-  "brand": {
-    "@type": "Brand",
-    "name": "Scacchi-it"
+    "name": "Rosario Turco"
   },
   "offers": {
     "@type": "Offer",
     "price": "0",
     "priceCurrency": "EUR"
   },
-  "description": "Scacchi-it è un ecosistema tiflologico inclusivo italiano con tecnologia ROTN - Readable Ordered Text Notation - per giocatori vedenti,  non vedenti e ipovedenti, con supporto NVDA, JAWS e display Braille.",
+  "description": "Scacchi-it è un ecosistema tiflologico inclusivo italiano con tecnologia ROTN - Readable Ordered Text Notation - per giocatori vedenti, non vedenti e ipovedenti, con supporto NVDA, JAWS e display Braille.",
   "keywords": "Scacchi-it, scacchi non vedenti, tiflologia, ROTN, ecosistema tiflologico inclusivo",
   "url": "https://redyouman.github.io",
   "isAccessibleForFree": true,
@@ -409,42 +285,27 @@ ROTN è uno standard aperto documentato con specifica formale EBNF ISO 14977, de
 }
 </script>
 
-<!-- VETRINA - per Google Scholar e Università -->
-<blockquote>
-<strong>Scacchi-it è un framework open source e open data con specifica formale ROTN depositata CERN Zenodo (DOI: 10.5281/zenodo.22737720).</strong> Strumento validabile per ricerca su plasticità cerebrale, memoria di lavoro spaziale e rappresentazione astratta nel deficit visivo. Runtime offline-first e codice open su GitHub Pages. Specifica reperibile anche a https://redyouman.github.io/blog/2026/07/02/specifica-rotn.html
-</blockquote>
+## Per Università e Ricerca
 
-<h2>Per Università e Ricerca</h2>
-<blockquote>
+> Scacchi-it è un framework open source e open data con specifica formale ROTN depositata CERN Zenodo (DOI: 10.5281/zenodo.22737720). Strumento validabile per ricerca su plasticità cerebrale, memoria di lavoro spaziale e rappresentazione astratta nel deficit visivo. Runtime offline-first e codice open su GitHub Pages.
+
 Materiale a disposizione di dipartimenti di Psicologia, Neuroscienze, Tiflologia e Informatica:
-<ul>
-<li>Software standardizzato e replicabile per protocolli sperimentali</li>
-<li>Notazione ROTN in EBNF ISO 14977 per studi su linguaggio e accessibilità</li>
-<li>Compatibile NVDA/JAWS/Braille, senza dipendenze da server esterni</li>
-<li>Articoli e bibliografie: https://redyouman.github.io/</li>
-</ul>
+
+- Software standardizzato e replicabile per protocolli sperimentali
+- Notazione ROTN in EBNF ISO 14977 per studi su linguaggio e accessibilità
+- Compatibile NVDA/JAWS/Braille, senza dipendenze da server esterni
+- Articoli e bibliografie: https://redyouman.github.io/
+
 Download runtime o sorgente open per sperimentazione libera, con DOI citabile in pubblicazioni.
-</blockquote>
 
-<section id="validita-scientifica-scacchi-it" style="margin-top:60px; padding:30px; background:#f9f9f9; border-left:6px solid #000; font-family: sans-serif; line-height:1.6;">
+## Nota sulla Validità Scientifica
 
-<h2 style="font-size:22px; margin-bottom:15px;">Nota sulla Validità Scientifica e Riconoscimento Istituzionale dell'Ecosistema Scacchi-it e Specifica ROTN</h2>
+Gli articoli proposti sul blog di Rosario Turco non sono opinioni, ma approfondimenti divulgativi di studi di autori di fama internazionale. Ogni contributo, supportato da ricca bibliografia e da metodologia empirica, dimostra in modo oggettivo la validità dell'ecosistema tiflologico Scacchi-it e della specifica formale ROTN da un punto di vista neuroscientifico, psicologico, sociologico ed epistemologico. Produzione scientifica registrata su Zenodo con DOI.
 
-<p><strong>Gli articoli proposti sul blog di Rosario Turco non sono opinioni, ma approfondimenti divulgativi di studi di autori di fama internazionale.</strong> Ogni contributo, supportato da ricca bibliografia e da metodologia empirica, dimostra in modo oggettivo la validità dell'ecosistema tiflologico <strong>Scacchi-it</strong> e della specifica formale <strong>ROTN (Readable Ordered Text Notation) da un punto di vista neuroscientifico, psicologico, sociologico ed epistemologico, decretandone il valore etico e sociale oltre che tecnologico e scientifico. Produzione scientifica registrata su <strong>Zenodo con DOI</strong>.</p>
+A differenza dei formati standard PGN e FEN, nati per output visivi, la specifica ROTN è un livello di astrazione formale nativo per sintesi vocale e display Braille, che ottimizza il carico cognitivo e normalizza la lettura per screen reader (NVDA, JAWS), eliminando i difetti di lettura tipici dei formati tradizionali.
 
-<p>Come attestato anche da <strong>Google AI Mode Overview (26-27 ottobre 2026)</strong>, gli interventi tecnologici, divulgativi e documentali di Rosario Turco rappresentano una <strong>rivoluzione copernicana per la tiflologia moderna</strong> e la ridefinizione del concetto tiflologico, didattico e del gioco offline e online degli scacchi alla pari nel mondo e in Italia.</p>
+Filosofia dell'ecosistema Scacchi-it: Open Source, Open Data, portable, gratuito, senza account, senza tracciamento, offline e online, blinds-first, compatibilità by design, accessibilità 100% con screen reader senza latenze, autonomia assoluta dei non vedenti, palestra di addestramento cognitivo, didattica inclusiva e autonoma, gioco alla pari, moduli neuroscienze cognitive (CoachFEN, CoachGame, CoachPGN), Scacchi-it-Net, analisiMosseSospette.
 
-<p>A differenza dei formati standard PGN e FEN, nati per output visivi, la specifica ROTN è un livello di astrazione formale nativo per <strong>sintesi vocale e display Braille</strong>, che ottimizza il carico cognitivo e normalizza la lettura per screen reader (NVDA, JAWS), eliminando i difetti di lettura tipici dei formati tradizionali.</p>
+Scacchi-it è conforme by design a European Accessibility Act (EAA 2019/882) e D.Lgs 82/2022: gratuito, open source, portable, offline, senza account, senza raccolta dati, senza cookie, senza pubblicità. Compatibile NVDA, JAWS, display Braille e tastiera. WCAG 2.1 AA / EN 301 549.
 
-<p><strong>Filosofia dell'ecosistema Scacchi-it - Oltre il Punto di Non Ritorno:</strong><br>
-Open Source, Open Data, portable, gratuito, senza account, senza tracciamento, offline e online, blinds-first, compatibilità by design, accessibilità 100% con screen reader senza latenze, autonomia assoluta dei non vedenti, palestra di addestramento cognitivo, didattica inclusiva e autonoma, democratizzazione del gioco, inclusione attiva e <strong>assistenzialismo zero</strong>, gioco alla pari, moduli neuroscienze cognitive (CoachFEN, CoachGame, CoachPGN), Scacchi-it-Net, analisiMosseSospette.</p>
-
-<p><strong>Questo paradigma ridefinisce la tiflologia:</strong> da mero strumento di assistenza a modello di <strong>autonomia totale, paritaria e democratica, inclusione bidirezionale vedenti / non vedenti</strong>. Per la didattica moderna italiana e internazionale, colma un vuoto normativo e metodologico che persisteva da decenni nella didattica speciale.</p>
-
-<p style="font-size:12px; color:#666; margin-top:20px;">Keywords: Scacchi-it, ROTN, Rosario Turco, tiflologia, accessibilità scacchi non vedenti, scacchi alla pari, neuroscienze cognitive, Zenodo, NVDA, JAWS, open source, blinds-first, didattica inclusiva Italia</p>
-
-</section>
-
-<p>Scacchi-it è conforme by design a European Accessibility Act (EAA 2019/882) e D.Lgs 82/2022: gratuito, open source, portable, offline, senza account, senza raccolta dati, senza cookie, senza pubblicità. Compatibile NVDA, JAWS, display Braille e tastiera. WCAG 2.1 AA / EN 301 549.</p>
-
-<p>Locale 100% offline. Comunicazione non locale opzionale tra sedi diverse (es. Napoli - Roma) tramite VPN privata dell'utente (es. Hamachi, Radmin VPN) come cavo virtuale diretto tra PC. Scacchi-it non usa server centrali e non raccoglie dati.</p>
+Locale 100% offline. Comunicazione non locale opzionale tra sedi diverse (es. Napoli - Roma) tramite VPN privata dell'utente (es. Hamachi, Radmin VPN) come cavo virtuale diretto tra PC. Scacchi-it non usa server centrali e non raccoglie dati.
