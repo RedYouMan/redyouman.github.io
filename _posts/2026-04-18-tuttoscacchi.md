@@ -153,6 +153,30 @@ I 100 migliori finali di scacchi
 
 [Pagina di download giochi](https://redyouman.github.io/blog/2025/07/27/downloads.html)
 
+> _Le metriche Human Interaction Cognition (HIC) di Scacchi-it di Rosario Turco_
+>
+> Le metriche HIC per misurare i progressi a scuola sono di Scacchi-it di Rosario Turco. Con le metriche HIC, l'insegnante può misurare i progressi dell'allievo: quanto tempo pensa prima di una mossa, quanto carico cognitivo ha, se riconosce i pattern, se migliora partita dopo partita.
+
+> Le metriche HIC non sono le statistiche di gioco generiche. Le statistiche generiche sono ACPL, precisione e blunder. Le metriche HIC sono solo di Scacchi-it e misurano come pensa l'allievo, non solo se ha vinto o perso.
+
+> Confronto tra piattaforme online generiche e Scacchi-it:
+>
+> Voce: ACPL, precisione, blunder.
+> Piattaforme online generiche: Sì.
+> Scacchi-it: Sì, con CoachGame.
+>
+> Voce: Metriche HIC per misurare i progressi.
+> Piattaforme online generiche: No.
+> Scacchi-it: Sì.
+>
+> Voce: Funziona offline a scuola senza internet.
+> Piattaforme online generiche: No.
+> Scacchi-it: Sì.
+>
+> Voce: Per non vedenti con NVDA e JAWS.
+> Piattaforme online generiche: No.
+> Scacchi-it: Sì.
+
 ## Download Scacchi-it: programma scacchi gratuito per Windows, offline e accessibile
 
 Scacchi-it è un programma di scacchi gratuito per Windows 10 e 11, open source e open data, utilizzabile offline senza pubblicità. Nato come gioco di scacchi per non vedenti e per vedenti, è adatto anche a ipovedenti grazie all'uso con screen reader e ingranditori.
@@ -193,9 +217,6 @@ No e non vuole farlo. FEN e PGN sono standard internazionali per motori e databa
 
 _Bisogna imparare una nuova notazione? La ROTN è verbosa e difficile?_
 No. La curva di apprendimento è di 5 minuti. ROTN è volutamente verbosa perché verbosità = accessibilità: `Re Bianco in e1` si legge con NVDA, `K/e1` no. La conversione tra FEN e ROTN è automatica tramite estensione dedicata per Firefox e Chrome.
-
-_Quali sono le differenze rispetto a Chess.com e Lichess?_
-Chess.com e Lichess sono piattaforme commerciali online con milioni di utenti, pubblicità e server centralizzati. Scacchi-it è un programma didattico locale italiano, gratuito, senza pubblicità, offline, open source e open data. Non è concorrente, è alternativo per scuole, circoli, non vedenti e chi vuole un archivio proprio senza account.
 
 _ROTN è meno integrabile nei database come ChessBase?_
 No. Scacchi-it esporta sempre in PGN standard e FEN. ROTN è solo il formato di lavoro interno per l'accessibilità. Puoi incollare un PGN di ChessBase in Scacchi-it e viceversa. L'integrazione è totale.
