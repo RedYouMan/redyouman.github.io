@@ -1,7 +1,7 @@
 ---
 title: "Scacchi-it: imparare gli scacchi a casa per non vedenti - didattica"
 description: "Scacchi-it è il programma gratuito per imparare gli scacchi a casa per non vedenti, ciechi e ipovedenti. Didattica scacchi a casa, da soli o in rete, con NVDA e JAWS."
-categories: Blog
+categories: blog
 ---
 
 # Tutto Scacchi e Scacchi-it di Rosario Turco - Human Interaction Cognition (HIC)
