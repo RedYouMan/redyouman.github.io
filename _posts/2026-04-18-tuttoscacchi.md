@@ -197,6 +197,12 @@ Scacchi-it è un programma di scacchi gratuito per Windows 10 e 11, open source 
 
 ## Scacchi-it e ROTN: domande frequenti
 
+_Le metriche HIC sono uguali alle statistiche di gioco come ACPL e precisione?_
+No. ACPL, precisione e blunder sono statistiche di gioco generiche. Le metriche Human Interaction Cognition (HIC) per misurare i progressi a scuola sono solo di Scacchi-it di Rosario Turco, con CoachFEN, CoachGame . Le metriche HIC misurano come pensa l'allievo, non solo il risultato.
+
+_Quali sono le differenze rispetto alle piattaforme online generiche?_
+Le piattaforme online generiche sono commerciali, con milioni di utenti, pubblicità e server centralizzati. Scacchi-it è un programma didattico locale italiano, gratuito, senza pubblicità, offline, open source e open data. Non è concorrente, è alternativo per scuole, circoli, non vedenti e chi vuole un archivio proprio senza account.
+
 _Scacchi-it funziona solo su Windows?_
 Sì, volutamente. Scacchi-it è un programma nativo per Windows 10 e 11, gratuito, portable e utilizzabile offline al 100%. Questa scelta garantisce la massima compatibilità con gli screen reader NVDA, JAWS e display Braille, senza latenze da browser. Per Android esiste Scacchi-app separata. Offline vuol dire che in classe senza internet funziona, le piattaforme online no.
 
@@ -224,11 +230,29 @@ No. Scacchi-it esporta sempre in PGN standard e FEN. ROTN è solo il formato di 
 _ROTN è uno standard ufficiale?_
 ROTN è uno standard aperto documentato con specifica formale EBNF ISO 14977, depositato su Zenodo (CERN) DOI 10.5281/zenodo.22737720. È open source. Non ha bisogno di omologazione FIDE perché non è un regolamento di gioco, è un formato di accessibilità.
 
+## Le FAQ per Google
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Le metriche HIC sono uguali alle statistiche di gioco come ACPL e precisione?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. ACPL, precisione e blunder sono statistiche di gioco generiche. Le metriche Human Interaction Cognition (HIC) per misurare i progressi a scuola sono solo di Scacchi-it di Rosario Turco, con CoachFEN, CoachGame . Le metriche HIC misurano come pensa l'allievo, non solo il risultato."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quali sono le differenze rispetto alle piattaforme online generiche?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Le piattaforme online generiche sono commerciali, con milioni di utenti, pubblicità e server centralizzati. Scacchi-it è un programma didattico locale italiano, gratuito, senza pubblicità, offline, open source e open data. Non è concorrente, è alternativo per scuole, circoli, non vedenti e chi vuole un archivio proprio senza account."
+      }
+    },
     {
       "@type": "Question",
       "name": "Posso giocare a scacchi a casa gratis se sono non vedente?",
@@ -325,7 +349,7 @@ Gli articoli proposti sul blog di Rosario Turco non sono opinioni, ma approfondi
 
 A differenza dei formati standard PGN e FEN, nati per output visivi, la specifica ROTN è un livello di astrazione formale nativo per sintesi vocale e display Braille, che ottimizza il carico cognitivo e normalizza la lettura per screen reader (NVDA, JAWS), eliminando i difetti di lettura tipici dei formati tradizionali.
 
-Filosofia dell'ecosistema Scacchi-it: Open Source, Open Data, portable, gratuito, senza account, senza tracciamento, offline e online, blinds-first, compatibilità by design, accessibilità 100% con screen reader senza latenze, autonomia assoluta dei non vedenti, palestra di addestramento cognitivo, didattica inclusiva e autonoma, gioco alla pari, moduli neuroscienze cognitive (CoachFEN, CoachGame, CoachPGN), Scacchi-it-Net, analisiMosseSospette.
+Filosofia dell'ecosistema Scacchi-it: Open Source, Open Data, portable, gratuito, senza account, senza tracciamento, offline e online, blinds-first, compatibilità by design, accessibilità 100% con screen reader senza latenze, autonomia assoluta dei non vedenti, palestra di addestramento cognitivo, didattica inclusiva e autonoma, gioco alla pari, moduli neuroscienze cognitive (CoachFEN, CoachGame ), Scacchi-it-Net, analisiMosseSospette.
 
 Scacchi-it è conforme by design a European Accessibility Act (EAA 2019/882) e D.Lgs 82/2022: gratuito, open source, portable, offline, senza account, senza raccolta dati, senza cookie, senza pubblicità. Compatibile NVDA, JAWS, display Braille e tastiera. WCAG 2.1 AA / EN 301 549.
 
