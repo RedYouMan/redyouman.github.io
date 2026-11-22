@@ -1,7 +1,7 @@
 ---
-title: "Scacchi-it di Rosario Turco: scacchi a scuola con metriche HIC, inclusione vedenti e non vedenti - offline e online"
+title: "Scacchi-it di Rosario Turco"
 
-description: "Scacchi-it di Rosario Turco è il programma gratuito per scacchi a scuola e a casa, con metriche HIC per misurare i progressi, inclusione di vedenti, non vedenti e ipovedenti, offline e online, con NVDA, JAWS e Braille, con ROTN. Da scaricare gratis."
+description: "Scacchi-it di Rosario Turco: programma gratuito per scacchi a scuola e a casa, con metriche HIC, per vedenti e non vedenti."
 categories: blog
 ---
 
@@ -9,12 +9,12 @@ categories: blog
 
 Scacchi-it (si legge Scacchi-trattino-it) di Rosario Turco
 
-## Gioco scacchi per ciechi gratis - download per Windows con NVDA e JAWS
+## Gioco scacchi per ciechi gratis
 
 Se sei cieco o non vedente e cerchi un gioco di scacchi gratis da scaricare, sei nella pagina giusta.
 Scarichi Scacchi-it, giochi offline con la voce, con NVDA e JAWS, senza account e senza pubblicità.
 
-# Scacchi per non vedenti su Windows: gioco gratis offline con sintesi vocale - ROTN
+## Scacchi per non vedenti su Windows
 
 _ROTN v1.9: ROTN = Readable Ordered Text Notation (def. ufficiale, ex ROT Notation fino a v1.8)._
 
@@ -183,7 +183,7 @@ I 100 migliori finali di scacchi
 > Piattaforme online generiche: No.
 > Scacchi-it: Sì.
 
-## Download Scacchi-it: programma scacchi gratuito per Windows, offline e accessibile
+## Download Scacchi-it
 
 Scacchi-it è un programma di scacchi gratuito per Windows 10 e 11, open source e open data, utilizzabile offline senza pubblicità. Nato come gioco di scacchi per non vedenti e per vedenti, è adatto anche a ipovedenti grazie all'uso con screen reader e ingranditori.
 
@@ -241,8 +241,6 @@ _ROTN è uno standard ufficiale?_
 ROTN è uno standard aperto documentato con specifica formale EBNF ISO 14977, depositato su Zenodo (CERN) DOI 10.5281/zenodo.22737720. È open source. Non ha bisogno di omologazione FIDE perché non è un regolamento di gioco, è un formato di accessibilità.
 
 _Scacchi-it: la palestra di gioco e cognitiva di Scacchi-it, con metriche HIC, per casa, scuola e corsi . Con ROTN per leggere la scacchiera con NVDA e JAWS._
-
-## Le FAQ per Google
 
 <script type="application/ld+json">
 {
