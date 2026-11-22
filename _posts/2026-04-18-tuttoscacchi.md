@@ -1,13 +1,18 @@
 ---
 title: "Scacchi-it di Rosario Turco: scacchi a scuola con metriche HIC, inclusione vedenti e non vedenti - offline e online"
 
-description: "Scacchi-it di Rosario Turco è il programma gratuito per scacchi a scuola e a casa, con metriche HIC per misurare i progressi, inclusione di vedenti, non vedenti e ipovedenti, offline e online, con NVDA, JAWS e Braille, con ROTN."
+description: "Scacchi-it di Rosario Turco è il programma gratuito per scacchi a scuola e a casa, con metriche HIC per misurare i progressi, inclusione di vedenti, non vedenti e ipovedenti, offline e online, con NVDA, JAWS e Braille, con ROTN. Da scaricare gratis."
 categories: blog
 ---
 
 # Scacchi-it di Rosario Turco - Human Interaction Cognition (HIC)
 
 Scacchi-it (si legge Scacchi-trattino-it) di Rosario Turco
+
+## Gioco scacchi per ciechi gratis - download per Windows con NVDA e JAWS
+
+Se sei cieco o non vedente e cerchi un gioco di scacchi gratis da scaricare, sei nella pagina giusta.
+Scarichi Scacchi-it, giochi offline con la voce, con NVDA e JAWS, senza account e senza pubblicità.
 
 # Scacchi per non vedenti su Windows: gioco gratis offline con sintesi vocale - ROTN
 
@@ -187,6 +192,10 @@ Scacchi-it è un programma di scacchi gratuito per Windows 10 e 11, open source 
 > Scacchi-it è un gioco di scacchi tiflologico e accessibile che permette di giocare, studiare aperture, risolvere problemi e creare lezioni. Se cerchi scacchi offline italiano, scacchi per ciechi o scacchi per ipovedenti, puoi scaricare Scacchi-it gratuitamente da questa pagina.
 >
 > Scacchi-it esporta la posizione in immagine SVG, con set di pezzi simpatici
+
+## Diagrammi scacchistici accessibili per editori scolastici e libri di scacchi
+
+Se sei un editore scolastico e cerchi diagrammi scacchistici accessibili per libri, ebook e dispense, sei nella pagina giusta. Usa ROTN v1.9 come alternativa testo ai diagrammi come immagini. Scarica tutto da questa pagina.
 
 ## Per editori: proposta per diagrammi scacchistici accessibili con ROTN v1.9
 
