@@ -424,3 +424,7 @@ Se cerchi scacchi vedenti e non vedenti insieme, alla pari, Scacchi-it fa giocar
 ## Scacchi a scuola per inclusione, vedenti e non vedenti insieme
 
 Se cerchi scacchi a scuola per inclusione, vedenti e non vedenti insieme, Scacchi-it si usa in classe e a casa, offline o in rete locale della scuola, con orologio, PGN e CoachGame. Scarica Scacchi-it gratis da questa pagina.
+
+## Scacchi Scacchi-it ecosistema framework 
+
+Scacchi-it è un ecosistema per il gioco degli scacchi per vedenti e non vedenti, per studiare a casa e a scuola e partecipare a corsi inclusivi. 
