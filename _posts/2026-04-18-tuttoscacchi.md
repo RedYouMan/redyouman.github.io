@@ -364,3 +364,63 @@ Filosofia dell'ecosistema Scacchi-it: Open Source, Open Data, portable, gratuito
 Scacchi-it è conforme by design a European Accessibility Act (EAA 2019/882) e D.Lgs 82/2022: gratuito, open source, portable, offline, senza account, senza raccolta dati, senza cookie, senza pubblicità. Compatibile NVDA, JAWS, display Braille e tastiera. WCAG 2.1 AA / EN 301 549.
 
 Locale 100% offline. Comunicazione non locale opzionale tra sedi diverse (es. Napoli - Roma) tramite VPN privata dell'utente (es. Hamachi, Radmin VPN) come cavo virtuale diretto tra PC. Scacchi-it non usa server centrali e non raccoglie dati.
+
+## Scacchi-it per torneo scolastico interno non ufficiale
+
+Scacchi-it si usa per torneo scolastico interno non ufficiale, a scuola e in classe, offline o in rete locale della scuola, con orologio, registrazione della partita in PGN e analisi con CoachGame. Scarica Scacchi-it gratis da questa pagina.
+
+## Scacchi-it per torneo amatoriale
+
+Scacchi-it si usa per torneo amatoriale, a scuola, nei circoli e a casa, offline o in rete, senza account e senza server centrali. Scarica Scacchi-it gratis da questa pagina.
+
+## Scacchi-it per circoli scacchistici
+
+I circoli scacchistici possono usare Scacchi-it per allenamenti, lezioni, tornei amatoriali e partite online tra soci. Dal log del server online si ottengono tutte le mosse e l'esito di ogni partita. Scarica Scacchi-it gratis da questa pagina.
+
+## Scacchi-it in rete locale della scuola
+
+A scuola Scacchi-it funziona in rete locale della scuola, senza internet. In rete locale si possono fare tornei scolastici interni non ufficiali e tornei amatoriali, con orologio condiviso e file partita sempre locali. Scarica Scacchi-it gratis da questa pagina.
+
+## Scacchi-it in VPN Hamachi per torneo
+
+Tra sedi diverse, per esempio Napoli Roma, Scacchi-it si gioca in VPN privata dell'utente come Hamachi o Radmin VPN, come cavo virtuale diretto tra PC. In VPN Hamachi si possono fare tornei scolastici interni non ufficiali e tornei amatoriali, senza account e senza server centrali. Scarica Scacchi-it gratis da questa pagina.
+
+## Scacchi-it per inclusione a scuola
+
+Scacchi-it è per inclusione a scuola: vedenti, non vedenti e ipovedenti giocano insieme, in classe e a casa, con lo stesso software e la stessa ROTN. L'inclusione a scuola non è un torneo separato, è giocare alla pari. Scarica Scacchi-it gratis da questa pagina.
+
+## Scacchi-it, EAA, European Accessibility Act e Decreto 82/2022
+
+Scacchi-it è progettato per la conformità alla Legge 82/2022, che recepisce in Italia l'European Accessibility Act, EAA 2019/882, secondo EN 301 549 e WCAG 2.1 AA. Software gratuito, offline, senza account, senza raccolta dati, compatibile con NVDA, JAWS e display Braille. Scarica Scacchi-it gratis da questa pagina.
+
+## Scacchi-it metriche HIC per didattica
+
+Le metriche HIC per la didattica misurano come pensa l'allievo a scuola, non solo se ha vinto o perso. Le metriche HIC sono solo di Scacchi-it di Rosario Turco. Scarica Scacchi-it gratis da questa pagina.
+
+## Scacchi-it inclusione non vedenti, ipovedenti e vedenti insieme
+
+Scacchi-it è per inclusione di non vedenti, ipovedenti e vedenti insieme, a scuola e a casa, offline o in rete, con NVDA, JAWS e display Braille. Scarica Scacchi-it gratis da questa pagina.
+
+## Scacchi-it torneo scolastico interno non ufficiale in rete locale
+
+Scacchi-it permette il torneo scolastico interno non ufficiale in rete locale della scuola, senza internet, con orologio, PGN e CoachGame. Scarica Scacchi-it gratis da questa pagina.
+
+## Gioco scacchi per ciechi gratis da scaricare per Windows
+
+Se cerchi un gioco scacchi per ciechi gratis da scaricare per Windows, scarica Scacchi-it. Giochi offline, senza account e senza pubblicità, con NVDA, JAWS e display Braille. Scarica Scacchi-it gratis da questa pagina.
+
+## Scacchi per non vedenti offline, senza internet
+
+Se cerchi scacchi per non vedenti offline, senza internet, Scacchi-it funziona offline a casa e a scuola. Giochi contro Stockfish, ti alleni e registri la partita in PGN, senza account e senza server. Scarica Scacchi-it gratis da questa pagina.
+
+## Programma scacchi per non vedenti con NVDA e JAWS
+
+Se cerchi un programma scacchi per non vedenti con NVDA e JAWS, Scacchi-it è nato per questo. Legge la scacchiera con la voce e con la ROTN, senza bisogno di vedere la scacchiera. Scarica Scacchi-it gratis da questa pagina.
+
+## Scacchi vedenti e non vedenti insieme, alla pari
+
+Se cerchi scacchi vedenti e non vedenti insieme, alla pari, Scacchi-it fa giocare vedenti, non vedenti e ipovedenti insieme, con lo stesso software e la stessa ROTN, a scuola e a casa. Scarica Scacchi-it gratis da questa pagina.
+
+## Scacchi a scuola per inclusione, vedenti e non vedenti insieme
+
+Se cerchi scacchi a scuola per inclusione, vedenti e non vedenti insieme, Scacchi-it si usa in classe e a casa, offline o in rete locale della scuola, con orologio, PGN e CoachGame. Scarica Scacchi-it gratis da questa pagina.
