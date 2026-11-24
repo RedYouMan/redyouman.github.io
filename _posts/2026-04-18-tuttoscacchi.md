@@ -49,6 +49,8 @@ Scacchi-it versione 15.0, ecosistema tiflologico inclusivo, italiano con la ROTN
 
 [Manuale Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/tutorials/scacchiGr.txt)
 
+## Scacchi-it Le metriche HIC (Human Interaction Cognition) le trovi quial link
+
 [Le metriche HIC](https://redyouman.github.io/blog/2026/11/19/metriche-scacchi.html)
 
 > Scacchi-it: software gratuito per scacchi a scuola, per l'inclusione scolastica di vedenti e non vedenti insieme, in classe e a casa.
