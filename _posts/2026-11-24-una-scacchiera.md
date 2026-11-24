@@ -1,7 +1,7 @@
 ---
 Title: "Una scacchiera per tutti"
 Description: "Poesia di Rosario Turco"
-categories: "blog"
+categories: blog
 ---
 
 # Una scacchiera per tutti
