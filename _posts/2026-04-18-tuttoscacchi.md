@@ -83,7 +83,7 @@ Consigliabile come affiancamento a scacchiere tattili per una didattica completa
 ## Cosa puoi fare con Scacchi-it
 
 Con Scacchi-it potrai giocare offline/online multiplayer Hamachi con le room, anche contro Stockfish offline con 21 livelli di difficoltà, imparare aperture con un Openings Trainer che usa standard PGN, ottenere suggerimenti dal coachFEN o dal coachGame integrati.
-Potrai usare un orologio scacchistico per allenarti a partite lampo e ai tornei.
+Potrai usare un orologio scacchistico per allenarti a partite lampo e per abituarti ai tornei.
 Potrai registrare la partita su file con notazione algebrica e creare i tuoi file PGN.
 Potrai creare qualsiasi posizione con la ROTN versione 1.9 (Readable Ordered Text Notation) anche con il simpleEditor che ti aiuta a popolare il tuo Database di posizioni oppure incollare a Scacchi-it una FEN disponibile o una ROTN con incolla-ROTN.
 ROTN + simpleEditor = file ROTN creati sempre corretti.
@@ -359,29 +359,29 @@ Scacchi-it è conforme by design a European Accessibility Act (EAA 2019/882) e D
 
 Locale 100% offline. Comunicazione non locale opzionale tra sedi diverse (es. Napoli - Roma) tramite VPN privata dell'utente (es. Hamachi, Radmin VPN) come cavo virtuale diretto tra PC. Scacchi-it non usa server centrali e non raccoglie dati.
 
-## Scacchi-it per torneo scolastico interno non ufficiale
+## Scacchi-it per partite scolastiche interne non ufficiali
 
-Scacchi-it si usa per torneo scolastico interno non ufficiale, a scuola e in classe, offline o in rete locale della scuola, con orologio, registrazione della partita in PGN e analisi con CoachGame.
+Scacchi-it si usa per partite scolastiche interne non ufficiali, a scuola e in classe, offline o in rete locale della scuola, con orologio, registrazione della partita in PGN e analisi con CoachGame.
 
-## Scacchi-it per torneo amatoriale
+## Scacchi-it per partite amatoriali
 
-Scacchi-it si usa per torneo amatoriale, a scuola, nei circoli e a casa, offline o in rete, senza account e senza server centrali.
+Scacchi-it si usa per partite amatoriali, a scuola, nei circoli e a casa, offline o in rete, senza account e senza server centrali.
 
 ## Scacchi-it per circoli scacchistici
 
-I circoli scacchistici possono usare Scacchi-it per allenamenti, lezioni, tornei amatoriali e partite online tra soci. Dal log del server online si ottengono tutte le mosse e l'esito di ogni partita.
+I circoli scacchistici possono usare Scacchi-it per allenamenti, lezioni, partite amatoriali offline o online tra soci. Dal log del server online si ottengono tutte le mosse e l'esito di ogni partita.
 
 ## Scacchi-it in rete locale della scuola
 
-A scuola Scacchi-it funziona in rete locale della scuola, senza internet. In rete locale si possono fare tornei scolastici interni non ufficiali e tornei amatoriali, con orologio condiviso e file partita sempre locali.
+A scuola Scacchi-it funziona in rete locale della scuola, senza internet. In rete locale si possono fare partite scolastiche interne amatoriali e non ufficiali , con orologio condiviso e file partita sempre locali.
 
-## Scacchi-it in VPN Hamachi per torneo
+## Scacchi-it in VPN Hamachi per partite
 
-Tra sedi diverse, per esempio Napoli Roma, Scacchi-it si gioca in VPN privata dell'utente come Hamachi o Radmin VPN, come cavo virtuale diretto tra PC. In VPN Hamachi si possono fare tornei scolastici interni non ufficiali e tornei amatoriali, senza account e senza server centrali.
+Tra sedi diverse, per esempio Napoli Roma, Scacchi-it si gioca in VPN privata dell'utente come Hamachi o Radmin VPN, come cavo virtuale diretto tra PC. In VPN Hamachi si possono fare partite scolastiche interne non ufficiali e partite amatoriali, senza account e senza server centrali.
 
 ## Scacchi-it per inclusione a scuola
 
-Scacchi-it è per inclusione a scuola: vedenti, non vedenti e ipovedenti giocano insieme, in classe e a casa, con lo stesso software e la stessa ROTN. L'inclusione a scuola non è un torneo separato, è giocare alla pari.
+Scacchi-it è per inclusione a scuola: vedenti, non vedenti e ipovedenti giocano insieme, in classe e a casa, con lo stesso software e la stessa ROTN. L'inclusione a scuola è giocare alla pari e non separati dai normodotati.
 
 ## Scacchi-it, EAA, European Accessibility Act e Decreto 82/2022
 
@@ -395,9 +395,9 @@ Le metriche HIC per la didattica misurano come pensa l'allievo a scuola, non sol
 
 Scacchi-it è per inclusione di non vedenti, ipovedenti e vedenti insieme, a scuola e a casa, offline o in rete, con NVDA, JAWS e display Braille.
 
-## Scacchi-it torneo scolastico interno non ufficiale in rete locale
+## Scacchi-it partite scolastiche interne non ufficiali in rete locale
 
-Scacchi-it permette il torneo scolastico interno non ufficiale in rete locale della scuola, senza internet, con orologio, PGN e CoachGame.
+Scacchi-it permette partite scolastiche interne non ufficiali in rete locale della scuola, senza internet, con orologio, PGN e CoachGame.
 
 ## Gioco scacchi per ciechi gratis da scaricare per Windows
 
