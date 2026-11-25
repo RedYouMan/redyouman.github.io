@@ -51,8 +51,35 @@ Se cerchi Scacchi-it download gratis Windows, Scacchi-it si scarica da qui per W
 
 [Manuale Scacchi-it](https://github.com/RedYouMan/redyouman.github.io/raw/main/_posts/tutorials/scacchiGr.txt)
 
-## Scacchi-it Le metriche HIC (Human Interaction Cognition) le trovi quial link
+## Scacchi-it: saggi multidisciplinari
 
+Ecosistema tiflologico Scacchi-it e ROTN: carico cognitivo, UD e UDL
+[Carico cognitivo](https://redyouman.github.io/blog/2026/09/30/analisi-didattica.html)
+Quali sono i progressi che si possono fare con Scacchi-it? Non è un'app di primo livello da abbandonare. È un ecosistema che scala fino a Maestro
+[Progressi che puoi fare con Scacchi-it](https://redyouman.github.io/blog/2026/10/04/neuroscienze.html)
+Metodologie e strumenti, oltre la scacchiera tattile con Scacchi-it
+[Metodologie oltre la scacchiera](https://redyouman.github.io/blog/2026/10/12/testxnv.html)
+Oltre la vittoria: 4 metriche per misurare il progresso reale di un non vedente
+[Oltre la vittoria: alcune iniziali metriche](https://redyouman.github.io/blog/2026/10/15/metriche.html)
+Kant gioca accanto al non vedente: l'epistemologia di Scacchi-it
+[Kant gioca accanto al non vedente](https://redyouman.github.io/blog/2026/10/19/epistemologia.html)
+Il Re non ha paura del buio: psicologia del non vedente che gioca
+[Il re non ha paura del buio](https://redyouman.github.io/blog/2026/10/21/psicologia1.html)
+Scacchi-it + Scacchi-it-Net: i punti di forza pedagogici e di gioco online
+[I punti di forza pedagogici](https://redyouman.github.io/blog/2026/10/22/plugin.html)
+Tilt, Bluff e Oblio: cosa misurare
+[Tilt, bluff e oblio](https://redyouman.github.io/blog/2026/10/24/psicologia2.html)
+Scacchi-it come protesi psicologica: non insegna scacchi, insegna a pensare
+[Scacchi-it insegna a pensare](https://redyouman.github.io/blog/2026/10/27/psicologia3.html)
+Dal gruppo alla comunità: sociologia della Nuova Visione
+[Dal gruppo alla comunità](https://redyouman.github.io/blog/2026/10/30/psicologia4.html)
+La bellezza di una ROTN ben scritta: estetica ed etica della Nuova Visione
+[La bellezza della ROTN](https://redyouman.github.io/blog/2026/11/03/psicologia5.html)
+Il collante della rivoluzione degli invisibili
+[Il collante](https://redyouman.github.io/blog/2026/11/07/collante.html)
+Sun Tzu, PNL e SCACCHI per vedenti e non vedenti
+[Sun Tzu, PNL e scacchi per vedenti e non vedenti](https://redyouman.github.io/blog/2026/11/08/sun-tzu.html)
+La Human Interaction Cognition di Scacchi-it con 20 Metriche
 [Le metriche HIC](https://redyouman.github.io/blog/2026/11/19/metriche-scacchi.html)
 
 > Scacchi-it: software gratuito per scacchi a scuola, per l'inclusione scolastica di vedenti e non vedenti insieme, in classe e a casa.
