@@ -24,10 +24,6 @@ DOI SCACCHI: https://doi.org/10.5281/zenodo.22737784
 
 Questa pagina è dedicata a tutti gli appassionati di scacchi. Nel seguito troverete le versioni stabili di Scacchi-it e delle utility correlate, oltre ad articoli di interesse.
 
-[Presentazione gruppo NV&V](https://redyouman.github.io/2025/07/26/giochi-gratuiti.html)
-
-[Libri di Rosario Turco](https://redyouman.github.io/blog/2026/09/22/libri.html)
-
 ## "Scacchi-it"
 
 Scacchi-it è open source e open data.
@@ -162,6 +158,8 @@ Novità: Come configurare il client di posta in modo semplificato con Mozilla Th
 
 ## Altri Articoli
 
+[Presentazione gruppo NV&V](https://redyouman.github.io/2025/07/26/giochi-gratuiti.html)
+[Libri di Rosario Turco](https://redyouman.github.io/blog/2026/09/22/libri.html)
 [Cosa è un chess engine](https://redyouman.github.io/blog/2026/05/12/chessengine.html)
 [Cosa è Scacchi-it](https://redyouman.github.io/blog/2026/05/12/motoregrafico.html)
 [Dare voce alla FEN con ROTN](https://redyouman.github.io/blog/2026/07/18/estensioni-browser.html)
