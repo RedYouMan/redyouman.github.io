@@ -39,7 +39,7 @@ Potrai esaminare come realizzare la ROTN versione 1.9 (Readable Ordered Text Not
 
 [Audio presentazione Scacchi-it](/audio/audio_scacchi.mp3)
 
-## Scacchi-it ecosistema per vedenti e non vedenti
+## Scacchi-it ecosistema per vedenti e non vedenti versione 15.0
 
 Scacchi-it versione 15.0, ecosistema tiflologico inclusivo, italiano con la ROTN, per Windows 10 o 11, gratis, portable, compatibile con screen reader NVDA, JAWS e display Braille.
 
