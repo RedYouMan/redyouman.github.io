@@ -78,6 +78,11 @@ Sun Tzu, PNL e SCACCHI per vedenti e non vedenti
 La Human Interaction Cognition di Scacchi-it con 20 Metriche
 [Le metriche HIC](https://redyouman.github.io/blog/2026/11/19/metriche-scacchi.html)
 
+## Scacchi-it: le poesie
+
+[I versi di Scacchi-it](https://redyouman.github.io/blog/2026/10/13/poesia.html)
+[Una scacchiera per tutti](https://redyouman.github.io/blog/2026/11/24/una-scacchiera.html)
+
 > Scacchi-it: software gratuito per scacchi a scuola, per l'inclusione scolastica di vedenti e non vedenti insieme, in classe e a casa.
 
 > Scacchi-it è il programma gratuito per imparare gli scacchi a casa per vedenti, non vedenti, ciechi e ipovedenti. Didattica scacchi a casa, da soli o in rete: impari, ti alleni e giochi in autonomia con screen reader NVDA, JAWS e display Braille, senza bisogno di vedere la scacchiera.
