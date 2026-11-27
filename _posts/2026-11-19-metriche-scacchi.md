@@ -13,7 +13,9 @@ _Autore:_ Rosario Turco, ingegnere e ricercatore indipendente,
 
 Le metriche sono frutto di idee maturate negli approfondimenti fatti con gli articoli presenti sul mio blog da Settembre a Novembre 2026.
 
-Le metriche HIC permettono di dare una valutazione dei progressi nel tempo di un giocatore o di un allievo e tornano come utile strumento nella scuola per la didattica misurabile per vedenti e non vedenti.
+Le metriche HIC permettono di dare una valutazione dei progressi nel tempo di un giocatore o di un allievo e tornano come utile strumento per una didattica misurabile nella scuola e nei corsi, per vedenti e non vedenti.
+Esse, a differenza delle statistiche scacchistiche tradizionali (come precisione o errori gravi), valutano, difatti, i processi cognitivi dell'allievo durante la partita. Misurano il tempo di riflessione, il carico cognitivo, il riconoscimento dei pattern spaziali e l’evoluzione delle capacità di ragionamento nel tempo.
+Le metriche possono essere utilizzate dagli stessi giocatori o allievi per auto-misurarsi nel tempo e notare il proprio affinamento di pensiero.
 
 Le famiglie di metriche che qui analizziamo sono sei:
 
